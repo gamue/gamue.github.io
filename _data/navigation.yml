@@ -1,0 +1,9 @@
+main:
+  - title: "Blog"
+    url: /about/
+
+  - title: "Photos"
+    url: /about/
+
+  - title: "About"
+    url: /about/

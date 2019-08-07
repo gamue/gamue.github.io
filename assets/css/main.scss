@@ -1,0 +1,32 @@
+---
+---
+@charset "utf-8";
+
+$link-color: #660000;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+body.layout--home div.page__hero--overlay{
+    padding: 6em 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+/**
+p.archive__item-excerpt, .page__footer-follow li{
+    font-size: $type-size-7;
+}
+
+section.page__content p, .pagination--pager{
+    font-size: $type-size-6;
+}
+
+.page__meta, .page__footer-copyright{
+    font-size: $type-size-8;
+}
+
+**/
