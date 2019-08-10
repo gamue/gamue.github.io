@@ -31,3 +31,14 @@ div.archive__item-teaser-wrapper img{
     width: 100%;
     height: 100%;
 }
+
+figure.image-gallery a{
+    height: 150px;
+    width: 150px;
+    margin: 0.5em;
+}
+figure.image-gallery a img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

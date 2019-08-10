@@ -1,0 +1,13 @@
+
+<figure class="third image-gallery">
+    {% for file in site.static_files %}
+    {% if file.path contains include.folder %}
+
+    <a href="{{ file.path }}">
+        <img src="{{ file.path }}" alt="">
+    </a>
+
+    {% endif %}
+    {% endfor %}
+</figure>
+
