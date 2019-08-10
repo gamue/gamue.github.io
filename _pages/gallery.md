@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Photos
-permalink: /gallery/
+permalink: /photography/
 ---
 
 <ul>

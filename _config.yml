@@ -65,6 +65,8 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
+      header:
+        show_overlay_excerpt: false
 
   # _pages
   - scope:
