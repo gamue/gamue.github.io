@@ -39,6 +39,10 @@ footer:
 
 include:
   - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
