@@ -16,17 +16,18 @@ a{
     text-decoration: none;
 }
 
-/**
-p.archive__item-excerpt, .page__footer-follow li{
-    font-size: $type-size-7;
+div.archive__item-content-container{
+    display: table;
 }
 
-section.page__content p, .pagination--pager{
-    font-size: $type-size-6;
+div.archive__item-teaser-wrapper{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 1em;
 }
-
-.page__meta, .page__footer-copyright{
-    font-size: $type-size-8;
+div.archive__item-teaser-wrapper img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
 }
-
-**/
