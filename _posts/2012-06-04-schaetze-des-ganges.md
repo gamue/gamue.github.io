@@ -5,6 +5,23 @@ permalink: /schaetze-des-ganges/
 header:
     teaser: assets/photography/2011_10_indien/dsc_9110.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_9110.jpg
+gallery:
+  - url: assets/photography/2011_10_indien/dsc_8924.jpg
+    image_path: assets/photography/2011_10_indien/dsc_8924.jpg
+  - url: assets/photography/2011_10_indien/dsc_9166.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9166.jpg
+  - url: assets/photography/2011_10_indien/dsc_9169.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9169.jpg
+  - url: assets/photography/2011_10_indien/dsc_9137.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9137.jpg
+  - url: assets/photography/2011_10_indien/dsc_9144.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9144.jpg
+  - url: assets/photography/2011_10_indien/dsc_9153.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9153.jpg
+  - url: assets/photography/2011_10_indien/dsc_9164.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9164.jpg
+  - url: assets/photography/2011_10_indien/dsc_9164.jpg
+    image_path: assets/photography/2011_10_indien/dsc_9164.jpg
 categories:
   - Unterwegs
 tags:
@@ -37,25 +54,21 @@ Und so sind eigentlich alle im Ganges von menschlichen Überresten umgeben. Scho
 Noch kranker ist es mit anzuschauen, wie sich Hunde um angeschwemmte Leichenteile zanken.
 
 Gilt ein Mensch nämlich bei seinem Tod schon als rein, zum Beispiel ein Kind, eine Schwangere wegen dem Kind, 
-ein Priester oder jemand der von der Schlange gebissen wurde (da Shiva eine Schlange hat), so muss er nicht durch die Flammen von seinen Sünden befreit werden. Die Leiche bekommt dann einfach einen Stein umgebunden und darf mit den Fischen spielen. Während Teppiche in Indien meist ordentlich geknüpft werden, hapert es bei den Knoten ab und zu, so dass der Ganges seine „Schätze“ auch mal wieder freigibt.
+ein Priester oder jemand der von der Schlange gebissen wurde (da Shiva eine Schlange hat), so muss er nicht durch die 
+Flammen von seinen Sünden befreit werden. Die Leiche bekommt dann einfach einen Stein umgebunden und darf mit den Fischen spielen. 
+Während Teppiche in Indien meist ordentlich geknüpft werden, hapert es bei den Knoten ab und zu, so dass der Ganges seine „Schätze“ auch mal wieder freigibt.
 
 Nach einer Weile Bootsfahrt hab ich mich zusammen mit Wesley und Tim an einem der vielen Ghats (Ufertreppen) absetzen lassen, 
-weil wir nicht weiterfahren wollten. Es war nämlich nur die erste Stunde gratis ^^ Durch die Menschenmassen wieder zurück zum Hostel zu gelangen war gegen 6.30Uhr schwieriger wie zur Mittagszeit. Überall Schaulustige, Bettler und Sadhus und mal wieder eine neue Sorte von trickreichen Abzockern. Falls dir jemand in Varanasi die Hand zur Begrüßung hinstreckt, nimm sie nicht an, tu es nicht, nein lass es.
+weil wir nicht weiterfahren wollten. Es war nämlich nur die erste Stunde gratis ^^ Durch die Menschenmassen wieder zurück 
+zum Hostel zu gelangen war gegen 6.30Uhr schwieriger wie zur Mittagszeit. Überall Schaulustige, 
+Bettler und Sadhus und mal wieder eine neue Sorte von trickreichen Abzockern. 
+Falls dir jemand in Varanasi die Hand zur Begrüßung hinstreckt, nimm sie nicht an, tu es nicht, nein lass es.
 
 Einen Moment hatte ich nicht aufgepasst, schon war sie auch schon rumgedreht und der Heini hat angefangen an der Hand und am Arm rumzudrücken, 
 mit der felsenfesten Behauptung er mache eine Ayurveda-Handmassage, aus reiner Selbstlosigkeit und ganz umsonst natürlich. 
 Die haben sich durch nichts davon abbringen lassen, weiter rumzudrücken. Ohne Sonnenbrand am Oberarm wäre es eventuell auch angenehm gewesen.
- Mag es durch den Neppertrieb oder Vergesslichkeit kommen, so wird nach einer Weile aus „no money, free“, „give me money, a little bit“. 
- Mein Geldbeutel blieb aber verschlossen, was zu Unmut bei den Handmasseuren führte, aber lang konnten die sich nicht ärgern, 
- die nächsten Weißhäute waren ja schon in Sicht ^^
+Mag es durch den Neppertrieb oder Vergesslichkeit kommen, so wird nach einer Weile aus „no money, free“, „give me money, a little bit“. 
+Mein Geldbeutel blieb aber verschlossen, was zu Unmut bei den Handmasseuren führte, aber lang konnten die sich nicht ärgern, 
+die nächsten Weißhäute waren ja schon in Sicht ^^
 
-<figure class="half"> 
-    <a href="/assets/photography/2011_10_indien/dsc_8924.jpg"><img src="/assets/photography/2011_10_indien/dsc_8924.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9166.jpg"><img src="/assets/photography/2011_10_indien/dsc_9166.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9169.jpg"><img src="/assets/photography/2011_10_indien/dsc_9169.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9137.jpg"><img src="/assets/photography/2011_10_indien/dsc_9137.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9144.jpg"><img src="/assets/photography/2011_10_indien/dsc_9144.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9153.jpg"><img src="/assets/photography/2011_10_indien/dsc_9153.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9164.jpg"><img src="/assets/photography/2011_10_indien/dsc_9164.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9110.jpg"><img src="/assets/photography/2011_10_indien/dsc_9110.jpg"></a>  
-</figure>
+{% include gallery layout="half" %}
