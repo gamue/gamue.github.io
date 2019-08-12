@@ -2,6 +2,47 @@
 layout: single
 title: About
 permalink: /about/
+visitedCountries:
+    - name: Ägypten
+    - name: Belize
+    - name: Belgien
+    - name: Dänemark
+    - name: Deutschland
+    - name: England
+    - name: Finnland
+    - name: Frankreich
+    - name: Georgien
+    - name: Griechenland
+    - name: Holland
+    - name: Indien
+    - name: Irland
+    - name: Island
+    - name: Israel
+    - name: Italien
+    - name: Japan
+    - name: Jordanien
+    - name: Kosovo
+    - name: Laos
+    - name: Lettland
+    - name: Luxemburg
+    - name: Marokko
+    - name: Mazedonien
+    - name: Nepal
+    - name: Norwegen
+    - name: Polen
+    - name: Rumänien
+    - name: Schottland
+    - name: Schweden
+    - name: Schweiz
+    - name: Serbien
+    - name: Spanien
+    - name: Sri Lanka 
+    - name: Thailand
+    - name: Türkei
+    - name: Vatikan
+    - name: Vereinigte Arabische Emirate
+    - name: Vietnam
+    - name: Zypern 
 ---
 
 Hey,
@@ -27,43 +68,9 @@ Das nächste Abenteuer ruft schon!
 Johannes
 
 
-
-# Länder die ich schon bereist habe
-
-* [Ägypten](http://gamue.de/tag/aegypten/)
-* Belize
-* [Belgien](http://gamue.de/tag/belgien/)
-* [Dänemark](http://gamue.de/tag/daenemark/)
-* [Deutschland](http://gamue.de/tag/deutschland/)
-* England 
-* Frankreich 
-* Griechenland
-* [Holland](http://gamue.de/tag/holland/) 
-* [Indien](http://gamue.de/tag/indien/)
-* [Irland](http://gamue.de/photography/travel/irland-2009/ "Irland 2009") 
-* [Island](http://gamue.de/tag/island/)
-* [Israel](http://gamue.de/photography/travel/israel-2009/ "Israel 2009")
-* Italien 
-* Japan
-* Jordanien
-* [Kosovo](http://gamue.de/tag/kosovo/)
-* [Laos](http://gamue.de/photography/travel/laos-2014/) 
-* Lettland 
-* [Luxemburg](http://gamue.de/tag/luxemburg/)
-* [Marokko](http://gamue.de/tag/marokko/) 
-* [Mazedonien](http://gamue.de/tag/mazedonien/)
-* [Nepal](http://gamue.de/tag/nepal/) 
-* [Norwegen](http://gamue.de/tag/norwegen/) 
-* Polen
-* [Rumänien](http://gamue.de/tag/rumaenien/) 
-* [Schottland](http://gamue.de/tag/schottland/)
-* [Schweden](http://gamue.de/tag/schweden/) 
-* [Schweiz](http://gamue.de/tag/schweiz/) 
-* [Serbien](http://gamue.de/tag/serbien/)
-* [Spanien](http://gamue.de/tag/spanien/) 
-* Sri Lanka 
-* [Thailand](http://gamue.de/photography/travel/thailand-2014/) 
-* [Türkei](http://gamue.de/tag/tuerkei/)
-* Vatikan
-* [Vereinigte Arabische Emirate](http://gamue.de/photography/travel/abu-dhabi-2014/)
-* [Zypern](http://gamue.de/photography/travel/zypern-2015/)
+### Folgende {{ page.visitedCountries.size }} Länder habe ich schon bereist:
+<ul>
+{% for country in page.visitedCountries %}
+    <li>{{ country.name }}</li>
+{% endfor %}
+</ul>

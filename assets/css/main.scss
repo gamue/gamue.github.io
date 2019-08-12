@@ -42,3 +42,70 @@ figure.image-gallery a img{
     width: 100%;
     height: 100%;
 }
+
+.galleryPage .page{
+    width: 100%;
+    padding-right: 0;
+}
+
+.galleryPreview{
+    display: flex;
+
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+.galleryPreview article{
+    width: 300px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    float: left;
+    position: relative;
+}
+.galleryPreview .meta{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+}
+.galleryPreview .meta h2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: calc(100% - 2rem);
+    transform: translate(-50%,-50%);
+    padding: 0;
+    margin: 0;
+    border-bottom: none;
+    z-index: 7;
+    color: white;
+    text-shadow: 1px 1px 0 #494e52
+}
+.gallery .image{
+    width: 300px;
+    height: 300px;
+    background-position: center center;
+    background-color: #898c8f;
+}
+.gallery .shadow{
+    display: block;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 75px;
+    transform: translateY(-50%);
+    overflow: hidden;
+    border-top: 1px solid #f2f3f3;
+    border-bottom: 1px solid #f2f3f3;
+}
+.gallery .shadow-image{
+    position: absolute;
+    top: -1rem;
+    bottom: -1rem;
+    left: 0;
+    right: 0;
+    z-index: 6;
+    background-position: center center;
+    filter: blur(3px);
+}
