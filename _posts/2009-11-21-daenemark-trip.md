@@ -5,6 +5,11 @@ permalink: /daenemark-trip/
 header:
     teaser: assets/photography/0000_misc/copenhagen_1.jpg
     overlay_image: assets/photography/0000_misc/copenhagen_1.jpg
+gallery:
+  - url: /assets/photography/0000_misc/copenhagen_1.jpg
+    image_path: /assets/photography/0000_misc/copenhagen_1.jpg
+  - url: /assets/photography/0000_misc/copenhagen_2.jpg
+    image_path: /assets/photography/0000_misc/copenhagen_2.jpg
 categories:
   - Unterwegs
 tags:
@@ -58,7 +63,4 @@ Der Rückflug am nächsten Tag verlief problemlos.
 Von Zürich aus ging es zum Autohändler Winterreifen drauf ziehen um am nächsten Tag in die Schweiz zu fahren um meinen Bruder zu besuchen, 
 aber das ein andermal…
 
-<figure class="half">
-	<a href="/assets/photography/0000_misc/copenhagen_1.jpg"><img src="/assets/photography/0000_misc/copenhagen_1.jpg"></a>
-	<a href="/assets/photography/0000_misc/copenhagen_2.jpg"><img src="/assets/photography/0000_misc/copenhagen_2.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

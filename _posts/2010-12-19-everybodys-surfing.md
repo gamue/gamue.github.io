@@ -5,6 +5,13 @@ permalink: /everybodys-surfing/
 header:
     teaser: /assets/photography/2010_09_benelux/dsc_3940.jpg
     overlay_image: /assets/photography/2010_09_benelux/dsc_3940.jpg
+gallery:
+  - url: /assets/photography/2010_09_benelux/dsc_3919_3921.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3919_3921.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3940.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3940.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3960.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3960.jpg
 categories:
   - Unterwegs
 tags:
@@ -57,8 +64,4 @@ Was aber nicht heißt, dass die Gestalten in den dunklen Gassen es nicht sehr of
 Amsterdam war auch meine letzte Station bevor es wieder über die deutsche Grenze in Richtung Bremen und direkt in 
 einen kleinen Stau ging…typisch deutsche Autobahnen.
 
-<figure class="third">
-    <a href="/assets/photography/2010_09_benelux/dsc_3919_3921.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3919_3921.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3940.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3940.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3960.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3960.jpg"></a>
-</figure>
+{% include gallery %}

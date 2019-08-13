@@ -5,6 +5,19 @@ permalink: /in-hamburg-sagt-man-jaja/
 header:
     teaser: /assets/photography/2010_09_benelux/dsc_4585.jpg
     overlay_image: /assets/photography/2010_09_benelux/dsc_4585.jpg
+gallery:
+  - url: /assets/photography/2010_09_benelux/dsc_4193.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_4193.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_4200_4208.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_4200_4208.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_4240.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_4240.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_4331.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_4331.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_4548.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_4548.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_4585.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_4585.jpg
 categories:
   - Unterwegs
 tags:
@@ -71,11 +84,4 @@ Gegen 6 Uhr ging es dann wieder Richtung Marias Wohnung. Gegen 8h hat Sie sich d
 weil Sie jemanden abholen musste..Immer dieses morgens aus Wohnungen schleichen 😛 Irgendwann als ich dann wieder fit war, 
 ging’s ab ins Auto und auf die letzten rund 660km des insgesamt ca. 2500km langen Roadtrips.
 
-<figure class="third">
-    <a href="/assets/photography/2010_09_benelux/dsc_4193.jpg"><img src="/assets/photography/2010_09_benelux/dsc_4193.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_4200_4208.jpg"><img src="/assets/photography/2010_09_benelux/dsc_4200_4208.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_4240.jpg"><img src="/assets/photography/2010_09_benelux/dsc_4240.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_4331.jpg"><img src="/assets/photography/2010_09_benelux/dsc_4331.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_4548.jpg"><img src="/assets/photography/2010_09_benelux/dsc_4548.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_4585.jpg"><img src="/assets/photography/2010_09_benelux/dsc_4585.jpg"></a>
-</figure>
+{% include gallery %}

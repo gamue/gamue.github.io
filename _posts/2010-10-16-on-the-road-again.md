@@ -5,6 +5,17 @@ permalink: /on-the-road-again/
 header:
     teaser: assets/photography/2010_09_benelux/dsc_2850.jpg
     overlay_image: assets/photography/2010_09_benelux/dsc_2850.jpg
+gallery:
+  - url: /assets/photography/2010_09_benelux/dsc_2748_hdr.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2748_hdr.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2822.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2822.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2850.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2850.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2859.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2859.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2796.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2796.jpg
 categories:
   - Unterwegs
 tags:
@@ -48,10 +59,4 @@ ich frag mich was komischer ist, das ich auf Friedhöfen fotografiere oder das d
 
 Damit sind meine ersten beiden Reisen und ~1420km auch schon zusammengefasst, demnächst gibt es dazu auch [Bilder](/photography/) und die Geschichten der anderen Kilometer 😉
 
-<figure class="third">
-    <a href="/assets/photography/2010_09_benelux/dsc_2748_hdr.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2748_hdr.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2822.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2822.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2850.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2850.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2859.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2859.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2796.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2796.jpg"></a>
-</figure>
+{% include gallery %}

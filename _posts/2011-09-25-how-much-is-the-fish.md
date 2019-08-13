@@ -5,6 +5,15 @@ permalink: /how-much-is-the-fish/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_6383.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6383.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_6318.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6318.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6372_6404.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6372_6404.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6383.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6383.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6398.jpg"
+    image_path: /assets/photography/2011_05_marokko/dsc_6398.jpg"
 categories:
   - Unterwegs
 tags:
@@ -49,9 +58,4 @@ oder Internetcafes. Letzteres war auch ziemlich nötig, da meine eigentlich näc
 abgesagt hatte musste ich noch auf die Schnelle etwas anderes auftreiben. 
 Wie es halt mal so ist liegt Pech und Glück recht nahe beieinander, und so hab ich auch etwas aufgetrieben bekommen 🙂
 
-<figure class="half">
-    <a href="/assets/photography/2011_05_marokko/dsc_6318.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6318.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6372_6404.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6372_6404.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6383.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6383.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6398.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6398.jpg"></a> 
-</figure>
+{% include gallery layout="half" %}

@@ -5,6 +5,19 @@ permalink: /jag-aelskar-sverige/
 header:
     teaser: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
     overlay_image: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
+gallery:
+  - url: /assets/photography/2010_10_schweden/dsc_4644_hdr.jpg
+    image_path: /assets/photography/2010_10_schweden/dsc_4644_hdr.jpg
+  - url: /assets/photography/2010_10_schweden/dsc_4770.jpg
+    image_path: /assets/photography/2010_10_schweden/dsc_4770.jpg
+  - url: /assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
+    image_path: /assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
+  - url: /assets/photography/2010_10_schweden/dsc_4896.jpg
+    image_path: /assets/photography/2010_10_schweden/dsc_4896.jpg
+  - url: /assets/photography/2010_10_schweden/dsc_4987.jpg
+    image_path: /assets/photography/2010_10_schweden/dsc_4987.jpg
+  - url: /assets/photography/2010_10_schweden/dsc_4996.jpg
+    image_path: /assets/photography/2010_10_schweden/dsc_4996.jpg
 categories:
   - Unterwegs
 tags:
@@ -85,11 +98,4 @@ Da mein Flug wieder recht früh von Stavska abging, musste ich noch früher aufs
 Da natürlich kein Kiosk aufhatte um mir ein Ticket zu holen hab ich den Busfahrer bequatscht, wodurch ich dann einfach so mitfahren durfte…
 selbst Schuld wenn die so eine Quatschregelung haben.
 
-<figure class="third">
-    <a href="/assets/photography/2010_10_schweden/dsc_4644_hdr.jpg"><img src="/assets/photography/2010_10_schweden/dsc_4644_hdr.jpg"></a>
-    <a href="/assets/photography/2010_10_schweden/dsc_4770.jpg"><img src="/assets/photography/2010_10_schweden/dsc_4770.jpg"></a>
-    <a href="/assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg"><img src="/assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg"></a>
-    <a href="/assets/photography/2010_10_schweden/dsc_4896.jpg"><img src="/assets/photography/2010_10_schweden/dsc_4896.jpg"></a>
-    <a href="/assets/photography/2010_10_schweden/dsc_4987.jpg"><img src="/assets/photography/2010_10_schweden/dsc_4987.jpg"></a>
-    <a href="/assets/photography/2010_10_schweden/dsc_4996.jpg"><img src="/assets/photography/2010_10_schweden/dsc_4996.jpg"></a>
-</figure>
+{% include gallery %}

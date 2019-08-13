@@ -5,6 +5,17 @@ permalink: /kurze-auszeit-vom-trubel/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8686.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8686.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dscn0071.jpg
+    image_path: /assets/photography/2011_10_indien/dscn0071.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8601.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8601.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8593.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8593.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8626.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8626.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8686.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8686.jpg
 categories:
   - Unterwegs
 tags:
@@ -50,10 +61,4 @@ Normalerweise gibt es bei den Zügen unterschiedliche Klassen, die für gewöhnl
 für die etwas Reicheren oder eben die Touristen. Dieser Zug hatte keine verschiedenen Klassen, 
 heißt eine Klasse und ein Preis für alle: Umgerechnet 45 Cent für knapp 4,5h Zugfahrt.
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dscn0071.jpg"><img src="/assets/photography/2011_10_indien/dscn0071.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8601.jpg"><img src="/assets/photography/2011_10_indien/dsc_8601.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8593.jpg"><img src="/assets/photography/2011_10_indien/dsc_8593.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8626.jpg"><img src="/assets/photography/2011_10_indien/dsc_8626.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8686.jpg"><img src="/assets/photography/2011_10_indien/dsc_8686.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

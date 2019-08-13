@@ -5,6 +5,15 @@ permalink: /drehraeder-sind-zum-drehen-da/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8900.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8900.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8927.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8927.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8889.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8889.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8900.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8900.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8894.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8894.jpg
 categories:
   - Unterwegs
 tags:
@@ -37,10 +46,4 @@ Kaum im Zimmer kam mir aber schon eine Wasserdampfwolke entgegen, hatte wohl sei
 Immerhin war der Fußboden im Bad jetzt mal nass „raugeputzt“ und die hohe Luftfeuchtigkeit bot auch mal eine ganz 
 angenehme Abwechslung zur sonst stehenden Hitze.
 
-<figure class="half"> 
-    <a href="/assets/photography/2011_10_indien/dsc_8927.jpg"><img src="/assets/photography/2011_10_indien/dsc_8927.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8889.jpg"><img src="/assets/photography/2011_10_indien/dsc_8889.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8900.jpg"><img src="/assets/photography/2011_10_indien/dsc_8900.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8894.jpg"><img src="/assets/photography/2011_10_indien/dsc_8894.jpg"></a>
-</figure>
-
+{% include gallery layout="half" %}

@@ -5,6 +5,11 @@ permalink: /vor-und-nachteile-ein-tourist-zu-sein/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8178.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8178.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8193.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8193.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8178.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8178.jpg
 categories:
   - Unterwegs
 tags:
@@ -48,7 +53,4 @@ Manchmal gab es aber auch Ausnahmen, so hat ein kleines Kind vehement versucht m
 Nach einer Weile begann dann das schluchzen und angedeutete heulen, die komplette Mitleidsschiene. 
 Ich glaub das Grinsen in meinem Gesicht hat ihn dann doch zum Aufgeben bewegt und schwups war er wieder im Normalzustand und am nächsten „weißen Mann“ dran.
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dsc_8193.jpg"><img src="/assets/photography/2011_10_indien/dsc_8193.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8178.jpg"><img src="/assets/photography/2011_10_indien/dsc_8178.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

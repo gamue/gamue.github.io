@@ -5,6 +5,17 @@ permalink: /auf-pilgerreisen/
 header:
     teaser: assets/photography/2011_10_indien/dsc_9062.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_9062.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8945.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8945.jpg
+  - url: /assets/photography/2011_10_indien/dsc_9006.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_9006.jpg
+  - url: /assets/photography/2011_10_indien/dsc_9029-9035.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_9029-9035.jpg
+  - url: /assets/photography/2011_10_indien/dsc_9045-9054.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_9045-9054.jpg
+  - url: /assets/photography/2011_10_indien/dsc_9062.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_9062.jpg
 categories:
   - Unterwegs
 tags:
@@ -47,10 +58,4 @@ hat man lauter menschenbefüllter Boote nicht mehr gesehen. In der Mitte ein hal
 jeder mit seinem eigenen kleinen Schrein vor sich. Wirklich spannend war es nicht: 30 Minuten lang Getrommel, 
 Geklatsche und dazu abwechselnd Weihrauch und Kerzen durch die Luft schwingen. Aber was soll es, so lange es Ganga und Touristen erfreut 😉
 
-<figure class="half"> 
-    <a href="/assets/photography/2011_10_indien/dsc_8945.jpg"><img src="/assets/photography/2011_10_indien/dsc_8945.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9006.jpg"><img src="/assets/photography/2011_10_indien/dsc_9006.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9029-9035.jpg"><img src="/assets/photography/2011_10_indien/dsc_9029-9035.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9045-9054.jpg"><img src="/assets/photography/2011_10_indien/dsc_9045-9054.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_9062.jpg"><img src="/assets/photography/2011_10_indien/dsc_9062.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

@@ -5,6 +5,19 @@ permalink: /youve-got-a-friend/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_5597.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_5597.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_5541.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5541.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5550_5555.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5550_5555.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5556.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5556.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5594.jpg"
+    image_path: /assets/photography/2011_05_marokko/dsc_5594.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_5597.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5597.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5608_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5608_hdr.jpg
 categories:
   - Unterwegs
 tags:
@@ -49,11 +62,4 @@ Erdnussbutter und Fladenbrot in Olivenöl gegessen.
 
 P.S.: Und an alle die sich wundern, ja mir ist bewusst, dass Apfel normalerweise nicht auf meinem Speiseplan steht ^^
 
-<figure class="third">
-    <a href="/assets/photography/2011_05_marokko/dsc_5541.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5541.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5550_5555.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5550_5555.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5556.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5556.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5594.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5594.jpg"></a> 
-    <a href="/assets/photography/2011_05_marokko/dsc_5597.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5597.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5608_hdr.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5608_hdr.jpg"></a>
-</figure>
+{% include gallery %}

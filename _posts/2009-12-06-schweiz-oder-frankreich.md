@@ -5,6 +5,15 @@ permalink: /schweiz-oder-frankreich/
 header:
     teaser: assets/photography/0000_misc/switzerland_1.jpg
     overlay_image: assets/photography/0000_misc/switzerland_1.jpg
+gallery:
+  - url: /assets/photography/0000_misc/switzerland_1.jpg
+    image_path: /assets/photography/0000_misc/switzerland_1.jpg
+  - url: /assets/photography/0000_misc/switzerland_2.jpg
+    image_path: /assets/photography/0000_misc/switzerland_2.jpg
+  - url: /assets/photography/0000_misc/switzerland_3.jpg
+    image_path: /assets/photography/0000_misc/switzerland_3.jpg
+  - url: /assets/photography/0000_misc/switzerland_4.jpg
+    image_path: /assets/photography/0000_misc/switzerland_4.jpg
 categories:
   - Unterwegs
 tags:
@@ -33,9 +42,4 @@ Am nächsten Tag sind wir noch durch die herbstlichen Weinberge in der Nähe gef
 In Vevey (selbst für französische Maßstäbe ein komischer Name), hat irgendein Künstler gemeint er muss eine 
 riesige Gabel in den Genfer See stecken…dass Ihn niemand davon abgehalten hat. Aber vielleicht hat’s ja eine größere Bedeutung 😉
 
-<figure class="third">
-	<a href="/assets/photography/0000_misc/switzerland_1.jpg"><img src="/assets/photography/0000_misc/switzerland_1.jpg"></a>
-	<a href="/assets/photography/0000_misc/switzerland_2.jpg"><img src="/assets/photography/0000_misc/switzerland_2.jpg"></a>
-	<a href="/assets/photography/0000_misc/switzerland_3.jpg"><img src="/assets/photography/0000_misc/switzerland_3.jpg"></a>
-    <a href="/assets/photography/0000_misc/switzerland_4.jpg"><img src="/assets/photography/0000_misc/switzerland_4.jpg"></a>
-</figure>
+{% include gallery %}

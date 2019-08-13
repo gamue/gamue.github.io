@@ -20,8 +20,6 @@ gallery:
     image_path: assets/photography/2011_10_indien/dsc_9153.jpg
   - url: assets/photography/2011_10_indien/dsc_9164.jpg
     image_path: assets/photography/2011_10_indien/dsc_9164.jpg
-  - url: assets/photography/2011_10_indien/dsc_9164.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9164.jpg
 categories:
   - Unterwegs
 tags:

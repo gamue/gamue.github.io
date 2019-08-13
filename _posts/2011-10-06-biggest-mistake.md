@@ -5,6 +5,15 @@ permalink: /biggest-mistake/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_6047.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6047.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_6047.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6047.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6105.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6105.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5541.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5541.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5494.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5494.jpg
 categories:
   - Unterwegs
 tags:
@@ -51,9 +60,4 @@ man sicherlich nicht alles über einen Kamm scheren kann. Ein Japaner, den ich g
 hat es aber teilweise sehr gut gesagt: „Nice landcape, but the people…I really feel offended“. 
 Aber was will man auch von einem Land erwarten in dem Französisch eine Hauptsprache ist? 😛
 
-<figure class="half">
-    <a href="/assets/photography/2011_05_marokko/dsc_6047.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6047.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6105.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6105.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5541.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5541.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5494.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5494.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

@@ -5,6 +5,9 @@ permalink: /zugfahrten-in-indien/
 header:
     teaser: assets/photography/2011_10_indien/dscn0112.jpg
     overlay_image: assets/photography/2011_10_indien/dscn0112.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dscn0112.jpg
+    image_path: /assets/photography/2011_10_indien/dscn0112.jpg
 categories:
   - Unterwegs
 tags:
@@ -45,6 +48,4 @@ Also Leute anquatschen und Personen suchen, die auch an der Station raus müssen
 Man kommt aber in eine kleine Zwickmühle, wenn diese irgendwann meinen der aktuelle Zug würde schleichen und 
 deshalb auf einen anderen Zug aufspringen, angehalten hat wohlgemerkt keiner der Züge gehabt…aber ok wirklich schnell waren die auch nicht 😀
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dscn0112.jpg"><img src="/assets/photography/2011_10_indien/dscn0112.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

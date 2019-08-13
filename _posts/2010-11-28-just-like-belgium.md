@@ -5,6 +5,21 @@ permalink: /just-like-belgium/
 header:
     teaser: assets/photography/2010_09_benelux/dsc_3269.jpg
     overlay_image: assets/photography/2010_09_benelux/dsc_3269.jpg
+gallery:
+  - url: /assets/photography/2010_09_benelux/dsc_2881.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2881.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2960.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2960.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3106.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3106.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2921.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2921.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_2929.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_2929.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3149.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3149.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3269.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3269.jpg
 categories:
   - Unterwegs
 tags:
@@ -71,12 +86,4 @@ dann wieder zurück und das dann ein paar Mal hin und her, war ziemlich amüsant
 To be continued…
 
 
-<figure class="third">
-    <a href="/assets/photography/2010_09_benelux/dsc_2881.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2881.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2960.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2960.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3106.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3106.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2921.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2921.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_2929.jpg"><img src="/assets/photography/2010_09_benelux/dsc_2929.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3149.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3149.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3269.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3269.jpg"></a>
-</figure>
+{% include gallery %}

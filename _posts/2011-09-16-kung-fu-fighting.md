@@ -5,6 +5,17 @@ permalink: /kung-fu-fighting/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_6190.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6190.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_5615.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5615.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6153_6192.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6153_6192.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6181.jpg"
+    image_path: /assets/photography/2011_05_marokko/dsc_6181.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_6190.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6190.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6163.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6163.jpg
 categories:
   - Unterwegs
 tags:
@@ -61,10 +72,4 @@ die man ab und an im Fernsehen sieht. Hellblaue Farbe, stark heruntergekommen, s
 Da es mehrere Gruppen waren habe ich eine ganze Weile mit gemacht, aber als meine Fußsohlen blutig waren hab ich dann doch lieber ausgesetzt, 
 hatte ja noch genug Tage übrig an denen ich die weiterquälen konnte =)
 
-<figure class="third">
-    <a href="/assets/photography/2011_05_marokko/dsc_5615.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5615.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6153_6192.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6153_6192.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6181.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6181.jpg"></a> 
-    <a href="/assets/photography/2011_05_marokko/dsc_6190.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6190.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6163.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6163.jpg"></a>
-</figure>
+{% include gallery %}

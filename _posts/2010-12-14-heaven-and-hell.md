@@ -5,6 +5,19 @@ permalink: /heaven-and-hell/
 header:
     teaser: /assets/photography/2010_09_benelux/dsc_3870_hdr_0.jpg
     overlay_image: /assets/photography/2010_09_benelux/dsc_3870_hdr_0.jpg
+gallery:
+  - url: /assets/photography/2010_09_benelux/dsc_3496.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3496.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3552.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3552.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3738.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3738.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3752.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3752.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3868_hdr_0.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3868_hdr_0.jpg
+  - url: /assets/photography/2010_09_benelux/dsc_3870_hdr_0.jpg
+    image_path: /assets/photography/2010_09_benelux/dsc_3870_hdr_0.jpg
 categories:
   - Unterwegs
 tags:
@@ -65,11 +78,4 @@ Nach den ganzen Strapazen des Tages hat ich dann endlich Ruhe und konnte mir die
 Da ist mir klar geworden: Ich mag eigentlich keine Städte, die damit verbundene Hektik und den Lärm. 
 Ich mag die Natur, das Zwitschern der Vögel, den Wind in den Haaren und die Ruhe…das ist Entspannung.
 
-<figure class="third">
-    <a href="/assets/photography/2010_09_benelux/dsc_3496.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3496.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3552.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3552.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3738.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3738.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3752.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3752.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3868_hdr_0.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3868_hdr_0.jpg"></a>
-    <a href="/assets/photography/2010_09_benelux/dsc_3870_hdr_0.jpg"><img src="/assets/photography/2010_09_benelux/dsc_3870_hdr_0.jpg"></a>
-</figure>
+{% include gallery %}

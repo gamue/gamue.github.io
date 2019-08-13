@@ -5,6 +5,15 @@ permalink: /am-falschen-ende-gespart/
 header:
     teaser: assets/photography/2011_10_indien/dscn0051.jpg
     overlay_image: assets/photography/2011_10_indien/dscn0051.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8197.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8197.jpg
+  - url: /assets/photography/2011_10_indien/dscn0051.jpg
+    image_path: /assets/photography/2011_10_indien/dscn0051.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8278.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8278.jpg
+  - url: /assets/photography/2011_10_indien/dscn0042.jpg
+    image_path: /assets/photography/2011_10_indien/dscn0042.jpg
 categories:
   - Unterwegs
 tags:
@@ -42,9 +51,4 @@ irgendwelche „Gesangsübungen“ anfangen und diese Stundenlang durchziehen?
 
 Das Ende vom Lied war, dass ich kaum ein Auge zu gemacht hatte als das Handy mich zum Aufstehen bewegte 🙁
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dsc_8197.jpg"><img src="/assets/photography/2011_10_indien/dsc_8197.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dscn0051.jpg"><img src="/assets/photography/2011_10_indien/dscn0051.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8278.jpg"><img src="/assets/photography/2011_10_indien/dsc_8278.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dscn0042.jpg"><img src="/assets/photography/2011_10_indien/dscn0042.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

@@ -5,6 +5,37 @@ permalink: /these-boots-are-made-for-walking/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_5630_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5630_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5634.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5634.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg"
+    image_path: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_5714.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5714.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5773.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5773.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5777.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5777.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5790.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5790.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5840.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5840.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5916.jpg"
+    image_path: /assets/photography/2011_05_marokko/dsc_5916.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6000_6003.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6000_6003.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_5963.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5963.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6020.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6020.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6045.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6045.jpg
 categories:
   - Unterwegs
 tags:
@@ -58,20 +89,4 @@ die einem stolz ihre „Kunstwerke“ präsentieren und man natürlich abkaufen 
 das war an Geschmacksverirrung kaum zu übertreffen. Kamelpuppen in den unterschiedlichsten Farben und Mustern. 
 Soweit ja nicht schlimm, wäre es nur an unterschiedlichen Puppen gewesen…aber Schönheit ist ja bekanntermaßen relativ.
 
-<figure class="third">
-    <a href="/assets/photography/2011_05_marokko/dsc_5630_hdr.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5630_hdr.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5634.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5634.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5638_hdr.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5638_hdr.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5670_hdr.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5670_hdr.jpg"></a> 
-    <a href="/assets/photography/2011_05_marokko/dsc_5714.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5714.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5773.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5773.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5777.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5777.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5790.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5790.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5840.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5840.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5916.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5916.jpg"></a> 
-    <a href="/assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6000_6003.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6000_6003.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_5963.jpg"><img src="/assets/photography/2011_05_marokko/dsc_5963.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6020.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6020.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6045.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6045.jpg"></a>
-</figure>
+{% include gallery %}

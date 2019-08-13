@@ -5,6 +5,15 @@ permalink: /hinein-in-eine-andere-welt/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8159.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8159.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8096.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8096.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8128.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8128.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8143.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8143.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8159.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8159.jpg
 categories:
   - Unterwegs
 tags:
@@ -49,9 +58,4 @@ In dem Fall war es ziemlich scharf und am Anfang recht gewöhnungsbedürftig all
 Jedoch keine Frage sehr lecker, und das ist ja die Hauptsache. 
 Da sieht man dann auch von den Kakerlaken ab, die hin und wieder auf dem Boden vorbeihuschen 😛
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dsc_8096.jpg"><img src="/assets/photography/2011_10_indien/dsc_8096.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8128.jpg"><img src="/assets/photography/2011_10_indien/dsc_8128.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8143.jpg"><img src="/assets/photography/2011_10_indien/dsc_8143.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8159.jpg"><img src="/assets/photography/2011_10_indien/dsc_8159.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

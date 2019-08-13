@@ -5,6 +5,19 @@ permalink: /poison-prince/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_6450.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6450.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_6450.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6450.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6532.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6532.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6472_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6472_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6602.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6602.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6612_6613.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6612_6613.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6617.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6617.jpg
 categories:
   - Unterwegs
 tags:
@@ -48,11 +61,4 @@ Da ich out-of-Prinzenrolle war, hab ich dem nächsten Supermarkt einen Besuch ab
 jedoch gab es keine richtige Prinzenrolle, so dass ich mit einem Imitat Vorlieb nehmen musste. 
 Voller Vorfreude dann ein paar Bissen gemacht…einfach Ekelhaft. Dann eben doch keine Süßigkeiten 🙁
 
-<figure class="half">
-    <a href="/assets/photography/2011_05_marokko/dsc_6450.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6450.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6532.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6532.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6472_hdr.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6472_hdr.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6602.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6602.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6612_6613.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6612_6613.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6617.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6617.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

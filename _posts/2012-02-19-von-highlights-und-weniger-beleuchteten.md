@@ -5,6 +5,19 @@ permalink: /von-highlights-und-weniger-beleuchteten/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8533.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8533.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8266.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8266.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8340.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8340.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8379_hdr.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8379_hdr.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8461.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8461.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8522.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8522.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8533.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8533.jpg
 categories:
   - Unterwegs
 tags:
@@ -43,11 +56,4 @@ Das wäre glaube ich ein Geschrei geworden xD
 
 Das sind die Momente an denen man sich schämt auch aus Deutschland zu kommen.
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dsc_8266.jpg"><img src="/assets/photography/2011_10_indien/dsc_8266.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8340.jpg"><img src="/assets/photography/2011_10_indien/dsc_8340.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8379_hdr.jpg"><img src="/assets/photography/2011_10_indien/dsc_8379_hdr.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8461.jpg"><img src="/assets/photography/2011_10_indien/dsc_8461.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8522.jpg"><img src="/assets/photography/2011_10_indien/dsc_8522.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8533.jpg"><img src="/assets/photography/2011_10_indien/dsc_8533.jpg"></a>
-</figure>
+{% include gallery layout="half" %}

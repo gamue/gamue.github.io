@@ -5,6 +5,19 @@ permalink: /zwischenstopp-in-der-hoelle/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8868_hdr.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8868_hdr.jpg
+gallery:
+  - url: /assets/photography/2011_10_indien/dsc_8752.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8752.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8799.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8799.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8829.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8829.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8868_hdr.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8868_hdr.jpg
+  - url: /assets/photography/2011_10_indien/dsc_8821-8822-8837.jpg
+    image_path: /assets/photography/2011_10_indien/dsc_8821-8822-8837.jpg
+  - url: /assets/photography/2011_10_indien/dscn0097.jpg
+    image_path: /assets/photography/2011_10_indien/dscn0097.jpg
 categories:
   - Unterwegs
 tags:
@@ -54,12 +67,4 @@ Die kurzzeitige Verwirrung hab ich genutzt um schnell mein Gepäck zu nehmen und
 
 Mit quietschenden Reifen und unter vermutlich unfreundlichen Rufen der zurückgelassenen Taxifahrern, ging es dann endlich raus aus Khajuraho.
 
-<figure class="half">
-    <a href="/assets/photography/2011_10_indien/dsc_8752.jpg"><img src="/assets/photography/2011_10_indien/dsc_8752.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8799.jpg"><img src="/assets/photography/2011_10_indien/dsc_8799.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8829.jpg"><img src="/assets/photography/2011_10_indien/dsc_8829.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8868_hdr.jpg"><img src="/assets/photography/2011_10_indien/dsc_8868_hdr.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dsc_8821-8822-8837.jpg"><img src="/assets/photography/2011_10_indien/dsc_8821-8822-8837.jpg"></a>
-    <a href="/assets/photography/2011_10_indien/dscn0097.jpg"><img src="/assets/photography/2011_10_indien/dscn0097.jpg"></a>
-</figure>
-
+{% include gallery layout="half" %}

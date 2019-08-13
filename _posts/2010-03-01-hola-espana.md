@@ -5,6 +5,17 @@ permalink: /hola-espana/
 header:
     teaser: assets/photography/0000_misc/barca_1.jpg
     overlay_image: assets/photography/0000_misc/barca_1.jpg
+gallery:
+  - url: /assets/photography/0000_misc/barca_1.jpg
+    image_path: /assets/photography/0000_misc/barca_1.jpg
+  - url: /assets/photography/0000_misc/barca_2.jpg
+    image_path: /assets/photography/0000_misc/barca_2.jpg
+  - url: /assets/photography/0000_misc/barca_3.jpg
+    image_path: /assets/photography/0000_misc/barca_3.jpg
+  - url: /assets/photography/0000_misc/barca_4.jpg
+    image_path: /assets/photography/0000_misc/barca_4.jpg
+  - url: /assets/photography/0000_misc/barca_5.jpg
+    image_path: /assets/photography/0000_misc/barca_5.jpg
 categories:
   - Unterwegs
 tags:
@@ -89,10 +100,4 @@ immer in 5-Cent-Münzen bekommen&#8230;auch wenns mal 50Cent waren. Nach einer W
 Das ist gewichtsmäßig schon eine Erleichterung 🙂 Kurios ist das Strafgeld, wenn man in der Metro raucht: 30 Euro und, ja genau, 5 Cent. 
 Wer hat denn den Schwachsinn gemacht?
 
-<figure class="third">
-	<a href="/assets/photography/0000_misc/barca_1.jpg"><img src="/assets/photography/0000_misc/barca_1.jpg"></a>
-	<a href="/assets/photography/0000_misc/barca_2.jpg"><img src="/assets/photography/0000_misc/barca_2.jpg"></a>
-	<a href="/assets/photography/0000_misc/barca_3.jpg"><img src="/assets/photography/0000_misc/barca_3.jpg"></a>
-    <a href="/assets/photography/0000_misc/barca_4.jpg"><img src="/assets/photography/0000_misc/barca_4.jpg"></a>
-    <a href="/assets/photography/0000_misc/barca_5.jpg"><img src="/assets/photography/0000_misc/barca_5.jpg"></a>
-</figure>
+{% include gallery %}

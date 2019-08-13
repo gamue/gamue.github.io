@@ -5,6 +5,19 @@ permalink: /marrakesh-express/
 header:
     teaser: assets/photography/2011_05_marokko/dsc_6263.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6263.jpg
+gallery:
+  - url: /assets/photography/2011_05_marokko/dsc_6246_6248_6249.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6246_6248_6249.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6253_6315.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6253_6315.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6263.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6263.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6278.jpg"
+    image_path: /assets/photography/2011_05_marokko/dsc_6278.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_6296.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6296.jpg
+  - url: /assets/photography/2011_05_marokko/dsc_6304.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_6304.jpg
 categories:
   - Unterwegs
 tags:
@@ -44,11 +57,4 @@ und zum anderen haben sich die Straßen geleert, so dass wir uns nicht mehr durc
 Auch außergewöhnlich war meine Schlafgelegenheit, das erste mal seit langem mal wieder eine richtige Matraze unter mir zu spüren&#8230;herrrlich, 
 da hat es sich schon mal etwas besser schlafen lassen. Und als Hintergrundkulisse das nächtliche Plätschern des Regens ^^
 
-<figure class="third">
-    <a href="/assets/photography/2011_05_marokko/dsc_6246_6248_6249.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6246_6248_6249.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6253_6315.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6253_6315.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6263.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6263.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6278.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6278.jpg"></a> 
-    <a href="/assets/photography/2011_05_marokko/dsc_6296.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6296.jpg"></a>
-    <a href="/assets/photography/2011_05_marokko/dsc_6304.jpg"><img src="/assets/photography/2011_05_marokko/dsc_6304.jpg"></a>
-</figure>
+{% include gallery %}
