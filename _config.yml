@@ -1,6 +1,6 @@
 # 'bundle exec jekyll serve'
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
 
 # Site settings
@@ -59,6 +59,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 defaults:
   # _posts
