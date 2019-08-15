@@ -2,6 +2,9 @@
 layout: single
 title: Thailand 2014
 permalink: /photography/thailand-2014/
+header:
+    teaser: assets/photography/2014_10_thailand/Thailand_0092.jpg
+    overlay_image: assets/photography/2014_10_thailand/Thailand_0092.jpg
 ---
 
 {% include image-gallery.html folder="/assets/photography/2014_10_thailand" %}
