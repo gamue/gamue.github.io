@@ -19,6 +19,9 @@ a{
 div.archive__item-content-container{
     display: table;
 }
+div.archive__item-content-container .page__meta span{
+    padding-right: 2em;
+}
 
 div.archive__item-teaser-wrapper{
     width: 150px;

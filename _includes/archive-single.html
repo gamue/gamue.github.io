@@ -46,9 +46,12 @@
         {% endif %}
 
         <div>
-            {% if post.read_time %}
-            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-            {% endif %}
+            <p class="page__meta">
+                <span><i class="far fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date_to_string }}</span>
+                {% if post.read_time %}
+                <span><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
+                {% endif %}
+            </p>
             {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 250 }}</p>{% endif %}
         </div>
 
