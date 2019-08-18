@@ -2,47 +2,89 @@
 layout: single
 title: About
 permalink: /about/
+sidebar:
+    - image: /assets/photography/2013_08_suedosteuropa/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg
 visitedCountries:
     - name: Ägypten
+      code: EG
     - name: Belize
+      code: BZ
     - name: Belgien
+      code: BE
     - name: Dänemark
+      code: DK
     - name: Deutschland
+      code: DE
     - name: England
+      code: GB
     - name: Finnland
+      code: FI
     - name: Frankreich
+      code: FR
     - name: Georgien
+      code: GE
     - name: Griechenland
+      code: GR
     - name: Holland
+      code: NL
     - name: Indien
+      code: IN
     - name: Irland
+      code: IE
     - name: Island
+      code: IS
     - name: Israel
+      code: IL
     - name: Italien
+      code: IT
     - name: Japan
+      code: JP
     - name: Jordanien
+      code: JO
     - name: Kosovo
+      code: XK
     - name: Laos
+      code: LA
     - name: Lettland
+      code: LV
     - name: Luxemburg
+      code: LU
     - name: Marokko
+      code: MA
     - name: Mazedonien
+      code: MK
     - name: Nepal
+      code: NP
     - name: Norwegen
+      code: "NO"
+    - name: Palistina
+      code: PS
     - name: Polen
+      code: PL
     - name: Rumänien
+      code: RO
     - name: Schottland
     - name: Schweden
+      code: SE
     - name: Schweiz
+      code: CH
     - name: Serbien
+      code: RS
     - name: Spanien
-    - name: Sri Lanka 
+      code: ES
+    - name: Sri Lanka
+      code: LK
     - name: Thailand
+      code: TH
     - name: Türkei
+      code: TR
     - name: Vatikan
     - name: Vereinigte Arabische Emirate
+      code: AE
     - name: Vietnam
+      code: VN
     - name: Zypern 
+      code: CY
 ---
 
 Hey,
@@ -68,8 +110,12 @@ Das nächste Abenteuer ruft schon!
 Johannes
 
 
-### Folgende {{ page.visitedCountries.size }} Länder habe ich schon bereist:
-<ul>
+
+## Folgende {{ page.visitedCountries.size }} Länder habe ich schon bereist:
+
+{% include visited-countries.html countries=page.visitedCountries %}
+
+<ul class="countries">
 {% for country in page.visitedCountries %}
     <li>{{ country.name }}</li>
 {% endfor %}
