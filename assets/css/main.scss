@@ -15,6 +15,11 @@ body.layout--home div.page__hero--overlay{
 a{
     text-decoration: none;
 }
+.social-icons .fa-rss, .social-icons .fa-rss-square,
+.social-icons .fa-instagram,
+.social-icons .fa-github, .social-icons .fa-github-alt, .social-icons .fa-github-square{
+   color: #898c8f;
+}
 
 div.archive__item-content-container{
     display: table;
