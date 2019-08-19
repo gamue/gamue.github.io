@@ -99,6 +99,7 @@ figure.image-gallery a img{
     height: 300px;
     background-position: center center;
     background-color: #898c8f;
+    background-size: cover;
 }
 .gallery .shadow{
     display: block;
@@ -113,12 +114,13 @@ figure.image-gallery a img{
 }
 .gallery .shadow-image{
     position: absolute;
-    top: -1rem;
-    bottom: -1rem;
+    top: -5rem;
+    bottom: -5rem;
     left: 0;
     right: 0;
     z-index: 6;
     background-position: center center;
+    background-size: cover;
     filter: blur(3px);
 }
 
