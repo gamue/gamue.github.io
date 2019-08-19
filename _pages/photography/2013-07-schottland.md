@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Schottland 2013
+excerpt: Im Juli 2013 ging es mal wieder auf Erkundungstour, dieses Mal nach Schottland. Highland- und Whiskytour inklusive^^ 
 permalink: /photography/schottland-2013/
 header:
     teaser: assets/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg
