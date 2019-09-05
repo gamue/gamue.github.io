@@ -11,6 +11,7 @@ visitedCountries:
       code: BZ
     - name: Belgien
       code: BE
+      link: /photography/benelux-2010/
     - name: Dänemark
       code: DK
     - name: Deutschland
@@ -27,14 +28,19 @@ visitedCountries:
       code: GR
     - name: Holland
       code: NL
+      link: /photography/benelux-2010/
     - name: Indien
       code: IN
+      link: /photography/indien-2011/
     - name: Irland
       code: IE
+      link: /photography/irland-2009/
     - name: Island
       code: IS
+      link: /photography/island-2012/
     - name: Israel
       code: IL
+      link: /photography/israel-2009/
     - name: Italien
       code: IT
     - name: Japan
@@ -43,48 +49,62 @@ visitedCountries:
       code: JO
     - name: Kosovo
       code: XK
+      link: /photography/suedosteuropa-2013/
     - name: Laos
       code: LA
+      link: /photography/laos-2014/
     - name: Lettland
       code: LV
     - name: Luxemburg
       code: LU
+      link: /photography/benelux-2010/
     - name: Marokko
       code: MA
+      link: /photography/marokko-2011/
     - name: Mazedonien
       code: MK
     - name: Nepal
       code: NP
+      link: /photography/nepal-2011/
     - name: Norwegen
       code: "NO"
+      link: /photography/suedosteuropa-2013/
     - name: Palistina
       code: PS
     - name: Polen
       code: PL
     - name: Rumänien
       code: RO
+      link: /photography/suedosteuropa-2013/
     - name: Schottland
+      link: /photography/schottland-2013/
     - name: Schweden
       code: SE
+      link: /photography/schweden-2010/
     - name: Schweiz
       code: CH
     - name: Serbien
       code: RS
+      link: /photography/suedosteuropa-2013/
     - name: Spanien
       code: ES
     - name: Sri Lanka
       code: LK
     - name: Thailand
       code: TH
+      link: /photography/thailand-2014/
     - name: Türkei
       code: TR
+      link: /photography/tuerkei-2014/
     - name: Vatikan
     - name: Vereinigte Arabische Emirate
       code: AE
+      link: /photography/abu-dhabi-2014/
     - name: Vietnam
       code: VN
     - name: Zypern 
       code: CY
+      link: /photography/zypern-2015/
 ---
 
 Hey,
@@ -117,6 +137,12 @@ Johannes
 
 <ul class="countries">
 {% for country in page.visitedCountries %}
-    <li>{{ country.name }}</li>
+    <li>
+    {% if country.link %}
+    <a href="{{ country.link }}">{{ country.name }}</a>
+    {% else %}
+    {{ country.name }}
+    {% endif %}
+    </li>
 {% endfor %}
 </ul>
