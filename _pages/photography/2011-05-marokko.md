@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: galleryPage
 title: Marokko 2011
 excerpt: Bilder meiner zweiwöchigen Rucksacktour durch Marokko im Mai 2011.
 permalink: /photography/marokko-2011/

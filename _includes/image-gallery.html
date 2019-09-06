@@ -1,5 +1,5 @@
 
-<figure class="third image-gallery">
+<figure class="image-gallery">
     {% for file in site.static_files %}
     {% if file.path contains include.folder %}
 
@@ -10,4 +10,3 @@
     {% endif %}
     {% endfor %}
 </figure>
-

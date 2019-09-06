@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: galleryPage
 title: Schweden 2010
 excerpt: Bilder eines einwöchigen Kurzurlaubs in Schweden im Oktober 2010.
 permalink: /photography/schweden-2010/

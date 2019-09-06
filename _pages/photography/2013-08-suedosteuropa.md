@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: galleryPage
 title: Südosteuropa 2013
 excerpt: Meine Odyssee im August 2013 führte mich von Berlin nach Oslo, anschließend in den Kosovo und über Mazedonien und Serbien nach Rumänien :D
 permalink: /photography/suedosteuropa-2013/
