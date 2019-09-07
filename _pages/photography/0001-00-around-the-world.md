@@ -1,6 +1,4 @@
 ---
-layout: single
-classes: galleryPage
 title: Here, There and Everywhere
 excerpt: Gemischte Reisebilder von diversen Flecken der Erde, an die es mich meistens für einen Kurztrip gezogen hat. 
 permalink: /photography/here-there-and-everywhere/

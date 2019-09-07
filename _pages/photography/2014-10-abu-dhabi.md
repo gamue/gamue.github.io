@@ -1,6 +1,4 @@
 ---
-layout: single
-classes: galleryPage
 title: Abu Dhabi 2014
 excerpt: Weil die Flugzeiten ungünstig waren, hab ich meinen Stop-Over in Abu Dhabi einfach verlängert und mir die Stadt angeschaut...Warum auch nicht, wenn man schon mal da ist ;) 
 permalink: /photography/abu-dhabi-2014/

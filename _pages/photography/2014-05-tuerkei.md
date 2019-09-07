@@ -1,6 +1,4 @@
 ---
-layout: single
-classes: galleryPage
 title: Türkei 2014
 excerpt: Was als kleiner Städtetrip angedacht war, wurde dann doch noch etwas landschaftlich...Metropolen sind nicht so mein Ding ;)
 permalink: /photography/tuerkei-2014/

@@ -1,7 +1,6 @@
 ---
-layout: single
-classes: galleryPage
 title: Photos
+classes: galleryPage
 permalink: /photography/
 header:
     og_image: assets/images/j_logo.jpg

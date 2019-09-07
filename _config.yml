@@ -77,6 +77,11 @@ defaults:
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: _pages/photography
+      type: pages
+    values:
+      classes: galleryPage
 
 category_archive:
   type: liquid
