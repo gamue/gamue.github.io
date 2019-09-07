@@ -2,6 +2,8 @@
 layout: single
 title: Kontakt
 permalink: /contact/
+header:
+    og_image: assets/images/j_logo.jpg
 ---
 
 <form action="https://formspree.io/johannes@gamue.de" method="POST">

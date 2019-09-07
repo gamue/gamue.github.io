@@ -3,6 +3,8 @@ layout: single
 classes: galleryPage
 title: Photos
 permalink: /photography/
+header:
+    og_image: assets/images/j_logo.jpg
 ---
 
 <div class="galleryPreview">
