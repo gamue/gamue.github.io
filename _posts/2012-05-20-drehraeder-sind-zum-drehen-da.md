@@ -3,7 +3,7 @@ title: Drehräder sind zum Drehen da
 date: 2012-05-20T11:14:24+02:00
 permalink: /drehraeder-sind-zum-drehen-da/
 header:
-    teaser: assets/photography/2011_10_indien/dsc_8900.jpg
+    teaser: thumbnails/photography/2011_10_indien/dsc_8900.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8900.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8927.jpg

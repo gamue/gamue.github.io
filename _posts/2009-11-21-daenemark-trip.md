@@ -3,7 +3,7 @@ title: Dänemark Trip
 date: 2009-11-21T13:24:32+02:00
 permalink: /daenemark-trip/
 header:
-    teaser: assets/photography/0000_misc/copenhagen_1.jpg
+    teaser: thumbnails/photography/0000_misc/copenhagen_1.jpg
     overlay_image: assets/photography/0000_misc/copenhagen_1.jpg
 gallery:
   - url: /assets/photography/0000_misc/copenhagen_1.jpg

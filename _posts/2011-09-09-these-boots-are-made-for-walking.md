@@ -3,7 +3,7 @@ title: These boots are made for walking
 date: 2011-09-09T20:21:26+02:00
 permalink: /these-boots-are-made-for-walking/
 header:
-    teaser: assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
+    teaser: thumbnails/photography/2011_05_marokko/dsc_5638_hdr.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/dsc_5630_hdr.jpg

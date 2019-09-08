@@ -3,7 +3,7 @@ title: Auf Pilgerreisen
 date: 2012-05-30T20:39:45+02:00
 permalink: /auf-pilgerreisen/
 header:
-    teaser: assets/photography/2011_10_indien/dsc_9062.jpg
+    teaser: thumbnails/photography/2011_10_indien/dsc_9062.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_9062.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8945.jpg

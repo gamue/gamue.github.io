@@ -3,19 +3,19 @@ title: 'Don&#8217;t rest in Bucharest'
 date: 2014-09-09T19:28:14+02:00
 permalink: /dont-rest-bucharest/
 header:
-    teaser: assets/photography/2013_08_suedosteuropa/Rumaenien_755.jpg
+    teaser: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_755.jpg
     overlay_image: assets/photography/2013_08_suedosteuropa/Rumaenien_755.jpg
 gallery:
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_716.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_716.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_716.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_755.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_755.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_755.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_732.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_732.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_732.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_790.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_790.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_790.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_701.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_701.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_701.jpg
 categories:
   - Unterwegs
 tags:

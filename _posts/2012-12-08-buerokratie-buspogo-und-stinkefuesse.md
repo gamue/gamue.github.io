@@ -4,9 +4,9 @@ date: 2012-12-08T17:14:50+02:00
 permalink: /buerokratie-buspogo-und-stinkefuesse/
 gallery:
   - url: assets/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
   - url: assets/photography/2011_10_nepal/dscn0291.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0291.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0291.jpg
 categories:
   - Unterwegs
 tags:

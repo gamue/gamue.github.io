@@ -4,7 +4,7 @@
     {% if file.path contains include.folder %}
 
     <a href="{{ file.path }}">
-        <img src="{{ file.path }}" alt="">
+        <img src="{{ file.path | replace: "assets/", "thumbnails/" }}" alt="">
     </a>
 
     {% endif %}

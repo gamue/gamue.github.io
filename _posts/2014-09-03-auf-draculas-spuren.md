@@ -3,15 +3,15 @@ title: Auf Draculas Spuren
 date: 2014-09-03T11:21:26+02:00
 permalink: /auf-draculas-spuren/
 header:
-    teaser: assets/photography/2013_08_suedosteuropa/Rumaenien_541.jpg
+    teaser: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_541.jpg
     overlay_image: assets/photography/2013_08_suedosteuropa/Rumaenien_541.jpg
 gallery:
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_517.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_517.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_517.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_527_556.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_527_556.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_527_556.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_541.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_541.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_541.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,7 +3,7 @@ title: 'Apps für Reisen: Meine Empfehlungen'
 date: 2016-07-14T18:59:33+02:00
 permalink: /empfehlungen-reise-apps/
 header:
-    teaser: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
+    teaser: thumbnails/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
     overlay_image: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
     
 categories:
@@ -48,8 +48,8 @@ es gibt nun auch eine Pro-Version (gleicher Funktionsumfang, jedoch ohne Werbung
 Links: [iOS](https://itunes.apple.com/en/app/currency/id284220417) \| [Android](https://play.google.com/store/apps/details?id=com.currencyapp.currencyandroid)
 
 <figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/currency_1.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/currency_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/currency_2.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/currency_2.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/currency_1.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/currency_1.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/currency_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/currency_2.jpg"></a>
 	<figcaption>Currency</figcaption>
 </figure>
 
@@ -80,8 +80,8 @@ Tipp: Das GPS-Signal ist normalerweise auch im Flugmodus verfügbar, so dass man
 Links: [Hersteller](http://www.ulmon.com/) \| [iOS](https://itunes.apple.com/us/app/citymaps2go-save-places!-plan/id408866084) \| [Android](https://play.google.com/store/apps/details?id=com.ulmon.android.citymaps2go)
 
 <figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg"></a>
 	<figcaption>CityMaps2Go</figcaption>
 </figure>
 
@@ -106,8 +106,8 @@ Links:
 * here [iOS](https://itunes.apple.com/us/app/here-maps-offline-navigation/id955837609) \| [Android](https://play.google.com/store/apps/details?id=com.here.app.maps) 
 
 <figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg"></a>
 	<figcaption>Google Maps</figcaption>
 </figure>
 
@@ -128,8 +128,8 @@ Links:
 * Booking.com  [iOS](https://itunes.apple.com/us/app/booking.com-hotel-reservations/id367003839) \| [Android](https://play.google.com/store/apps/details?id=com.booking)
 
 <figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/booking.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/booking.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/booking.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/booking.jpg"></a>
 	<figcaption>Hostelworld (links) und Booking.com (rechts)</figcaption>
 </figure>
 
@@ -147,8 +147,8 @@ Links:
  * Swoodoo [iOS](https://itunes.apple.com/us/app/swoodoo-billige-fluge-hotels/id362070846) \| [Android](https://play.google.com/store/apps/details?id=com.kayak.android.swoodoo)
 
 <figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg"></a>
 	<figcaption>Skyscanner (links) und Swoodoo (rechts)</figcaption>
 </figure>
 
@@ -163,8 +163,8 @@ für den gibt es sogar auch einiges in der App ^^
 Links: [iOS](https://itunes.apple.com/EN/app/snapseed/id439438619) \| [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en)
 
 <figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg"><img src="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg"></a>
+	<a href="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg"></a>
 	<figcaption>Snapseed</figcaption>
 </figure>
 

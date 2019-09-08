@@ -3,21 +3,21 @@ title: Wo ist Nessie?
 date: 2014-01-13T18:10:08+02:00
 permalink: /wo-ist-nessie/
 header:
-    teaser: assets/photography/2013_07_schottland/Schottland_0048_b.jpg
+    teaser: thumbnails/photography/2013_07_schottland/Schottland_0048_b.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0048_b.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0019.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0019.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0019.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0102_hdr.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0102_hdr.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0102_hdr.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0132_tonemapped_bw.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0132_tonemapped_bw.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0132_tonemapped_bw.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0048_b.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0048_b.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0048_b.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0062_tonemapped.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0062_tonemapped.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0062_tonemapped.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0088.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0088.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0088.jpg
 categories:
   - Unterwegs
 tags:

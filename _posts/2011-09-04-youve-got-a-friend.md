@@ -3,7 +3,7 @@ title: You’ve got a friend
 date: 2011-09-04T18:48:11+02:00
 permalink: /youve-got-a-friend/
 header:
-    teaser: assets/photography/2011_05_marokko/dsc_5597.jpg
+    teaser: thumbnails/photography/2011_05_marokko/dsc_5597.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_5597.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/dsc_5541.jpg

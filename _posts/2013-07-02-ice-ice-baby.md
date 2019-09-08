@@ -3,23 +3,23 @@ title: Ice Ice Baby
 date: 2013-07-02T21:52:06+02:00
 permalink: /ice-ice-baby/
 header:
-    teaser: assets/photography/2012_06_island/dsc_1341.jpg
+    teaser: thumbnails/photography/2012_06_island/dsc_1341.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1341.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1392_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1392_tonemapped.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1392_tonemapped.jpg
   - url: assets/photography/2012_06_island/dsc_1293_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1293_tonemapped.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1293_tonemapped.jpg
   - url: assets/photography/2012_06_island/dsc_1298_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1298_tonemapped.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1298_tonemapped.jpg
   - url: assets/photography/2012_06_island/dsc_1341.jpg
-    image_path: assets/photography/2012_06_island/dsc_1341.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1341.jpg
   - url: assets/photography/2012_06_island/dsc_1371.jpg
-    image_path: assets/photography/2012_06_island/dsc_1371.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1371.jpg
   - url: assets/photography/2012_06_island/dsc_1380_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1380_tonemapped.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1380_tonemapped.jpg
   - url: assets/photography/2012_06_island/dsc_1386.jpg
-    image_path: assets/photography/2012_06_island/dsc_1386.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1386.jpg
 categories:
   - Unterwegs
 tags:

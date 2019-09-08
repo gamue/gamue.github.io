@@ -3,31 +3,31 @@ title: Wanderung im Retezatgebirge
 date: 2014-09-01T18:32:31+02:00
 permalink: /wanderung-im-retezatgebirge/
 header:
-    teaser: assets/photography/2013_08_suedosteuropa/Rumaenien_251.jpg
+    teaser: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_251.jpg
     overlay_image: assets/photography/2013_08_suedosteuropa/Rumaenien_251.jpg
 gallery:
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_241.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_241.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_241.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_251.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_251.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_251.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_302.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_302.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_302.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_354.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_354.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_354.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_383.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_383.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_383.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_398.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_398.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_398.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_401.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_401.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_401.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_415_tonemapped.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_415_tonemapped.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_415_tonemapped.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_490.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_490.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_490.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_437.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_437.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_437.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_493.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_493.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_493.jpg
 categories:
   - Unterwegs
 tags:

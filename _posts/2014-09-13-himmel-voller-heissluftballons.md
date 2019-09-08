@@ -3,29 +3,29 @@ title: Himmel voller Heißluftballons
 date: 2014-09-13T18:25:24+02:00
 permalink: /himmel-voller-heissluftballons/
 header:
-    teaser: assets/photography/2014_05_tuerkei/Tuerkei_495.jpg
+    teaser: thumbnails/photography/2014_05_tuerkei/Tuerkei_495.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_495.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_478.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_478.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_478.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_484.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_484.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_484.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_495.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_495.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_495.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_498.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_498.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_498.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_672.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_672.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_672.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_690.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_690.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_690.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_683_tonemapped.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_683_tonemapped.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_683_tonemapped.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_688_tonemapped.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_688_tonemapped.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_688_tonemapped.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_696.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_696.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_696.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_762.jpg
-    image_path:  assets/photography/2014_05_tuerkei/Tuerkei_762.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_762.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,7 +3,7 @@ title: Biggest Mistake
 date: 2011-10-06T19:46:22+02:00
 permalink: /biggest-mistake/
 header:
-    teaser: assets/photography/2011_05_marokko/dsc_6047.jpg
+    teaser: thumbnails/photography/2011_05_marokko/dsc_6047.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6047.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/dsc_6047.jpg

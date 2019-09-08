@@ -3,7 +3,7 @@ title: Jag älskar Sverige
 date: 2011-01-04T21:16:08+02:00
 permalink: /jag-aelskar-sverige/
 header:
-    teaser: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
+    teaser: thumbnails/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
     overlay_image: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
 gallery:
   - url: /assets/photography/2010_10_schweden/dsc_4644_hdr.jpg

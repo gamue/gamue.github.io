@@ -3,7 +3,7 @@ title: Und auch die Thailand Bilder sind online
 date: 2015-01-11T15:43:18+02:00
 permalink: /und-auch-die-thailand-bilder-sind-online/
 header:
-    teaser: assets/photography/2014_10_thailand/Thailand_0092.jpg
+    teaser: thumbnails/photography/2014_10_thailand/Thailand_0092.jpg
     overlay_image: assets/photography/2014_10_thailand/Thailand_0092.jpg
 categories:
   - Photography

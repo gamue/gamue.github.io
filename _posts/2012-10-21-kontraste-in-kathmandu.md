@@ -3,15 +3,15 @@ title: Kontraste in Kathmandu
 date: 2012-10-21T19:07:53+02:00
 permalink: /kontraste-in-kathmandu/
 header:
-    teaser: assets/photography/2011_10_nepal/dsc_0365.jpg
+    teaser: thumbnails/photography/2011_10_nepal/dsc_0365.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_0365.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/dscn0134-0136.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0134-0136.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0134-0136.jpg
   - url: assets/photography/2011_10_nepal/dsc_0365.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0365.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0365.jpg
   - url: assets/photography/2011_10_nepal/dsc_0377.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0377.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0377.jpg
 categories:
   - Unterwegs
 tags:

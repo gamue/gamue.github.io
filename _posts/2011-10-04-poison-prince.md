@@ -3,7 +3,7 @@ title: Poison Prince
 date: 2011-10-04T19:52:53+02:00
 permalink: /poison-prince/
 header:
-    teaser: assets/photography/2011_05_marokko/dsc_6450.jpg
+    teaser: thumbnails/photography/2011_05_marokko/dsc_6450.jpg
     overlay_image: assets/photography/2011_05_marokko/dsc_6450.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/dsc_6450.jpg

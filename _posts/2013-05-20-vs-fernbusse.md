@@ -3,17 +3,17 @@ title: vs Fernbusse
 date: 2013-05-20T09:36:05+02:00
 permalink: /vs-fernbusse/
 header:
-    teaser: assets/photography/2012_06_island/dsc_0635.jpg
+    teaser: thumbnails/photography/2012_06_island/dsc_0635.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0635.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1721.jpg
-    image_path: assets/photography/2012_06_island/dsc_1721.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1721.jpg
   - url: assets/photography/2012_06_island/dsc0613.jpg
-    image_path: assets/photography/2012_06_island/dsc0613.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc0613.jpg
   - url: assets/photography/2012_06_island/dsc_0635.jpg
-    image_path: assets/photography/2012_06_island/dsc_0635.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_0635.jpg
   - url: assets/photography/2012_06_island/dsc_1712_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1712_tonemapped.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1712_tonemapped.jpg
 categories:
   - Unterwegs
 tags:

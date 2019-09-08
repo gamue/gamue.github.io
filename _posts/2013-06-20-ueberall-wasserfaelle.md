@@ -3,23 +3,23 @@ title: Überall Wasserfälle
 date: 2013-06-20T19:23:47+02:00
 permalink: /ueberall-wasserfaelle/
 header:
-    teaser: assets/photography/2012_06_island/dsc_1115.jpg
+    teaser: thumbnails/photography/2012_06_island/dsc_1115.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1115.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1035.jpg
-    image_path: assets/photography/2012_06_island/dsc_1035.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1035.jpg
   - url: assets/photography/2012_06_island/dsc_1063.jpg
-    image_path: assets/photography/2012_06_island/dsc_1063.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1063.jpg
   - url: assets/photography/2012_06_island/dsc_1072.jpg
-    image_path: assets/photography/2012_06_island/dsc_1072.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1072.jpg
   - url: assets/photography/2012_06_island/dsc_1091.jpg
-    image_path: assets/photography/2012_06_island/dsc_1091.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1091.jpg
   - url: assets/photography/2012_06_island/dsc_1115.jpg
-    image_path: assets/photography/2012_06_island/dsc_1115.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1115.jpg
   - url: assets/photography/2012_06_island/dsc_1152.jpg
-    image_path: assets/photography/2012_06_island/dsc_1152.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1152.jpg
   - url: assets/photography/2012_06_island/dsc_1432_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1432_tonemapped.jpg
+    image_path: thumbnails/photography/2012_06_island/dsc_1432_tonemapped.jpg
 categories:
   - Unterwegs
 tags:

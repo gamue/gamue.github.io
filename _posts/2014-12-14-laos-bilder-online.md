@@ -3,7 +3,7 @@ title: Laos Bilder online
 date: 2014-12-14T14:48:59+02:00
 permalink: /laos-bilder-online/
 header:
-    teaser: assets/photography/2014_11_laos/Laos_175.jpg
+    teaser: thumbnails/photography/2014_11_laos/Laos_175.jpg
     overlay_image: assets/photography/2014_11_laos/Laos_175.jpg
 image: /wp-content/uploads/2014/12/Laos_175.jpg
 categories:

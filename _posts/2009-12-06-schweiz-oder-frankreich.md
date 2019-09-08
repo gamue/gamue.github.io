@@ -3,7 +3,7 @@ title: Schweiz oder Frankreich?
 date: 2009-12-06T17:59:18+02:00
 permalink: /schweiz-oder-frankreich/
 header:
-    teaser: assets/photography/0000_misc/switzerland_1.jpg
+    teaser: thumbnails/photography/0000_misc/switzerland_1.jpg
     overlay_image: assets/photography/0000_misc/switzerland_1.jpg
 gallery:
   - url: /assets/photography/0000_misc/switzerland_1.jpg

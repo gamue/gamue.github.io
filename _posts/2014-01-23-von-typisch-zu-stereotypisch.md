@@ -3,21 +3,21 @@ title: Von typisch zu stereotypisch
 date: 2014-01-23T18:25:29+02:00
 permalink: /von-typisch-zu-stereotypisch/
 header:
-    teaser: assets/photography/2013_07_schottland/Schottland_0764.jpg
+    teaser: thumbnails/photography/2013_07_schottland/Schottland_0764.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0764.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0664.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0664.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0664.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0753-0758.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0753-0758.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0753-0758.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0764.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0764.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0764.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0788.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0788.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0788.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0704.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0704.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0704.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0720.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0720.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0720.jpg
 categories:
   - Unterwegs
 tags:

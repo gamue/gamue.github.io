@@ -3,23 +3,23 @@ title: Mietz, Mietz Nashorn
 date: 2012-09-29T15:05:43+02:00
 permalink: /mietz-mietz-nashorn/
 header:
-    teaser: assets/photography/2011_10_nepal/dsc_9887.jpg
+    teaser: thumbnails/photography/2011_10_nepal/dsc_9887.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_9887.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/dsc_9957.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9957.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9957.jpg
   - url: assets/photography/2011_10_nepal/dsc_9887.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9887.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9887.jpg
   - url: assets/photography/2011_10_nepal/dsc_9863.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9863.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9863.jpg
   - url: assets/photography/2011_10_nepal/dsc_9790-9808-9821-9823.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9790-9808-9821-9823.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9790-9808-9821-9823.jpg
   - url: assets/photography/2011_10_nepal/dsc_9833.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9833.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9833.jpg
   - url: assets/photography/2011_10_nepal/dsc_9933.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9933.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9933.jpg
   - url: assets/photography/2011_10_nepal/dsc_9877.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9877.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9877.jpg
 categories:
   - Unterwegs
 tags:

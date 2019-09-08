@@ -3,15 +3,15 @@ title: Unterwegs mit Dumbo
 date: 2012-10-14T11:10:13+02:00
 permalink: /unterwegs-mit-dumbo/
 header:
-    teaser: assets/photography/2011_10_nepal/dsc_9957.jpg
+    teaser: thumbnails/photography/2011_10_nepal/dsc_9957.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_9957.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/dsc_0225.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0225.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0225.jpg
   - url: assets/photography/2011_10_nepal/dsc_9957.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9957.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9957.jpg
   - url: assets/photography/2011_10_nepal/dsc_0306-0307.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0306-0307.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0306-0307.jpg
 categories:
   - Unterwegs
 tags:

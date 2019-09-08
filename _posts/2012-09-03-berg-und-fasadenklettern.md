@@ -3,21 +3,21 @@ title: 'Berg- und Fasadenklettern'
 date: 2012-09-03T21:04:38+02:00
 permalink: /berg-und-fasadenklettern/
 header:
-    teaser: assets/photography/2011_10_nepal/dsc_9430.jpg
+    teaser: thumbnails/photography/2011_10_nepal/dsc_9430.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_9430.jpg   
 gallery:
   - url: assets/photography/2011_10_nepal/dsc_9457-9458-9462-9464.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9457-9458-9462-9464.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9457-9458-9462-9464.jpg
   - url: assets/photography/2011_10_nepal/dscn0134-0136.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0134-0136.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0134-0136.jpg
   - url: assets/photography/2011_10_nepal/dsc_9375-9376.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9375-9376.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9375-9376.jpg
   - url: assets/photography/2011_10_nepal/dsc_9405.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9405.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9405.jpg
   - url: assets/photography/2011_10_nepal/dsc_9430.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9430.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9430.jpg
   - url: assets/photography/2011_10_nepal/dsc_9358.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9358.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9358.jpg
 categories:
   - Unterwegs
 tags:

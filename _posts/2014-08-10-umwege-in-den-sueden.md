@@ -3,21 +3,21 @@ title: Umwege in den Süden
 date: 2014-08-10T13:31:14+02:00
 permalink: /umwege-in-den-sueden/
 header:
-    teaser: assets/photography/2013_08_suedosteuropa/Oslo_011_tonemapped.jpg
+    teaser: thumbnails/photography/2013_08_suedosteuropa/Oslo_011_tonemapped.jpg
     overlay_image: assets/photography/2013_08_suedosteuropa/Oslo_011_tonemapped.jpg
 gallery:
   - url: assets/photography/2013_08_suedosteuropa/Oslo_011_tonemapped.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Oslo_011_tonemapped.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Oslo_011_tonemapped.jpg
   - url: assets/photography/2013_08_suedosteuropa/Oslo_240.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Oslo_240.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Oslo_240.jpg
   - url: assets/photography/2013_08_suedosteuropa/Oslo_242.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Oslo_242.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Oslo_242.jpg
   - url: assets/photography/2013_08_suedosteuropa/Oslo_174.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Oslo_174.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Oslo_174.jpg
   - url: assets/photography/2013_08_suedosteuropa/Oslo_198.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Oslo_198.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Oslo_198.jpg
   - url: assets/photography/2013_08_suedosteuropa/Oslo_097_103.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Oslo_097_103.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Oslo_097_103.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,15 +3,15 @@ title: Schlaflos in Prishtina
 date: 2014-08-12T18:34:53+02:00
 permalink: /schlaflos-in-prishtina/
 header:
-    teaser: assets/photography/2013_08_suedosteuropa/Pristina_22.jpg
+    teaser: thumbnails/photography/2013_08_suedosteuropa/Pristina_22.jpg
     overlay_image: assets/photography/2013_08_suedosteuropa/Pristina_22.jpg
 gallery:
   - url: assets/photography/2013_08_suedosteuropa/Pristina_13.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Pristina_13.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Pristina_13.jpg
   - url: assets/photography/2013_08_suedosteuropa/Pristina_22.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Pristina_22.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Pristina_22.jpg
   - url: assets/photography/2013_08_suedosteuropa/Pristina_33.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Pristina_33.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Pristina_33.jpg
 categories:
   - Unterwegs
 tags:

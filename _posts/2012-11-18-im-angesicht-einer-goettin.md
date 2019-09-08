@@ -3,21 +3,21 @@ title: Im Angesicht einer Göttin
 date: 2012-11-18T15:43:48+02:00
 permalink: /im-angesicht-einer-goettin/
 header:
-    teaser: assets/photography/2011_10_nepal/dsc_0570.jpg
+    teaser: thumbnails/photography/2011_10_nepal/dsc_0570.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_0570.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/dsc_0570.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0570.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0570.jpg
   - url: assets/photography/2011_10_nepal/dsc_0395.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0395.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0395.jpg
   - url: assets/photography/2011_10_nepal/dsc_0429.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0429.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0429.jpg
   - url: assets/photography/2011_10_nepal/dsc_0500.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0500.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0500.jpg
   - url: assets/photography/2011_10_nepal/dscn0266-0267.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0266-0267.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0266-0267.jpg
   - url: assets/photography/2011_10_nepal/dsc_0600.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0600.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0600.jpg
 categories:
   - Unterwegs
 tags:

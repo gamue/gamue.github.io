@@ -3,15 +3,15 @@ title: Entspannen in Edinburgh
 date: 2014-03-11T18:37:50+02:00
 permalink: /entspannen-in-edinburgh/
 header:
-    teaser: assets/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
+    teaser: thumbnails/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0981.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0981.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0981.jpg
   - url: assets/photography/2013_07_schottland/Schottland_1006_tonemapped.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_1006_tonemapped.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_1006_tonemapped.jpg
   - url: assets/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
 categories:
   - Unterwegs
 tags:

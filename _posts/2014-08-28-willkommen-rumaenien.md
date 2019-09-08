@@ -3,15 +3,15 @@ title: Willkommen in Rumänien
 date: 2014-08-28T20:09:31+02:00
 permalink: /willkommen-rumaenien/
 header:
-    teaser: assets/photography/2013_08_suedosteuropa/Rumaenien_080.jpg
+    teaser: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_080.jpg
     overlay_image: assets/photography/2013_08_suedosteuropa/Rumaenien_080.jpg
 gallery:
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_071.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_071.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_071.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_080.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_080.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_080.jpg
   - url: assets/photography/2013_08_suedosteuropa/Rumaenien_050.jpg
-    image_path: assets/photography/2013_08_suedosteuropa/Rumaenien_050.jpg
+    image_path: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_050.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,23 +3,23 @@ title: Auf der Suche nach Shir Khan
 date: 2012-10-06T16:18:20+02:00
 permalink: /auf-der-suche-nach-shir-khan/
 header:
-    teaser: assets/photography/2011_10_nepal/dsc_0052.jpg
+    teaser: thumbnails/photography/2011_10_nepal/dsc_0052.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_0052.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/dsc_0182.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0182.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0182.jpg
   - url: assets/photography/2011_10_nepal/dsc_0121.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0121.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0121.jpg
   - url: assets/photography/2011_10_nepal/dsc_0052.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0052.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0052.jpg
   - url: assets/photography/2011_10_nepal/dsc_0068.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0068.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0068.jpg
   - url: assets/photography/2011_10_nepal/dsc_0175.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_0175.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_0175.jpg
   - url: assets/photography/2011_10_nepal/dscn0228-0234.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0228-0234.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0228-0234.jpg
   - url: assets/photography/2011_10_nepal/dscn0244.jpg
-    image_path: assets/photography/2011_10_nepal/dscn0244.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dscn0244.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,19 +3,19 @@ title: Auf den Spuren Buddhas
 date: 2012-09-02T20:05:29+02:00
 permalink: /auf-den-spuren-buddhas/
 header:
-    teaser: assets/photography/2011_10_nepal/DSC_9273.jpg
+    teaser: thumbnails/photography/2011_10_nepal/DSC_9273.jpg
     overlay_image: assets/photography/2011_10_nepal/DSC_9273.jpg
 gallery:
   - url: assets/photography/2011_10_indien/dscn0122-0125.jpg
-    image_path: assets/photography/2011_10_indien/dscn0122-0125.jpg
+    image_path: thumbnails/photography/2011_10_indien/dscn0122-0125.jpg
   - url: assets/photography/2011_10_nepal/dsc_9244-9251.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9244-9251.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9244-9251.jpg
   - url: assets/photography/2011_10_nepal/dsc_9323.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9323.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9323.jpg
   - url: assets/photography/2011_10_nepal/dsc_9326.jpg
-    image_path: assets/photography/2011_10_nepal/dsc_9326.jpg
+    image_path: thumbnails/photography/2011_10_nepal/dsc_9326.jpg
   - url: assets/photography/2011_10_nepal/DSC_9273.jpg
-    image_path: assets/photography/2011_10_nepal/DSC_9273.jpg
+    image_path: thumbnails/photography/2011_10_nepal/DSC_9273.jpg
 categories:
   - Unterwegs
 tags:

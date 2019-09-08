@@ -3,21 +3,21 @@ title: Pipes, Drums and old men
 date: 2014-01-17T18:00:50+02:00
 permalink: /pipes-drums-and-old-men/
 header:
-    teaser: assets/photography/2013_07_schottland/Schottland_0445.jpg
+    teaser: thumbnails/photography/2013_07_schottland/Schottland_0445.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0445.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0445.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0445.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0445.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0532.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0532.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0532.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0461.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0461.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0461.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0482.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0482.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0482.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0451.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0451.jpg
+    image_path: thumbnails/photography/2013_07_schottland/Schottland_0451.jpg
 categories:
   - Unterwegs
 tags:

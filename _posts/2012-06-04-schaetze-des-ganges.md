@@ -3,23 +3,23 @@ title: Schätze des Ganges
 date: 2012-06-04T21:16:32+02:00
 permalink: /schaetze-des-ganges/
 header:
-    teaser: assets/photography/2011_10_indien/dsc_9110.jpg
+    teaser: thumbnails/photography/2011_10_indien/dsc_9110.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_9110.jpg
 gallery:
   - url: assets/photography/2011_10_indien/dsc_8924.jpg
-    image_path: assets/photography/2011_10_indien/dsc_8924.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_8924.jpg
   - url: assets/photography/2011_10_indien/dsc_9166.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9166.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_9166.jpg
   - url: assets/photography/2011_10_indien/dsc_9169.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9169.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_9169.jpg
   - url: assets/photography/2011_10_indien/dsc_9137.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9137.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_9137.jpg
   - url: assets/photography/2011_10_indien/dsc_9144.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9144.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_9144.jpg
   - url: assets/photography/2011_10_indien/dsc_9153.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9153.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_9153.jpg
   - url: assets/photography/2011_10_indien/dsc_9164.jpg
-    image_path: assets/photography/2011_10_indien/dsc_9164.jpg
+    image_path: thumbnails/photography/2011_10_indien/dsc_9164.jpg
 categories:
   - Unterwegs
 tags:

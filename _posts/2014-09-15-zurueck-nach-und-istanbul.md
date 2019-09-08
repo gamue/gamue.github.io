@@ -3,17 +3,17 @@ title: Zurück nach und in Istanbul
 date: 2014-09-15T18:55:44+02:00
 permalink: /zurueck-nach-und-istanbul/
 header:
-    teaser: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
+    teaser: thumbnails/photography/2014_05_tuerkei/Tuerkei_056.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_056.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
-    image_path:  assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_384.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_290.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
+    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_348.jpg
 categories:
   - Unterwegs
 tags:
