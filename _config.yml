@@ -40,6 +40,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .idea
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - node_modules
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
