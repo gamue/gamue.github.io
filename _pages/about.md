@@ -27,6 +27,7 @@ visitedCountries:
       code: GE
     - name: Griechenland
       code: GR
+      link: /photography/kreta-2016/
     - name: Holland
       code: NL
       link: /photography/benelux-2010/
