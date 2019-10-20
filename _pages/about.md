@@ -45,6 +45,7 @@ visitedCountries:
       link: /photography/israel-2009/
     - name: Italien
       code: IT
+      link: /photography/rom-2016/
     - name: Japan
       code: JP
     - name: Jordanien
@@ -99,6 +100,7 @@ visitedCountries:
       code: TR
       link: /photography/tuerkei-2014/
     - name: Vatikan
+      link: /photography/rom-2016/
     - name: Vereinigte Arabische Emirate
       code: AE
       link: /photography/abu-dhabi-2014/
