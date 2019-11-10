@@ -1,0 +1,20 @@
+
+<div class="galleryPreview">
+    {% for item in include.pages %}
+    <article>
+        <a href="{{item.permalink}}">
+            <div class="meta"><h2>{{item.title}}</h2></div>
+            <section class="gallery">
+                {% if item.header.teaser %}
+                <div class="image" style="background-image: url('/{{item.header.teaser}}')"></div>
+                <div class="shadow">
+                    <div class="shadow-image" style="background-image: url('/{{item.header.teaser}}')"></div>
+                </div>
+                {% else %}
+                <div class="image"></div>
+                {% endif %}
+            </section>
+        </a>
+    </article>
+    {% endfor %}
+</div>

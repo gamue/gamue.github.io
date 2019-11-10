@@ -5,5 +5,8 @@ main:
   - title: "Photos"
     url: /photography/
 
+  - title: "Länder"
+    url: /laender/
+
   - title: "About"
     url: /about/

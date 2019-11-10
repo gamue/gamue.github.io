@@ -2,6 +2,10 @@
 title: Reisziel Indien, nur wohin?
 date: 2011-12-18T20:11:20+02:00
 permalink: /reisziel-indien-nur-wohin/
+header:
+    teaser: https://images.unsplash.com/photo-1532375810709-75b1da00537c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80
+    overlay_image: https://images.unsplash.com/photo-1532375810709-75b1da00537c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/9Dt4WutvwDs)"
 categories:
   - Unterwegs
 tags:

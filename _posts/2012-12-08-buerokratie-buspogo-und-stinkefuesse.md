@@ -2,6 +2,10 @@
 title: Bürokratie, Buspogo und Stinkefüße
 date: 2012-12-08T17:14:50+02:00
 permalink: /buerokratie-buspogo-und-stinkefuesse/
+header:
+    teaser: https://images.unsplash.com/photo-1548079638-a54e2a739a65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+    overlay_image: https://images.unsplash.com/photo-1548079638-a54e2a739a65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/xTjrbT_4moA)"
 gallery:
   - url: assets/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
     image_path: thumbnails/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
