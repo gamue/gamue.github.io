@@ -27,7 +27,6 @@ tags:
   - Deutschland
   - Hamburg
   - Reeperbahn
-  - Reise
 ---
 
 In Bremen hab ich einen Freund besucht, mit dem es dann gleich zum Fußballspielen weiterging. 

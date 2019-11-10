@@ -19,7 +19,6 @@ categories:
 tags:
   - Agra
   - Indien
-  - Reise
 ---
 
 Da es mit den Zugtickets am Vortag geklappt hatte, machte ich mich früh Richtung Agra auf. Am ersten Tag wollt ich mir 

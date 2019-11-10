@@ -26,11 +26,8 @@ tags:
   - Benares
   - Ganges
   - Indien
-  - Leichen
-  - Reise
   - Touristenfallen
   - Varanasi
-  - Verbrennung
 ---
 Das Gasthaus in dem ich genächtigt habe, hat am Morgen und am Abend gratis Bootstouren auf dem Ganges angeboten. 
 Genau die Boottouren, die einem jeder für teuer Geld (~1-2€) andrehen will wenn man mal etwas am Ufer entlang lauft.

@@ -22,7 +22,6 @@ tags:
   - Island
   - Landmannalaugar
   - Laugavegur
-  - Reise
   - Trekking
 ---
 

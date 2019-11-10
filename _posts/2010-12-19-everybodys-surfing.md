@@ -19,7 +19,6 @@ tags:
   - Den Haag
   - Holland
   - Niederlande
-  - Reise
   - Scheveningen
 ---
 

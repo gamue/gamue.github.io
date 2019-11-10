@@ -28,7 +28,6 @@ tags:
   - Eilean Donan Castle
   - Fairy Pools
   - Isle of Skye
-  - Reise
   - Schottland
   - Sligachan
 ---

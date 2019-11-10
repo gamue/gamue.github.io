@@ -9,7 +9,6 @@ categories:
   - Technik
   - Unterwegs
 tags:
-  - Actioncam
   - Laos
   - Nam Song
 ---

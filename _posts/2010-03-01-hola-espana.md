@@ -21,7 +21,6 @@ categories:
 tags:
   - Barcelona
   - CouchSurfing
-  - Reise
   - Spanien
 ---
 Nach einiger Zeit konnte ich wieder mal etwas die Welt bereisen, da ich geschäftlich nach Spanien musste habe ich mir 

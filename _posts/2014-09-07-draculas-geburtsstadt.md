@@ -19,8 +19,6 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Dracula
-  - Reise
   - Rumänien
   - Sighisoara
   - Transsilvanien

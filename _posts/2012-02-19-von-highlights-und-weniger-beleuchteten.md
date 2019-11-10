@@ -22,11 +22,8 @@ categories:
   - Unterwegs
 tags:
   - Agra
-  - "Don'ts"
   - Indien
-  - Reise
   - Taj Mahal
-  - Tourismus
 ---
 
 Kaum ein Auge zu getan ging es dann gegen 6 Uhr zwecks Sonnenaufgangs zum Taj Mahal, ein wirklich beeindruckendes Bauwerk. 

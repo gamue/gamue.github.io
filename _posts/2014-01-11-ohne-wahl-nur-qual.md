@@ -5,10 +5,7 @@ permalink: /ohne-wahl-nur-qual/
 categories:
   - Unterwegs
 tags:
-  - Essen
-  - Flugreise
   - Inverness
-  - Reise
   - Schottland
 ---
 Nach Schottland ging es zur Abwechslung zu meinen anderen Flügen mit einer „Billigairline“ von Berlin-Schönefeld aus, 

@@ -30,9 +30,7 @@ categories:
   - Unterwegs
 tags:
   - Göreme
-  - Heißluftballon
   - Kappadokien
-  - Reisen
   - Türkei
 ---
 Der Ausflug ins Zentrum der Türkei hat mit einem schmerzvollen Verlust begonnen, 

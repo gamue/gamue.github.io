@@ -23,12 +23,8 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Busfahrt
-  - Heiße Quellen
   - Island
   - Landmannalaugar
-  - Reise
-  - Tourismus
 ---
 
 Nach dem Bus-Fiasko am Vortag ging dann aber alles rund und in einem höher gelegten Gefährt wurde das nächste Ziel Landmannalaugar angesteuert. 

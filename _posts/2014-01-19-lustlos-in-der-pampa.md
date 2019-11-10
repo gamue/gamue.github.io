@@ -13,7 +13,6 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Reise
   - Schottland
   - Trekking
   - West Highland Way

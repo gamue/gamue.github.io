@@ -23,9 +23,6 @@ categories:
 tags:
   - Marokko
   - Marrakesch
-  - Programmieren
-  - Regenschauer
-  - Reise
   - Touristenfallen
 ---
 Am nächsten Morgen ging es mit einem Einheimischen-Bus in Richtung Marrakesch. 

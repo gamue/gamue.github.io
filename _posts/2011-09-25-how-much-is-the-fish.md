@@ -19,8 +19,6 @@ categories:
 tags:
   - Essaouira
   - Marokko
-  - Reise
-  - Verkehrschaos
 ---
 
 Gehört man in Deutschland zu den Beifahrern die fast einen Herzinfarkt bekommen wenn man mal etwas zu schnell fährt, 

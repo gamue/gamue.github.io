@@ -23,7 +23,6 @@ categories:
 tags:
   - Norwegen
   - Oslo
-  - Reise
 ---
 
 In meinem Freundeskreis ist Heiraten und Kinder kriegen in den letzten Jahren ziemlich angesagt, 

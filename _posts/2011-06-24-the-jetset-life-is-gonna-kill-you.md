@@ -5,9 +5,6 @@ permalink: /the-jetset-life-is-gonna-kill-you/
 categories:
   - Allgemein
   - Homepage
-tags:
-  - Homepage
-  - Programmieren
 ---
 Normalerweise ist mein Terminkalender ziemlich voll gestopft, die To-Do-Liste gefüllt und ich so gut wie immer mit irgendetwas beschäftigt. 
 So auch in den letzten 8 Wochen, die ein Paradebeispiel waren. 

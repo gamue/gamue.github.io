@@ -15,7 +15,6 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Ballermann
   - Mallorca
   - Spanien
 ---
@@ -33,7 +32,7 @@ Auf der Insel angekommen, ging es dann erstmal [ins Hotel](http://www.holidayche
 ersten Schock abholen. Dass es kein WLAN gab kann man ja irgendwie verschmerzen, 
 selbst mit dem Hintergrundwissen dass jede 2,50€-Bude im abgelegensten Winkel Nepals darüber verfügte. 
 Was aber im Prinzip gar nicht ging war der Hotelkomplex, der überall seinen 70er-Jahre-Charme versprühte. 
-Und ich meine nicht die hippen, farbenfrohen 70er, sondern die holzvertafelten, kirschhölzernen^^ 
+Und ich meine nicht die hippen,n farbenfrohen 70er, sondern die holzvertafelten, kirschhölzernen^^ 
 
 Die Eingangstür in mein Zimmer war auch nicht viel breiter als die Tür in Harry Potters Schrank, aber gut, 
 ich hab ja auch nicht das breiteste Kreuz, daher war mir das auch egal…Vermerken wir das Ganze einfach unter 

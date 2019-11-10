@@ -4,12 +4,6 @@ date: 2009-10-15T18:52:31+02:00
 permalink: /youre-my-hero/
 categories:
   - Technik
-tags:
-  - Android
-  - Google
-  - Handy
-  - HTC Hero
-  - Technik
 ---
 Yeah hab auch mal ein Smartphone mit Riesendisplay, Touchscreen und allem Firlefanz 😀
 Doch erstmal aus der Verpackung bekommen, die auf 0,01mm an die Maße angepasst wurde. Also drücken, hebeln und klopfen bis es endlich mal in der Hand ist 🙂

@@ -24,10 +24,7 @@ categories:
   - Unterwegs
 tags:
   - Chitwan
-  - Elefant
-  - Nashorn
   - Nepal
-  - Reise
 ---
 Bei einem kleinen Spaziergang durch den Ort bin ich auf alte Bekannte gestoßen, Jesse und Erica. 
 Die auch ganz zufällig im Hotel nebenan Unterschlupf gefunden haben. 

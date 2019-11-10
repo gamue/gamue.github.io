@@ -20,7 +20,6 @@ tags:
   - Himalaya
   - Nagarkot
   - Nepal
-  - Reise
 ---
 
 Der Kontrast von Kathmandu zu den anderen nepalesischen Städten die ich zuvor bereist hatte war doch schon sehr stark. 

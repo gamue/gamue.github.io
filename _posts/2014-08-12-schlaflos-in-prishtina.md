@@ -17,7 +17,6 @@ categories:
 tags:
   - Kosovo
   - Prishtina
-  - Reise
 ---
 
 Von Oslo aus ging es mit Norwegian Airlines nach Prishtina in den Kosovo. 

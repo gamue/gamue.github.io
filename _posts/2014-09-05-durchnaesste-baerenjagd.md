@@ -16,9 +16,7 @@ categories:
   - Unterwegs
 tags:
   - Brasov
-  - GPS Daten
   - Piatra Mare
-  - Reise
   - Rumänien
   - Trekking
 ---

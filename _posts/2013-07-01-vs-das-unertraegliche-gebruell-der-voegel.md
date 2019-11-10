@@ -16,7 +16,6 @@ categories:
   - Unterwegs
 tags:
   - Island
-  - Reise
   - Skaftafell
   - Svartifoss
 ---

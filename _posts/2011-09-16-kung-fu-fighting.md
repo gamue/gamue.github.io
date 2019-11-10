@@ -20,10 +20,8 @@ categories:
   - Unterwegs
 tags:
   - CouchSurfing
-  - Kung-Fu
   - Marokko
   - Ouarzazate
-  - Reise
 ---
 Irgendwie hatte ich das Gefühl, das ich auf dem Trip einfach nicht schlafen sollte, 
 denn meine Schlafgelegenheit hat sich nach Gefängnispritsche angefühlt und war ziemlich unbequem. 

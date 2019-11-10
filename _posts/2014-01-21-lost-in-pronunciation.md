@@ -5,8 +5,6 @@ permalink: /lost-in-pronunciation/
 categories:
   - Unterwegs
 tags:
-  - Hitchhiking
-  - Reise
   - Schottland
   - Stirling
 ---

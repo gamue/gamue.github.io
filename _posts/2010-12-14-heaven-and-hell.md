@@ -30,7 +30,6 @@ tags:
   - Holland
   - Kinderdjik
   - Niederlande
-  - Reise
   - Rotterdam
 ---
 Da die touristischen und architektonischen Attraktionen von Brüssel schnell erkundet waren, 

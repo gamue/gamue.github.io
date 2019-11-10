@@ -28,7 +28,6 @@ tags:
   - Chitwan
   - Nepal
   - Pokhara
-  - Reise
   - Touristenfallen
 ---
 

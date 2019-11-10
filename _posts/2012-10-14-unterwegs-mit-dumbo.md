@@ -16,9 +16,7 @@ categories:
   - Unterwegs
 tags:
   - Chitwan
-  - Elefant
   - Nepal
-  - Reise
 ---
 Am nächsten morgen ging es mit meinen Touriprogramm in Chitwan ungehindert weiter. 
 Eine der Hauptattraktionen sind Elefantensafaris, keine Frage musst ich natürlich auch machen 😉 

@@ -18,7 +18,6 @@ tags:
   - CouchSurfing
   - Kathmandu
   - Nepal
-  - Reise
 ---
 
 Nach einem längeren Schlaf wollt ich mich zu Fuß zum Busbahnhof aufmachen, 

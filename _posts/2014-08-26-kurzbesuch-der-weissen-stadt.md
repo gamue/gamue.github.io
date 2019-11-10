@@ -28,8 +28,6 @@ categories:
   - Unterwegs
 tags:
   - Belgrad
-  - Free Walking Tour
-  - Reise
   - Serbien
 ---
 

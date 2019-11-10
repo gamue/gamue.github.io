@@ -31,11 +31,7 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Camping
-  - Geocaching
-  - GPS Daten
   - Lacul Bucura
-  - Reise
   - Retezat
   - Rumänien
 ---

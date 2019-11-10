@@ -23,7 +23,6 @@ tags:
   - Golden Circle
   - Gulfoss
   - Island
-  - Reise
   - Reykjavik
 ---
 

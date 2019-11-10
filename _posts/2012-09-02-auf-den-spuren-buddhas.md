@@ -19,12 +19,9 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Buddhismus
   - Indien
   - Lumbini
-  - Meditation
   - Nepal
-  - Reise
 ---
 
 Bald hieß es auch schon Abschied nehmen aus Indien und auf Richtung Nepal. 

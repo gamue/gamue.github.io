@@ -11,9 +11,7 @@ categories:
   - Unterwegs
 tags:
   - Delhi
-  - Flugzeug
   - Indien
-  - Reise
 ---
 
 Von Kathmandu ging es mit dem Flieger erst nach Delhi und am nächsten Tag sollte es dann wieder zurück nach Deutschland gehen. 

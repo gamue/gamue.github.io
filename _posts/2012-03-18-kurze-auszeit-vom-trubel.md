@@ -21,7 +21,6 @@ categories:
 tags:
   - Indien
   - Orchha
-  - Reise
 ---
 
 Neben dem Taj Mahal und dem Roten Fort gibt es in Agra nicht wirklich viel zu sehen, daher hat es mich auch bald schon weiter getrieben, 

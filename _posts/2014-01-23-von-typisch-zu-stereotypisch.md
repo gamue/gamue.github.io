@@ -21,9 +21,7 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Reise
   - Schottland
-  - Stereotypen
   - Stirling
 ---
 

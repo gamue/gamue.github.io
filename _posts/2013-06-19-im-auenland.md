@@ -23,7 +23,6 @@ categories:
 tags:
   - Island
   - Laugavegur
-  - Reise
   - Trekking
   - Þórsmörk
 ---

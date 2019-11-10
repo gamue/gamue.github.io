@@ -16,8 +16,6 @@ categories:
   - Unterwegs
 tags:
   - Edinburgh
-  - Free Walking Tour
-  - Reise
   - Schottland
 ---
 

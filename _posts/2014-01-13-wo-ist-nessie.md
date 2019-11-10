@@ -23,7 +23,6 @@ categories:
 tags:
   - Inverness
   - Loch Ness
-  - Reise
   - Schottland
 ---
 

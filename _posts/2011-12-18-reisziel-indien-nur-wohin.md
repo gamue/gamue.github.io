@@ -7,7 +7,6 @@ categories:
 tags:
   - Indien
   - Nepal
-  - Vorbereitung
 ---
 
 Wie auch die letzten Jahre ging meine Hauptreisesaison dieses Jahr wieder gegen Sommerende los. 

@@ -15,7 +15,6 @@ categories:
 tags:
   - Delhi
   - Indien
-  - Reise
   - Touristenfallen
 ---
 

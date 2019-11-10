@@ -21,9 +21,7 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Hotel
   - Nepal
-  - Reise
   - Tansen
 ---
 

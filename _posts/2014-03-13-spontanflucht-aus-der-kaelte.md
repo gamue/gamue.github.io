@@ -20,9 +20,6 @@ tags:
   - Ägypten
   - Assuan
   - Marsa Alam
-  - Nilkreuzfahrt
-  - Reise
-  - Tourismus
 ---
 Ende November 2013 flatterte eine Mail mit dem Hinweis auf einen spontanen Ägypten-Trip in mein Postfach. 
 Da in Berlin zu der Zeit einstellige Temperaturen herrschten und ich kein Freund von Kälte und Winter bin, 

@@ -25,10 +25,8 @@ tags:
   - Göteborg
   - Linköping
   - Örebro
-  - Reise
   - Schweden
   - Stockholm
-  - Technik
 ---
 Nach dem BeNeLux-Roadtrip hab ich mir ne Woche Verschnaufpause gegönnt, aber dann ging’s auch schon weiter nach Stockholm, 
 sonst wird’s mir ja langweilig 😉 Als ich mein Gepäck zusammen suchte, ist mir aufgefallen, 

@@ -19,7 +19,6 @@ categories:
 tags:
   - Benares
   - Indien
-  - Reise
   - Varanasi
 ---
 

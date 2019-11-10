@@ -34,7 +34,6 @@ categories:
   - Unterwegs
 tags:
   - Istanbul
-  - Reisen
   - Türkei
 ---
 Anfang 2014 kam ich wieder auf die Idee, dass ich etwas länger durch Asien touren wollen würde, 

@@ -21,11 +21,8 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Essen
   - Indien
   - Khajuraho
-  - Tempel
-  - Tourismus
   - Touristenfallen
 ---
 

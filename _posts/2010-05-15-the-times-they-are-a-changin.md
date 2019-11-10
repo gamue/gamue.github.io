@@ -6,8 +6,6 @@ categories:
   - Allgemein
 tags:
   - Braindump
-  - Leben
-  - WG
 ---
 Die Zeit rast unaufhaltsam und um einen herum ändert sich alles. 
 Hätte mir jemand Anfang letzten Jahres gesagt, was alles passieren wird und wo ich jetzt stehe, hätte ich ihn wahrscheinlich als Spinner abgetan.  

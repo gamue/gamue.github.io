@@ -23,13 +23,10 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Busfahrt
   - Island
-  - Reise
   - Seljalandsfoss
   - Skogar
   - Skogarfoss
-  - Wasserfall
 ---
 Der Wanderweg war hinter uns, daher hätte ich zur Abwechslung mal ausschlafen können. 
 Die Sonne schien aber etwas dagegen zu haben, denn das Zelt hatte sich bei nun strahlendem Sonnenschein aufgehitzt…

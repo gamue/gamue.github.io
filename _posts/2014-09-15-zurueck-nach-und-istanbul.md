@@ -17,10 +17,7 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Busfahrt
   - Istanbul
-  - Nachtbus
-  - Reise
   - Türkei
 ---
 Die Rückfahrt von Kappadokien nach Istanbul war leider nicht so komfortabel, 

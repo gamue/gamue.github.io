@@ -20,8 +20,6 @@ categories:
   - Unterwegs
 tags:
   - Bukarest
-  - Free Walking Tour
-  - Reise
   - Rumänien
 ---
 Während Markus zurück nach Sibiu fuhr, um von dort aus nach Hause zu fliegen, verschlug es mich noch ein paar Tage nach Bukarest. 

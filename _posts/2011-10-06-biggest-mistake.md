@@ -18,9 +18,7 @@ categories:
   - Unterwegs
 tags:
   - Fes
-  - Krankheit
   - Marokko
-  - Reise
   - Touristenfallen
 ---
 

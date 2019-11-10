@@ -21,8 +21,6 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Golfen
-  - Reise
   - Schottland
   - St. Andrews
 ---

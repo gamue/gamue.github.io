@@ -23,10 +23,8 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Eis
   - Island
   - Jökulsarlon
-  - Reise
 ---
 
 Am nächsten Morgen war ich wider Erwarten immer noch in Skaftafell 😉

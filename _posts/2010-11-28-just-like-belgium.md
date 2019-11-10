@@ -27,7 +27,6 @@ tags:
   - Brüssel
   - CouchSurfing
   - Han-Sur-Lesse
-  - Reise
 ---
 Eigentlich dachte ich, ich komm schneller dazu die Reisegeschichten weiterzuerzählen, 
 aber nun ja ich bin eben ein viel beschäftigter Mensch xD Aber ich hab’s mir echt vorgenommen, 

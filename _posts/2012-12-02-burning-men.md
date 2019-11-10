@@ -21,7 +21,6 @@ categories:
 tags:
   - Bodnath
   - Kathmandu
-  - Leichen
   - Nepal
   - Pashupatinath  
 ---

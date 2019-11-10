@@ -24,10 +24,7 @@ categories:
   - Unterwegs
 tags:
   - Chitwan
-  - Dschungel
   - Nepal
-  - Reise
-  - Tourismus
 ---
 5.30Uhr hieß es raus aus den Federn und fertig machen um zusammen mit Jesse, Erica und 2 Guides im Unterholz des 
 Nationalparks rum zu kriechen. Von den Guides hatte jeder einen Bambusstock um wilde Tiere abzuwehren. 

@@ -15,7 +15,6 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Reise
   - Rumänien
   - Timisoara
 ---

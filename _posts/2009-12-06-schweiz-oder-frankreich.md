@@ -18,7 +18,6 @@ categories:
   - Unterwegs
 tags:
   - Lausanne
-  - Reise
   - Schweiz
 ---
 Abends vom Flughafen und dem Reifenwechseln zurückgekommen hieß es den nächsten Koffer packen um damit am nächsten Morgen in die Schweiz zu fahren. 

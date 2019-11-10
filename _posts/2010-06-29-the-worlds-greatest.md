@@ -5,11 +5,7 @@ permalink: /the-worlds-greatest/
 categories:
   - Allgemein
 tags:
-  - Biofanatismus
   - Braindump
-  - Fleischesser
-  - Gesellschaft
-  - Leben
 ---
 Ein Satz, den ich in meinem Leben schon unzählige Male gehört habe ist „Warum isst du das nicht, ist das zu gesund?“. 
 Eine Frage bei der ich immer leichte Aggressionen bekomme.  

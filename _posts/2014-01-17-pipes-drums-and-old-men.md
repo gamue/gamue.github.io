@@ -24,7 +24,6 @@ tags:
   - Isle of Skye
   - Old Man of Storr
   - Portree
-  - Reise
   - Schottland
 ---
 

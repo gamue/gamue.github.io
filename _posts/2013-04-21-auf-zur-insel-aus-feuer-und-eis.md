@@ -12,9 +12,7 @@ categories:
   - Unterwegs
 tags:
   - Equipment
-  - Gepäck
   - Island
-  - Reise
 ---
 Mein letzter Blogbeitrag ist schon ziemlich lange her, was mit unter an chronischem Zeitmangel liegt. 
 In der Zwischenzeit bin ich nach Berlin umgesiedelt, wo ich geschäftlich ziemlich verplant bin und mich aber nebenher auch noch ganz gut eingelebe. 

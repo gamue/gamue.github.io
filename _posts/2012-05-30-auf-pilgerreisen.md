@@ -21,7 +21,6 @@ categories:
 tags:
   - Ganges
   - Indien
-  - Reise
   - Sarnath
   - Varanasi
 ---

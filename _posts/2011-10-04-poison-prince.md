@@ -22,9 +22,7 @@ categories:
   - Unterwegs
 tags:
   - Casablanca
-  - Essen
   - Marokko
-  - Reise
 ---
 
 Casablanca, wenn man das in Pforzheim nennt, wird meistens ein Hip-Hop-Schuppen mit überwiegend osteuropäischer Kundschaft damit assoziiert. 

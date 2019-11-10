@@ -21,7 +21,6 @@ categories:
 tags:
   - Alsdorf
   - Luxemburg
-  - Reise
 ---
 Alsdorf, Luxemburg, die Ardennen, Brüssel, Gent, Brügge, Antwerpen, Rotterdam, Den Haag, Amsterdam, Bremen, Bremerhaven, 
 Hamburg, Stockholm, Göteborg, Örebro und Linköping. 

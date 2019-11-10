@@ -12,7 +12,6 @@ categories:
   - Unterwegs
 tags:
   - Equipment
-  - Reise
   - Schottland
 ---
 

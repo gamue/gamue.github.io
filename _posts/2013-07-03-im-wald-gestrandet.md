@@ -21,9 +21,7 @@ categories:
 tags:
   - Golden Circle
   - Island
-  - Reise
   - Thingvellir
-  - Tourismus
 ---
 
 Wie schon erwähnt hatten wir den Plan der Inselumrundung aufgegeben, doch was sollte man mit den restlichen Tagen auf der Insel machen? 

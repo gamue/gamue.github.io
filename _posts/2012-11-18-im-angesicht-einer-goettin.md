@@ -21,13 +21,8 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Durbar Square
   - Kathmandu
-  - Kumari
   - Nepal
-  - Reise
-  - Swayambunath
-  - Tourismus
 ---
 
 Mein erstes Ziel war Swayambunath, eine auf einem Berg gelegene Stupa. Da dort eine sehr große Menge Affen, 

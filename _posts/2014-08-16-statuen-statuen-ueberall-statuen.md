@@ -22,7 +22,6 @@ categories:
   - Unterwegs
 tags:
   - Mazedonien
-  - Reise
   - Skopje
 ---
 

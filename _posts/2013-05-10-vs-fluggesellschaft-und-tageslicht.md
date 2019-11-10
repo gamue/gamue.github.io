@@ -5,9 +5,7 @@ permalink: /vs-fluggesellschaft-und-tageslicht/
 categories:
   - Unterwegs
 tags:
-  - Flugreise
   - Island
-  - Reise
   - Reykjavik
 ---
 Unser Flug ging spät abends und sollte eigentlich ein Direktflug sein, 

@@ -23,10 +23,8 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Furten
   - Island
   - Laugavegur
-  - Reise
   - Trekking
 ---
 

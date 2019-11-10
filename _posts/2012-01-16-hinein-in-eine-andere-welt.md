@@ -19,10 +19,7 @@ categories:
 tags:
   - CouchSurfing
   - Delhi
-  - Essen
-  - Flug
   - Indien
-  - Reise
 ---
 An einem Samstagabend im Oktober ging es dann ins Flugzeug, so dass ich am nächsten Morgen in Delhi ankam. 
 Der Flug war recht unspektakulär und die knapp 9h Flug waren viel mit Schlaf verbracht. 

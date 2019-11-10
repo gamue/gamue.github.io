@@ -23,8 +23,6 @@ categories:
 tags:
   - Fes
   - Marokko
-  - Reise
-  - Tourismus
   - Touristenfallen
 ---
 Am nächsten Tag ging es zur Erkundungstour in die Altstadt von Fes. War es morgens noch recht menschenleer, 

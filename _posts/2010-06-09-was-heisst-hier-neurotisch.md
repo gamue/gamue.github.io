@@ -6,8 +6,6 @@ categories:
   - Allgemein
 tags:
   - Braindump
-  - Neurosen
-  - WG
 ---
 Wie einige wissen wohne ich ja in einer WG mit zwei Mädels, immer wenn ich das jemandem gesagt hat war die Reaktionen meistens: 
 „Ohhh, du tust mir leid“. Da hab ich mich immer gefragt: Warum? Was ist daran so schlimm bzw. schlecht?

@@ -13,7 +13,6 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Hochzeit
   - Kosovo
   - Prishtina
 ---

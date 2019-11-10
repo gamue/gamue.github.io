@@ -6,7 +6,6 @@ categories:
   - Allgemein
 tags:
   - Braindump
-  - Leben
 ---
 
 Da meine Reisen mich öfter mal in Gegenden führen, die nicht so ganz als sicher gelten und auch schon an vielen 

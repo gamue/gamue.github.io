@@ -10,10 +10,7 @@ categories:
   - Technik
   - Unterwegs
 tags:
-  - Apps
   - Equipment
-  - Reise
-  - Smartphone
 ---
 
 Auf Reisen hat man meistens so allerhand Gepäck dabei und weil ich nun doch schon den ein oder anderen Trip in meinem bisherigen Leben gemacht hab, 

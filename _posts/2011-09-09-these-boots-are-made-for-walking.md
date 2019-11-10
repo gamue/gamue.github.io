@@ -42,7 +42,6 @@ tags:
   - Errachidia
   - Marokko
   - Merzouga
-  - Reise
   - Sahara
   - Touristenfallen
   - Wüste

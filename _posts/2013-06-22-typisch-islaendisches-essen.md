@@ -17,10 +17,7 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Essen
   - Island
-  - Reise
-  - Trolle
   - Vik
 ---
 Von Skogar aus ging es in das von der Landkarte angepriesene „Handels- und Kulturzentrum der Region“ welches den Namen Vik trägt. 

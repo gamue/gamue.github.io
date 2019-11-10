@@ -16,12 +16,9 @@ categories:
   - Unterwegs
 tags:
   - Brasov
-  - Dracula
   - Petrosani
-  - Reise
   - Rumänien
   - Touristenfallen
-  - Zugfahrt
 ---
 
 Nach der Wanderung sind wir in Petrosani gelandet, wo wir die Nacht verbringen wollten. 

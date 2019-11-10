@@ -17,10 +17,7 @@ gallery:
 categories:
   - Unterwegs
 tags:
-  - Camping
-  - Essen
   - Island
-  - Reise
   - Reykjavik
 ---
 

@@ -15,7 +15,6 @@ categories:
 tags:
   - Dänemark
   - Kopenhagen
-  - Reise
 ---
 Nachdem ich die letzte Zeit recht viel unterwegs war, bin ich endlich dazu gekommen ein paar Bilder meiner kleinen Trips online zustellen (unter Photos->Sonstiges).  
 Nachdem ich ein Wochenende bei einem Freund am Bodensee verbracht habe, ging’s direkt weiter nach Zürich zum Flughafen um mit dem zweiten Koffer im Kofferraum geschäftlich nach Dänemark zu fliegen 🙂
