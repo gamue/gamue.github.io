@@ -32,12 +32,21 @@ div.archive__item-content-container .page__meta span{
     padding-right: 2em;
 }
 
+div.grid__item div.archive__item-content-container .page__meta{
+    display: none;
+}
+.grid__item .archive__item-teaser {
+    height: 200px;
+    max-height: 200px;
+}
+
 div.archive__item-teaser-wrapper{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     float: left;
     margin-right: 1em;
 }
+div.archive__item-teaser img,
 div.archive__item-teaser-wrapper img{
     object-fit: cover;
     width: 100%;

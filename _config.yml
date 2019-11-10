@@ -86,6 +86,11 @@ defaults:
       type: pages
     values:
       classes: galleryPage
+  - scope:
+      path: _pages/countries
+      type: pages
+    values:
+      classes: galleryPage
 
 category_archive:
   type: liquid
