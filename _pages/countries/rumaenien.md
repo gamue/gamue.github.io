@@ -8,6 +8,8 @@ header:
 
 Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und hab mir vorgenommen wiederzukommen.
 
+[Zur Bildergalerie](/photography/suedosteuropa-2013/){: .btn .btn--primary}
+
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=104xblik_61hUGYdsez4n_sM9fFgYUcY6" width="100%" height="550px"></iframe>
 

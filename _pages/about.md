@@ -33,13 +33,13 @@ visitedCountries:
       link: /photography/benelux-2010/
     - name: Indien
       code: IN
-      link: /photography/indien-2011/
+      link: /indien/
     - name: Irland
       code: IE
-      link: /photography/irland-2009/
+      link: /irland/
     - name: Island
       code: IS
-      link: /photography/island-2012/
+      link: /island/
     - name: Israel
       code: IL
       link: /photography/israel-2009/
@@ -63,12 +63,12 @@ visitedCountries:
       link: /photography/benelux-2010/
     - name: Marokko
       code: MA
-      link: /photography/marokko-2011/
+      link: /marokko/
     - name: Mazedonien
       code: MK
     - name: Nepal
       code: NP
-      link: /photography/nepal-2011/
+      link: /nepal/
     - name: Norwegen
       code: "NO"
       link: /photography/suedosteuropa-2013/
@@ -78,9 +78,9 @@ visitedCountries:
       code: PL
     - name: Rumänien
       code: RO
-      link: /photography/suedosteuropa-2013/
+      link: /rumaenien/
     - name: Schottland
-      link: /photography/schottland-2013/
+      link: /schottland/
     - name: Schweden
       code: SE
       link: /photography/schweden-2010/
@@ -106,7 +106,7 @@ visitedCountries:
       link: /photography/abu-dhabi-2014/
     - name: Vietnam
       code: VN
-    - name: Zypern 
+    - name: Zypern
       code: CY
       link: /photography/zypern-2015/
 ---

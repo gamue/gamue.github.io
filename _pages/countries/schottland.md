@@ -8,6 +8,8 @@ header:
 
 Im Juli 2013 ging es mal wieder auf Erkundungstour, dieses Mal nach Schottland. Highland- und Whiskytour inklusive^^
 
+[Zur Bildergalerie](/photography/schottland-2013/){: .btn .btn--primary}
+
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e" width="100%" height="550px"></iframe>
 
