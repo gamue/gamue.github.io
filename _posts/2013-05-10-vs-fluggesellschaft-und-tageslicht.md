@@ -2,6 +2,8 @@
 title: vs Fluggesellschaft und Tageslicht
 date: 2013-05-10T18:38:39+02:00
 permalink: /vs-fluggesellschaft-und-tageslicht/
+header:
+    teaser: thumbnails/photography/2012_06_island/dsc_1721.jpg
 categories:
   - Unterwegs
 tags:
