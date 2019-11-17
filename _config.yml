@@ -12,7 +12,7 @@ name: "Johannes Ganzenmüller"
 email: johannes@gamue.de
 description: "Über Reisen, Photographie, Technik, Leben und sonstigen Spaß"
 baseurl: ""
-url: ""
+url: "https://gamue.de"
 logo: "assets/images/j_logo_75.jpg"
 masthead_title: " "
 words_per_minute: 200
@@ -62,6 +62,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+comments:
+  provider: 'disqus'
+  disqus:
+    shortname: 'gamue'
+
 defaults:
   # _posts
   - scope:
@@ -69,6 +74,7 @@ defaults:
       type: posts
     values:
       layout: single
+      comments: true
       author_profile: false
       read_time: true
       header:
@@ -91,6 +97,7 @@ defaults:
       type: pages
     values:
       classes: galleryPage
+      comments: true
 
 category_archive:
   type: liquid
