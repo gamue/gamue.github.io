@@ -93,7 +93,7 @@ visitedCountries:
       code: ES
     - name: Sri Lanka
       code: LK
-      link: /photography/sri-lanka-2016/
+      link: /sri-lanka/
     - name: Thailand
       code: TH
       link: /photography/thailand-2014/

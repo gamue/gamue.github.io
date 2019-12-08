@@ -1,0 +1,23 @@
+{% assign teaser = place.image %}
+
+<div class="grid__item">
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if teaser %}
+    <div class="archive__item-teaser">
+        <img src=
+        {% if teaser contains "://" %}
+            "{{ teaser }}"
+        {% else %}
+            "{{ teaser | relative_url }}"
+        {% endif %}
+        alt="">
+    </div>
+    {% endif %}
+
+    <h2 class="archive__item-title" itemprop="headline">{{ place.name }}</h2>
+
+    <div class="archive__item-content-container">
+        <div><p class="archive__item-excerpt" itemprop="description">{{ place.description }}</p></div>
+    </div>
+</article>
+</div>
