@@ -42,7 +42,7 @@ visitedCountries:
       link: /island/
     - name: Israel
       code: IL
-      link: /photography/israel-2009/
+      link: /israel/
     - name: Italien
       code: IT
       link: /photography/rom-2016/
