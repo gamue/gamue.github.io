@@ -41,8 +41,4 @@ dieses Mal jedoch nur um kurz später [die Grenze nach Jordanien zu überqueren]
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gTrthySd7p8YgZFCoLWVuzr80VjZHbOR" width="100%" height="550px"></iframe>
 
 ### Stationen
-<div>
-{% for place in page.itinerary %}
-    {% include itinerary.html %}
-{% endfor %}
-</div>
+{% include itinerary.html %}
