@@ -55,7 +55,7 @@ visitedCountries:
       link: /photography/suedosteuropa-2013/
     - name: Laos
       code: LA
-      link: /photography/laos-2014/
+      link: /laos/
     - name: Lettland
       code: LV
     - name: Luxemburg
