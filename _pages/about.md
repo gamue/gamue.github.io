@@ -96,7 +96,7 @@ visitedCountries:
       link: /sri-lanka/
     - name: Thailand
       code: TH
-      link: /photography/thailand-2014/
+      link: /thailand/
     - name: Türkei
       code: TR
       link: /photography/tuerkei-2014/

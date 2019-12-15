@@ -19,7 +19,7 @@ itinerary:
       description: Hauptstadt von Laos und nach den kleineren Städten zuvor, wieder mehr Zivilisation. Mit dem Triumphbogen und einigen Tempeln hat es kulturell einiges zu bieten, auch wenn ich die vorherigen Stationen wegen deren grüner Umgebung und Gelassenheit immer vorziehen würde, trotzdem fand ich es eine schöne Stadt in der man ein paar Tage bleiben kann.
 ---
 
-Da ich im November 2014 im Norden Thailands unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. 
+Da ich im November 2014 im [Norden Thailands](/thailand/) unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. 
 Auch wenn ich nur einen kleinen Teil des Landes gesehen habe, war dieser sehr beeindruckend und hat genau dem 
 entsprochen was ich wollte. Ich kann das Land in jedem Fall weiterempfehlen und würde in jedem Fall wieder hingehen.
 
