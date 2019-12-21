@@ -31,5 +31,4 @@ Die beiden Länder lassen sich super kombinieren und die Orte, die man sich gern
 ## Reiseroute 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK" width="100%" height="550px"></iframe>
 
-
 {% include itinerary.html %}

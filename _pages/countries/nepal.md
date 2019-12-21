@@ -18,11 +18,4 @@ die schöne Natur und das umfangreiche Tierreich genießen, bevor es zum Ausklan
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq" width="100%" height="550px"></iframe>
 
-## Artikel über Nepal
-<div>
-{% for post in site.posts %}
-  {% if post.tags contains 'Nepal' %}
-    {% include archive-single.html type="grid" %}
-  {% endif %}
-{% endfor %}
-</div>
+{% include posts-with-tag.html tag="Nepal" %}

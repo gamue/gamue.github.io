@@ -16,11 +16,4 @@ zur nepalesischen Grenze in Sonauli.
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16H6_4xl5uwt91PZLog8xUBhNvYb4LN40" width="100%" height="550px"></iframe>
 
-## Artikel über Indien
-<div>
-{% for post in site.posts %}
-  {% if post.tags contains 'Indien' %}
-    {% include archive-single.html type="grid" %}
-  {% endif %}
-{% endfor %}
-</div>
+{% include posts-with-tag.html tag="Indien" %}
