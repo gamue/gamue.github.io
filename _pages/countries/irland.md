@@ -36,5 +36,4 @@ Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die Inse
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-gC4MwTGzumDA2P9jK_jIpBuZtpb7gsB" width="100%" height="550px"></iframe>
 
-### Stationen
 {% include itinerary.html %}

@@ -37,5 +37,4 @@ und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, w
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW" width="100%" height="550px"></iframe>
 
-### Stationen
 {% include itinerary.html %}

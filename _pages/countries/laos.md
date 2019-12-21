@@ -28,5 +28,4 @@ entsprochen was ich wollte. Ich kann das Land in jedem Fall weiterempfehlen und 
 ## Reiseroute
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr" width="100%" height="550px"></iframe>
 
-### Stationen
 {% include itinerary.html %}
