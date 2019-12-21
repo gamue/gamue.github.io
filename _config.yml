@@ -33,7 +33,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gamue"
 
-
 include:
   - _pages
 exclude:
@@ -105,3 +104,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  blanklines: false
+  profile: false
