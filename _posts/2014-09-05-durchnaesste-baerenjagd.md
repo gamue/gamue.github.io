@@ -36,7 +36,7 @@ aber ich war schon enttäuscht, dass wir keine Bären im Retezat gesehen haben. 
 Als er dann meinte, dass er in einem relativ nahen Wandergebiet ein kleines Bärenbaby gesehen hatte, 
 wurden meine Ohren größer und wir hatten quasi unser Wanderziel.
 
-[Piatra Mare](http://de.wikipedia.org/wiki/Piatra-Mare-Gebirge), was der Name des Gebiets war, 
+[Piatra Mare](https://de.wikipedia.org/wiki/Piatra-Mare-Gebirge), was der Name des Gebiets war, 
 war mit dem Linienbus leicht erreichbar und kurze Zeit später war man schon in einem Wald, 
 in dem ich immer wieder Ausschau nach Bären- und Wolfsspuren hielt, um es vorweg zu nehmen: Wir haben leider keines von beiden getroffen 🙁
 

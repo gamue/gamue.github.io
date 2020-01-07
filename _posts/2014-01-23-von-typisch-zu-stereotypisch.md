@@ -26,12 +26,12 @@ tags:
 ---
 
 Die Altstadt von Stirling ist sehr überschaubar, aber dennoch schön. Auf einem kleinen Hügel vor den Toren der Stadt steht das Wallace Monument, 
-was an das Leben von <del>Mel Gibson</del> William Wallace und den Sieg bei der „<a href="http://de.wikipedia.org/wiki/Schlacht_von_Stirling_Bridge" target="_blank">Schlacht an der Stirling Brücke</a>“ erinnern soll. 
+was an das Leben von <del>Mel Gibson</del> William Wallace und den Sieg bei der „<a href="https://de.wikipedia.org/wiki/Schlacht_von_Stirling_Bridge" target="_blank">Schlacht an der Stirling Brücke</a>“ erinnern soll. 
 Auch sonst bietet Stirling geschichtlich einiges, vieles davon war sogar auch interessant 😉
 
 Da ich ja recht planlos nach Stirling gegangen bin, wusste ich nicht wirklich was man alles machen konnte, 
 schlimm war es aber nicht, da ich leicht die Zeit gefüllt bekommen habe. Unweit von Stirling liegt auch eine 
-<a href="http://www.deanstonmalt.com/" target="_blank">Whisky-Destille</a> die man mit dem Linienbus erreichen kann und da 
+<a href="https://www.deanstonmalt.com/" target="_blank">Whisky-Destille</a> die man mit dem Linienbus erreichen kann und da 
 Whisky zweifelsfrei zu Schottland gehört war ich wohl gezwungen mir die Herstellung dieses Nationalguts näher anzuschauen 😛
 
 Prinzipiell schon interessant wie das ganze abläuft, da ich aber auch schon in Brauereien gesehen habe wie Bier hergestellt wird 

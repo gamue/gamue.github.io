@@ -12,8 +12,8 @@ gallery:
     image_path: /assets/photography/2011_05_marokko/dsc_5634.jpg
   - url: /assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
     image_path: /assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg"
-    image_path: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg
   - url: /assets/photography/2011_05_marokko/dsc_5714.jpg
     image_path: /assets/photography/2011_05_marokko/dsc_5714.jpg
   - url: /assets/photography/2011_05_marokko/dsc_5773.jpg
@@ -24,8 +24,8 @@ gallery:
     image_path: /assets/photography/2011_05_marokko/dsc_5790.jpg
   - url: /assets/photography/2011_05_marokko/dsc_5840.jpg
     image_path: /assets/photography/2011_05_marokko/dsc_5840.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5916.jpg"
-    image_path: /assets/photography/2011_05_marokko/dsc_5916.jpg"
+  - url: /assets/photography/2011_05_marokko/dsc_5916.jpg
+    image_path: /assets/photography/2011_05_marokko/dsc_5916.jpg
   - url: /assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg
     image_path: /assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg
   - url: /assets/photography/2011_05_marokko/dsc_6000_6003.jpg

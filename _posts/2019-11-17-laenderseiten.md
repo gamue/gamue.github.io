@@ -17,4 +17,4 @@ ggf. die zugehörigen Blogartikel noch nicht viel auf den Seiten zu sehen, aber 
 Falls ihr Fragen zu einem Land habt, das nicht aufgeführt ist, gibt einfach Bescheid und ich schau, dass ich es zeitnah nachziehe.
 Zudem befindet sich nun bei jedem Post und jeder Länderseite die Möglichkeit Kommentare zu hinterlassen. 
 
-Die Seiten findet ihr oben im Menü oder einfach [hier klicken](/laender).  
+Die Seiten findet ihr oben im Menü oder einfach [hier klicken](/laender/).  
