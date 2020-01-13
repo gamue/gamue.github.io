@@ -17,8 +17,8 @@ dementsprechend stand sie schon auch schon länger auf meiner Reiseliste.
 Wer auch mit dem Gedanken spielt, sich Petra, oder eine andere der vielen Sehenswürdigkeiten in Jordanien anzuschauen, 
 der findet in diesem Artikel meine Recherchen, wie man am einfachsten und günstigen dorthin kommt.
 
-An dieser Stelle ein kleiner Hinweis: Das sind die Optionen, die ich in Betracht gezogen habe oder von denen ich wusste, 
-ich habe erhebe keinen Anspruch auf Vollständigkeit. Auch kann sich bei den Optionen zwischenzeitlich etwas geändert haben, 
+An dieser Stelle ein kleiner Hinweis: Das sind die Optionen, die ich in Betracht gezogen habe oder von denen ich wusste. 
+Ich erhebe keinen Anspruch auf Vollständigkeit. Auch kann sich bei den Optionen zwischenzeitlich etwas geändert haben, 
 gerade beim Visum oder den Kosten sollte jeder nochmal selbst recherchieren.
 
 ## Über Eilat nach Aqaba
