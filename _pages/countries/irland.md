@@ -29,11 +29,9 @@ itinerary:
 ---
 
 Anfang 2009 führte mich meine erste Flugreise nach Irland. 
-Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die Insel.
+Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die (noch nicht wirklich grüne) Insel.
 
 [Zur Bildergalerie](/photography/irland-2009/){: .btn .btn--primary}
 
-## Reiseroute
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-gC4MwTGzumDA2P9jK_jIpBuZtpb7gsB" width="100%" height="550px"></iframe>
-
+{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=1-gC4MwTGzumDA2P9jK_jIpBuZtpb7gsB" %}
 {% include itinerary.html %}

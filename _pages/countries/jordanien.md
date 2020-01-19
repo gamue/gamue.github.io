@@ -16,19 +16,12 @@ itinerary:
       description: "Aus meiner Sicht eine eher unspannende Stadt und hätte ich keinen frühen Flug erwischen müssen, wäre ich dort vermutlich auch nicht abgestiegen. Prinzipiell hat Aqaba zwei große Vorteile:  Man kommt durch den Flughafen und die Grenze zu Israel gut hin bzw. weg, und es liegt am Roten Meer, was es für Bade- oder Tauchurlauber interessant macht. Eine Nacht hat für mich in jedem Fall ausgereicht."
 ---
 
-<p class="notice--warning">
-Diese Seite befindet sich noch im Aufbau und wird noch mehr Informationen und Bilder bekommen, sobald ich es geschafft habe die zugehörigen Reisebildern durchzugehen.
-
-Bei Fragen nutze einfach die Kommentare oder <a href="/contact/">kontaktiere mich anderweitig</a> ;)
-</p>
+{% include country-wip.html %}
 
 Meine Jordanien Reise im November 2011 war recht spontan, ich hatte noch einige Urlaubstage übrig und wollte nochmal in die Wärme. Da hat es sich angeboten, dass eine neue Billigflug-Verbindung gestartet ist und ich auf ein entsprechendes Schnäppchen gestoßen bin.
 
 Wadi Rum und Petra hatten schon lange Zeit eine gewisse Anziehungskraft auf mich, umso schöner war es beides mit meinen eigenen Augen zu sehen. Am Ende wurden meine Erwartungen sogar übertroffen und kann beides nur wärmstens empfehlen.
 
-## Reiseroute
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" width="100%" height="550px"></iframe>
-
+{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
 {% include itinerary.html %}
-
 {% include posts-with-tag.html tag="Jordanien" %}
