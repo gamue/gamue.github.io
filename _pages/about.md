@@ -25,6 +25,7 @@ visitedCountries:
       code: FR
     - name: Georgien
       code: GE
+      link: /georgien/
     - name: Griechenland
       code: GR
       link: /photography/kreta-2016/
@@ -50,6 +51,7 @@ visitedCountries:
       code: JP
     - name: Jordanien
       code: JO
+      link: /jordanien/
     - name: Kosovo
       code: XK
       link: /photography/suedosteuropa-2013/
