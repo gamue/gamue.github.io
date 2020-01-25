@@ -37,5 +37,5 @@ Im Vorfeld haben sich viele kritisch über die Sicherheit geäußert, aber aus m
 Etliche Jahre später hat es mich nochmal nach Israel verschlagen, 
 dieses Mal jedoch nur um kurz später [die Grenze nach Jordanien zu überqueren](/guenstig-nach-jordanien/).  
 
-{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=1gTrthySd7p8YgZFCoLWVuzr80VjZHbOR" %}
+{% include route.html mapId="1gTrthySd7p8YgZFCoLWVuzr80VjZHbOR" %}
 {% include itinerary.html %}

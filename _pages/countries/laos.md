@@ -25,5 +25,5 @@ entsprochen was ich wollte. Ich kann das Land in jedem Fall weiterempfehlen und 
 
 [Zur Bildergalerie](/photography/laos-2014/){: .btn .btn--primary}
 
-{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr" %}
+{% include route.html mapId="1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr" %}
 {% include itinerary.html %}

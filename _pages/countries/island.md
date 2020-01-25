@@ -11,5 +11,5 @@ Unser ursprünglicher Plan war es die Insel einmal zu umrunden, aber die Rechnun
 
 [Zur Bildergalerie](/photography/island-2012/){: .btn .btn--primary}
 
-{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI" %}
+{% include route.html mapId="1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI" %}
 {% include posts-with-tag.html tag="Island" %}

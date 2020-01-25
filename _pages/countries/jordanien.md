@@ -22,6 +22,6 @@ Meine Jordanien Reise im November 2011 war recht spontan, ich hatte noch einige 
 
 Wadi Rum und Petra hatten schon lange Zeit eine gewisse Anziehungskraft auf mich, umso schöner war es beides mit meinen eigenen Augen zu sehen. Am Ende wurden meine Erwartungen sogar übertroffen und kann beides nur wärmstens empfehlen.
 
-{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
+{% include route.html mapId="1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
 {% include itinerary.html %}
 {% include posts-with-tag.html tag="Jordanien" %}

@@ -10,5 +10,5 @@ Im Juli 2013 ging es mal wieder auf Erkundungstour, dieses Mal nach Schottland. 
 
 [Zur Bildergalerie](/photography/schottland-2013/){: .btn .btn--primary}
 
-{% include route.html map="https://www.google.com/maps/d/u/0/embed?mid=13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e" %}
+{% include route.html mapId="13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e" %}
 {% include posts-with-tag.html tag="Schottland" %}
