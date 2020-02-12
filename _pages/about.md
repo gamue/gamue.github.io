@@ -10,6 +10,7 @@ visitedCountries:
       code: EG
     - name: Belize
       code: BZ
+      link: /belize/
     - name: Belgien
       code: BE
       link: /photography/benelux-2010/
@@ -49,6 +50,7 @@ visitedCountries:
       link: /photography/rom-2016/
     - name: Japan
       code: JP
+      link: /japan/
     - name: Jordanien
       code: JO
       link: /jordanien/
@@ -109,6 +111,7 @@ visitedCountries:
       link: /photography/abu-dhabi-2014/
     - name: Vietnam
       code: VN
+      link: /vietnam/
     - name: Zypern
       code: CY
       link: /photography/zypern-2015/
