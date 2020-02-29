@@ -1,10 +1,15 @@
+{% if include.reverse == "true" %}
+    {% assign allFiles = site.static_files | reverse %}
+{% else %}
+    {% assign allFiles = site.static_files %}
+{% endif %}
 
 <figure class="image-gallery">
-    {% for file in site.static_files %}
+    {% for file in allFiles %}
     {% if file.path contains include.folder %}
 
     <a href="{{ file.path }}">
-        <img src="{{ file.path | replace: "assets/", "thumbnails/" }}" alt="">
+        <img src='{{ file.path | replace: "assets/", "thumbnails/" }}' alt="">
     </a>
 
     {% endif %}
