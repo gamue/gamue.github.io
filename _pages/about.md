@@ -24,6 +24,7 @@ visitedCountries:
       code: FI
     - name: Frankreich
       code: FR
+      link: /photography/paris-2019/
     - name: Georgien
       code: GE
       link: /georgien/
