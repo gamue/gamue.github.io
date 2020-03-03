@@ -1,19 +1,18 @@
 ---
 title: Spontanflucht aus der Kälte
-date: 2014-03-13T18:49:11+02:00
 permalink: /spontanflucht-aus-der-kaelte/
 header:
-    teaser: thumbnails/photography/0000_misc/Aegypten_172.jpg
-    overlay_image: assets/photography/0000_misc/Aegypten_172.jpg
+    teaser: thumbnails/photography/0000_misc/2013-11_Aegypten_172.jpg
+    overlay_image: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
 gallery:
-  - url: assets/photography/0000_misc/Aegypten_236.jpg
-    image_path: thumbnails/photography/0000_misc/Aegypten_236.jpg
-  - url: assets/photography/0000_misc/Aegypten_098.jpg
-    image_path: thumbnails/photography/0000_misc/Aegypten_098.jpg
-  - url: assets/photography/0000_misc/Aegypten_129_tonemapped.jpg
-    image_path: thumbnails/photography/0000_misc/Aegypten_129_tonemapped.jpg
-  - url: assets/photography/0000_misc/Aegypten_172.jpg
-    image_path: thumbnails/photography/0000_misc/Aegypten_172.jpg
+  - url: assets/photography/0000_misc/2013-11_Aegypten_236.jpg
+    image_path: thumbnails/photography/0000_misc/2013-11_Aegypten_236.jpg
+  - url: assets/photography/0000_misc/2013-11_Aegypten_098.jpg
+    image_path: thumbnails/photography/0000_misc/2013-11_Aegypten_098.jpg
+  - url: assets/photography/0000_misc/2013-11_Aegypten_129_tonemapped.jpg
+    image_path: thumbnails/photography/0000_misc/2013-11_Aegypten_129_tonemapped.jpg
+  - url: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
+    image_path: thumbnails/photography/0000_misc/2013-11_Aegypten_172.jpg
 categories:
   - Unterwegs
 tags:

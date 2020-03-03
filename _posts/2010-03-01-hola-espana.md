@@ -1,21 +1,20 @@
 ---
 title: Hola España
-date: 2010-03-01T21:27:02+02:00
 permalink: /hola-espana/
 header:
-    teaser: thumbnails/photography/0000_misc/barca_1.jpg
-    overlay_image: assets/photography/0000_misc/barca_1.jpg
+    teaser: thumbnails/photography/0000_misc/2010-02_barca_1.jpg
+    overlay_image: assets/photography/0000_misc/2010-02_barca_1.jpg
 gallery:
-  - url: /assets/photography/0000_misc/barca_1.jpg
-    image_path: /assets/photography/0000_misc/barca_1.jpg
-  - url: /assets/photography/0000_misc/barca_2.jpg
-    image_path: /assets/photography/0000_misc/barca_2.jpg
-  - url: /assets/photography/0000_misc/barca_3.jpg
-    image_path: /assets/photography/0000_misc/barca_3.jpg
-  - url: /assets/photography/0000_misc/barca_4.jpg
-    image_path: /assets/photography/0000_misc/barca_4.jpg
-  - url: /assets/photography/0000_misc/barca_5.jpg
-    image_path: /assets/photography/0000_misc/barca_5.jpg
+  - url: /assets/photography/0000_misc/2010-02_barca_1.jpg
+    image_path: /assets/photography/0000_misc/2010-02_barca_1.jpg
+  - url: /assets/photography/0000_misc/2010-02_barca_2.jpg
+    image_path: /assets/photography/0000_misc/2010-02_barca_2.jpg
+  - url: /assets/photography/0000_misc/2010-02_barca_3.jpg
+    image_path: /assets/photography/0000_misc/2010-02_barca_3.jpg
+  - url: /assets/photography/0000_misc/2010-02_barca_4.jpg
+    image_path: /assets/photography/0000_misc/2010-02_barca_4.jpg
+  - url: /assets/photography/0000_misc/2010-02_barca_5.jpg
+    image_path: /assets/photography/0000_misc/2010-02_barca_5.jpg
 categories:
   - Unterwegs
 tags:
