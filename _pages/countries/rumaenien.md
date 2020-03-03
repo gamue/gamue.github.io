@@ -2,8 +2,8 @@
 title: Rumänien
 permalink: /rumaenien/
 header:
-    teaser: thumbnails/photography/2013_08_suedosteuropa/Rumaenien_187.jpg
-    overlay_image: assets/photography/2013_08_suedosteuropa/Rumaenien_401.jpg
+    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_187.jpg
+    overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_401.jpg
 ---
 
 Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und mir vorgenommen wiederzukommen.

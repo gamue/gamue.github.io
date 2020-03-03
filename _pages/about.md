@@ -4,7 +4,7 @@ permalink: /about/
 header:
     og_image: assets/images/j_logo.jpg
 sidebar:
-    - image: /assets/photography/2013_08_suedosteuropa/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg
+    - image: /assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg
 visitedCountries:
     - name: Ägypten
       code: EG

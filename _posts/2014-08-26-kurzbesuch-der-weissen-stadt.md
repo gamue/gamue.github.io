@@ -3,27 +3,27 @@ title: Kurzbesuch in der weißen Stadt
 date: 2014-08-26T17:48:20+02:00
 permalink: /kurzbesuch-der-weissen-stadt/
 header:
-    teaser: thumbnails/photography/2013_08_suedosteuropa/Belgrad_106.jpg
-    overlay_image: assets/photography/2013_08_suedosteuropa/Belgrad_106.jpg
+    teaser: thumbnails/photography/2013_08_serbien/Belgrad_106.jpg
+    overlay_image: assets/photography/2013_08_serbien/Belgrad_106.jpg
 gallery:
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_001.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_001.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_027.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_027.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_050.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_050.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_014.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_014.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_023_b.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_023_b.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_049.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_049.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_066.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_066.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_106.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_106.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Belgrad_125.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Belgrad_125.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_001.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_001.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_027.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_027.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_050.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_050.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_014.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_014.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_023_b.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_023_b.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_049.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_049.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_066.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_066.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_106.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_106.jpg
+  - url: assets/photography/2013_08_serbien/Belgrad_125.jpg
+    image_path: thumbnails/photography/2013_08_serbien/Belgrad_125.jpg
 categories:
   - Unterwegs
 tags:

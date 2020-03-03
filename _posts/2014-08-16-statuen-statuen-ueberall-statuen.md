@@ -3,21 +3,21 @@ title: Statuen, Statuen, überall Statuen
 date: 2014-08-16T17:06:58+02:00
 permalink: /statuen-statuen-ueberall-statuen/
 header:
-    teaser: thumbnails/photography/2013_08_suedosteuropa/Skopje_086.jpg
-    overlay_image: assets/photography/2013_08_suedosteuropa/Skopje_086.jpg
+    teaser: thumbnails/photography/2013_08_mazedonien/Skopje_086.jpg
+    overlay_image: assets/photography/2013_08_mazedonien/Skopje_086.jpg
 gallery:
-  - url: assets/photography/2013_08_suedosteuropa/Skopje_018.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Skopje_018.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Skopje_031.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Skopje_031.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Skopje_085.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Skopje_085.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Skopje_086.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Skopje_086.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Skopje_093.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Skopje_093.jpg
-  - url: assets/photography/2013_08_suedosteuropa/Skopje_118.jpg
-    image_path: thumbnails/photography/2013_08_suedosteuropa/Skopje_118.jpg
+  - url: assets/photography/2013_08_mazedonien/Skopje_018.jpg
+    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_018.jpg
+  - url: assets/photography/2013_08_mazedonien/Skopje_031.jpg
+    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_031.jpg
+  - url: assets/photography/2013_08_mazedonien/Skopje_085.jpg
+    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_085.jpg
+  - url: assets/photography/2013_08_mazedonien/Skopje_086.jpg
+    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_086.jpg
+  - url: assets/photography/2013_08_mazedonien/Skopje_093.jpg
+    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_093.jpg
+  - url: assets/photography/2013_08_mazedonien/Skopje_118.jpg
+    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_118.jpg
 categories:
   - Unterwegs
 tags:
