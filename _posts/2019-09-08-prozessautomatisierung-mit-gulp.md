@@ -15,6 +15,8 @@ gallery:
 categories:
   - Homepage
   - Technik
+tags:
+  - Anwendungen / Tools
 ---
 
 Mit der Umstellung der Homepage auf [Jekyll](https://jekyllrb.com/) gab es einige Dinge "neu zu erfinden", 
