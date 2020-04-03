@@ -4,6 +4,15 @@ permalink: /jordanien-bilder-online/
 header:
     teaser: thumbnails/photography/2017_11_jordanien/Jordanien_165.jpg
     overlay_image: assets/photography/2017_11_jordanien/Jordanien_325.jpg
+gallery:
+  - url: assets/photography/2017_11_jordanien/Jordanien_028.jpg
+    image_path: thumbnails/photography/2017_11_jordanien/Jordanien_028.jpg
+  - url: assets/photography/2017_11_jordanien/Jordanien_068b.jpg
+    image_path: thumbnails/photography/2017_11_jordanien/Jordanien_068b.jpg
+  - url: assets/photography/2017_11_jordanien/Jordanien_128b.jpg
+    image_path: thumbnails/photography/2017_11_jordanien/Jordanien_128b.jpg
+  - url: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
+    image_path: thumbnails/photography/2017_11_jordanien/Jordanien_404b.jpg
 categories:
   - Photography
 ---
@@ -20,3 +29,7 @@ Wenn ich mir die Bilder von Wadi Rum und aus Petra anschaue, habe ich gleich wie
 
 Aber schaut sie euch selbst an :) [Hier geht es zur Galerie]({% link _pages/photography/2017-11-jordanien.md %}) und falls jemand mehr zur Reiseroute erfahren möchte, 
 der findet diese auf [der Länderseite]({% link _pages/countries/jordanien.md %}).
+
+{% include gallery layout="half" %}
+
+[Zur kompletten Bildergalerie]({% link _pages/photography/2017-11-jordanien.md %}){: .btn .btn--primary}

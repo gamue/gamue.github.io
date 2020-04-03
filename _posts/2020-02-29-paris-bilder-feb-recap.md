@@ -4,6 +4,15 @@ permalink: /paris-bilder-und-februar-recap/
 header:
     teaser: thumbnails/photography/2019_12_paris/Paris_225.jpg
     overlay_image: assets/photography/2019_12_paris/Paris_119.jpg
+gallery:
+  - url: assets/photography/2019_12_paris/Paris_016b.jpg
+    image_path: thumbnails/photography/2019_12_paris/Paris_016b.jpg
+  - url: assets/photography/2019_12_paris/Paris_099.jpg
+    image_path: thumbnails/photography/2019_12_paris/Paris_099.jpg
+  - url: assets/photography/2019_12_paris/Paris_128.jpg
+    image_path: thumbnails/photography/2019_12_paris/Paris_128.jpg
+  - url: assets/photography/2019_12_paris/Paris_323b.jpg
+    image_path: thumbnails/photography/2019_12_paris/Paris_323b.jpg
 categories:
   - Allgemein
   - Photography
@@ -24,6 +33,10 @@ Vor dem Hintergrund waren die Bilder ebenfalls recht interessant durchzusehen.
 
 Lange Rede, kurzer Sinn: [Hier geht es zu den Fotos aus Paris]({% link _pages/photography/2019-12-paris.md %}). 
 Und ja, der Eiffelturm ist sehr oft vertreten...ist aber auch schön :D
+
+{% include gallery layout="half" %}
+
+[Zur kompletten Bildergalerie]({% link _pages/photography/2019-12-paris.md %}){: .btn .btn--primary}
 
 Zusätzlich habe ich die Bilder in der ["Here, There and Everywhere"-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}) chronologisch absteigend sortiert, 
 so dass man neue Bilder einfacher sehen würde. Ich denke aber nicht, dass ich dort welche hinzufüge, solange ich bei den längeren Reisen nicht fertig bin.

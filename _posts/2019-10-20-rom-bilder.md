@@ -4,6 +4,11 @@ permalink: /rom-bilder-online/
 header:
     teaser: thumbnails/photography/2016_09_rom/Rom_086b2.jpg
     overlay_image: assets/photography/2016_09_rom/Rom_304.jpg
+gallery:
+  - url: assets/photography/2016_09_rom/Rom_220.jpg
+    image_path: thumbnails/photography/2016_09_rom/Rom_220.jpg
+  - url: assets/photography/2016_09_rom/Rom_361.jpg
+    image_path: thumbnails/photography/2016_09_rom/Rom_361.jpg
 categories:
   - Photography
 ---
@@ -15,6 +20,12 @@ Neu online sind Bilder der Reisen nach Rom und Riga aus dem Jahr 2016 und dem Ku
 Ich nähere mich also zielstrebig dem aktuellen Datum, auch wenn die Reisen mit den meisten Bildern noch ausstehen ;) 
 
 In Riga und Finnland habe ich nicht so viele Bilder geschossen,
-so dass diese in der [allgemeinen Galerie](/photography/here-there-and-everywhere/) untergekommen sind. 
+so dass diese in der [allgemeinen Galerie](/photography/here-there-and-everywhere/) untergekommen sind.
+
+[Zur allgemeinen Reise-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}){: .btn .btn--primary} 
 
 Beim Rom-Trip hat die Kamera dann doch mehr geklickt und so gibt es hierfür eine [eigene Galerie](/photography/rom-2016/).
+
+{% include gallery layout="half" %}
+
+[Zur kompletten Rom-Galerie]({% link _pages/photography/2016-09-rom.md %}){: .btn .btn--primary}
