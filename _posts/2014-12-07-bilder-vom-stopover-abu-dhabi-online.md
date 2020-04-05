@@ -5,6 +5,11 @@ permalink: /bilder-vom-stopover-abu-dhabi-online/
 header:
     teaser: thumbnails/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
     overlay_image: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
+gallery:
+  - url: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
+    image_path: thumbnails/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
+  - url: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
+    image_path: thumbnails/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
 categories:
   - Photography
 ---
@@ -14,9 +19,11 @@ Und dann steht ja noch Weihnachten vor der Tür, wofür ich natürlich noch kein
 Aber nun ja, echte Männer kaufen die auch erst am 24. 😉
 
 Aber jetzt Schluß mit dem Rumgejammer, die Abu Dhabi Bilder hab ich nämlich gestern fertig bekommen und sind daher 
-nun online -> [Hier geht&#8217;s zu den Bildern](/photography/abu-dhabi-2014/ "Abu Dhabi 2014").
+nun online.
 
-Meine Berichte, die &#8222;eigentlichen&#8220; Asienbilder und ein paar Einträge über meine restlichen Projekte an 
+{% include gallery layout="half" %}
+
+[Hier geht&#8217;s zu den Bildern](/photography/abu-dhabi-2014/ "Abu Dhabi 2014"){: .btn .btn--primary}
+
+Meine Berichte, die "eigentlichen" Asienbilder und ein paar Einträge über meine restlichen Projekte an 
 denen ich gerade arbeite werden noch etwas dauern, aber gut Ding will bekannteweise Weile haben 😛
-
-&nbsp;

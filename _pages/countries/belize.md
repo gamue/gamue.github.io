@@ -19,7 +19,7 @@ itinerary:
       description: Zum Abschluss der Reise wollten wir noch ein paar Tage am Strand bzw. an der Küste verbringen und haben uns eine Villa nahe Placencia gebucht, als auch zwei Tage in der Stadt verbracht. In dem Gebiet gibt es vermehrt grössere Resorts, so dass sich alles eher an Pauschal- oder All-Inkl-Touristen ausrichtet, aber auch eine gemütliche Stadt in der man gut und gerne Zeit verbringen kann und etliche Wassersportmöglichkeiten bietet. Da wir schon in Caye Caulker schnorcheln waren, ging es stattdessen zum Ziplining.
     - name: Belize City
       image: thumbnails/photography/2019_04_belize/Belize_1019.jpg
-      description: Die Hauptstadt hat nicht den besten Ruf. Wir haben uns daher dafür entschieden sie auszulassen und die letzte Nacht etwas ausserhalb in einem AirBnB zu verbringen. Freunde des Gastgebers haben uns vom Busbahnhof abgeholt und anschliessend etwas durch die Stadt gefahren, so dass wir doch noch ein paar Highlights sehen konnten. Ich hab in jedem Fall nicht das Gefühl etwas verpasst gehabt zu haben.
+      description: Die ehemalige Hauptstadt hat nicht den besten Ruf. Wir haben uns daher dafür entschieden sie auszulassen und die letzte Nacht etwas ausserhalb in einem AirBnB zu verbringen. Freunde des Gastgebers haben uns vom Busbahnhof abgeholt und anschliessend etwas durch die Stadt gefahren, so dass wir doch noch ein paar Highlights sehen konnten. Ich hab in jedem Fall nicht das Gefühl etwas verpasst gehabt zu haben.
 ---
 
 Da die bisherigen Reisen vor allem nach Europa und Asien gingen, wollten wir uns 2019 einmal den amerikanischen Kontinent anschauen und so ging es für knapp 3 Wochen im April/Mai nach Belize.
