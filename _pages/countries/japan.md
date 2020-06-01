@@ -3,6 +3,7 @@ title: Japan
 permalink: /japan/
 header:
     teaser: thumbnails/photography/2017_04_japan/Japan_1225.jpg
+    overlay_image: assets/photography/2017_04_japan/Japan_0182.jpg
 itinerary:
     - name: Tokio
       image: thumbnails/photography/2017_04_japan/Japan_0022.jpg
