@@ -4,6 +4,25 @@ permalink: /nepal/
 header:
     teaser: thumbnails/photography/2011_10_nepal/dsc_0694_hdr.jpg
     overlay_image: assets/photography/2011_10_nepal/dsc_0701_hdr.jpg
+itinerary:
+    - name: Lumbini
+      image: thumbnails/photography/2011_10_nepal/dsc_9323.jpg
+      description: Geburtsort Buddhas, zumindest den Überlieferungen nach, und daher ein entsprechend wichtiger Ort im Buddhismus. Der Ort liegt nicht weit von der Indischen Grenze entfernt und eignet sich daher sehr gut als erster Halt, wenn man auf dem Landweg reist. Nach Varanasi definitiv ein ruhigerer Halt mit etlichen Tempel in der Umgebung, die man am besten per Fahrrad erkundet.
+    - name: Tansen
+      image: thumbnails/photography/2011_10_nepal/dsc_9358.jpg
+      description: Ich weiß ehrlich gesagt nicht mehr, wie ich auf Tansen gekommen bin, die Idee dahinter war jedoch sich etwas an die Höhe zu gewöhnen bevor es weiter geht. Keine Ahnung ob es am Ende sinnvoll war oder nicht, war in jedem Fall ein entspanntes Bergdorf fernab des Massentourismus.
+    - name: Pokhara
+      image: thumbnails/photography/2011_10_nepal/dsc_9719.jpg
+      description: Für mich die schönste Stadt in Nepal. Idyllisch an einem See gelegen, bietet sie Ausblick auf diverse Gebirgsketten und ist Ausgangspunkt von mehreren Trekkingtouren. Aber auch wenn man keine mehrtägigen Wanderungen unternimmt, kann man einige Berge als Tagestour erklimmen.
+    - name: Chitwan Nationalpark
+      image: thumbnails/photography/2011_10_nepal/dsc_0121.jpg
+      description: Bei meinem Nepaltrip stand die Natur im Vordergrund und daher durfte ein Besuch im größten Nationalpark des Landes nicht fehlen. Selbst wenn ich keinen Tiger gesehen habe, so doch andere exotische Tierarten wie Nashörner, Elefanten, Krokodile und jede Menge Vögel.
+    - name: Kathmandu
+      image: thumbnails/photography/2011_10_nepal/dsc_0757_hdr.jpg
+      description: Nepals Hauptstadt ist definitiv ein Besuch wert. Leider wurden 2015 etliche historische Stätte durch ein Erdbeben zerstört, so dass ich nicht sagen kann was alles noch erhalten ist, aber der Stadtkern und die vielen Stupas und Tempel waren sehr beeindruckend.
+    - name: Nagarkot
+      image: thumbnails/photography/2011_10_nepal/dsc_0650.jpg
+      description: Das kleine Bergdorf ist wegen seinem Ausblick auf diverse Gebirgsketten, wie beispielsweise dem Everest, ein beliebtes Ausflugsziel. Man darf aber nicht vergessen, dass man für einen solchen Ausblick immer etwas Glück braucht. Aufgrund der Höhe war es dort auch deutlich frischer als im restlichen Land.
 ---
 
 Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen.
@@ -16,4 +35,5 @@ die schöne Natur und das umfangreiche Tierreich genießen, bevor es zum Ausklan
 [Zur Bildergalerie](/photography/nepal-2011/){: .btn .btn--primary}
 
 {% include route.html mapId="1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq" %}
+{% include itinerary.html %}
 {% include posts-with-tag.html tag="Nepal" %}
