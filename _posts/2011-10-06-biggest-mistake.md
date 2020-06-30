@@ -3,17 +3,17 @@ title: Biggest Mistake
 date: 2011-10-06T19:46:22+02:00
 permalink: /biggest-mistake/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_6047.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_6047.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_391.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_391.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_6047.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6047.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6105.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6105.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5541.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5541.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5494.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5494.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_391.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_391.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_436b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_436b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_049.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_049.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_009.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_009.jpg
 categories:
   - Unterwegs
 tags:

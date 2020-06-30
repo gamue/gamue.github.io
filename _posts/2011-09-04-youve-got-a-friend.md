@@ -3,21 +3,21 @@ title: You’ve got a friend
 date: 2011-09-04T18:48:11+02:00
 permalink: /youve-got-a-friend/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_5597.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_5597.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_097b.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_097b.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_5541.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5541.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5550_5555.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5550_5555.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5556.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5556.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5594.jpg"
-    image_path: /assets/photography/2011_05_marokko/dsc_5594.jpg"
-  - url: /assets/photography/2011_05_marokko/dsc_5597.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5597.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5608_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5608_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_049.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_049.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_056_061.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_056_061.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_062b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_062b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_094.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_094.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_097b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_097b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_107_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_107_hdr.jpg
 categories:
   - Unterwegs
 tags:

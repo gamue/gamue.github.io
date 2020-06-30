@@ -3,21 +3,21 @@ title: Marrakesh Express
 date: 2011-09-20T19:53:27+02:00
 permalink: /marrakesh-express/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_6263.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_6263.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_524b.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_524b.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_6246_6248_6249.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6246_6248_6249.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6253_6315.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6253_6315.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6263.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6263.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6278.jpg"
-    image_path: /assets/photography/2011_05_marokko/dsc_6278.jpg"
-  - url: /assets/photography/2011_05_marokko/dsc_6296.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6296.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6304.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6304.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_511_513_514.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_511_513_514.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_516_556.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_516_556.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_524b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_524b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_536.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_536.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_547.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_547.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_552.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_552.jpg
 categories:
   - Unterwegs
 tags:

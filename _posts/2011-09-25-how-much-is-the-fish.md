@@ -3,17 +3,17 @@ title: How much is the fish?
 date: 2011-09-25T20:31:45+02:00
 permalink: /how-much-is-the-fish/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_6383.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_6383.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_604b.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_604b.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_6318.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6318.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6372_6404.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6372_6404.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6383.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6383.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6398.jpg"
-    image_path: /assets/photography/2011_05_marokko/dsc_6398.jpg"
+  - url: /assets/photography/2011_05_marokko/Marokko_558.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_558.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_595_618.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_595_618.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_604b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_604b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_615.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_615.jpg
 categories:
   - Unterwegs
 tags:

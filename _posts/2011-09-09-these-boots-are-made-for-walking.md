@@ -3,39 +3,39 @@ title: These boots are made for walking
 date: 2011-09-09T20:21:26+02:00
 permalink: /these-boots-are-made-for-walking/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_5638_hdr.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_128_hdr.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_5630_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5630_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5634.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5634.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5638_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5670_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5714.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5714.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5773.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5773.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5777.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5777.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5790.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5790.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5840.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5840.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5916.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5916.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5991_5992_5993.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6000_6003.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6000_6003.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_5963.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5963.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6020.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6020.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6045.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6045.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_122_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_122_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_123.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_123.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_147_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_147_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_171b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_171b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_207b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_207b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_211.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_211.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_220.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_220.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_253b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_253b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_297.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_297.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_347-349.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_347-349.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_354_356.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_354_356.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_327.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_327.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_369.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_369.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_389b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_389b.jpg
 categories:
   - Unterwegs
 tags:

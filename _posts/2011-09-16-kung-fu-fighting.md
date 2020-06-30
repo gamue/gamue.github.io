@@ -3,19 +3,19 @@ title: Kung Fu Fighting
 date: 2011-09-16T16:58:53+02:00
 permalink: /kung-fu-fighting/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_6190.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_6190.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_480.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_480.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_5615.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_5615.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6153_6192.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6153_6192.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6181.jpg"
-    image_path: /assets/photography/2011_05_marokko/dsc_6181.jpg"
-  - url: /assets/photography/2011_05_marokko/dsc_6190.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6190.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6163.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6163.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_111.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_111.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_458_482.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_458_482.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_474.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_474.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_480.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_480.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_464.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_464.jpg
 categories:
   - Unterwegs
 tags:

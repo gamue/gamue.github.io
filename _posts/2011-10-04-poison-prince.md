@@ -3,21 +3,21 @@ title: Poison Prince
 date: 2011-10-04T19:52:53+02:00
 permalink: /poison-prince/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_6450.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_6450.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_649b.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_649b.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/dsc_6450.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6450.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6532.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6532.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6472_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6472_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6602.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6602.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6612_6613.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6612_6613.jpg
-  - url: /assets/photography/2011_05_marokko/dsc_6617.jpg
-    image_path: /assets/photography/2011_05_marokko/dsc_6617.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_649b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_649b.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_707.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_707.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_666_hdr.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_666_hdr.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_751.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_751.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_754_755.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_754_755.jpg
+  - url: /assets/photography/2011_05_marokko/Marokko_758b.jpg
+    image_path: /assets/photography/2011_05_marokko/Marokko_758b.jpg
 categories:
   - Unterwegs
 tags:

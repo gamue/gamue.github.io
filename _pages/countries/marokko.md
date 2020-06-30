@@ -2,8 +2,8 @@
 title: Marokko
 permalink: /marokko/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/dsc_5597.jpg
-    overlay_image: assets/photography/2011_05_marokko/dsc_6070.jpg
+    teaser: thumbnails/photography/2011_05_marokko/Marokko_097b.jpg
+    overlay_image: assets/photography/2011_05_marokko/Marokko_391.jpg
 ---
 
 Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der einiges schief gelaufen ist.
