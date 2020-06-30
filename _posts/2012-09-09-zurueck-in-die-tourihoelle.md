@@ -3,25 +3,25 @@ title: Zurück in die Tourihölle
 date: 2012-09-09T20:38:20+02:00
 permalink: /zurueck-in-die-tourihoelle/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/dsc_9532.jpg
-    overlay_image: assets/photography/2011_10_nepal/dsc_9532.jpg
+    teaser: thumbnails/photography/2011_10_nepal/Nepal_0229.jpg
+    overlay_image: assets/photography/2011_10_nepal/Nepal_0229.jpg
 gallery:
-  - url: assets/photography/2011_10_nepal/dsc_9761_hdr.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9761_hdr.jpg
-  - url: assets/photography/2011_10_nepal/dscn0182.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dscn0182.jpg
-  - url: assets/photography/2011_10_nepal/dsc_9532.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9532.jpg
-  - url: assets/photography/2011_10_nepal/dsc_9574.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9574.jpg
-  - url: assets/photography/2011_10_nepal/dsc_9508.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9508.jpg
-  - url: assets/photography/2011_10_nepal/dsc_9638.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9638.jpg
-  - url: assets/photography/2011_10_nepal/dsc_9705_hdr.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9705_hdr.jpg
-  - url: assets/photography/2011_10_nepal/dsc_9718.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_9718.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0404b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0404b.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0321.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0321.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0229.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0229.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0263b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0263b.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0216.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0216.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0303.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0303.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0353b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0353b.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0367.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0367.jpg
 categories:
   - Unterwegs
 tags:

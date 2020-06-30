@@ -3,17 +3,17 @@ title: Noch einmal Natur
 date: 2012-11-25T14:47:23+02:00
 permalink: /noch-einmal-natur/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/dsc_0650.jpg
-    overlay_image: assets/photography/2011_10_nepal/dsc_0650.jpg
+    teaser: thumbnails/photography/2011_10_nepal/Nepal_1077b.jpg
+    overlay_image: assets/photography/2011_10_nepal/Nepal_1077b.jpg
 gallery:
-  - url: assets/photography/2011_10_nepal/dsc_0615-0617.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0615-0617.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0650.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0650.jpg
-  - url: assets/photography/2011_10_nepal/dscn0291.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dscn0291.jpg
-  - url: assets/photography/2011_10_nepal/dscn0292.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dscn0292.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1042_1044.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1042_1044.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1077b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1077b.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1065.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1065.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1066.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1066.jpg
 categories:
   - Unterwegs
 tags:

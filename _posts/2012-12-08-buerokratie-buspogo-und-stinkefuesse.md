@@ -7,10 +7,10 @@ header:
     overlay_image: https://images.unsplash.com/photo-1548079638-a54e2a739a65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
     caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/xTjrbT_4moA)"
 gallery:
-  - url: assets/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dscn0129-0161-0201-0253-0281-0310.jpg
-  - url: assets/photography/2011_10_nepal/dscn0291.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dscn0291.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0081_0100_0354_0825_1037_1235.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0081_0100_0354_0825_1037_1235.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1065.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1065.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,21 +3,21 @@ title: Im Angesicht einer Göttin
 date: 2012-11-18T15:43:48+02:00
 permalink: /im-angesicht-einer-goettin/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/dsc_0570.jpg
-    overlay_image: assets/photography/2011_10_nepal/dsc_0570.jpg
+    teaser: thumbnails/photography/2011_10_nepal/Nepal_0993.jpg
+    overlay_image: assets/photography/2011_10_nepal/Nepal_0993.jpg
 gallery:
-  - url: assets/photography/2011_10_nepal/dsc_0570.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0570.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0395.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0395.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0429.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0429.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0500.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0500.jpg
-  - url: assets/photography/2011_10_nepal/dscn0266-0267.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dscn0266-0267.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0600.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0600.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0993.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0993.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0855.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0855.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0881.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0881.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_0943b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_0943b.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1023_1024.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1023_1024.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1027.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1027.jpg
 categories:
   - Unterwegs
 tags:

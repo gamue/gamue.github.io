@@ -3,19 +3,19 @@ title: Burning Men
 date: 2012-12-02T14:18:24+02:00
 permalink: /burning-men/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/dsc_0701_hdr.jpg
-    overlay_image: assets/photography/2011_10_nepal/dsc_0701_hdr.jpg
+    teaser: thumbnails/photography/2011_10_nepal/Nepal_1110b.jpg
+    overlay_image: assets/photography/2011_10_nepal/Nepal_1110b.jpg
 gallery:
-  - url: assets/photography/2011_10_nepal/dsc_0694_hdr.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0694_hdr.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0785_hdr.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0785_hdr.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0789.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0789.jpg
-  - url: assets/photography/2011_10_nepal/dsc_0757_hdr.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0757_hdr.jpg
-  - url:  assets/photography/2011_10_nepal/dsc_0854.jpg
-    image_path: thumbnails/photography/2011_10_nepal/dsc_0854.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1104bw.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1104bw.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1164b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1164b.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1169.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1169.jpg
+  - url: assets/photography/2011_10_nepal/Nepal_1146b.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1146b.jpg
+  - url:  assets/photography/2011_10_nepal/Nepal_1230.jpg
+    image_path: thumbnails/photography/2011_10_nepal/Nepal_1230.jpg
 categories:
   - Unterwegs
 tags:
