@@ -10,6 +10,7 @@ $link-color: #660000;
 @media (min-width: 80em) {
     .page { width: calc(100% - 200px); padding-right: 200px; }
     .archive { width: calc(100% - 200px); padding-right: 200px; }
+    .sidebar { width: calc(200px - 1em); }
 }
 
 body.layout--home div.page__hero--overlay{
