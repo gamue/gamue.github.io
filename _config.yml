@@ -98,6 +98,7 @@ defaults:
     values:
       classes: galleryPage
       comments: true
+      search: true
 
 category_archive:
   type: liquid
