@@ -16,6 +16,7 @@ url: "https://gamue.de"
 logo: "assets/images/j_logo_75.jpg"
 masthead_title: " "
 words_per_minute: 200
+search: true
 
 # Site Author
 author:
