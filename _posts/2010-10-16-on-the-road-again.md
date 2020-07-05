@@ -3,19 +3,19 @@ title: On The Road Again
 date: 2010-10-16T12:54:38+02:00
 permalink: /on-the-road-again/
 header:
-    teaser: thumbnails/photography/2010_09_benelux/dsc_2850.jpg
-    overlay_image: assets/photography/2010_09_benelux/dsc_2850.jpg
+    teaser: thumbnails/photography/2010_09_luxemburg/dsc_2850.jpg
+    overlay_image: assets/photography/2010_09_luxemburg/dsc_2850.jpg
 gallery:
-  - url: /assets/photography/2010_09_benelux/dsc_2748_hdr.jpg
-    image_path: /assets/photography/2010_09_benelux/dsc_2748_hdr.jpg
-  - url: /assets/photography/2010_09_benelux/dsc_2822.jpg
-    image_path: /assets/photography/2010_09_benelux/dsc_2822.jpg
-  - url: /assets/photography/2010_09_benelux/dsc_2850.jpg
-    image_path: /assets/photography/2010_09_benelux/dsc_2850.jpg
-  - url: /assets/photography/2010_09_benelux/dsc_2859.jpg
-    image_path: /assets/photography/2010_09_benelux/dsc_2859.jpg
-  - url: /assets/photography/2010_09_benelux/dsc_2796.jpg
-    image_path: /assets/photography/2010_09_benelux/dsc_2796.jpg
+  - url: /assets/photography/2010_09_luxemburg/dsc_2748_hdr.jpg
+    image_path: /assets/photography/2010_09_luxemburg/dsc_2748_hdr.jpg
+  - url: /assets/photography/2010_09_luxemburg/dsc_2822.jpg
+    image_path: /assets/photography/2010_09_luxemburg/dsc_2822.jpg
+  - url: /assets/photography/2010_09_luxemburg/dsc_2850.jpg
+    image_path: /assets/photography/2010_09_luxemburg/dsc_2850.jpg
+  - url: /assets/photography/2010_09_luxemburg/dsc_2859.jpg
+    image_path: /assets/photography/2010_09_luxemburg/dsc_2859.jpg
+  - url: /assets/photography/2010_09_luxemburg/dsc_2796.jpg
+    image_path: /assets/photography/2010_09_luxemburg/dsc_2796.jpg
 categories:
   - Unterwegs
 tags:
