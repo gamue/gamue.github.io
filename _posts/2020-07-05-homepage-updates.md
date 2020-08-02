@@ -20,6 +20,8 @@ So ganz untätig war ich aber nicht und hab ein paar Kleinigkeiten an der Homepa
     diese habe ich daher entsprechend korrigiert und in dem Zug auch gegen etwas größere Versionen ersetzt.
 - Auf den [Länderseiten](/laender/) von Indien, Nepal, Rumänien, Marokko, Schottland und Island haben Informationen zu 
     den einzelnen Stationen gefehlt, die ich jetzt nachgezogen habe.
+- Es gibt nun eine [Länderseite für Deutschland](/deutschland/) als Vorbereitung für den anstehenden Roadtrip ;)
+- Die [Galerie vom BeNeLux-Roadtrip](/photography/benelux-2010/) ist nun nach Ländern aufgeteilt.
 
 Zudem sind mir wieder einige Sachen aufgefallen, die mir nicht so gefallen und ich dann irgendwann demnächst angehen möchte.
 Mehr dazu aber ein andermal ;)
