@@ -4,14 +4,17 @@ var gulp = require('gulp');
 var imageResize = require('gulp-image-resize');
 var imagemin = require('gulp-imagemin');
 var changed = require('gulp-changed');
+var debug = require('gulp-debug');
 
 gulp.task('default', function () {
   return gulp.src([
     'assets/**/*',
     '!assets/css/**',
+    '!assets/js/**',
     '!assets/images/**'
     ])
     .pipe(changed('thumbnails'))
+    .pipe(debug())
     .pipe(imageResize({
       width: 400,
       height: 400,
