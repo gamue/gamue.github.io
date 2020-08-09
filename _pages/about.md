@@ -18,6 +18,7 @@ visitedCountries:
       code: DK
     - name: Deutschland
       code: DE
+      link: /deutschland/
     - name: England
       code: GB
     - name: Finnland
