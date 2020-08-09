@@ -5,7 +5,7 @@ permalink: /reisen-nach-covid-19/
 header:
     teaser: thumbnails/2020-08-02-reisen-nach-covid/ross-parmly-rf6ywHVkrlY-unsplash.jpg
     overlay_image: assets/2020-08-02-reisen-nach-covid/ross-parmly-rf6ywHVkrlY-unsplash.jpg
-    caption: "Foto von [Ross Parmly](https://unsplash.com/photos/rf6ywHVkrlY)"
+    caption: "Foto von [Unsplash/Ross Parmly](https://unsplash.com/photos/rf6ywHVkrlY)"
 categories:
   - Allgemein
   - Unterwegs
@@ -32,7 +32,7 @@ Denn eins ist sicher: Ich will weiterhin reisen, neue Länder und Kulturen entde
 
 <figure>
   <img src="/assets/2020-08-02-reisen-nach-covid/chuttersnap-41--YdnYxh0-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/41--YdnYxh0">chuttersnap</a></figcaption>
+  <figcaption>Foto von <a href="https://unsplash.com/photos/41--YdnYxh0">Unsplash/chuttersnap</a></figcaption>
 </figure>
 
 Zwar werde ich in Zukunft sicherlich auch weiterhin Portale wie [swoodoo](https://www.swoodoo.com/), 
@@ -63,14 +63,17 @@ die sie bei einem Drittanbieter gebucht hatten.
 
 Noch positiver war mein Erlebnis mit [Qatar](https://www.qatarairways.com), denn trotz dass ich die Flüge nicht über sie gebucht hatte, 
 haben sie mit mir geredet und auch weitergeholfen, anstatt auf den anderen Shop zu verweisen. 
-Wenn alles so funktioniert, wie die mir gesagt haben, sollte ich in den nächsten Wochen einen Reisegutschein 
+~~Wenn alles so funktioniert, wie die mir gesagt haben,~~ sollte ich in den nächsten Wochen einen Reisegutschein 
 über den kompletten Betrag +10 % bekommen, was ich als sehr, sehr guten Service betrachte.
+
+**EDIT:** Ich hab mittlerweise den Gutschein von Qatar und kann ihn in den nächsten 2 Jahren, 
+für insgesamt 3 Jahre, verwenden. Hätte ich direkt über die Airline gebucht, hätte ich auch mein Geld zurückbekommen können.   
 
 # Versicherungen prüfen
 
 <figure>
   <img src="/assets/2020-08-02-reisen-nach-covid/markus-frieauff-IJ0KiXl4uys-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/IJ0KiXl4uys">Markus Frieauff</a></figcaption>
+  <figcaption>Foto von <a href="https://unsplash.com/photos/IJ0KiXl4uys">Unsplash/Markus Frieauff</a></figcaption>
 </figure>
 
 Ich habe bei all meinen Reisen nur einmal eine Rücktrittsversicherung abgeschlossen und das war so ziemlich am Anfang, 
@@ -89,7 +92,7 @@ von daher werd ich vor dem nächsten Trip ins Ausland auf jeden Fall auch mal me
 
 <figure>
   <img src="/assets/2020-08-02-reisen-nach-covid/rio-lecatompessy-p77qNCTFEJQ-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/p77qNCTFEJQ">Rio Lecatompessy</a></figcaption>
+  <figcaption>Foto von <a href="https://unsplash.com/photos/p77qNCTFEJQ">Unsplash/Rio Lecatompessy</a></figcaption>
 </figure>
 
 Wie die Reiserücktrittsversicherung waren mir bisher die Stornierungsbedingungen relativ egal, 
