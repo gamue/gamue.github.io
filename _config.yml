@@ -87,6 +87,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      header:
+        og_image: assets/images/j_logo.jpg
   - scope:
       path: _pages/photography
       type: pages
