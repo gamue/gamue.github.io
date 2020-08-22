@@ -1,6 +1,7 @@
 ---
 title: "Kamera- und Objektiv-Kaufberatung: Die Grundlagen"
 permalink: /kamera-kaufberatung-grundlagen/
+toc: true
 header:
     teaser: thumbnails/2020-08-09-kaufberatung-kamera-grundlagen/thumbnail.jpg
     overlay_image: assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg
