@@ -11,6 +11,7 @@ subtitle: ""
 name: "Johannes Ganzenmüller"
 email: johannes@gamue.de
 description: "Über Reisen, Photographie, Technik, Leben und sonstigen Spaß"
+repository: "gamue/gamue.github.io"
 baseurl: ""
 url: "https://gamue.de"
 logo: "assets/images/j_logo_75.jpg"
@@ -44,6 +45,7 @@ exclude:
   - package.json
   - package-lock.json
   - node_modules
+  - vendor
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 

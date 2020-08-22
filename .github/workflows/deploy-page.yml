@@ -1,0 +1,25 @@
+name: Build and deploy Jekyll to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Cache to shorten the build
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Build & Deploy to GitHub Pages
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        uses: helaili/jekyll-action@2.0.1
