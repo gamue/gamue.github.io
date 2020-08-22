@@ -155,7 +155,9 @@ Auf Reisen nutze ich primär ein Zoomobjektiv mit einer Brennweite von 18-200mm,
 und ein guter Allrounder ist. Die Bildqualität und Lichtstärke wäre mit spezielleren Objektiven aber sicherlich besser. 
 Für einen anderen Anwendungsfall würde ich bestimmt eine andere Wahl treffen, daher ist es wichtig sich darüber Gedanken zu machen, 
 was du hauptsächlich fotografieren willst. Als Faustformel würde ich sagen, je höher der Bereich ist, den ein Zoom-Objektiv abdeckt, 
-desto mehr Kompromisse musst du bei Qualität, Größe oder Gewicht in Kauf nehmen.
+desto mehr Kompromisse musst du bei Qualität, Größe oder Gewicht in Kauf nehmen. 
+
+Wirf zu dem Thema auch gerne einen Blick in [den Artikel über Superzoom-Objektive]({% post_url 2020-08-22-superzooms %}).
 
 ## Blende / Lichtstärke
 Die Blende wird bei Objektiven immer mit F angegeben und je kleiner die Zahl, desto größer lässt sich die Verschlussblende öffnen, 
