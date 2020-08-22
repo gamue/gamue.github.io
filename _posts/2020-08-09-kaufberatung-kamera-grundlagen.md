@@ -2,9 +2,8 @@
 title: "Kamera- und Objektiv-Kaufberatung: Die Grundlagen"
 permalink: /kamera-kaufberatung-grundlagen/
 header:
-    teaser: thumbnails/2020-08-09-kaufberatung-kamera-grundlagen/christian-mackie-az2pTpXsDg0-unsplash.jpg
-    overlay_image: assets/2020-08-09-kaufberatung-kamera-grundlagen/christian-mackie-az2pTpXsDg0-unsplash.jpg
-    caption: "Foto von [Unsplash/Christian Mackie](https://unsplash.com/photos/az2pTpXsDg0)"
+    teaser: thumbnails/2020-08-09-kaufberatung-kamera-grundlagen/thumbnail.jpg
+    overlay_image: assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg
 categories:
   - Photography
 ---
@@ -24,8 +23,7 @@ Und wer weiß, eventuell widme ich mich konkreten Geräten in einem weiteren Art
 # Begriffe und Kriterien bei Kameras
 
 <figure>
-  <img src="/assets/2020-08-09-kaufberatung-kamera-grundlagen\christian-mackie-az2pTpXsDg0-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/az2pTpXsDg0">Unsplash/Christian Mackie</a></figcaption>
+  <img src="/assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg">
 </figure>
 
 ## Action-, Kompakt-, Bridge-, Spiegelreflex oder spiegellose Systemkamera
@@ -123,8 +121,7 @@ manchmal sogar mehr als die Kamera.
 # Begriffe und Kriterien bei Objektiven
 
 <figure>
-  <img src="/assets/2020-08-09-kaufberatung-kamera-grundlagen/sharegrid-V9gzKRffmKY-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/V9gzKRffmKY">Unsplash/ShareGrid</a></figcaption>
+  <img src="/assets/2020-08-09-kaufberatung-kamera-grundlagen/objektiv.jpg">
 </figure>
 
 ## Kameraanschluss
