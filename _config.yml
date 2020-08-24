@@ -63,6 +63,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-cloudinary
 
 comments:
   provider: 'disqus'
@@ -118,3 +119,20 @@ compress_html:
   comments: ["<!-- ", " -->"]
   blanklines: false
   profile: false
+
+cloudinary:
+  cloud_name: gamue
+  only_prod: false
+  verbose: true
+  presets:
+    default:
+      min_width: 320
+      max_width: 1000
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"
+    thumbnail:
+      min_width: 64
+      min_height: 64
+      max_width: 400
+      max_height: 400
