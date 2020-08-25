@@ -130,9 +130,11 @@ cloudinary:
       max_width: 1000
       fallback_max_width: 800
       steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
     thumbnail:
-      min_width: 64
-      min_height: 64
+      min_width: 100
       max_width: 400
-      max_height: 400
+      min_heigth: 100
+      max_heigth: 400
+      fallback_max_width: 300
+      steps: 3
+      figure: never
