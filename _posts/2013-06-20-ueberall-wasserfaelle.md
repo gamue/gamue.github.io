@@ -3,7 +3,7 @@ title: Überall Wasserfälle
 date: 2013-06-20T19:23:47+02:00
 permalink: /ueberall-wasserfaelle/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_1115.jpg
+    teaser: assets/photography/2012_06_island/dsc_1115.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1115.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1035.jpg

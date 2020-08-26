@@ -2,7 +2,7 @@
 title: "Mehr Content: Länderseiten & Kommentare"
 permalink: /laenderseiten-online/
 header:
-    teaser: https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+    teaser: assets/2019-11-17-laenderseiten/photo-1452421822248-d4c2b47f0c81.webp
 categories:
   - Homepage
 ---

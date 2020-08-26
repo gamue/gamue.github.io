@@ -3,7 +3,7 @@ title: Hinein in eine andere Welt
 date: 2012-01-16T19:55:57+02:00
 permalink: /hinein-in-eine-andere-welt/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_8159.jpg
+    teaser: assets/photography/2011_10_indien/dsc_8159.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8159.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8096.jpg

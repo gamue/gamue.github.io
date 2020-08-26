@@ -2,7 +2,7 @@
 title: Januar Recap
 permalink: /recap-januar-2020/
 header:
-    teaser: thumbnails/2020-02-09-januar-recap/mavicMini.jpg
+    teaser: assets/2020-02-09-januar-recap/mavicMini.jpg
 categories:
   - Allgemein
 ---

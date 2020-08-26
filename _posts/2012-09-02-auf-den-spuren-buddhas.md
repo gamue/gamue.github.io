@@ -3,7 +3,7 @@ title: Auf den Spuren Buddhas
 date: 2012-09-02T20:05:29+02:00
 permalink: /auf-den-spuren-buddhas/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0027.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0027.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0027.jpg
 gallery:
   - url: assets/photography/2011_10_indien/dscn0122-0125.jpg

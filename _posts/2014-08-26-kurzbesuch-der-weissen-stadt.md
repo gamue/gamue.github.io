@@ -3,7 +3,7 @@ title: Kurzbesuch in der weißen Stadt
 date: 2014-08-26T17:48:20+02:00
 permalink: /kurzbesuch-der-weissen-stadt/
 header:
-    teaser: thumbnails/photography/2013_08_serbien/Belgrad_106.jpg
+    teaser: assets/photography/2013_08_serbien/Belgrad_106.jpg
     overlay_image: assets/photography/2013_08_serbien/Belgrad_106.jpg
 gallery:
   - url: assets/photography/2013_08_serbien/Belgrad_001.jpg

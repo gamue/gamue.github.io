@@ -3,7 +3,7 @@ title: Golfen in St. Andrews
 date: 2014-03-09T14:31:38+02:00
 permalink: /golfen-in-st-andrews/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0813.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0813.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0813.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0808.jpg

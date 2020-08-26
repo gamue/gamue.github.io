@@ -2,7 +2,7 @@
 title: Bayern statt Bali
 permalink: /bayern-statt-bali/
 header:
-    teaser: thumbnails/2020-05-31-bayern-statt-bali/jared-rice-O6DUoIl6NWA-unsplash_q.jpg
+    teaser: assets/2020-05-31-bayern-statt-bali/jared-rice-O6DUoIl6NWA-unsplash_q.jpg
 categories:
   - Allgemein
 ---

@@ -3,7 +3,7 @@ title: Burning Men
 date: 2012-12-02T14:18:24+02:00
 permalink: /burning-men/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_1110b.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_1110b.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_1110b.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_1104bw.jpg

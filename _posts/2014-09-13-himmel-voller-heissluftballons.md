@@ -3,7 +3,7 @@ title: Himmel voller Heißluftballons
 date: 2014-09-13T18:25:24+02:00
 permalink: /himmel-voller-heissluftballons/
 header:
-    teaser: thumbnails/photography/2014_05_tuerkei/Tuerkei_495.jpg
+    teaser: assets/photography/2014_05_tuerkei/Tuerkei_495.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_495.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_478.jpg

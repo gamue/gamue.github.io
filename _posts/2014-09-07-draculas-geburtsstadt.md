@@ -3,7 +3,7 @@ title: In Draculas Geburtsstadt
 date: 2014-09-07T19:13:38+02:00
 permalink: /draculas-geburtsstadt/
 header:
-    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_683.jpg
+    teaser: assets/photography/2013_08_rumaenien/Rumaenien_683.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_683.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_642.jpg

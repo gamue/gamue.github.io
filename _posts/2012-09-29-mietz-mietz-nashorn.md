@@ -3,7 +3,7 @@ title: Mietz, Mietz Nashorn
 date: 2012-09-29T15:05:43+02:00
 permalink: /mietz-mietz-nashorn/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0507.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0507.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0507.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0560.jpg

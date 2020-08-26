@@ -3,7 +3,7 @@ title: 'Don&#8217;t rest in Bucharest'
 date: 2014-09-09T19:28:14+02:00
 permalink: /dont-rest-bucharest/
 header:
-    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_755.jpg
+    teaser: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_716.jpg

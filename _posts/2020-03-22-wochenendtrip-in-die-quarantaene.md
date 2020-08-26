@@ -2,7 +2,7 @@
 title: Wochenendtrip in die Quarantäne
 permalink: /wochenendtrip-in-die-quarantaene/
 header:
-    teaser: thumbnails/2020-03-22-wochenendtrip-in-die-quarantaene/cdc-k0KRNtqcjfw-unsplash.jpg
+    teaser: assets/2020-03-22-wochenendtrip-in-die-quarantaene/cdc-k0KRNtqcjfw-unsplash.jpg
 categories:
   - Allgemein
 tags:

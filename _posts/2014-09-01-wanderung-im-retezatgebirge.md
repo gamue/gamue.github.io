@@ -3,7 +3,7 @@ title: Wanderung im Retezatgebirge
 date: 2014-09-01T18:32:31+02:00
 permalink: /wanderung-im-retezatgebirge/
 header:
-    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_251.jpg
+    teaser: assets/photography/2013_08_rumaenien/Rumaenien_251.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_251.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_241.jpg

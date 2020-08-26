@@ -3,7 +3,7 @@ title: Kontraste in Kathmandu
 date: 2012-10-21T19:07:53+02:00
 permalink: /kontraste-in-kathmandu/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0829.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0829.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0829.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0084_0085.jpg

@@ -3,7 +3,7 @@ title: Von Highlights und weniger Beleuchteten
 date: 2012-02-19T13:52:02+02:00
 permalink: /von-highlights-und-weniger-beleuchteten/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_8533.jpg
+    teaser: assets/photography/2011_10_indien/dsc_8533.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8533.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8266.jpg

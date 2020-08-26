@@ -3,7 +3,7 @@ title: vs Schnee und Regen
 date: 2013-06-10T20:01:03+02:00
 permalink: /vs-schnee-und-regen/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_0848.jpg
+    teaser: assets/photography/2012_06_island/dsc_0848.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0848.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_0838.jpg

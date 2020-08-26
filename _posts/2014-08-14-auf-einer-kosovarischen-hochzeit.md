@@ -3,7 +3,7 @@ title: Auf einer kosovarischen Hochzeit
 date: 2014-08-14T17:45:29+02:00
 permalink: /auf-einer-kosovarischen-hochzeit/
 header:
-    teaser: thumbnails/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
+    teaser: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
     overlay_image: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
 gallery:
   - url: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg

@@ -3,7 +3,7 @@ title: Noch einmal Natur
 date: 2012-11-25T14:47:23+02:00
 permalink: /noch-einmal-natur/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_1077b.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_1077b.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_1077b.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_1042_1044.jpg

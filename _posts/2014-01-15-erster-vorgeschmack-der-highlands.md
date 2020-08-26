@@ -3,7 +3,7 @@ title: Erster Vorgeschmack der Highlands
 date: 2014-01-15T18:10:07+02:00
 permalink: /erster-vorgeschmack-der-highlands/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0296.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0296.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0296.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0171.jpg

@@ -3,7 +3,7 @@ title: Auf zur Insel aus Feuer und Eis
 date: 2013-04-21T20:58:09+02:00
 permalink: /auf-zur-insel-aus-feuer-und-eis/
 header:
-    teaser: thumbnails/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
+    teaser: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
     overlay_image: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
 gallery:
   - url: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg

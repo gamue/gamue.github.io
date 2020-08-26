@@ -3,7 +3,7 @@ title: Zurück in die Dunkelheit
 date: 2013-07-03T20:13:47+02:00
 permalink: /zurueck-in-die-dunkelheit/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_1634.jpg
+    teaser: assets/photography/2012_06_island/dsc_1634.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1634.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1679.jpg

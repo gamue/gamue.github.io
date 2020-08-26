@@ -3,7 +3,7 @@ title: Pipes, Drums and old men
 date: 2014-01-17T18:00:50+02:00
 permalink: /pipes-drums-and-old-men/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0445.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0445.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0445.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0445.jpg

@@ -2,7 +2,7 @@
 title: "Weitere Reisebilder: Rom, Riga, Finnland"
 permalink: /rom-bilder-online/
 header:
-    teaser: thumbnails/photography/2016_09_rom/Rom_086b2.jpg
+    teaser: assets/photography/2016_09_rom/Rom_086b2.jpg
     overlay_image: assets/photography/2016_09_rom/Rom_304.jpg
 gallery:
   - url: assets/photography/2016_09_rom/Rom_220.jpg

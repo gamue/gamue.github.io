@@ -3,7 +3,7 @@ title: 'Vor- und Nachteile ein Tourist zu sein'
 date: 2012-01-24T19:33:02+02:00
 permalink: /vor-und-nachteile-ein-tourist-zu-sein/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_8178.jpg
+    teaser: assets/photography/2011_10_indien/dsc_8178.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8178.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8193.jpg

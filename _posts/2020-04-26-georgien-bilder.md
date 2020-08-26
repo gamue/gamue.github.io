@@ -2,7 +2,7 @@
 title: Georgien Bilder online
 permalink: /georgien-bilder-online/
 header:
-    teaser: thumbnails/photography/2018_06_georgien/Georgien_0648b.jpg
+    teaser: assets/photography/2018_06_georgien/Georgien_0648b.jpg
     overlay_image: assets/photography/2018_06_georgien/Georgien_0563.jpg
 gallery:
   - url: assets/photography/2018_06_georgien/Georgien_0013.jpg

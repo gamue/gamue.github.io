@@ -3,7 +3,7 @@ title: Im Angesicht einer Göttin
 date: 2012-11-18T15:43:48+02:00
 permalink: /im-angesicht-einer-goettin/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0993.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0993.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0993.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0993.jpg

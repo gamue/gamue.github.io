@@ -3,7 +3,7 @@ title: Willkommen in Rumänien
 date: 2014-08-28T20:09:31+02:00
 permalink: /willkommen-rumaenien/
 header:
-    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_080.jpg
+    teaser: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_071.jpg

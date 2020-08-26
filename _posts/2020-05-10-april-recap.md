@@ -2,7 +2,7 @@
 title: April Recap
 permalink: /recap-april-2020/
 header:
-    teaser: https://images.unsplash.com/photo-1586991359975-54500b7d8a86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80
+    teaser: assets/2020-05-10-april-recap/photo-1586991359975-54500b7d8a86.webp
 categories:
   - Allgemein
 ---

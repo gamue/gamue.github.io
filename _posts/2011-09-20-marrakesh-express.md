@@ -3,7 +3,7 @@ title: Marrakesh Express
 date: 2011-09-20T19:53:27+02:00
 permalink: /marrakesh-express/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/Marokko_524b.jpg
+    teaser: assets/photography/2011_05_marokko/Marokko_524b.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_524b.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/Marokko_511_513_514.jpg

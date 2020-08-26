@@ -3,7 +3,7 @@ title: Umwege in den Süden
 date: 2014-08-10T13:31:14+02:00
 permalink: /umwege-in-den-sueden/
 header:
-    teaser: thumbnails/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
+    teaser: assets/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
     overlay_image: assets/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
 gallery:
   - url: assets/photography/2013_08_oslo/Oslo_011_tonemapped.jpg

@@ -3,7 +3,7 @@ title: Zugfahrten in Indien
 date: 2012-05-10T20:59:06+02:00
 permalink: /zugfahrten-in-indien/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dscn0112.jpg
+    teaser: assets/photography/2011_10_indien/dscn0112.jpg
     overlay_image: assets/photography/2011_10_indien/dscn0112.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dscn0112.jpg

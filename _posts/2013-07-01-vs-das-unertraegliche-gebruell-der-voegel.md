@@ -3,7 +3,7 @@ title: vs das unerträgliche Gebrüll der Vögel
 date: 2013-07-01T18:33:18+02:00
 permalink: /vs-das-unertraegliche-gebruell-der-voegel/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_1239_tonemapped.jpg
+    teaser: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1279.jpg

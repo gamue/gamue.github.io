@@ -2,7 +2,7 @@
 title: "Wie kommt man günstig nach Jordanien?"
 permalink: /guenstig-nach-jordanien/
 header:
-    teaser: thumbnails/2019-11-29-billig-nach-jordanien/grenze_jordanien.jpg
+    teaser: assets/2019-11-29-billig-nach-jordanien/grenze_jordanien.jpg
     overlay_image: assets/2019-11-29-billig-nach-jordanien/grenze_jordanien.jpg
     overlay_filter: rgba(200, 200, 200, 0.6)
 categories:

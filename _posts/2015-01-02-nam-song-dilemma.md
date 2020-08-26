@@ -3,7 +3,7 @@ title: Nam Song Dilemma
 date: 2015-01-02T16:36:16+02:00
 permalink: /nam-song-dilemma/
 header:
-    teaser: thumbnails/photography/2014_11_laos/Laos_439.jpg
+    teaser: assets/photography/2014_11_laos/Laos_439.jpg
     overlay_image: assets/photography/2014_11_laos/Laos_439.jpg
 categories:
   - Technik

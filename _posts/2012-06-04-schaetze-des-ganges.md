@@ -3,7 +3,7 @@ title: Schätze des Ganges
 date: 2012-06-04T21:16:32+02:00
 permalink: /schaetze-des-ganges/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_9110.jpg
+    teaser: assets/photography/2011_10_indien/dsc_9110.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_9110.jpg
 gallery:
   - url: assets/photography/2011_10_indien/dsc_8924.jpg

@@ -3,7 +3,7 @@ title: Wider der Gewohnheit
 date: 2014-07-24T19:50:53+02:00
 permalink: /wider-der-gewohnheit/
 header:
-    teaser: thumbnails/2014-07-24-wider-der-gewohnheit/malle_3.jpg
+    teaser: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
     overlay_image: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
 gallery:
   - url: assets/2014-07-24-wider-der-gewohnheit/malle_1.jpg

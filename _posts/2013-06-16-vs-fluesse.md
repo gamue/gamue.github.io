@@ -3,7 +3,7 @@ title: vs Flüsse
 date: 2013-06-16T12:02:07+02:00
 permalink: /vs-fluesse/
 header:
-    teaser: thumbnails/photography/2012_06_island/2012-06-21_island_291.jpg
+    teaser: assets/photography/2012_06_island/2012-06-21_island_291.jpg
     overlay_image: assets/photography/2012_06_island/2012-06-21_island_291.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_0862.jpg

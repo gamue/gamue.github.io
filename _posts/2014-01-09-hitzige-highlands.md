@@ -3,7 +3,7 @@ title: Hitzige Highlands
 date: 2014-01-09T18:00:55+02:00
 permalink: /hitzige-highlands/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0001.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0001.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0001.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0001.jpg

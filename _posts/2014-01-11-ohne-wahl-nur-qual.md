@@ -2,7 +2,7 @@
 title: Ohne Wahl nur Qual
 permalink: /ohne-wahl-nur-qual/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0019.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0019.jpg
 categories:
   - Unterwegs
 tags:

@@ -3,7 +3,7 @@ title: 'Berg- und Fasadenklettern'
 date: 2012-09-03T21:04:38+02:00
 permalink: /berg-und-fasadenklettern/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0156.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0156.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0156.jpg   
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0179-0182.jpg

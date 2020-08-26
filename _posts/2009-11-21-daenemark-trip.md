@@ -2,7 +2,7 @@
 title: Dänemark Trip
 permalink: /daenemark-trip/
 header:
-    teaser: thumbnails/photography/0000_misc/2009-11_copenhagen_1.jpg
+    teaser: assets/photography/0000_misc/2009-11_copenhagen_1.jpg
     overlay_image: assets/photography/0000_misc/2009-11_copenhagen_1.jpg
 gallery:
   - url: /assets/photography/0000_misc/2009-11_copenhagen_1.jpg

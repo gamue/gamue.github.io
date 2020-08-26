@@ -3,7 +3,7 @@ title: Mein Foto-Workflow
 tagline: Der Weg meiner Bilder nachdem ich sie fotografiert habe.
 permalink: /mein-foto-workflow/
 header:
-    teaser: thumbnails/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg
+    teaser: assets/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg
     overlay_image: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_295_tonemapped.jpg
 categories:
   - Photography

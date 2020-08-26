@@ -3,7 +3,7 @@ title: Wo ist Nessie?
 date: 2014-01-13T18:10:08+02:00
 permalink: /wo-ist-nessie/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0048_b.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0048_b.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0048_b.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0019.jpg

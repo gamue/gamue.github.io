@@ -3,7 +3,7 @@ title: Typisch Isländisches Essen
 date: 2013-06-22T10:40:09+02:00
 permalink: /typisch-islaendisches-essen/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_1174.jpg
+    teaser: assets/photography/2012_06_island/dsc_1174.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1174.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1174.jpg

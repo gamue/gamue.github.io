@@ -2,7 +2,7 @@
 title: "Sri Lanka Bilder online"
 permalink: /sri-lanka-bilder-online/
 header:
-    teaser: thumbnails/photography/2016_12_sri_lanka/SriLanka_0498.jpg
+    teaser: assets/photography/2016_12_sri_lanka/SriLanka_0498.jpg
     overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 gallery:
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0047b.jpg

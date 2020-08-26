@@ -3,7 +3,7 @@ title: Auf der Suche nach Shir Khan
 date: 2012-10-06T16:18:20+02:00
 permalink: /auf-der-suche-nach-shir-khan/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0631.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0631.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0631.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0708.jpg

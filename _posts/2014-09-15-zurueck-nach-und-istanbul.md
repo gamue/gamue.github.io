@@ -3,7 +3,7 @@ title: Zurück nach und in Istanbul
 date: 2014-09-15T18:55:44+02:00
 permalink: /zurueck-nach-und-istanbul/
 header:
-    teaser: thumbnails/photography/2014_05_tuerkei/Tuerkei_056.jpg
+    teaser: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg

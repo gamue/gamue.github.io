@@ -3,7 +3,7 @@ title: vs Fernbusse
 date: 2013-05-20T09:36:05+02:00
 permalink: /vs-fernbusse/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_0635.jpg
+    teaser: assets/photography/2012_06_island/dsc_0635.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0635.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1721.jpg

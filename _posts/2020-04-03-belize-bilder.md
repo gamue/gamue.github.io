@@ -2,7 +2,7 @@
 title: Belize Bilder online
 permalink: /belize-bilder-online/
 header:
-    teaser: thumbnails/photography/2019_04_belize/Belize_0823.jpg
+    teaser: assets/photography/2019_04_belize/Belize_0823.jpg
     overlay_image: assets/photography/2019_04_belize/Belize_0661.jpg
 gallery:
   - url: assets/photography/2019_04_belize/Belize_0241b.jpg

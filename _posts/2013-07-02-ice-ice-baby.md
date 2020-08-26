@@ -3,7 +3,7 @@ title: Ice Ice Baby
 date: 2013-07-02T21:52:06+02:00
 permalink: /ice-ice-baby/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_1341.jpg
+    teaser: assets/photography/2012_06_island/dsc_1341.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1341.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1392_tonemapped.jpg

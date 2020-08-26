@@ -2,7 +2,7 @@
 title: Kleinere Homepage Updates
 permalink: /kleinere-homepage-updates/
 header:
-    teaser: thumbnails/photography/2017_04_japan/Japan_1538.jpg
+    teaser: assets/photography/2017_04_japan/Japan_1538.jpg
 categories:
   - Homepage
 ---

@@ -3,7 +3,7 @@ title: Bilder vom Stopover in Abu Dhabi online
 date: 2014-12-07T13:51:36+02:00
 permalink: /bilder-vom-stopover-abu-dhabi-online/
 header:
-    teaser: thumbnails/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
+    teaser: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
     overlay_image: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
 gallery:
   - url: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg

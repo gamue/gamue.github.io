@@ -3,7 +3,7 @@ title: Was sich für mich am Reisen nach Covid-19 ändert
 excerpt: Die Corona-Situation hat die Reisebranche zweifelsfrei sehr hart getroffen und ich glaube wir werden die Auswirkungen noch eine ganze Weile merken. Sei es, weil manche Staaten bisher noch nicht sagen, wann sie wieder für Touristen öffnen oder der ein oder andere in den letzten Wochen und Monaten diverse Erfahrungen mit Anbietern gemacht hat.
 permalink: /reisen-nach-covid-19/
 header:
-    teaser: thumbnails/2020-08-02-reisen-nach-covid/ross-parmly-rf6ywHVkrlY-unsplash.jpg
+    teaser: assets/2020-08-02-reisen-nach-covid/ross-parmly-rf6ywHVkrlY-unsplash.jpg
     overlay_image: assets/2020-08-02-reisen-nach-covid/ross-parmly-rf6ywHVkrlY-unsplash.jpg
     caption: "Foto von [Unsplash/Ross Parmly](https://unsplash.com/photos/rf6ywHVkrlY)"
 categories:

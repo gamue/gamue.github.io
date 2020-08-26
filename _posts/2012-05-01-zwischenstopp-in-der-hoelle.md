@@ -3,7 +3,7 @@ title: Zwischenstopp in der Hölle
 date: 2012-05-01T14:46:52+02:00
 permalink: /zwischenstopp-in-der-hoelle/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_8868_hdr.jpg
+    teaser: assets/photography/2011_10_indien/dsc_8868_hdr.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8868_hdr.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8752.jpg

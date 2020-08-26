@@ -3,7 +3,7 @@ title: Kung Fu Fighting
 date: 2011-09-16T16:58:53+02:00
 permalink: /kung-fu-fighting/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/Marokko_480.jpg
+    teaser: assets/photography/2011_05_marokko/Marokko_480.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_480.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/Marokko_111.jpg

@@ -2,7 +2,7 @@
 title: "Ich komm' voran: Jordanien Bilder online"
 permalink: /jordanien-bilder-online/
 header:
-    teaser: thumbnails/photography/2017_11_jordanien/Jordanien_165.jpg
+    teaser: assets/photography/2017_11_jordanien/Jordanien_165.jpg
     overlay_image: assets/photography/2017_11_jordanien/Jordanien_325.jpg
 gallery:
   - url: assets/photography/2017_11_jordanien/Jordanien_028.jpg

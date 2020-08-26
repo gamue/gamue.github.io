@@ -3,7 +3,7 @@ title: Von typisch zu stereotypisch
 date: 2014-01-23T18:25:29+02:00
 permalink: /von-typisch-zu-stereotypisch/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0764.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0764.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0764.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0664.jpg

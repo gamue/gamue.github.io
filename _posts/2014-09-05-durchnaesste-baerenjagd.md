@@ -3,7 +3,7 @@ title: Durchnässte Bärenjagd
 date: 2014-09-05T12:27:27+02:00
 permalink: /durchnaesste-baerenjagd/
 header:
-    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_640.jpg
+    teaser: assets/photography/2013_08_rumaenien/Rumaenien_640.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_640.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_605.jpg

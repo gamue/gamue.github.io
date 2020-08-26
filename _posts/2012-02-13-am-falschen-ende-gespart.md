@@ -3,7 +3,7 @@ title: Am falschen Ende gespart
 date: 2012-02-13T20:00:41+02:00
 permalink: /am-falschen-ende-gespart/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dscn0051.jpg
+    teaser: assets/photography/2011_10_indien/dscn0051.jpg
     overlay_image: assets/photography/2011_10_indien/dscn0051.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dsc_8197.jpg

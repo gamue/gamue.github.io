@@ -3,7 +3,7 @@ title: Kurze Auszeit vom Trubel
 date: 2012-03-18T13:39:59+02:00
 permalink: /kurze-auszeit-vom-trubel/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_8686.jpg
+    teaser: assets/photography/2011_10_indien/dsc_8686.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8686.jpg
 gallery:
   - url: /assets/photography/2011_10_indien/dscn0071.jpg

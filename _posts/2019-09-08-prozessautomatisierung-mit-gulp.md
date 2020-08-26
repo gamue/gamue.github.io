@@ -2,7 +2,7 @@
 title: Prozessautomatisierung mit Gulp
 permalink: /prozessautomatisierung-mit-gulp/
 header:
-    teaser: thumbnails/2019-09-08-prozessautomatisierung-mit-gulp/thumb.jpg
+    teaser: assets/2019-09-08-prozessautomatisierung-mit-gulp/thumb.jpg
 gallery:
   - url: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_home.jpg
     image_path: thumbnails/2019-09-08-prozessautomatisierung-mit-gulp/stats_home.jpg

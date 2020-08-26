@@ -2,7 +2,7 @@
 title: Schweiz oder Frankreich?
 permalink: /schweiz-oder-frankreich/
 header:
-    teaser: thumbnails/photography/0000_misc/2009-11_switzerland_4.jpg
+    teaser: assets/photography/0000_misc/2009-11_switzerland_4.jpg
     overlay_image: assets/photography/0000_misc/2009-11_switzerland_4.jpg
 gallery:
   - url: /assets/photography/0000_misc/2009-11_switzerland_1.jpg

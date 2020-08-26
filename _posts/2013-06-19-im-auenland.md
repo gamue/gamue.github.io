@@ -3,7 +3,7 @@ title: im Auenland
 date: 2013-06-19T20:58:37+02:00
 permalink: /im-auenland/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_0989_tonemapped.jpg
+    teaser: assets/photography/2012_06_island/dsc_0989_tonemapped.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0989_tonemapped.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_0817_0864_0906_0915_1329.jpg

@@ -2,7 +2,7 @@
 title: "Superzooms: Die idealen Objektive?"
 permalink: /superzooms-die-idealen-objektive/
 header:
-    teaser: thumbnails/2020-08-22-superzooms/superzoom-thumbnail.jpg
+    teaser: /assets/2020-08-22-superzooms/superzoom-thumbnail.jpg
     overlay_image: assets/2020-08-22-superzooms/objektiv_quer.jpg
 categories:
   - Photography

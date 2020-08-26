@@ -2,7 +2,7 @@
 title: Kreta Bilder online
 permalink: /kreta-bilder-online/
 header:
-    teaser: thumbnails/photography/2016_05_kreta/Kreta_833_Enhancer.jpg
+    teaser: assets/photography/2016_05_kreta/Kreta_833_Enhancer.jpg
     overlay_image: assets/photography/2016_05_kreta/Kreta_833_Enhancer.jpg
 gallery:
   - url: assets/photography/2016_05_kreta/Kreta_358_b.jpg

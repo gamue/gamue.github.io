@@ -2,7 +2,7 @@
 title: Deutschland
 permalink: /deutschland/
 header:
-    teaser: thumbnails/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg
+    teaser: assets/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg
     overlay_image: assets/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg
 ---
 

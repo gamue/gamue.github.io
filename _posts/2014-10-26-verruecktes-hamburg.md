@@ -3,7 +3,7 @@ title: Verrücktes Hamburg
 date: 2014-10-26T19:40:08+02:00
 permalink: /verruecktes-hamburg/
 header:
-    teaser: thumbnails/2014-10-26-verruecktes-hamburg/hamburg_schlagermove.jpg
+    teaser: assets/2014-10-26-verruecktes-hamburg/hamburg_schlagermove.jpg
     overlay_image: assets/2014-10-26-verruecktes-hamburg/hamburg_schlagermove.jpg
 categories:
   - Unterwegs

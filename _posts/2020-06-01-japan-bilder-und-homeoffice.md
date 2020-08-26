@@ -2,7 +2,7 @@
 title: "Japan Bilder online & Homeoffice Upgrade"
 permalink: /japan-bilder-online-und-homeoffice-upgrade/
 header:
-    teaser: thumbnails/photography/2017_04_japan/Japan_1218.jpg
+    teaser: assets/photography/2017_04_japan/Japan_1218.jpg
     overlay_image: assets/photography/2017_04_japan/Japan_1211.jpg
 gallery:
   - url: assets/photography/2017_04_japan/Japan_0022.jpg

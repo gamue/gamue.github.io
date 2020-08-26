@@ -3,7 +3,7 @@ title: Zurück in die Tourihölle
 date: 2012-09-09T20:38:20+02:00
 permalink: /zurueck-in-die-tourihoelle/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_0229.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_0229.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0229.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0404b.jpg

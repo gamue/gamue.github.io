@@ -2,7 +2,7 @@
 title: Lost in Pronunciation
 permalink: /lost-in-pronunciation/
 header:
-    teaser: thumbnails/photography/2013_07_schottland/Schottland_0532.jpg
+    teaser: assets/photography/2013_07_schottland/Schottland_0532.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0532.jpg
 categories:
   - Unterwegs

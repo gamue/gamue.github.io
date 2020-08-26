@@ -3,7 +3,7 @@ title: vs heiße Quellen
 date: 2013-05-25T15:34:41+02:00
 permalink: /vs-heisse-quellen/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_0686.jpg
+    teaser: assets/photography/2012_06_island/dsc_0686.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0686.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_0660.jpg

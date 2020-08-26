@@ -3,7 +3,7 @@ title: Fernweh in der Ferne
 date: 2014-09-11T14:55:26+02:00
 permalink: /fernweh-der-ferne/
 header:
-    teaser: thumbnails/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
+    teaser: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_022.jpg

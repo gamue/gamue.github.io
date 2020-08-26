@@ -3,7 +3,7 @@ title: 'Apps für Reisen: Meine Empfehlungen'
 date: 2016-07-14T18:59:33+02:00
 permalink: /empfehlungen-reise-apps/
 header:
-    teaser: thumbnails/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
+    teaser: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
     overlay_image: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
     
 categories:

@@ -3,7 +3,7 @@ title: Heimatgefühle mitten in der Pampa
 date: 2014-08-30T20:57:40+02:00
 permalink: /heimatgefuehle-mitten-der-pampa/
 header:
-    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_187.jpg
+    teaser: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg

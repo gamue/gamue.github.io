@@ -3,7 +3,7 @@ title: Im Wald gestrandet
 date: 2013-07-03T19:41:57+02:00
 permalink: /im-wald-gestrandet/
 header:
-    teaser: thumbnails/photography/2012_06_island/dsc_1453.jpg
+    teaser: assets/photography/2012_06_island/dsc_1453.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1453.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_1600.jpg

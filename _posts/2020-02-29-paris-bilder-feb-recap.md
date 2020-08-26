@@ -2,7 +2,7 @@
 title: "Paris Bilder online & Februar Recap"
 permalink: /paris-bilder-und-februar-recap/
 header:
-    teaser: thumbnails/photography/2019_12_paris/Paris_225.jpg
+    teaser: assets/photography/2019_12_paris/Paris_225.jpg
     overlay_image: assets/photography/2019_12_paris/Paris_119.jpg
 gallery:
   - url: assets/photography/2019_12_paris/Paris_016b.jpg

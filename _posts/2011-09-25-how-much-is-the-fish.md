@@ -3,7 +3,7 @@ title: How much is the fish?
 date: 2011-09-25T20:31:45+02:00
 permalink: /how-much-is-the-fish/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/Marokko_604b.jpg
+    teaser: assets/photography/2011_05_marokko/Marokko_604b.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_604b.jpg
 gallery:
   - url: /assets/photography/2011_05_marokko/Marokko_558.jpg

@@ -3,7 +3,7 @@ title: Just Like Belgium
 date: 2010-11-28T22:14:57+02:00
 permalink: /just-like-belgium/
 header:
-    teaser: thumbnails/photography/2010_09_belgien/dsc_3269.jpg
+    teaser: assets/photography/2010_09_belgien/dsc_3269.jpg
     overlay_image: assets/photography/2010_09_belgien/dsc_3269.jpg
 gallery:
   - url: /assets/photography/2010_09_belgien/dsc_2881.jpg
