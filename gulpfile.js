@@ -11,7 +11,8 @@ gulp.task('default', function () {
     'assets/**/*',
     '!assets/css/**',
     '!assets/js/**',
-    '!assets/images/**'
+    '!assets/images/**',
+    '!assets/webfonts/**'
     ])
     .pipe(changed('thumbnails'))
     .pipe(debug())
