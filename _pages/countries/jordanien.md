@@ -2,7 +2,7 @@
 title: Jordanien
 permalink: /jordanien/
 header:
-    teaser: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
+    teaser: thumbnails/photography/2017_11_jordanien/Jordanien_404b.jpg
     overlay_image: assets/photography/2017_11_jordanien/Jordanien_212.jpg
 itinerary:
     - name: Wadi Rum

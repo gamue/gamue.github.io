@@ -2,7 +2,7 @@
 title: Laos
 permalink: /laos/
 header:
-    teaser: assets/photography/2014_11_laos/Laos_188.jpg
+    teaser: thumbnails/photography/2014_11_laos/Laos_188.jpg
     overlay_image: assets/photography/2014_11_laos/Laos_092.jpg
 itinerary:
     - name: Mixay Savang

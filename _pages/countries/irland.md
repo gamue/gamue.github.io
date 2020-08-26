@@ -2,7 +2,7 @@
 title: Irland
 permalink: /irland/
 header:
-    teaser: assets/photography/2009_02_irland/Irland_2009_Johannes_711.jpg
+    teaser: thumbnails/photography/2009_02_irland/Irland_2009_Johannes_711.jpg
     overlay_image: assets/photography/2009_02_irland/Irland_2009_Johannes_711.jpg
 itinerary:
     - name: Dublin

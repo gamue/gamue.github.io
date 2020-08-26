@@ -2,7 +2,7 @@
 title: Georgien
 permalink: /georgien/
 header:
-    teaser: assets/photography/2018_06_georgien/Georgien_0424b.jpg
+    teaser: thumbnails/photography/2018_06_georgien/Georgien_0424b.jpg
     overlay_image: assets/photography/2018_06_georgien/Georgien_0563.jpg
 itinerary:
     - name: Tiflis

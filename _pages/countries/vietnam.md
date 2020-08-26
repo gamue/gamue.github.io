@@ -2,7 +2,7 @@
 title: Vietnam
 permalink: /vietnam/
 header:
-    teaser: assets/countries/vietnam/Vietnam_10_043.JPG
+    teaser: thumbnails/countries/vietnam/Vietnam_10_043.JPG
     overlay_image: assets/countries/vietnam/Vietnam_10_043.JPG
 itinerary:
     - name: Ho-Chi-Minh-Stadt
