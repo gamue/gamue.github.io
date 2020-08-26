@@ -2,7 +2,7 @@
 title: Rumänien
 permalink: /rumaenien/
 header:
-    teaser: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
+    teaser: thumbnails/photography/2013_08_rumaenien/Rumaenien_187.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_401.jpg
 itinerary:
     - name: Timișoara

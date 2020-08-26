@@ -2,7 +2,7 @@
 title: Israel
 permalink: /israel/
 header:
-    teaser: assets/photography/2009_09_israel/dsc_6894_hdr.jpg
+    teaser: thumbnails/photography/2009_09_israel/dsc_6894_hdr.jpg
     overlay_image: assets/photography/2009_09_israel/dsc_7603.jpg
 itinerary:
     - name: Bethlehem

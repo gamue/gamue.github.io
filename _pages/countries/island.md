@@ -2,7 +2,7 @@
 title: Island
 permalink: /island/
 header:
-    teaser: assets/photography/2012_06_island/dsc_1072.jpg
+    teaser: thumbnails/photography/2012_06_island/dsc_1072.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0825_tonemapped.jpg
 itinerary:
     - name: Reykjavik

@@ -2,7 +2,7 @@
 title: Thailand
 permalink: /thailand/
 header:
-    teaser: assets/photography/2014_10_thailand/Thailand_0630.jpg
+    teaser: thumbnails/photography/2014_10_thailand/Thailand_0630.jpg
     overlay_image: assets/photography/2014_10_thailand/Thailand_0630.jpg
 itinerary:
     - name: Bangkok
