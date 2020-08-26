@@ -9,7 +9,7 @@
     {% if file.path contains include.folder %}
 
     <a href="{{ file.path }}">
-        <img src='{{ file.path | replace: "assets/", "thumbnails/" }}' alt="">
+        {% cloudinary thumbnail {{file.path}} alt="" %}
     </a>
 
     {% endif %}

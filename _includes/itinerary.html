@@ -7,13 +7,11 @@
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
             {% if teaser %}
             <div class="archive__item-teaser">
-                <img src=
                 {% if teaser contains "://" %}
-                    "{{ teaser }}"
+                    {% cloudinary thumbnail {{teaser}} alt="" %}
                 {% else %}
-                    "{{ teaser | relative_url }}"
+                    {% cloudinary thumbnail {{teaser | relative_url }} alt="" %}
                 {% endif %}
-                alt="">
             </div>
             {% endif %}
 
