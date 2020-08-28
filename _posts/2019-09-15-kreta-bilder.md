@@ -6,13 +6,13 @@ header:
     overlay_image: assets/photography/2016_05_kreta/Kreta_833_Enhancer.jpg
 gallery:
   - url: assets/photography/2016_05_kreta/Kreta_358_b.jpg
-    image_path: thumbnails/photography/2016_05_kreta/Kreta_358_b.jpg
+    image_path: assets/photography/2016_05_kreta/Kreta_358_b.jpg
   - url: assets/photography/2016_05_kreta/Kreta_595.jpg
-    image_path: thumbnails/photography/2016_05_kreta/Kreta_595.jpg
+    image_path: assets/photography/2016_05_kreta/Kreta_595.jpg
   - url: assets/photography/2016_05_kreta/Kreta_683.jpg
-    image_path: thumbnails/photography/2016_05_kreta/Kreta_683.jpg
+    image_path: assets/photography/2016_05_kreta/Kreta_683.jpg
   - url: assets/photography/2016_05_kreta/Kreta_848_b.jpg
-    image_path: thumbnails/photography/2016_05_kreta/Kreta_848_b.jpg
+    image_path: assets/photography/2016_05_kreta/Kreta_848_b.jpg
 categories:
   - Photography
 ---

@@ -7,7 +7,7 @@ header:
     overlay_image: assets/photography/2013_07_schottland/Schottland_0001.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0001.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0001.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0001.jpg
 categories:
   - Unterwegs
 tags:

@@ -7,13 +7,13 @@ header:
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_056.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_384.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_290.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_348.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
 categories:
   - Unterwegs
 tags:

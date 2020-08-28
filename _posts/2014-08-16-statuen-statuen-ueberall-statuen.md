@@ -7,17 +7,17 @@ header:
     overlay_image: assets/photography/2013_08_mazedonien/Skopje_086.jpg
 gallery:
   - url: assets/photography/2013_08_mazedonien/Skopje_018.jpg
-    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_018.jpg
+    image_path: assets/photography/2013_08_mazedonien/Skopje_018.jpg
   - url: assets/photography/2013_08_mazedonien/Skopje_031.jpg
-    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_031.jpg
+    image_path: assets/photography/2013_08_mazedonien/Skopje_031.jpg
   - url: assets/photography/2013_08_mazedonien/Skopje_085.jpg
-    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_085.jpg
+    image_path: assets/photography/2013_08_mazedonien/Skopje_085.jpg
   - url: assets/photography/2013_08_mazedonien/Skopje_086.jpg
-    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_086.jpg
+    image_path: assets/photography/2013_08_mazedonien/Skopje_086.jpg
   - url: assets/photography/2013_08_mazedonien/Skopje_093.jpg
-    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_093.jpg
+    image_path: assets/photography/2013_08_mazedonien/Skopje_093.jpg
   - url: assets/photography/2013_08_mazedonien/Skopje_118.jpg
-    image_path: thumbnails/photography/2013_08_mazedonien/Skopje_118.jpg
+    image_path: assets/photography/2013_08_mazedonien/Skopje_118.jpg
 categories:
   - Unterwegs
 tags:

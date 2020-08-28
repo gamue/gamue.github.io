@@ -7,17 +7,17 @@ header:
     overlay_image: assets/photography/2014_10_thailand/Thailand_0092.jpg
 gallery:
   - url: assets/photography/2014_10_thailand/Thailand_0039.jpg
-    image_path: thumbnails/photography/2014_10_thailand/Thailand_0039.jpg
+    image_path: assets/photography/2014_10_thailand/Thailand_0039.jpg
   - url: assets/photography/2014_10_thailand/Thailand_0077.jpg
-    image_path: thumbnails/photography/2014_10_thailand/Thailand_0077.jpg
+    image_path: assets/photography/2014_10_thailand/Thailand_0077.jpg
   - url: assets/photography/2014_10_thailand/Thailand_0156.jpg
-    image_path: thumbnails/photography/2014_10_thailand/Thailand_0156.jpg
+    image_path: assets/photography/2014_10_thailand/Thailand_0156.jpg
   - url: assets/photography/2014_10_thailand/Thailand_0535.jpg
-    image_path: thumbnails/photography/2014_10_thailand/Thailand_0535.jpg
+    image_path: assets/photography/2014_10_thailand/Thailand_0535.jpg
   - url: assets/photography/2014_10_thailand/Thailand_0907.jpg
-    image_path: thumbnails/photography/2014_10_thailand/Thailand_0907.jpg
+    image_path: assets/photography/2014_10_thailand/Thailand_0907.jpg
   - url: assets/photography/2014_10_thailand/Thailand_0941.jpg
-    image_path: thumbnails/photography/2014_10_thailand/Thailand_0941.jpg
+    image_path: assets/photography/2014_10_thailand/Thailand_0941.jpg
 categories:
   - Photography
 ---

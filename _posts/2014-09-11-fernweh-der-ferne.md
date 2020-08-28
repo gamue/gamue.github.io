@@ -7,29 +7,29 @@ header:
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
 gallery:
   - url: assets/photography/2014_05_tuerkei/Tuerkei_022.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_022.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_022.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_076.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_076.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_076.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_113.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_113.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_113.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_009_tonemapped.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_009_tonemapped.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_009_tonemapped.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_430.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_430.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_430.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_162.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_162.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_162.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_228_tonemapped_b.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_228_tonemapped_b.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_228_tonemapped_b.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_229.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_229.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_229.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_232_tonemapped.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_232_tonemapped.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_232_tonemapped.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_169.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_169.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_169.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
   - url: assets/photography/2014_05_tuerkei/Tuerkei_443.jpg
-    image_path: thumbnails/photography/2014_05_tuerkei/Tuerkei_443.jpg
+    image_path: assets/photography/2014_05_tuerkei/Tuerkei_443.jpg
 categories:
   - Unterwegs
 tags:

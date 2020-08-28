@@ -7,11 +7,11 @@ header:
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_541.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_517.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_517.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_517.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_527_556.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_527_556.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_527_556.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_541.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_541.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_541.jpg
 categories:
   - Unterwegs
 tags:

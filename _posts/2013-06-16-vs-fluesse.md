@@ -7,19 +7,19 @@ header:
     overlay_image: assets/photography/2012_06_island/2012-06-21_island_291.jpg
 gallery:
   - url: assets/photography/2012_06_island/dsc_0862.jpg
-    image_path: thumbnails/photography/2012_06_island/dsc_0862.jpg
+    image_path: assets/photography/2012_06_island/dsc_0862.jpg
   - url: assets/photography/2012_06_island/dsc_0871.jpg
-    image_path: thumbnails/photography/2012_06_island/dsc_0871.jpg
+    image_path: assets/photography/2012_06_island/dsc_0871.jpg
   - url: assets/photography/2012_06_island/dsc_0932.jpg
-    image_path: thumbnails/photography/2012_06_island/dsc_0932.jpg
+    image_path: assets/photography/2012_06_island/dsc_0932.jpg
   - url: assets/photography/2012_06_island/dsc_0940.jpg
-    image_path: thumbnails/photography/2012_06_island/dsc_0940.jpg
+    image_path: assets/photography/2012_06_island/dsc_0940.jpg
   - url: assets/photography/2012_06_island/dsc_0950.jpg
-    image_path: thumbnails/photography/2012_06_island/dsc_0950.jpg
+    image_path: assets/photography/2012_06_island/dsc_0950.jpg
   - url: assets/photography/2012_06_island/dscn0178.jpg
-    image_path: thumbnails/photography/2012_06_island/dscn0178.jpg
+    image_path: assets/photography/2012_06_island/dscn0178.jpg
   - url: assets/photography/2012_06_island/2012-06-21_island_291.jpg
-    image_path: thumbnails/photography/2012_06_island/2012-06-21_island_291.jpg
+    image_path: assets/photography/2012_06_island/2012-06-21_island_291.jpg
 categories:
   - Unterwegs
 tags:

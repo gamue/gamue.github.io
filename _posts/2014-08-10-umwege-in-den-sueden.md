@@ -7,17 +7,17 @@ header:
     overlay_image: assets/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
 gallery:
   - url: assets/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
-    image_path: thumbnails/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
+    image_path: assets/photography/2013_08_oslo/Oslo_011_tonemapped.jpg
   - url: assets/photography/2013_08_oslo/Oslo_240.jpg
-    image_path: thumbnails/photography/2013_08_oslo/Oslo_240.jpg
+    image_path: assets/photography/2013_08_oslo/Oslo_240.jpg
   - url: assets/photography/2013_08_oslo/Oslo_242.jpg
-    image_path: thumbnails/photography/2013_08_oslo/Oslo_242.jpg
+    image_path: assets/photography/2013_08_oslo/Oslo_242.jpg
   - url: assets/photography/2013_08_oslo/Oslo_174.jpg
-    image_path: thumbnails/photography/2013_08_oslo/Oslo_174.jpg
+    image_path: assets/photography/2013_08_oslo/Oslo_174.jpg
   - url: assets/photography/2013_08_oslo/Oslo_198.jpg
-    image_path: thumbnails/photography/2013_08_oslo/Oslo_198.jpg
+    image_path: assets/photography/2013_08_oslo/Oslo_198.jpg
   - url: assets/photography/2013_08_oslo/Oslo_097_103.jpg
-    image_path: thumbnails/photography/2013_08_oslo/Oslo_097_103.jpg
+    image_path: assets/photography/2013_08_oslo/Oslo_097_103.jpg
 categories:
   - Unterwegs
 tags:

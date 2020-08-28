@@ -7,17 +7,17 @@ header:
     overlay_image: assets/photography/2013_07_schottland/Schottland_0813.jpg
 gallery:
   - url: assets/photography/2013_07_schottland/Schottland_0808.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0808.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0808.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0813.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0813.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0813.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0910.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0910.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0910.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0926.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0926.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0926.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0933.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0933.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0933.jpg
   - url: assets/photography/2013_07_schottland/Schottland_0789.jpg
-    image_path: thumbnails/photography/2013_07_schottland/Schottland_0789.jpg
+    image_path: assets/photography/2013_07_schottland/Schottland_0789.jpg
 categories:
   - Unterwegs
 tags:

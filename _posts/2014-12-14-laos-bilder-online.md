@@ -7,17 +7,17 @@ header:
     overlay_image: assets/photography/2014_11_laos/Laos_175.jpg
 gallery:
   - url: assets/photography/2014_11_laos/Laos_059.jpg
-    image_path: thumbnails/photography/2014_11_laos/Laos_059.jpg
+    image_path: assets/photography/2014_11_laos/Laos_059.jpg
   - url: assets/photography/2014_11_laos/Laos_096.jpg
-    image_path: thumbnails/photography/2014_11_laos/Laos_096.jpg
+    image_path: assets/photography/2014_11_laos/Laos_096.jpg
   - url: assets/photography/2014_11_laos/Laos_188.jpg
-    image_path: thumbnails/photography/2014_11_laos/Laos_188.jpg
+    image_path: assets/photography/2014_11_laos/Laos_188.jpg
   - url: assets/photography/2014_11_laos/Laos_306.jpg 
-    image_path: thumbnails/photography/2014_11_laos/Laos_306.jpg
+    image_path: assets/photography/2014_11_laos/Laos_306.jpg
   - url: assets/photography/2014_11_laos/Laos_589.jpg
-    image_path: thumbnails/photography/2014_11_laos/Laos_589.jpg
+    image_path: assets/photography/2014_11_laos/Laos_589.jpg
   - url: assets/photography/2014_11_laos/Laos_717.jpg
-    image_path: thumbnails/photography/2014_11_laos/Laos_717.jpg
+    image_path: assets/photography/2014_11_laos/Laos_717.jpg
 categories:
   - Photography
 ---

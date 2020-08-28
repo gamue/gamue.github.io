@@ -7,19 +7,19 @@ header:
     overlay_image: assets/photography/2011_10_nepal/Nepal_0507.jpg
 gallery:
   - url: assets/photography/2011_10_nepal/Nepal_0560.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0560.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0560.jpg
   - url: assets/photography/2011_10_nepal/Nepal_0507.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0507.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0507.jpg
   - url: assets/photography/2011_10_nepal/Nepal_0488.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0488.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0488.jpg
   - url: assets/photography/2011_10_nepal/Nepal_0423_0439_0452_0454.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0423_0439_0452_0454.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0423_0439_0452_0454.jpg
   - url: assets/photography/2011_10_nepal/Nepal_0464.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0464.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0464.jpg
   - url: assets/photography/2011_10_nepal/Nepal_0543.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0543.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0543.jpg
   - url: assets/photography/2011_10_nepal/Nepal_0500b.jpg
-    image_path: thumbnails/photography/2011_10_nepal/Nepal_0500b.jpg
+    image_path: assets/photography/2011_10_nepal/Nepal_0500b.jpg
 categories:
   - Unterwegs
 tags:

@@ -6,17 +6,17 @@ header:
     overlay_image: assets/photography/2018_06_georgien/Georgien_0563.jpg
 gallery:
   - url: assets/photography/2018_06_georgien/Georgien_0013.jpg
-    image_path: thumbnails/photography/2018_06_georgien/Georgien_0013.jpg
+    image_path: assets/photography/2018_06_georgien/Georgien_0013.jpg
   - url: assets/photography/2018_06_georgien/Georgien_0138.jpg
-    image_path: thumbnails/photography/2018_06_georgien/Georgien_0138.jpg
+    image_path: assets/photography/2018_06_georgien/Georgien_0138.jpg
   - url: assets/photography/2018_06_georgien/Georgien_0248.jpg
-    image_path: thumbnails/photography/2018_06_georgien/Georgien_0248.jpg
+    image_path: assets/photography/2018_06_georgien/Georgien_0248.jpg
   - url: assets/photography/2018_06_georgien/Georgien_0371b.jpg
-    image_path: thumbnails/photography/2018_06_georgien/Georgien_0371b.jpg
+    image_path: assets/photography/2018_06_georgien/Georgien_0371b.jpg
   - url: assets/photography/2018_06_georgien/Georgien_0424b.jpg
-    image_path: thumbnails/photography/2018_06_georgien/Georgien_0424b.jpg
+    image_path: assets/photography/2018_06_georgien/Georgien_0424b.jpg
   - url: assets/photography/2018_06_georgien/Georgien_0609.jpg
-    image_path: thumbnails/photography/2018_06_georgien/Georgien_0609.jpg
+    image_path: assets/photography/2018_06_georgien/Georgien_0609.jpg
 categories:
   - Photography
 ---

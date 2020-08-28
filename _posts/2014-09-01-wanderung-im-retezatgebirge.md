@@ -7,27 +7,27 @@ header:
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_251.jpg
 gallery:
   - url: assets/photography/2013_08_rumaenien/Rumaenien_241.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_241.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_241.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_251.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_251.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_251.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_302.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_302.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_302.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_354.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_354.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_354.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_383.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_383.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_383.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_398.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_398.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_398.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_401.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_401.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_401.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_415_tonemapped.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_415_tonemapped.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_415_tonemapped.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_490.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_490.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_490.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_437.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_437.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_437.jpg
   - url: assets/photography/2013_08_rumaenien/Rumaenien_493.jpg
-    image_path: thumbnails/photography/2013_08_rumaenien/Rumaenien_493.jpg
+    image_path: assets/photography/2013_08_rumaenien/Rumaenien_493.jpg
 categories:
   - Unterwegs
 tags:

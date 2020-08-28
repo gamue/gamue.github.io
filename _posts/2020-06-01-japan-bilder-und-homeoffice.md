@@ -6,13 +6,13 @@ header:
     overlay_image: assets/photography/2017_04_japan/Japan_1211.jpg
 gallery:
   - url: assets/photography/2017_04_japan/Japan_0022.jpg
-    image_path: thumbnails/photography/2017_04_japan/Japan_0022.jpg
+    image_path: assets/photography/2017_04_japan/Japan_0022.jpg
   - url: assets/photography/2017_04_japan/Japan_1425.jpg
-    image_path: thumbnails/photography/2017_04_japan/Japan_1425.jpg
+    image_path: assets/photography/2017_04_japan/Japan_1425.jpg
   - url: assets/photography/2017_04_japan/Japan_0711b.jpg
-    image_path: thumbnails/photography/2017_04_japan/Japan_0711b.jpg
+    image_path: assets/photography/2017_04_japan/Japan_0711b.jpg
   - url: assets/photography/2017_04_japan/Japan_1155.jpg
-    image_path: thumbnails/photography/2017_04_japan/Japan_1155.jpg
+    image_path: assets/photography/2017_04_japan/Japan_1155.jpg
 categories:
   - Allgemein
   - Photography

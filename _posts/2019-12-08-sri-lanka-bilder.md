@@ -6,17 +6,17 @@ header:
     overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 gallery:
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0047b.jpg
-    image_path: thumbnails/photography/2016_12_sri_lanka/SriLanka_0047b.jpg
+    image_path: assets/photography/2016_12_sri_lanka/SriLanka_0047b.jpg
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0071.jpg
-    image_path: thumbnails/photography/2016_12_sri_lanka/SriLanka_0071.jpg
+    image_path: assets/photography/2016_12_sri_lanka/SriLanka_0071.jpg
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0257.jpg
-    image_path: thumbnails/photography/2016_12_sri_lanka/SriLanka_0257.jpg
+    image_path: assets/photography/2016_12_sri_lanka/SriLanka_0257.jpg
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0288.jpg
-    image_path: thumbnails/photography/2016_12_sri_lanka/SriLanka_0288.jpg
+    image_path: assets/photography/2016_12_sri_lanka/SriLanka_0288.jpg
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0575b.jpg
-    image_path: thumbnails/photography/2016_12_sri_lanka/SriLanka_0575b.jpg
+    image_path: assets/photography/2016_12_sri_lanka/SriLanka_0575b.jpg
   - url: assets/photography/2016_12_sri_lanka/SriLanka_0705.jpg
-    image_path: thumbnails/photography/2016_12_sri_lanka/SriLanka_0705.jpg
+    image_path: assets/photography/2016_12_sri_lanka/SriLanka_0705.jpg
 categories:
   - Photography
 ---
