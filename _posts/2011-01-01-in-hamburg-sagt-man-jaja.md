@@ -3,8 +3,8 @@ title: In Hamburg sagt man jaja
 date: 2011-01-01T16:47:07+02:00
 permalink: /in-hamburg-sagt-man-jaja/
 header:
-    teaser: /assets/photography/2010_09_deutschland/dsc_4585.jpg
-    overlay_image: /assets/photography/2010_09_deutschland/dsc_4585.jpg
+    teaser: assets/photography/2010_09_deutschland/dsc_4585.jpg
+    overlay_image: assets/photography/2010_09_deutschland/dsc_4585.jpg
 gallery:
   - url: /assets/photography/2010_09_deutschland/dsc_4193.jpg
     image_path: /assets/photography/2010_09_deutschland/dsc_4193.jpg

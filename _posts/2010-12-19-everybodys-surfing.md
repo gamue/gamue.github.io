@@ -3,8 +3,8 @@ title: 'Everybody&#8217;s Surfing'
 date: 2010-12-19T19:51:05+02:00
 permalink: /everybodys-surfing/
 header:
-    teaser: /assets/photography/2010_09_niederlande/dsc_3940.jpg
-    overlay_image: /assets/photography/2010_09_niederlande/dsc_3940.jpg
+    teaser: assets/photography/2010_09_niederlande/dsc_3940.jpg
+    overlay_image: assets/photography/2010_09_niederlande/dsc_3940.jpg
 gallery:
   - url: /assets/photography/2010_09_niederlande/dsc_3919_3921.jpg
     image_path: /assets/photography/2010_09_niederlande/dsc_3919_3921.jpg

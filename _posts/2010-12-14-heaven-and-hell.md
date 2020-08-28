@@ -3,8 +3,8 @@ title: Heaven and Hell
 date: 2010-12-14T21:32:57+02:00
 permalink: /heaven-and-hell/
 header:
-    teaser: /assets/photography/2010_09_niederlande/dsc_3870_hdr_0.jpg
-    overlay_image: /assets/photography/2010_09_niederlande/dsc_3870_hdr_0.jpg
+    teaser: assets/photography/2010_09_niederlande/dsc_3870_hdr_0.jpg
+    overlay_image: assets/photography/2010_09_niederlande/dsc_3870_hdr_0.jpg
 gallery:
   - url: /assets/photography/2010_09_belgien/dsc_3496.jpg
     image_path: /assets/photography/2010_09_belgien/dsc_3496.jpg
