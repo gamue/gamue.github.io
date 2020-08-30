@@ -22,4 +22,6 @@ jobs:
       - name: Build & Deploy to GitHub Pages
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-        uses: helaili/jekyll-action@2.0.1
+        with:
+          target_branch: 'gh-pages'
+        uses: helaili/jekyll-action@2.0.4

@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+#gem "tzinfo-data"
+#gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -13,6 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem 'kramdown'
   gem 'kramdown-parser-gfm'
+  gem "jekyll-remote-theme"
 end
-
-gem "jekyll-remote-theme"
