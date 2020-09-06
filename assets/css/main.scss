@@ -194,3 +194,7 @@ figure.image-gallery a img:hover {
     width: calc(33.333% - 1rem);
   }
 }
+
+body.layout--single:not(.galleryPage) div.page__inner-wrap img{
+    box-shadow: .125em .25em .25em rgba(57,62,70,.05),.75em .5em 2em .5em rgba(57,62,70,.1);
+}
