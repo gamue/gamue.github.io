@@ -128,3 +128,8 @@ cloudinary:
       fallback_max_width: 300
       steps: 3
       figure: never
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-177618947-1"
