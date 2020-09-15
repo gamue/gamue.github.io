@@ -43,6 +43,7 @@ exclude:
   - package-lock.json
   - node_modules
   - vendor
+  - README.md
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
