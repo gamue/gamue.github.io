@@ -1,8 +1,5 @@
 # 'bundle exec jekyll serve'
 
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
-
 # Site settings
 locale: "de"
 title: "gamue.de"
