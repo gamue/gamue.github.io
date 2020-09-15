@@ -4,7 +4,7 @@
 
 $link-color: #660000;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes"; // main partials
 
 @media (min-width: 80em) {
