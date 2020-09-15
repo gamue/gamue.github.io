@@ -126,7 +126,7 @@ Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich
 
 ## Folgende {{ page.visitedCountries.size }} Länder habe ich schon bereist:
 
-{% include visited-countries.html countries=page.visitedCountries %}
+{% include custom/visited-countries.html countries=page.visitedCountries %}
 
 <ul class="countries">
 {% for country in page.visitedCountries %}

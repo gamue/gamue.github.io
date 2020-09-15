@@ -28,5 +28,5 @@ Die beiden Länder lassen sich super kombinieren und die Orte, die man sich gern
 
 [Zur Bildergalerie](/photography/thailand-2014/){: .btn .btn--primary}
 
-{% include route.html mapId="10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK" %}
+{% include custom/itinerary.html %}

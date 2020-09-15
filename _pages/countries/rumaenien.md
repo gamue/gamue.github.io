@@ -32,6 +32,6 @@ Zusätzlich gibt es noch leckeres Essen und das alles für vergleichsweise schma
 
 [Zur Bildergalerie](/photography/suedosteuropa-2013/){: .btn .btn--primary}
 
-{% include route.html mapId="104xblik_61hUGYdsez4n_sM9fFgYUcY6" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Rumänien" %}
+{% include custom/route.html mapId="104xblik_61hUGYdsez4n_sM9fFgYUcY6" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Rumänien" %}

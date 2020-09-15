@@ -29,6 +29,6 @@ zur nepalesischen Grenze in Sonauli.
 
 [Zur Bildergalerie](/photography/indien-2011/){: .btn .btn--primary}
 
-{% include route.html mapId="16H6_4xl5uwt91PZLog8xUBhNvYb4LN40" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Indien" %}
+{% include custom/route.html mapId="16H6_4xl5uwt91PZLog8xUBhNvYb4LN40" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Indien" %}

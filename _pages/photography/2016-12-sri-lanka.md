@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 ---
 
-{% include image-gallery.html folder="/assets/photography/2016_12_sri_lanka" %}
+{% include custom/image-gallery.html folder="/assets/photography/2016_12_sri_lanka" %}

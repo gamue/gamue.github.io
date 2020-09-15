@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
 ---
 
-{% include image-gallery.html folder="/assets/photography/2010_10_schweden" %}
+{% include custom/image-gallery.html folder="/assets/photography/2010_10_schweden" %}

@@ -34,5 +34,5 @@ und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, w
 
 [Zur Bildergalerie](/photography/sri-lanka-2016/){: .btn .btn--primary}
 
-{% include route.html mapId="1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW" %}
+{% include custom/itinerary.html %}

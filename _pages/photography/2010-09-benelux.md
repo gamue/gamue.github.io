@@ -8,13 +8,13 @@ header:
 ---
 
 # Luxemburg
-{% include image-gallery.html folder="/assets/photography/2010_09_luxemburg" %}
+{% include custom/image-gallery.html folder="/assets/photography/2010_09_luxemburg" %}
 
 # Belgien
-{% include image-gallery.html folder="/assets/photography/2010_09_belgien" %}
+{% include custom/image-gallery.html folder="/assets/photography/2010_09_belgien" %}
 
 # Niederlande
-{% include image-gallery.html folder="/assets/photography/2010_09_niederlande" %}
+{% include custom/image-gallery.html folder="/assets/photography/2010_09_niederlande" %}
 
 # Deutschland
-{% include image-gallery.html folder="/assets/photography/2010_09_deutschland" %}
+{% include custom/image-gallery.html folder="/assets/photography/2010_09_deutschland" %}

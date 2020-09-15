@@ -34,6 +34,6 @@ die schöne Natur und das umfangreiche Tierreich genießen, bevor es zum Ausklan
 
 [Zur Bildergalerie](/photography/nepal-2011/){: .btn .btn--primary}
 
-{% include route.html mapId="1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Nepal" %}
+{% include custom/route.html mapId="1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Nepal" %}

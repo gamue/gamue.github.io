@@ -27,6 +27,6 @@ Am Ende wurden meine Erwartungen sogar übertroffen und kann beides nur wärmste
 
 [Zur Bildergalerie](/photography/jordanien-2017/){: .btn .btn--primary}
 
-{% include route.html mapId="1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Jordanien" %}
+{% include custom/route.html mapId="1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Jordanien" %}

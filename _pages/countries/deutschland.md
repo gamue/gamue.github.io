@@ -21,5 +21,5 @@ daher sind auch in der Galerie ein paar Bilder aus Bremen und Hamburg.
 
 [Zur BeNeLux-Galerie](/photography/benelux-2010/){: .btn .btn--primary}
 
-{% include route.html mapId="1nxd7wOQwQgT_Ea1HcZQNTTkRpzbl9qaW" %}
-{% include posts-with-tag.html tag="Deutschland" %}
+{% include custom/route.html mapId="1nxd7wOQwQgT_Ea1HcZQNTTkRpzbl9qaW" %}
+{% include custom/posts-with-tag.html tag="Deutschland" %}

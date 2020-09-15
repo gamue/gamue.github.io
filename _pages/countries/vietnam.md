@@ -29,7 +29,7 @@ itinerary:
       description: Abschluss der Reise war ein Resort in Mui Ne. Die Stadt ist quasi eine Aneinanderreihung von größeren Hotels und Resorts. Wenn man einen Hotelurlaub am Strand machen will, könnte es vielleicht eine Option sein, aber eigentlich gibt es dafür auch schönere Orte. Schlecht war es dort nicht, aber jetzt auch nichts herausragendes.
 ---
 
-{% include country-wip.html %}
+{% include custom/country-wip.html %}
 
 Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. Nach etwas Recherche, und abzüglich der Länder die ich schon bereist habe, fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger.
  
@@ -37,5 +37,5 @@ Insgesamt haben wir das Land drei Wochen lang bereist und neben den Metropolen H
 
 Sicherlich sind etliche Reiseziele, wie die Halong-Bucht, sehr touristisch und auch in den größeren Städten mangelt es an Menschenmassen nicht, aber insgesamt konnte man sich gut erholen und hat meist ein ruhiges Fleckchen Erde für sich gefunden. 
 
-{% include route.html mapId="1r6qh-U-oe5ZJmBoFf114DmF5mXBQ9sTf" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="1r6qh-U-oe5ZJmBoFf114DmF5mXBQ9sTf" %}
+{% include custom/itinerary.html %}

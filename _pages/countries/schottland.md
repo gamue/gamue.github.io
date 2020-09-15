@@ -36,6 +36,6 @@ aber dann eben mehr Tagestouren und die Städte hatten auch einiges zu bieten.
 
 [Zur Bildergalerie](/photography/schottland-2013/){: .btn .btn--primary}
 
-{% include route.html mapId="13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Schottland" %}
+{% include custom/route.html mapId="13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Schottland" %}

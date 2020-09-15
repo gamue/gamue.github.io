@@ -33,5 +33,5 @@ Ich würde in jedem Fall wieder dort hin reisen.
 
 [Zur Bildergalerie](/photography/belize-2019/){: .btn .btn--primary}
 
-{% include route.html mapId="1OgN-vpaEXxEr3VOGUYAFpfrvQsqAvDIU" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="1OgN-vpaEXxEr3VOGUYAFpfrvQsqAvDIU" %}
+{% include custom/itinerary.html %}

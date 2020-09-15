@@ -31,6 +31,6 @@ Selbst wenn die Natur und Bauwerke für einiges entschädigen.
 
 [Zur Bildergalerie](/photography/marokko-2011/){: .btn .btn--primary}
 
-{% include route.html mapId="1leiIo594Bjk4XyBjp8QOqsiu-6KQk33u" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Marokko" %}
+{% include custom/route.html mapId="1leiIo594Bjk4XyBjp8QOqsiu-6KQk33u" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Marokko" %}

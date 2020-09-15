@@ -41,5 +41,5 @@ Für meinen Geschmack vielleicht zu viel Stadt und zu wenig Natur, aber das hat 
 
 [Zur Bildergalerie](/photography/japan-2017/){: .btn .btn--primary}
 
-{% include route.html mapId="1A0cTN2zA9A_EaRkQt9OGvFYxtadMHqYq" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="1A0cTN2zA9A_EaRkQt9OGvFYxtadMHqYq" %}
+{% include custom/itinerary.html %}

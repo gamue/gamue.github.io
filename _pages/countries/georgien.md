@@ -27,5 +27,5 @@ Ich hab in den 9 Tagen bei weitem nicht alles gesehen und erlebt was das Land zu
 
 [Zur Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn .btn--primary}
 
-{% include route.html mapId="1c-7iQgo2w6T4YEhTRcz_YrgUOothc_-l" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="1c-7iQgo2w6T4YEhTRcz_YrgUOothc_-l" %}
+{% include custom/itinerary.html %}

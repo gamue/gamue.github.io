@@ -33,5 +33,5 @@ Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die (noc
 
 [Zur Bildergalerie](/photography/irland-2009/){: .btn .btn--primary}
 
-{% include route.html mapId="1-gC4MwTGzumDA2P9jK_jIpBuZtpb7gsB" %}
-{% include itinerary.html %}
+{% include custom/route.html mapId="1-gC4MwTGzumDA2P9jK_jIpBuZtpb7gsB" %}
+{% include custom/itinerary.html %}

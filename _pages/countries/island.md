@@ -37,6 +37,6 @@ dann aber mit Mietwagen^^
 
 [Zur Bildergalerie](/photography/island-2012/){: .btn .btn--primary}
 
-{% include route.html mapId="1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI" %}
-{% include itinerary.html %}
-{% include posts-with-tag.html tag="Island" %}
+{% include custom/route.html mapId="1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI" %}
+{% include custom/itinerary.html %}
+{% include custom/posts-with-tag.html tag="Island" %}
