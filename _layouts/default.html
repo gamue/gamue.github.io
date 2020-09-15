@@ -3,12 +3,6 @@ layout: compress
 ---
 
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.20.2 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
 <head>
     {% include head.html %}
@@ -20,25 +14,26 @@ layout: compress
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 {% include_cached skip-links.html %}
-{% include_cached browser-upgrade.html %}
+
+<!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">Du verwendest einen <strong>veralteten Browser. Bitte <a href="https://browsehappy.com/">aktualisiere deinen Browser</a> um sicher im Internet zu sein und das Erlebnis zu verbessern.</div>
+<![endif]-->
+
 {% include_cached masthead.html %}
 
 <div class="initial-content">
+    {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+        {% include page__hero.html %}
+    {% endif %}
+
     {{ content }}
 </div>
 
 {% if site.search == true %}
-<div class="search-content">
     {% include_cached search/search_form.html %}
-</div>
 {% endif %}
 
-<div id="footer" class="page__footer">
-    <footer>
-        {% include_cached footer.html %}
-    </footer>
-</div>
-
+{% include_cached footer.html %}
 {% include scripts.html %}
 
 </body>

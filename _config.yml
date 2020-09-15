@@ -4,7 +4,6 @@
 locale: "de"
 title: "gamue.de"
 title_separator: "-"
-subtitle: ""
 name: "Johannes Ganzenmüller"
 email: johannes@gamue.de
 description: "Über Reisen, Photographie, Technik, Leben und sonstigen Spaß"
@@ -12,25 +11,13 @@ repository: "gamue/gamue.github.io"
 baseurl: ""
 url: "https://gamue.de"
 logo: "assets/images/j_logo_75.jpg"
-masthead_title: " "
 words_per_minute: 200
 search: true
 
 # Site Author
 author:
   name: "Johannes Ganzenmüller"
-  bio: ""
   location: "Berlin, Germany"
-
-# Site Footer
-footer:
-  links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/gamue16/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gamue"
 
 include:
   - _pages
@@ -54,7 +41,6 @@ paginate_path: /page:num/
 timezone: 'Europe/Berlin'
 
 comments:
-  provider: 'disqus'
   disqus:
     shortname: 'gamue'
 
@@ -66,8 +52,8 @@ defaults:
     values:
       layout: single
       comments: true
-      author_profile: false
       read_time: true
+      show_date: true
       header:
         show_overlay_excerpt: false
 
@@ -77,7 +63,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
       header:
         og_image: assets/images/j_logo.jpg
   - scope:
@@ -128,6 +113,5 @@ cloudinary:
       figure: never
 
 analytics:
-  provider: "google"
   google:
     tracking_id: "UA-177618947-1"
