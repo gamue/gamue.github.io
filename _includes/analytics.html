@@ -1,5 +1,4 @@
 {% if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false %}
-
 <script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{ site.analytics.google.tracking_id }}']);
@@ -14,5 +13,4 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
 {% endif %}
