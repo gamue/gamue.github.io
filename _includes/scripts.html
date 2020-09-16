@@ -8,8 +8,7 @@
 
 {% include analytics.html %}
 
-{% if page.comments %}
-    {% if site.comments.disqus.shortname %}
+{% if jekyll.environment == 'production' and page.comments and site.comments.disqus.shortname %}
     <script>
           var disqus_config = function () {
             this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
@@ -23,5 +22,4 @@
           })();
         </script>
     <noscript>Bitte aktiviere JavaScript um <a href="https://disqus.com/?ref_noscript">die Kommentarfunktion von Disqus</a> zu sehen.</noscript>
-    {% endif %}
 {% endif %}
