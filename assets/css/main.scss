@@ -4,7 +4,6 @@
 
 $link-color: #660000;
 
-@import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes"; // main partials
 
 @media (min-width: 80em) {
@@ -23,11 +22,6 @@ body.layout--home div.page__hero--overlay{
 
 a{
     text-decoration: none;
-}
-.social-icons .fa-rss, .social-icons .fa-rss-square,
-.social-icons .fa-instagram,
-.social-icons .fa-github, .social-icons .fa-github-alt, .social-icons .fa-github-square{
-   color: #898c8f;
 }
 
 div.archive__item-content-container{
@@ -123,7 +117,7 @@ figure.image-gallery a img:hover {
     width: 100%;
     height: 300px;
     background-position: center center;
-    background-color: #898c8f;
+    background-color: $light-gray;
     background-size: cover;
 }
 .gallery .shadow{
@@ -135,8 +129,8 @@ figure.image-gallery a img:hover {
     right: 0;
     transform: translateY(-50%);
     overflow: hidden;
-    border-top: 1px solid #f2f3f3;
-    border-bottom: 1px solid #f2f3f3;
+    border-top: 1px solid $lighter-gray;
+    border-bottom: 1px solid $lighter-gray;
 }
 .gallery .shadow-image{
     position: absolute;
@@ -197,4 +191,11 @@ body.layout--single:not(.galleryPage) div.page__inner-wrap img{
 }
 .page__content dd{
     font-size: 1em;
+}
+
+.icon-def{
+  display: none;
+}
+ul.social-icons .icon{
+  margin-right: .15em;
 }
