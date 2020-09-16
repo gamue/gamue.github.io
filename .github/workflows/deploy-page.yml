@@ -11,17 +11,23 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
-      - name: Cache to shorten the build
-        uses: actions/cache@v1
+        uses: actions/checkout@v2
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - name: Build & Deploy to GitHub Pages
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          ruby-version: 2.7
+      - name: Setup Node
+        uses: actions/setup-node@v1
         with:
-          target_branch: 'gh-pages'
-        uses: helaili/jekyll-action@2.0.4
+          node-version: '14'
+      - run: npm install
+      - name: Install dependencies & Build Site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.JEKYLL_PAT }}
+          publish_dir: ./_site
+          publish_branch: 'gh-pages'

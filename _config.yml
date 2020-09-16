@@ -115,3 +115,5 @@ cloudinary:
 analytics:
   google:
     tracking_id: "UA-177618947-1"
+
+css_dir: "assets/css"
