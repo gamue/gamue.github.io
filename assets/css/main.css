@@ -1674,6 +1674,17 @@ body {
   .page__content h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid #f2f3f3; }
+  .page__content h1 .header-link, .page__content h2 .header-link, .page__content h3 .header-link, .page__content h4 .header-link {
+    position: relative;
+    left: 0.5em;
+    opacity: 0;
+    font-size: 0.8em;
+    -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+    -moz-transition: opacity 0.2s ease-in-out 0.1s;
+    -o-transition: opacity 0.2s ease-in-out 0.1s;
+    transition: opacity 0.2s ease-in-out 0.1s; }
+  .page__content h1:hover .header-link, .page__content h2:hover .header-link, .page__content h3:hover .header-link, .page__content h4:hover .header-link {
+    opacity: 1; }
   .page__content p,
   .page__content li,
   .page__content dl {
@@ -2349,3 +2360,13 @@ body.layout--single:not(.galleryPage) div.page__inner-wrap img {
 
 ul.social-icons .icon {
   margin-right: .15em; }
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
