@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div class="hero-intro">
+  <div class="text">
+    <h2>Hi, ich bin Johannes.</h2>
+    <p>Weltenbummler, Hobbyfotograf und Technikfreak.</p>
+    <p>Auf dieser Seite möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, Technologie, Gadgets und natürlich meine Abenteuer schreiben.</p>
+  </div>
+  <div class="image">
+    {% cloudinary /assets/photography/2017_11_jordanien/Jordanien_123.jpg alt="" %}
+  </div>
+</div>
+
 <div id="main" role="main">
 
   <div class="archive">
@@ -11,6 +22,8 @@ layout: default
 
     {{ content }}
 
+
+    <h3>Aktuelle Artikel im Blog</h3>
     {% if paginator %}
       {% assign posts = paginator.posts %}
     {% else %}
@@ -19,7 +32,7 @@ layout: default
 
     <div class="entries-{{ entries_layout }}">
       {% for post in posts %}
-        {% include archive-single.html %}
+        {% include archive-single.html type="grid" %}
       {% endfor %}
     </div>
 

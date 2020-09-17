@@ -1,4 +1,6 @@
-# 'bundle exec jekyll serve'
+# set JEKYLL_ENV=development
+# set JEKYLL_ENV=production
+# bundle exec jekyll serve
 
 # Site settings
 locale: "de"
@@ -36,7 +38,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 markdown: kramdown
 
-paginate: 5 # amount of posts to show
+paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: 'Europe/Berlin'
 
