@@ -38,8 +38,17 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 markdown: kramdown
 
-paginate: 4 # amount of posts to show
-paginate_path: /page:num/
+pagination:
+  enabled: true
+  debug: false
+  per_page: 8
+  permalink: /page:num/
+  title: ':title - Seite :num'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
 timezone: 'Europe/Berlin'
 
 comments:

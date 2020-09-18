@@ -4,6 +4,6 @@ main:
   - title: "Länder"
     url: /laender/
   - title: "Blog"
-    url: /categories/
+    url: /blog/
   - title: "About"
     url: /about/
