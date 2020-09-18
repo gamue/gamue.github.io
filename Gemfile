@@ -8,7 +8,6 @@ gem "jekyll", '3.9.0'
 
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
-  gem "jekyll-sitemap"
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-cloudinary"
@@ -16,4 +15,5 @@ group :jekyll_plugins do
   gem 'kramdown'
   gem 'kramdown-parser-gfm'
   gem 'jekyll-purgecss'
+  gem "jekyll-sitemap"
 end
