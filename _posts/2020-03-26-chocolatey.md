@@ -3,6 +3,10 @@ title: Programme verwalten mit Chocolatey
 permalink: /programme-verwalten-mit-chocolatey/
 header:
     teaser: assets/2020-03-26-chocolatey/choco-thumbnail.jpg
+chocoSearch:
+    - image_path: assets/2020-03-26-chocolatey/choco-search.jpg
+chocoUpdate:
+    - image_path: assets/2020-03-26-chocolatey/choco-update.jpg
 categories:
   - Technik
 tags:
@@ -21,15 +25,15 @@ eventuell will es ja jemand übernehmen ;)
 
 ## Was ist ein Paketmanager?
 
-Man kann sich einen Paketmanager als Sammlung von Software-Tools vorstellen um Anwendungen zu verwalten. 
+Man kann sich einen Paketmanager als Sammlung von Software-Tools vorstellen, um Anwendungen zu verwalten. 
 Die wichtigsten Funktionen davon sind das Installieren, Aktualisieren und Löschen.
 
 ## Warum einen Paketmanager nutzen?
 
-Auch wenn es erst einmal komplizierter klingt, etwas Zusätzliches zu verwenden um Programme zu installieren, 
+Auch wenn es erst einmal komplizierter klingt, etwas Zusätzliches zu verwenden, um Programme zu installieren, 
 aktualisieren oder zu löschen, so bietet ein Paketmanager etliche Vorteile. 
-Der Größte für mich ist die Zeitersparnis, besonders wenn man einen Computer neu aufsetzt kann man so schnell eine 
-Vielzahl von Programmen installieren ohne dass man jede Anwendung einzeln herunterladen und manuell installieren muss.
+Der Größte für mich ist die Zeitersparnis, besonders wenn man einen Computer neu aufsetzt, kann man so schnell eine 
+Vielzahl von Programmen installieren, ohne dass man jede Anwendung einzeln herunterladen und manuell installieren muss.
 Ebenso kann man alle verwalteten Programme über einen Befehl aktualisieren und profitiert dadurch von neuen Funktionen 
 und Sicherheitsupdates in den Anwendungen, was sonst vermutlich auch niemand für alle installierten Programme macht.
 
@@ -56,11 +60,7 @@ was ich als angenehmer empfinde, der Befehl lautet dann `choco install 7zip -y`.
 Alternativ kann man den Namen des Installationspakets auch über die Kommandozeile suchen, in dem man `choco search 7zip` eingibt. 
 Anschließend werden alle Paketnamen angezeigt, die dazu passen und aus denen man auswählen kann.
 
-<figure class="full">
-	<a href="/assets/2020-03-26-chocolatey/choco-search.jpg">
-	    <img src="/thumbnails/2020-03-26-chocolatey/choco-search.jpg">
-	</a>
-</figure>
+{% include gallery id="chocoSearch" %}
 
 ## Übersicht & Programme aktualisieren
 
@@ -73,11 +73,7 @@ und sein System so aktuell und auch sicherer hält.
 Da ich recht viele Programme installiert habe, wäre mir der manuelle Aufwand dafür zu hoch und 
 so kann ich ab und an `choco upgrade all -y` bzw. die Kurzform `cup all -y` ausführen und zusehen wie nach und nach jede Anwendung aktualisiert wird.
 
-<figure class="full">
-	<a href="/assets/2020-03-26-chocolatey/choco-update.jpg">
-	    <img src="/thumbnails/2020-03-26-chocolatey/choco-update.jpg">
-	</a>
-</figure>
+{% include gallery id="chocoUpdate" %}
 
 ## Programm deinstallieren
 
@@ -93,7 +89,7 @@ einmal installieren indem man einfach mehrere Paketnamen aufzählt, zum Beispiel
 nacheinander [7zip](https://www.7-zip.de/), [Irfanview](https://www.irfanview.com/) und [VLC](https://www.videolan.org/vlc/index.de.html) zu installieren.
 
 Alternativ geht das auch über eine Datei, die folgenden Beispielinhalt hat und deren Dateiendung `.config` sein muss:
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
   <package id="7zip" />

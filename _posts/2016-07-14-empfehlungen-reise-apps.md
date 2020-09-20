@@ -5,7 +5,24 @@ permalink: /empfehlungen-reise-apps/
 header:
     teaser: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
     overlay_image: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
-    
+appCurrency:
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/currency_1.jpg
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/currency_2.jpg
+appCityMaps:
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg
+appGoogleMaps:
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg
+appHotels:
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/booking.jpg
+appFlug:
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg
+appSnapseed:
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg
+    - image_path: assets/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg
 categories:
   - Technik
   - Unterwegs
@@ -44,11 +61,7 @@ es gibt nun auch eine Pro-Version (gleicher Funktionsumfang, jedoch ohne Werbung
 
 Links: [iOS](https://itunes.apple.com/en/app/currency/id284220417) \| [Android](https://play.google.com/store/apps/details?id=com.currencyapp.currencyandroid)
 
-<figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/currency_1.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/currency_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/currency_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/currency_2.jpg"></a>
-	<figcaption>Currency</figcaption>
-</figure>
+{% include gallery id="appCurrency" caption="Currency" %}
 
 
 # CityMaps2Go
@@ -76,12 +89,7 @@ Tipp: Das GPS-Signal ist normalerweise auch im Flugmodus verfügbar, so dass man
 
 Links: [Hersteller](http://www.ulmon.com/) \| [iOS](https://itunes.apple.com/us/app/citymaps2go-save-places!-plan/id408866084) \| [Android](https://play.google.com/store/apps/details?id=com.ulmon.android.citymaps2go)
 
-<figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/cityMaps_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/cityMaps_2.jpg"></a>
-	<figcaption>CityMaps2Go</figcaption>
-</figure>
-
+{% include gallery id="appCityMaps" caption="CityMaps2Go" %}
 
 # Google Maps
 Eigentlich wollte ich die Standard-Apps, wozu Google Maps für mich gehört, weglassen. Aber weil die wenigsten Wissen, 
@@ -102,12 +110,7 @@ Links:
 * Google Maps [iOS](https://itunes.apple.com/us/app/google-maps-real-time-navigation/id585027354) \| [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 * here [iOS](https://itunes.apple.com/us/app/here-maps-offline-navigation/id955837609) \| [Android](https://play.google.com/store/apps/details?id=com.here.app.maps) 
 
-<figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/googleMaps_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/googleMaps_2.jpg"></a>
-	<figcaption>Google Maps</figcaption>
-</figure>
-
+{% include gallery id="appGoogleMaps" caption="Google Maps" %}
 
 # Hostelworld / Booking.com
 Wenn ich mit dem Rucksack durch irgendein Land reise, hab ich meistens einen groben Plan wohin es gehen soll, 
@@ -124,12 +127,7 @@ Links:
 * Hostelword [iOS](https://itunes.apple.com/bw/app/hostelworld-book-hostels-budget/id348890820) \| [Android](https://play.google.com/store/apps/details?id=com.hostelworld.app) 
 * Booking.com  [iOS](https://itunes.apple.com/us/app/booking.com-hotel-reservations/id367003839) \| [Android](https://play.google.com/store/apps/details?id=com.booking)
 
-<figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/hostelworld.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/booking.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/booking.jpg"></a>
-	<figcaption>Hostelworld (links) und Booking.com (rechts)</figcaption>
-</figure>
-
+{% include gallery id="appHotels" caption="Hostelworld (links) und Booking.com (rechts)" %}
 
 # Skyscanner / Swoodoo
 Ich gebe zu, die Flugsuch-Apps von Skyscanner und Swoodoo habe ich selbst selten auf Reisen benutzt. 
@@ -143,11 +141,7 @@ Links:
  * Skyscanner [iOS](https://itunes.apple.com/us/app/skyscanner/id415458524) \| [Android](https://play.google.com/store/apps/details?id=net.skyscanner.android.main) 
  * Swoodoo [iOS](https://itunes.apple.com/us/app/swoodoo-billige-fluge-hotels/id362070846) \| [Android](https://play.google.com/store/apps/details?id=com.kayak.android.swoodoo)
 
-<figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/skyscanner.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/swoodoo.jpg"></a>
-	<figcaption>Skyscanner (links) und Swoodoo (rechts)</figcaption>
-</figure>
+{% include gallery id="appFlug" caption="Skyscanner (links) und Swoodoo (rechts)" %}
 
 # Snapseed
 Ich bin kein Freund von extremer Bildbearbeitung und besonders von Fotofiltern, weil ich gern Kontrolle über die Details haben möchte. 
@@ -159,13 +153,7 @@ für den gibt es sogar auch einiges in der App ^^
 
 Links: [iOS](https://itunes.apple.com/EN/app/snapseed/id439438619) \| [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en)
 
-<figure class="half">
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/snapseed_1.jpg"></a>
-	<a href="/assets/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg"><img src="/thumbnails/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg"></a>
-	<figcaption>Snapseed</figcaption>
-</figure>
-
-
+{% include gallery id="appSnapseed" caption="Snapseed" %}
 
 Und damit sind wir auch schon am Ende meiner Auflistung, ich hoffe für den ein oder anderen war etwas neues und interessantes dabei. Solltet ihr selbst auch App-Empfehlungen haben, lasst mich es wissen 😉  
 P.S.: Auf Reisen ist mein Smartphone fast ausschließlich im Flugmodus, damit hält der Akku echt erstaunlich lange, ich kann mich trotzdem in WLANs einklinken und werde von Anrufen nicht gestört 😛

@@ -9,17 +9,19 @@ gallery:
   - image_path: assets/photography/2017_04_japan/Japan_1425.jpg
   - image_path: assets/photography/2017_04_japan/Japan_0711b.jpg
   - image_path: assets/photography/2017_04_japan/Japan_1155.jpg
+homeoffice:
+  - image_path: assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg
 categories:
   - Allgemein
   - Photography
 ---
 
 Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden 
-auch etliche beschlossen, so dass wir wieder einen Schritt in Richtung Normalität gemacht haben. 
+auch etliche beschlossen, sodass wir wieder einen Schritt in Richtung Normalität gemacht haben. 
 Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, 
 aber immerhin kann man sich nun mit einigen Leuten treffen und für unsere Hochzeitsfeier Mitte Juli sieht soweit auch alles gut aus. <br> 
 Dadurch, dass alle Läden geschlossen hatten, hab ich bisher zwar noch keinen Anzug, 
-aber denke das sollte sich auch noch organisieren lassen^^
+aber denke, das sollte sich auch noch organisieren lassen^^
 
 ## Japan Bilder online
 
@@ -71,11 +73,8 @@ in nächster Zeit etwas an der Einrichtung zu ändern. Bestellung Nummer 1 war e
 nach der ersten Woche Nutzung frage ich mich, warum ich das nicht schon früher gemacht hab. 
 Mal schauen was als Nächstes dran ist ;)
 
-<figure>
-	<a href="/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg"><img src="/thumbnails/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg"></a>
-	<figcaption>Meine aktuelle Arbeitsecke inklusive neuem Stuhl</figcaption>
-</figure>
+{% include gallery id="homeoffice" caption="Meine aktuelle Arbeitsecke inklusive neuem Stuhl" %}
 
-Da in der letzten Rundmail von meinem Arbeitsgeber der Homeoffice-Zeitraum auf mindestens 1.September verlängert worden ist, 
+Da in der letzten Rundmail von meinem Arbeitsgeber der Homeoffice-Zeitraum auf mindestens 1. September verlängert worden ist, 
 wird sich das sicherlich lohnen, auch weil "mindestens" in dick geschrieben worden ist ...schauen wir mal wie lang es tatsächlich wird.
  

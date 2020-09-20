@@ -3,6 +3,9 @@ title: Wochenendtrip in die Quarantäne
 permalink: /wochenendtrip-in-die-quarantaene/
 header:
     teaser: assets/2020-03-22-wochenendtrip-in-die-quarantaene/cdc-k0KRNtqcjfw-unsplash.jpg
+gallery:
+    - image_path: assets/2020-03-22-wochenendtrip-in-die-quarantaene/20200316_lasagne.jpg
+    - image_path: assets/2020-03-22-wochenendtrip-in-die-quarantaene/20200315_cake.jpg
 categories:
   - Allgemein
 tags:
@@ -41,7 +44,7 @@ muss man es nicht herausfordern und es geht eben nicht immer um mich oder das wa
 dass man das Virus nicht hat, beziehungsweise übertragen kann, kann man eben auch nicht sein.
 
 Den restlichen Tag hab ich mehrfach versucht die Berliner Corona-Hotline anzurufen,
-was jedoch nie von Erfolg gekrönt war und dazu führte dass unser Hoffnungsschimmer, 
+was jedoch nie von Erfolg gekrönt war und dazu führte, dass unser Hoffnungsschimmer, 
 am nächsten Tag doch nach Hause fliegen zu dürfen, immer weiter schrumpfte. Auch die unzähligen Nachrichten, 
 die quasi im 30-Minuten-Takt auf dem Handy erschienen, haben nicht gerade dazu beigetragen: 
 Nach und nach hat jedes Bundesland die Schulen geschlossen, manche EU-Länder machten die Staatsgrenzen dicht und Ausgangssperren wurden verhängt.
@@ -53,10 +56,7 @@ dass sich die Lage so extrem zuspitzt, wären wir wohl erst gar nicht geflogen.
 Da wir es aber sind, kann man dann nur das Beste aus der Lage zu machen und immerhin konnte ich wieder Zeit mit meinen Eltern verbringen 
 ...und wenn wir mal ehrlich sind, gibt es schlimmere Orte für eine Quarantäne als bei den Eltern mit leckerem Essen im Überfluss :P
 
-<figure class="half">
-    <img src="/thumbnails/2020-03-22-wochenendtrip-in-die-quarantaene/20200316_lasagne.jpg">
-    <img src="/thumbnails/2020-03-22-wochenendtrip-in-die-quarantaene/20200315_cake.jpg">
-</figure>
+{% include gallery %}
 
 Weil wir bei der Hotline niemanden erreicht hatten und uns an die Vorschriften halten wollten, 
 hatten wir also keine andere Wahl als unser Wochenendtrip um 5 Tage zu verlängern und die kommende Woche vom Süden Deutschlands aus zu arbeiten. 
@@ -75,7 +75,7 @@ Kommen wir in nächster Zeit überhaupt noch zurück nach Berlin?
 Am späten Nachmittag kam dann eine Mail, die Jubelschreie ausgelöst hat: 
 Für jeden, der noch nicht vom Gesundheitsamt kontaktiert worden ist, wird die Quarantäne aufgehoben, was für uns hieß, 
 dass wir nach Hause dürfen. Und das angesichts der drohenden Flughafenschließung auch schleunigst machen sollten. 
-Glücklicherweise gab es an dem Abend auch noch einen Flug auf den wir umbuchen konnten und ein paar Stunden später waren wir dann auch wirklich wieder zu Hause, 
+Glücklicherweise gab es an dem Abend auch noch einen Flug, auf den wir umbuchen konnten und ein paar Stunden später waren wir dann auch wirklich wieder zu Hause, 
 wo wir jetzt auch eine Weile bleiben und der kommenden Dinge harren.
 
 P.S.: Auch wenn der Flieger vor uns noch etliche Urlauber nach Thessaloniki gebracht hat, fällt mein Slowenien-Trip leider aus. 

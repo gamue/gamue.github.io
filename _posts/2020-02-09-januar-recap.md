@@ -3,6 +3,9 @@ title: Januar Recap
 permalink: /recap-januar-2020/
 header:
     teaser: assets/2020-02-09-januar-recap/mavicMini.jpg
+gallery:
+    - image_path: assets/2020-02-09-januar-recap/mavicMini.jpg
+    - image_path: assets/2020-02-09-januar-recap/steelPanther.jpg
 categories:
   - Allgemein
 ---
@@ -29,7 +32,4 @@ so dass man sich da gerne inspirieren lassen kann.
 Ansonsten ging es im Januar noch auf [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv?si=9G-ZupjGQbCoH5xRqNNiDg) Konzert, 
 die Ausstrahlung der Typen ist einfach grandios und es gab viel zu lachen. Man darf nur die Lieder nicht ganz so ernst nehmen :D
 
-<figure class="half">
-    <a href="/assets/2020-02-09-januar-recap/mavicMini.jpg"><img src="/thumbnails/2020-02-09-januar-recap/mavicMini.jpg"></a>
-    <a href="/assets/2020-02-09-januar-recap/steelPanther.jpg"><img src="/thumbnails/2020-02-09-januar-recap/steelPanther.jpg"></a>
-</figure>
+{% include gallery %}

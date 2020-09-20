@@ -1,10 +1,17 @@
 ---
 title: Mein Foto-Workflow
-tagline: Der Weg meiner Bilder nachdem ich sie fotografiert habe.
+tagline: "Der Weg meiner Bilder, nachdem ich sie fotografiert habe."
 permalink: /mein-foto-workflow/
 header:
     teaser: assets/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg
     overlay_image: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_295_tonemapped.jpg
+geosetter:
+    - image_path: assets/2020-04-05-workflow-fotos/geosetter.jpg
+bildbetrachter:
+    - image_path: assets/2020-04-05-workflow-fotos/bridge-ranking.jpg
+    - image_path: assets/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg
+synctoy:
+    - image_path: assets/2020-04-05-workflow-fotos/synctoy-run.jpg
 categories:
   - Photography
   - Technik
@@ -80,10 +87,8 @@ Dadurch kann man am Ende auf einer Karte sehen wo das Foto gemacht wurde oder na
 Wenn man das Foto über Social Media teilen will, wird damit auch meist schon der richtige Ort erkannt oder vorgeschlagen.
 
 Für diesen Vorgang nutze ich das Programm [Geosetter](http://geosetter.de/).
-<figure class="full">
-	<a href="/assets/2020-04-05-workflow-fotos/geosetter.jpg"><img src="/thumbnails/2020-04-05-workflow-fotos/geosetter.jpg"></a>
-	<figcaption>In Geosetter sieht man leicht, wo das jeweilige Bild aufgenommen wurde.</figcaption>
-</figure>
+
+{% include gallery id="geosetter" caption="In Geosetter sieht man leicht, wo das jeweilige Bild aufgenommen wurde." %}
 
 ## Bilder bewerten & markieren
 
@@ -99,11 +104,7 @@ denn wirklich mehr als 3 Sterne vergebe ich im Normalfall nicht, was mir aber vo
 In Durchgang zwei gehe ich dann nur noch die mit Sternen bewerteten Bilder durch und verpasse ihnen eine gelbe Farbmarkierung, 
 wenn ich diese bearbeiten oder auf die Homepage stellen möchte.
 
-<figure class="half">
-	<a href="/assets/2020-04-05-workflow-fotos/bridge-ranking.jpg"><img src="/thumbnails/2020-04-05-workflow-fotos/bridge-ranking.jpg"></a>
-	<a href="/assets/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg"><img src="/thumbnails/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg"></a>
-	<figcaption>So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild.</figcaption>
-</figure>
+{% include gallery id="bildbetrachter" caption="So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild." %}
 
 Beide Schritte führe ich recht grob durch und nehme in die Auswahlen auch Bilder mit auf bei denen ich mir nicht sicher bin 
 oder die unterschiedliche Varianten eines Motivs sind. Meist ändere ich die Bewertung oder Markierung im Nachgang nicht noch einmal, 
@@ -123,19 +124,19 @@ habe ich etwas recherchiert und so auch eine gefunden: In manchen Bildverwaltung
 per Drag & Drop umzusortieren und dann eine Stapelumbenennung aller Bilder im Ordner durchzuführen.
 
 Sollte ich die Bilder bis hierhin in Unterordner gehabt haben, kopiere ich diese anschließend wieder in den Hauptordner (zB “*2019-12 Paris*”), 
-so dass sich alle Bilder des Trips in einem Ordner befinden und führe nochmals eine Stapelumbenennung durch.
+sodass sich alle Bilder des Trips in einem Ordner befinden und führe nochmals eine Stapelumbenennung durch.
 
-Am Ende habe ich dann durchgängig nummerierte Bilder in für mich passender Reihenfolge ;)
+Am Ende habe ich dann durchgängig nummerierte Bilder in, für mich, passender Reihenfolge ;)
 
 ## Entwicklung & Bearbeitung
 
 Bis hierhin haben wir die Bilder eigentlich nur organisiert, im nächsten Schritt geht es an die Entwicklung der RAW-Dateien bzw. die Bearbeitung der Bilder. 
-Hierfür gehe ich die Bilder mit gelber Farbmarkierung durch und sobald ich mit dem Ergebnis zufrieden bin ändere ich die Farbmarkierung des Fotos zu Rot. 
+Hierfür gehe ich die Bilder mit gelber Farbmarkierung durch und sobald ich mit dem Ergebnis zufrieden bin, ändere ich die Farbmarkierung des Fotos zu Rot. 
 Das sind dann quasi die Bilder, die es auf die Homepage schaffen.
 
-Da die Farbmarkierungen eher grob verteilt worden sind, ist dies der Schritt an dem ich durchaus nochmal stärker aussortiere 
+Da die Farbmarkierungen eher grob verteilt worden sind, ist dies der Schritt, an dem ich durchaus nochmal stärker aussortiere 
 und mich beispielsweise bei mehreren Varianten eines Motivs für eines entscheide. 
-Alles was es zu keiner roten Markierung schafft, verliert auch seine gelbe Markierung. Es gibt aber durchaus Bilder, 
+Alles, was es zu keiner roten Markierung schafft, verliert auch seine gelbe Markierung. Es gibt aber durchaus Bilder, 
 die keine rote Markierung bekommen, mir aber trotzdem sehr gut gefallen, bei denen erhöhe ich dann meist die Sternebewertung.
 
 ## Exportieren & Anpassen
@@ -145,8 +146,8 @@ da ich die Bilder aber noch für die Homepage oder Instagram verwenden will,
 gibt es noch zwei abschließende Schritte vor der Veröffentlichung.
 
 Für die Homepage exportiere ich alle rot markierten Fotos als JPEGs und verkleinere sie anschließend, 
-so dass die längste Seite des Bildes 1000 Pixel lang ist. Für beides nutze ich Stapelverarbeitungen, 
-so dass sie in ein paar Klicks ausgeführt sind.
+sodass die längste Seite des Bildes 1000 Pixel lang ist. Für beides nutze ich Stapelverarbeitungen, 
+sodass sie in ein paar Klicks ausgeführt sind.
 
 Bei Instagram sieht es hingegen etwas anders aus. Da es auf Bilder im Hochkant-Format ausgelegt ist, 
 wähle ich meist einen anderen Schnitt des Bildes mit der Endgröße 1080x1350 Pixel. 
@@ -169,10 +170,7 @@ denn da die Fotos für mich wichtige Dateien sind, lege ich regelmäßig Sicheru
 
 Dafür nutze ich [Microsoft SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155), da es kostenlos und sehr einfach zu bedienen ist.
 
-<figure class="full">
-	<a href="/assets/2020-04-05-workflow-fotos/synctoy-run.jpg"><img src="/thumbnails/2020-04-05-workflow-fotos/synctoy-run.jpg"></a>
-	<figcaption>Ausgangs- und Zielordner für die Backups einstellen und auf Start klicken, mehr braucht SyncToy nicht.</figcaption>
-</figure>
+{% include gallery id="synctoy" caption="Ausgangs- und Zielordner für die Backups einstellen und auf Start klicken, mehr braucht SyncToy nicht." %}
 
 Der Artikel ist jetzt doch länger geworden als gedacht, aber sind ja auch einige Schritte ;) 
 Lasst mich wissen, wenn etwas unklar ist, ihr Verbesserungstipps habt oder wie euer Workflow aussieht.
