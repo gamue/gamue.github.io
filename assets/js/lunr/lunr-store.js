@@ -9,11 +9,11 @@ var store = [{
        },{
          "title": "Deutschland",
          "excerpt":
-             "Es muss nicht immer weit in die Ferne gehen, denn auch in Deutschland gibt es vieles zu sehen und zu erleben. Die meisten Städte und Sehenswürdigkeiten habe ich als Kurzreise besichtigt und wenn ich auf der Karte jede Stadt markieren würde, dass ich gesehen habe, dann wären da vermutlich viel...",
+             "Es muss nicht immer weit in die Ferne gehen, denn auch in Deutschland gibt es vieles zu sehen und zu erleben. Die meisten Städte und Sehenswürdigkeiten habe ich als Kurzreise besichtigt und wenn ich auf der Karte alles markieren würde, was ich gesehen habe, dann wären da viel zu viele...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/deutschland/",
-         "teaser": "https://gamue.de/thumbnails/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg"
+         "teaser": "https://gamue.de/thumbnails/photography/2020_07_deutschland/Deutschland_0355.jpg"
        },{
          "title": "Georgien",
          "excerpt":
@@ -860,4 +860,10 @@ var store = [{
         "tags": [],
         "url": "https://gamue.de/meine-kameraausruestung-2020/",
         "teaser": "https://gamue.de/assets/2020-09-12-kameraausruetung/equip_dslr.jpg"
+      },{
+        "title": "Deutschland Bilder online",
+        "excerpt":"Ich habe gerade die Bilder der Deutschland-Rundfahrt vom Juli hochgeladen und ich finde, es macht deutlich mehr Spaß die Fotos direkt nach dem Urlaub durchzugehen und auszusortieren anstatt sich durch Bildermassen der vergangenen Jahre arbeiten zu müssen. Auch hat es, aus meiner Sicht, dieses Mal gar nicht so lange gedauert,...","categories": ["Photography"],
+        "tags": [],
+        "url": "https://gamue.de/deutschland-bilder-online/",
+        "teaser": "https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0535.jpg"
       }]
