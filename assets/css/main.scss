@@ -4,7 +4,7 @@
 
 $link-color: #660000;
 
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes";
 
 @media (min-width: 80em) {
     .page { width: calc(100% - 200px); padding-right: 200px; }
@@ -17,7 +17,7 @@ body.layout--home div.page__hero--overlay{
 }
 .page__lead{
     background-image: linear-gradient(to right, rgba(68, 68, 68, 0.4), rgba(68, 68, 68, 0.0));
-    padding: 0.5rem
+    padding: 0.5rem;
 }
 
 a{
@@ -107,7 +107,7 @@ figure.image-gallery a img:hover {
     border-bottom: none;
     z-index: 7;
     color: white;
-    text-shadow: 1px 1px 0 #494e52
+    text-shadow: 1px 1px 0 #494e52;
 }
 .gallery .image{
     width: 100%;
@@ -140,10 +140,10 @@ figure.image-gallery a img:hover {
     filter: blur(3px);
 }
 .galleryPreview article:hover .gallery .shadow-image {
-  filter:blur(10px)
+  filter:blur(10px);
 }
 .galleryPreview article:hover .gallery .shadow {
-  box-shadow:0 0 10px rgba(0,0,0,.5)
+  box-shadow:0 0 10px rgba(0,0,0,.5);
 }
 
 #chartdiv {
@@ -204,7 +204,7 @@ ul.social-icons .icon{
     overflow:hidden;
     padding:0;
     position:absolute;
-    width:1px
+    width:1px;
 }
 .sr-only-focusable:active,
 .sr-only-focusable:focus{
@@ -213,7 +213,7 @@ ul.social-icons .icon{
     margin:0;
     overflow:visible;
     position:static;
-    width:auto
+    width:auto;
 }
 
 .hero-intro{
