@@ -1,6 +1,6 @@
 ---
 title: Deutschland 2020
-excerpt: Ins Ausland ging es 2020 aufgrund der Corona-Pandemie nicht, die ideale Zeit sich einmal das Heimatland intensiver anzuschauen.  
+excerpt: Auslandsreisen waren 2020 aufgrund der Corona-Pandemie nicht wirklich möglich, die ideale Zeit sich einmal das Heimatland intensiver anzuschauen.  
 permalink: /photography/deutschland-2020/
 header:
     teaser: thumbnails/photography/2020_07_deutschland/Deutschland_0535.jpg
