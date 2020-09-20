@@ -6,8 +6,7 @@ header:
     teaser: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
     overlay_image: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
 gallery:
-  - url: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
-    image_path: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
+  - image_path: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
 categories:
   - Unterwegs
 tags:

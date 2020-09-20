@@ -6,10 +6,8 @@ header:
     teaser: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
     overlay_image: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
 gallery:
-  - url: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
-    image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
-  - url: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
-    image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
+  - image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
+  - image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
 categories:
   - Photography
 ---

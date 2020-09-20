@@ -6,20 +6,13 @@ header:
     teaser: assets/photography/2010_09_belgien/dsc_3269.jpg
     overlay_image: assets/photography/2010_09_belgien/dsc_3269.jpg
 gallery:
-  - url: /assets/photography/2010_09_belgien/dsc_2881.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_2881.jpg
-  - url: /assets/photography/2010_09_belgien/dsc_2960.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_2960.jpg
-  - url: /assets/photography/2010_09_belgien/dsc_3106.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_3106.jpg
-  - url: /assets/photography/2010_09_belgien/dsc_2921.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_2921.jpg
-  - url: /assets/photography/2010_09_belgien/dsc_2929.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_2929.jpg
-  - url: /assets/photography/2010_09_belgien/dsc_3149.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_3149.jpg
-  - url: /assets/photography/2010_09_belgien/dsc_3269.jpg
-    image_path: /assets/photography/2010_09_belgien/dsc_3269.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_2881.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_2960.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_3106.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_2921.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_2929.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_3149.jpg
+  - image_path: assets/photography/2010_09_belgien/dsc_3269.jpg
 categories:
   - Unterwegs
 tags:

@@ -6,8 +6,7 @@ header:
     teaser: assets/photography/2011_10_indien/dscn0112.jpg
     overlay_image: assets/photography/2011_10_indien/dscn0112.jpg
 gallery:
-  - url: /assets/photography/2011_10_indien/dscn0112.jpg
-    image_path: /assets/photography/2011_10_indien/dscn0112.jpg
+  - image_path: assets/photography/2011_10_indien/dscn0112.jpg
 categories:
   - Unterwegs
 tags:

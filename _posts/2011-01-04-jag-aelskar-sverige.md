@@ -6,18 +6,12 @@ header:
     teaser: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
     overlay_image: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
 gallery:
-  - url: /assets/photography/2010_10_schweden/dsc_4644_hdr.jpg
-    image_path: /assets/photography/2010_10_schweden/dsc_4644_hdr.jpg
-  - url: /assets/photography/2010_10_schweden/dsc_4770.jpg
-    image_path: /assets/photography/2010_10_schweden/dsc_4770.jpg
-  - url: /assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
-    image_path: /assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
-  - url: /assets/photography/2010_10_schweden/dsc_4896.jpg
-    image_path: /assets/photography/2010_10_schweden/dsc_4896.jpg
-  - url: /assets/photography/2010_10_schweden/dsc_4987.jpg
-    image_path: /assets/photography/2010_10_schweden/dsc_4987.jpg
-  - url: /assets/photography/2010_10_schweden/dsc_4996.jpg
-    image_path: /assets/photography/2010_10_schweden/dsc_4996.jpg
+  - image_path: assets/photography/2010_10_schweden/dsc_4644_hdr.jpg
+  - image_path: assets/photography/2010_10_schweden/dsc_4770.jpg
+  - image_path: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
+  - image_path: assets/photography/2010_10_schweden/dsc_4896.jpg
+  - image_path: assets/photography/2010_10_schweden/dsc_4987.jpg
+  - image_path: assets/photography/2010_10_schweden/dsc_4996.jpg
 categories:
   - Unterwegs
 tags:

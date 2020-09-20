@@ -6,12 +6,9 @@ header:
     teaser: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
 gallery:
-  - url: assets/photography/2012_06_island/dsc_1279.jpg
-    image_path: assets/photography/2012_06_island/dsc_1279.jpg
-  - url: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
-  - url: assets/photography/2012_06_island/dsc_1249.jpg
-    image_path: assets/photography/2012_06_island/dsc_1249.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1279.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1249.jpg
 categories:
   - Unterwegs
 tags:

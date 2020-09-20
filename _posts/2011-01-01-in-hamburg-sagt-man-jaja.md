@@ -6,18 +6,12 @@ header:
     teaser: assets/photography/2010_09_deutschland/dsc_4585.jpg
     overlay_image: assets/photography/2010_09_deutschland/dsc_4585.jpg
 gallery:
-  - url: /assets/photography/2010_09_deutschland/dsc_4193.jpg
-    image_path: /assets/photography/2010_09_deutschland/dsc_4193.jpg
-  - url: /assets/photography/2010_09_deutschland/dsc_4200_4208.jpg
-    image_path: /assets/photography/2010_09_deutschland/dsc_4200_4208.jpg
-  - url: /assets/photography/2010_09_deutschland/dsc_4240.jpg
-    image_path: /assets/photography/2010_09_deutschland/dsc_4240.jpg
-  - url: /assets/photography/2010_09_deutschland/dsc_4331.jpg
-    image_path: /assets/photography/2010_09_deutschland/dsc_4331.jpg
-  - url: /assets/photography/2010_09_deutschland/dsc_4548.jpg
-    image_path: /assets/photography/2010_09_deutschland/dsc_4548.jpg
-  - url: /assets/photography/2010_09_deutschland/dsc_4585.jpg
-    image_path: /assets/photography/2010_09_deutschland/dsc_4585.jpg
+  - image_path: assets/photography/2010_09_deutschland/dsc_4193.jpg
+  - image_path: assets/photography/2010_09_deutschland/dsc_4200_4208.jpg
+  - image_path: assets/photography/2010_09_deutschland/dsc_4240.jpg
+  - image_path: assets/photography/2010_09_deutschland/dsc_4331.jpg
+  - image_path: assets/photography/2010_09_deutschland/dsc_4548.jpg
+  - image_path: assets/photography/2010_09_deutschland/dsc_4585.jpg
 categories:
   - Unterwegs
 tags:

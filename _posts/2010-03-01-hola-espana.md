@@ -5,16 +5,11 @@ header:
     teaser: assets/photography/0000_misc/2010-02_barca_1.jpg
     overlay_image: assets/photography/0000_misc/2010-02_barca_1.jpg
 gallery:
-  - url: /assets/photography/0000_misc/2010-02_barca_1.jpg
-    image_path: /assets/photography/0000_misc/2010-02_barca_1.jpg
-  - url: /assets/photography/0000_misc/2010-02_barca_2.jpg
-    image_path: /assets/photography/0000_misc/2010-02_barca_2.jpg
-  - url: /assets/photography/0000_misc/2010-02_barca_3.jpg
-    image_path: /assets/photography/0000_misc/2010-02_barca_3.jpg
-  - url: /assets/photography/0000_misc/2010-02_barca_4.jpg
-    image_path: /assets/photography/0000_misc/2010-02_barca_4.jpg
-  - url: /assets/photography/0000_misc/2010-02_barca_5.jpg
-    image_path: /assets/photography/0000_misc/2010-02_barca_5.jpg
+  - image_path: assets/photography/0000_misc/2010-02_barca_1.jpg
+  - image_path: assets/photography/0000_misc/2010-02_barca_2.jpg
+  - image_path: assets/photography/0000_misc/2010-02_barca_3.jpg
+  - image_path: assets/photography/0000_misc/2010-02_barca_4.jpg
+  - image_path: assets/photography/0000_misc/2010-02_barca_5.jpg
 categories:
   - Unterwegs
 tags:

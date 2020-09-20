@@ -6,12 +6,9 @@ header:
     teaser: assets/photography/2010_09_niederlande/dsc_3940.jpg
     overlay_image: assets/photography/2010_09_niederlande/dsc_3940.jpg
 gallery:
-  - url: /assets/photography/2010_09_niederlande/dsc_3919_3921.jpg
-    image_path: /assets/photography/2010_09_niederlande/dsc_3919_3921.jpg
-  - url: /assets/photography/2010_09_niederlande/dsc_3940.jpg
-    image_path: /assets/photography/2010_09_niederlande/dsc_3940.jpg
-  - url: /assets/photography/2010_09_niederlande/dsc_3960.jpg
-    image_path: /assets/photography/2010_09_niederlande/dsc_3960.jpg
+  - image_path: assets/photography/2010_09_niederlande/dsc_3919_3921.jpg
+  - image_path: assets/photography/2010_09_niederlande/dsc_3940.jpg
+  - image_path: assets/photography/2010_09_niederlande/dsc_3960.jpg
 categories:
   - Unterwegs
 tags:

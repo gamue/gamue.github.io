@@ -5,18 +5,12 @@ header:
     teaser: assets/photography/2019_04_belize/Belize_0823.jpg
     overlay_image: assets/photography/2019_04_belize/Belize_0661.jpg
 gallery:
-  - url: assets/photography/2019_04_belize/Belize_0241b.jpg
-    image_path: assets/photography/2019_04_belize/Belize_0241b.jpg
-  - url: assets/photography/2019_04_belize/Belize_0153b.jpg
-    image_path: assets/photography/2019_04_belize/Belize_0153b.jpg
-  - url: assets/photography/2019_04_belize/Belize_0317.jpg
-    image_path: assets/photography/2019_04_belize/Belize_0317.jpg
-  - url: assets/photography/2019_04_belize/Belize_0554.jpg
-    image_path: assets/photography/2019_04_belize/Belize_0554.jpg
-  - url: assets/photography/2019_04_belize/Belize_0823.jpg
-    image_path: assets/photography/2019_04_belize/Belize_0823.jpg
-  - url: assets/photography/2019_04_belize/Belize_0770.jpg
-    image_path: assets/photography/2019_04_belize/Belize_0770.jpg
+  - image_path: assets/photography/2019_04_belize/Belize_0241b.jpg
+  - image_path: assets/photography/2019_04_belize/Belize_0153b.jpg
+  - image_path: assets/photography/2019_04_belize/Belize_0317.jpg
+  - image_path: assets/photography/2019_04_belize/Belize_0554.jpg
+  - image_path: assets/photography/2019_04_belize/Belize_0823.jpg
+  - image_path: assets/photography/2019_04_belize/Belize_0770.jpg
 categories:
   - Photography
 ---

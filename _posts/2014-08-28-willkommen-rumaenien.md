@@ -6,12 +6,9 @@ header:
     teaser: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
 gallery:
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_071.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_071.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_050.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_050.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_071.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_050.jpg
 categories:
   - Unterwegs
 tags:

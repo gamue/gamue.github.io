@@ -6,10 +6,8 @@ header:
     teaser: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
     overlay_image: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
 gallery:
-  - url: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
-    image_path: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
-  - url: assets/photography/2013_08_kosovo/Hochzeit_Aba_116.jpg
-    image_path: assets/photography/2013_08_kosovo/Hochzeit_Aba_116.jpg
+  - image_path: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
+  - image_path: assets/photography/2013_08_kosovo/Hochzeit_Aba_116.jpg
 categories:
   - Unterwegs
 tags:

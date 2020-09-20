@@ -5,18 +5,12 @@ header:
     teaser: assets/photography/2020_07_deutschland/Deutschland_0535.jpg
     overlay_image: assets/photography/2020_07_deutschland/Deutschland_0334.jpg
 gallery:
-  - url: assets/photography/2020_07_deutschland/Deutschland_0121.jpg
-    image_path: assets/photography/2020_07_deutschland/Deutschland_0121.jpg
-  - url: assets/photography/2020_07_deutschland/Deutschland_0305.jpg
-    image_path: assets/photography/2020_07_deutschland/Deutschland_0305.jpg
-  - url: assets/photography/2020_07_deutschland/Deutschland_0468.jpg
-    image_path: assets/photography/2020_07_deutschland/Deutschland_0468.jpg
-  - url: assets/photography/2020_07_deutschland/Deutschland_0715.jpg
-    image_path: assets/photography/2020_07_deutschland/Deutschland_0715.jpg
-  - url: assets/photography/2020_07_deutschland/Deutschland_0959.jpg
-    image_path: assets/photography/2020_07_deutschland/Deutschland_0959.jpg
-  - url: assets/photography/2020_07_deutschland/Deutschland_1089.jpg
-    image_path: assets/photography/2020_07_deutschland/Deutschland_1089.jpg
+  - image_path: assets/photography/2020_07_deutschland/Deutschland_0121.jpg
+  - image_path: assets/photography/2020_07_deutschland/Deutschland_0305.jpg
+  - image_path: assets/photography/2020_07_deutschland/Deutschland_0468.jpg
+  - image_path: assets/photography/2020_07_deutschland/Deutschland_0715.jpg
+  - image_path: assets/photography/2020_07_deutschland/Deutschland_0959.jpg
+  - image_path: assets/photography/2020_07_deutschland/Deutschland_1089.jpg
 categories:
   - Photography
 ---

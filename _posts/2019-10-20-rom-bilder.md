@@ -5,10 +5,8 @@ header:
     teaser: assets/photography/2016_09_rom/Rom_086b2.jpg
     overlay_image: assets/photography/2016_09_rom/Rom_304.jpg
 gallery:
-  - url: assets/photography/2016_09_rom/Rom_220.jpg
-    image_path: assets/photography/2016_09_rom/Rom_220.jpg
-  - url: assets/photography/2016_09_rom/Rom_361.jpg
-    image_path: assets/photography/2016_09_rom/Rom_361.jpg
+  - image_path: assets/photography/2016_09_rom/Rom_220.jpg
+  - image_path: assets/photography/2016_09_rom/Rom_361.jpg
 categories:
   - Photography
 ---

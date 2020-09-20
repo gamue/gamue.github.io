@@ -6,18 +6,12 @@ header:
     teaser: assets/photography/2011_05_marokko/Marokko_524b.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_524b.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/Marokko_511_513_514.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_511_513_514.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_516_556.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_516_556.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_524b.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_524b.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_536.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_536.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_547.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_547.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_552.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_552.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_511_513_514.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_516_556.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_524b.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_536.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_547.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_552.jpg
 categories:
   - Unterwegs
 tags:

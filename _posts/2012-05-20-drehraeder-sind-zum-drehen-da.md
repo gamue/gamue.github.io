@@ -6,14 +6,10 @@ header:
     teaser: assets/photography/2011_10_indien/dsc_8900.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8900.jpg
 gallery:
-  - url: /assets/photography/2011_10_indien/dsc_8927.jpg
-    image_path: /assets/photography/2011_10_indien/dsc_8927.jpg
-  - url: /assets/photography/2011_10_indien/dsc_8889.jpg
-    image_path: /assets/photography/2011_10_indien/dsc_8889.jpg
-  - url: /assets/photography/2011_10_indien/dsc_8900.jpg
-    image_path: /assets/photography/2011_10_indien/dsc_8900.jpg
-  - url: /assets/photography/2011_10_indien/dsc_8894.jpg
-    image_path: /assets/photography/2011_10_indien/dsc_8894.jpg
+  - image_path: assets/photography/2011_10_indien/dsc_8927.jpg
+  - image_path: assets/photography/2011_10_indien/dsc_8889.jpg
+  - image_path: assets/photography/2011_10_indien/dsc_8900.jpg
+  - image_path: assets/photography/2011_10_indien/dsc_8894.jpg
 categories:
   - Unterwegs
 tags:

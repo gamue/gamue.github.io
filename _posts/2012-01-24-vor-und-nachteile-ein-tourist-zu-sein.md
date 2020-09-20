@@ -6,10 +6,8 @@ header:
     teaser: assets/photography/2011_10_indien/dsc_8178.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8178.jpg
 gallery:
-  - url: /assets/photography/2011_10_indien/dsc_8193.jpg
-    image_path: /assets/photography/2011_10_indien/dsc_8193.jpg
-  - url: /assets/photography/2011_10_indien/dsc_8178.jpg
-    image_path: /assets/photography/2011_10_indien/dsc_8178.jpg
+  - image_path: assets/photography/2011_10_indien/dsc_8193.jpg
+  - image_path: assets/photography/2011_10_indien/dsc_8178.jpg
 categories:
   - Unterwegs
 tags:

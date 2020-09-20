@@ -5,14 +5,10 @@ header:
     teaser: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
     overlay_image: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
 gallery:
-  - url: assets/photography/0000_misc/2013-11_Aegypten_236.jpg
-    image_path: assets/photography/0000_misc/2013-11_Aegypten_236.jpg
-  - url: assets/photography/0000_misc/2013-11_Aegypten_098.jpg
-    image_path: assets/photography/0000_misc/2013-11_Aegypten_098.jpg
-  - url: assets/photography/0000_misc/2013-11_Aegypten_129_tonemapped.jpg
-    image_path: assets/photography/0000_misc/2013-11_Aegypten_129_tonemapped.jpg
-  - url: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
-    image_path: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
+  - image_path: assets/photography/0000_misc/2013-11_Aegypten_236.jpg
+  - image_path: assets/photography/0000_misc/2013-11_Aegypten_098.jpg
+  - image_path: assets/photography/0000_misc/2013-11_Aegypten_129_tonemapped.jpg
+  - image_path: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
 categories:
   - Unterwegs
 tags:

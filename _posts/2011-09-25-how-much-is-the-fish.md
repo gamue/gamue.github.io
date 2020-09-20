@@ -6,14 +6,10 @@ header:
     teaser: assets/photography/2011_05_marokko/Marokko_604b.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_604b.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/Marokko_558.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_558.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_595_618.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_595_618.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_604b.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_604b.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_615.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_615.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_558.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_595_618.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_604b.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_615.jpg
 categories:
   - Unterwegs
 tags:

@@ -5,14 +5,10 @@ header:
     teaser: assets/photography/0000_misc/2009-11_switzerland_4.jpg
     overlay_image: assets/photography/0000_misc/2009-11_switzerland_4.jpg
 gallery:
-  - url: /assets/photography/0000_misc/2009-11_switzerland_1.jpg
-    image_path: /assets/photography/0000_misc/2009-11_switzerland_1.jpg
-  - url: /assets/photography/0000_misc/2009-11_switzerland_2.jpg
-    image_path: /assets/photography/0000_misc/2009-11_switzerland_2.jpg
-  - url: /assets/photography/0000_misc/2009-11_switzerland_3.jpg
-    image_path: /assets/photography/0000_misc/2009-11_switzerland_3.jpg
-  - url: /assets/photography/0000_misc/2009-11_switzerland_4.jpg
-    image_path: /assets/photography/0000_misc/2009-11_switzerland_4.jpg
+  - image_path: assets/photography/0000_misc/2009-11_switzerland_1.jpg
+  - image_path: assets/photography/0000_misc/2009-11_switzerland_2.jpg
+  - image_path: assets/photography/0000_misc/2009-11_switzerland_3.jpg
+  - image_path: assets/photography/0000_misc/2009-11_switzerland_4.jpg
 categories:
   - Unterwegs
 tags:

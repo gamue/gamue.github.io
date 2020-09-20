@@ -6,12 +6,9 @@ header:
     teaser: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
     overlay_image: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
 gallery:
-  - url: assets/2014-07-24-wider-der-gewohnheit/malle_1.jpg
-    image_path: assets/2014-07-24-wider-der-gewohnheit/malle_1.jpg
-  - url: assets/2014-07-24-wider-der-gewohnheit/malle_2.jpg
-    image_path: assets/2014-07-24-wider-der-gewohnheit/malle_2.jpg
-  - url: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
-    image_path: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
+  - image_path: assets/2014-07-24-wider-der-gewohnheit/malle_1.jpg
+  - image_path: assets/2014-07-24-wider-der-gewohnheit/malle_2.jpg
+  - image_path: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
 categories:
   - Unterwegs
 tags:

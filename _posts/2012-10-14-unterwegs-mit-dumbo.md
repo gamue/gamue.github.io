@@ -6,12 +6,9 @@ header:
     teaser: assets/photography/2011_10_nepal/Nepal_0560.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_0560.jpg
 gallery:
-  - url: assets/photography/2011_10_nepal/Nepal_0739b.jpg
-    image_path: assets/photography/2011_10_nepal/Nepal_0739b.jpg
-  - url: assets/photography/2011_10_nepal/Nepal_0560.jpg
-    image_path: assets/photography/2011_10_nepal/Nepal_0560.jpg
-  - url: assets/photography/2011_10_nepal/Nepal_0778_0779.jpg
-    image_path: assets/photography/2011_10_nepal/Nepal_0778_0779.jpg
+  - image_path: assets/photography/2011_10_nepal/Nepal_0739b.jpg
+  - image_path: assets/photography/2011_10_nepal/Nepal_0560.jpg
+  - image_path: assets/photography/2011_10_nepal/Nepal_0778_0779.jpg
 categories:
   - Unterwegs
 tags:

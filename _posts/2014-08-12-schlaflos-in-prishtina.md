@@ -6,12 +6,9 @@ header:
     teaser: assets/photography/2013_08_kosovo/Pristina_22.jpg
     overlay_image: assets/photography/2013_08_kosovo/Pristina_22.jpg
 gallery:
-  - url: assets/photography/2013_08_kosovo/Pristina_13.jpg
-    image_path: assets/photography/2013_08_kosovo/Pristina_13.jpg
-  - url: assets/photography/2013_08_kosovo/Pristina_22.jpg
-    image_path: assets/photography/2013_08_kosovo/Pristina_22.jpg
-  - url: assets/photography/2013_08_kosovo/Pristina_33.jpg
-    image_path: assets/photography/2013_08_kosovo/Pristina_33.jpg
+  - image_path: assets/photography/2013_08_kosovo/Pristina_13.jpg
+  - image_path: assets/photography/2013_08_kosovo/Pristina_22.jpg
+  - image_path: assets/photography/2013_08_kosovo/Pristina_33.jpg
 categories:
   - Unterwegs
 tags:

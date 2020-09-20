@@ -6,24 +6,15 @@ header:
     teaser: assets/photography/2013_08_serbien/Belgrad_106.jpg
     overlay_image: assets/photography/2013_08_serbien/Belgrad_106.jpg
 gallery:
-  - url: assets/photography/2013_08_serbien/Belgrad_001.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_001.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_027.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_027.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_050.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_050.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_014.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_014.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_023_b.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_023_b.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_049.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_049.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_066.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_066.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_106.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_106.jpg
-  - url: assets/photography/2013_08_serbien/Belgrad_125.jpg
-    image_path: assets/photography/2013_08_serbien/Belgrad_125.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_001.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_027.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_050.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_014.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_023_b.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_049.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_066.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_106.jpg
+  - image_path: assets/photography/2013_08_serbien/Belgrad_125.jpg
 categories:
   - Unterwegs
 tags:

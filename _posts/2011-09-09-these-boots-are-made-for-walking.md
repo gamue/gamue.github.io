@@ -6,36 +6,21 @@ header:
     teaser: assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
 gallery:
-  - url: /assets/photography/2011_05_marokko/Marokko_122_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_122_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_123.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_123.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_147_hdr.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_147_hdr.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_171b.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_171b.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_207b.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_207b.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_211.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_211.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_220.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_220.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_253b.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_253b.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_297.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_297.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_347-349.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_347-349.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_354_356.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_354_356.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_327.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_327.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_369.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_369.jpg
-  - url: /assets/photography/2011_05_marokko/Marokko_389b.jpg
-    image_path: /assets/photography/2011_05_marokko/Marokko_389b.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_122_hdr.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_123.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_128_hdr.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_147_hdr.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_171b.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_207b.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_211.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_220.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_253b.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_297.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_347-349.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_354_356.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_327.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_369.jpg
+  - image_path: assets/photography/2011_05_marokko/Marokko_389b.jpg
 categories:
   - Unterwegs
 tags:

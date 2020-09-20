@@ -6,20 +6,13 @@ header:
     teaser: assets/photography/2012_06_island/dsc_0686.jpg
     overlay_image: assets/photography/2012_06_island/dsc_0686.jpg
 gallery:
-  - url: assets/photography/2012_06_island/dsc_0660.jpg
-    image_path: assets/photography/2012_06_island/dsc_0660.jpg
-  - url: assets/photography/2012_06_island/dsc_0669.jpg
-    image_path: assets/photography/2012_06_island/dsc_0669.jpg
-  - url: assets/photography/2012_06_island/dsc_0670_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_0670_tonemapped.jpg
-  - url: assets/photography/2012_06_island/dsc_0686.jpg
-    image_path: assets/photography/2012_06_island/dsc_0686.jpg
-  - url: assets/photography/2012_06_island/dsc_0689.jpg
-    image_path: assets/photography/2012_06_island/dsc_0689.jpg
-  - url: assets/photography/2012_06_island/dsc_0825_tonemapped.jpg
-    image_path: assets/photography/2012_06_island/dsc_0825_tonemapped.jpg
-  - url: assets/photography/2012_06_island/dscn0125.jpg
-    image_path: assets/photography/2012_06_island/dscn0125.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0660.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0669.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0670_tonemapped.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0686.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0689.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0825_tonemapped.jpg
+  - image_path: assets/photography/2012_06_island/dscn0125.jpg
 categories:
   - Unterwegs
 tags:

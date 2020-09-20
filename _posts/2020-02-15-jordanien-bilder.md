@@ -5,14 +5,10 @@ header:
     teaser: assets/photography/2017_11_jordanien/Jordanien_165.jpg
     overlay_image: assets/photography/2017_11_jordanien/Jordanien_325.jpg
 gallery:
-  - url: assets/photography/2017_11_jordanien/Jordanien_028.jpg
-    image_path: assets/photography/2017_11_jordanien/Jordanien_028.jpg
-  - url: assets/photography/2017_11_jordanien/Jordanien_068b.jpg
-    image_path: assets/photography/2017_11_jordanien/Jordanien_068b.jpg
-  - url: assets/photography/2017_11_jordanien/Jordanien_128b.jpg
-    image_path: assets/photography/2017_11_jordanien/Jordanien_128b.jpg
-  - url: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
-    image_path: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
+  - image_path: assets/photography/2017_11_jordanien/Jordanien_028.jpg
+  - image_path: assets/photography/2017_11_jordanien/Jordanien_068b.jpg
+  - image_path: assets/photography/2017_11_jordanien/Jordanien_128b.jpg
+  - image_path: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
 categories:
   - Photography
 ---

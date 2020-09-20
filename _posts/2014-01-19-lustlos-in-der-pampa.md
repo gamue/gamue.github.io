@@ -6,10 +6,8 @@ header:
     teaser: assets/photography/2013_07_schottland/Schottland_0574.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0574.jpg
 gallery:
-  - url: assets/photography/2013_07_schottland/Schottland_0570.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0570.jpg
-  - url: assets/photography/2013_07_schottland/Schottland_0574.jpg
-    image_path: assets/photography/2013_07_schottland/Schottland_0574.jpg
+  - image_path: assets/photography/2013_07_schottland/Schottland_0570.jpg
+  - image_path: assets/photography/2013_07_schottland/Schottland_0574.jpg
 categories:
   - Unterwegs
 tags:

@@ -6,22 +6,14 @@ header:
     teaser: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
 gallery:
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_204_tonemapped.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_204_tonemapped.jpg
-  - url: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_086.jpg
-    image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_086.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_194.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_194.jpg
-  - url: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg
-    image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_177.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_177.jpg
-  - url: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_187.jpg
-    image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_187.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_215.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_215.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_204_tonemapped.jpg
+  - image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_086.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_194.jpg
+  - image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_177.jpg
+  - image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_187.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_215.jpg
 categories:
   - Unterwegs
 tags:

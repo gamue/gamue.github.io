@@ -6,16 +6,11 @@ header:
     teaser: assets/photography/2012_06_island/dsc_1634.jpg
     overlay_image: assets/photography/2012_06_island/dsc_1634.jpg
 gallery:
-  - url: assets/photography/2012_06_island/dsc_1679.jpg
-    image_path: assets/photography/2012_06_island/dsc_1679.jpg
-  - url: assets/photography/2012_06_island/dsc_1613.jpg
-    image_path: assets/photography/2012_06_island/dsc_1613.jpg
-  - url: assets/photography/2012_06_island/dsc_1634.jpg
-    image_path: assets/photography/2012_06_island/dsc_1634.jpg
-  - url: assets/photography/2012_06_island/dsc_1617.jpg
-    image_path: assets/photography/2012_06_island/dsc_1617.jpg
-  - url: assets/photography/2012_06_island/dsc_0696.jpg
-    image_path: assets/photography/2012_06_island/dsc_0696.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1679.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1613.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1634.jpg
+  - image_path: assets/photography/2012_06_island/dsc_1617.jpg
+  - image_path: assets/photography/2012_06_island/dsc_0696.jpg
 categories:
   - Unterwegs
 tags:

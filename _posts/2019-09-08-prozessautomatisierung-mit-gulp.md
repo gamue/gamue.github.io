@@ -4,14 +4,10 @@ permalink: /prozessautomatisierung-mit-gulp/
 header:
     teaser: assets/2019-09-08-prozessautomatisierung-mit-gulp/thumb.jpg
 gallery:
-  - url: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_home.jpg
-    image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_home.jpg
-  - url: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_overview.jpg
-    image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_overview.jpg
-  - url: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_zypern.jpg
-    image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_zypern.jpg
-  - url: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_thailand.jpg
-    image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_thailand.jpg
+  - image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_home.jpg
+  - image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_overview.jpg
+  - image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_zypern.jpg
+  - image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_thailand.jpg
 categories:
   - Homepage
   - Technik

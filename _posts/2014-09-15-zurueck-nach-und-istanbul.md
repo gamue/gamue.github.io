@@ -6,14 +6,10 @@ header:
     teaser: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
 gallery:
-  - url: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
-  - url: assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
-  - url: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
-  - url: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
-    image_path: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
+  - image_path: assets/photography/2014_05_tuerkei/Tuerkei_056.jpg
+  - image_path: assets/photography/2014_05_tuerkei/Tuerkei_384.jpg
+  - image_path: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
+  - image_path: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
 categories:
   - Unterwegs
 tags:
@@ -33,7 +29,7 @@ Und so blieb mir nichts anderes als Musik zu hören und versuchen zu schlafen.
 Zusammenfassend war die 11 stündige Fahrt jetzt nichts was ich als „super gut“ bezeichnen würde, wie es mir vorgeschwärmt wurde. 
 Aber es war, nennen wir es mal „aushaltbar“, zumindest reichte der Stewart ab und an Trinken und Snacks. 
 Busfahren scheint aber keine weit verbreitete Touristenfortbewegung zu sein, den nahezu niemand der Angestellten hatte Englischkenntnisse, 
-was leicht nervig wird, wenn man versucht rauszubekommen ob man Umsteigen muss oder nicht, 
+was leicht nervig wird, wenn man versucht rauszubekommen, ob man Umsteigen muss oder nicht, 
 na ja hat dann am Schluss halbwegs funktioniert, da ich die Fahrtroute in Istanbul per GPS auf dem Smartphone mitverfolgte 
 und daher erahnte wann ich um- bzw. aussteigen musste. Ein Hoch auf die Technik 🙂
 
@@ -50,6 +46,6 @@ mit all seinen kleinen Cafés und Gassen.
 
 Was ich an Istanbul auch mochte, war die Musik, die in den Restaurants und Hostels gespielt wurde, 
 denn durch die Dauerbeschallung mit Wind of Change, November Rain, Yesterday sowie vielen 80er und 90er fühlte man sich gleich 
-in eine andere Zeit zurück versetzt 😉
+in eine andere Zeit zurückversetzt 😉
 
 {% include gallery layout="half" %}

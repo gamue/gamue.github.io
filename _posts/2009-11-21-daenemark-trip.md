@@ -5,10 +5,8 @@ header:
     teaser: assets/photography/0000_misc/2009-11_copenhagen_1.jpg
     overlay_image: assets/photography/0000_misc/2009-11_copenhagen_1.jpg
 gallery:
-  - url: /assets/photography/0000_misc/2009-11_copenhagen_1.jpg
-    image_path: /assets/photography/0000_misc/2009-11_copenhagen_1.jpg
-  - url: /assets/photography/0000_misc/2009-11_copenhagen_2.jpg
-    image_path: /assets/photography/0000_misc/2009-11_copenhagen_2.jpg
+  - image_path: assets/photography/0000_misc/2009-11_copenhagen_1.jpg
+  - image_path: assets/photography/0000_misc/2009-11_copenhagen_2.jpg
 categories:
   - Unterwegs
 tags:
@@ -61,4 +59,4 @@ Der Rückflug am nächsten Tag verlief problemlos.
 Von Zürich aus ging es zum Autohändler Winterreifen drauf ziehen um am nächsten Tag in die Schweiz zu fahren um meinen Bruder zu besuchen, 
 aber das ein andermal…
 
-{% include gallery layout="half" %}
+{% include gallery %}

@@ -6,16 +6,11 @@ header:
     teaser: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
 gallery:
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_716.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_716.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_732.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_732.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_790.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_790.jpg
-  - url: assets/photography/2013_08_rumaenien/Rumaenien_701.jpg
-    image_path: assets/photography/2013_08_rumaenien/Rumaenien_701.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_716.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_755.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_732.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_790.jpg
+  - image_path: assets/photography/2013_08_rumaenien/Rumaenien_701.jpg
 categories:
   - Unterwegs
 tags:

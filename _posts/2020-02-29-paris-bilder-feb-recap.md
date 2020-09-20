@@ -5,14 +5,10 @@ header:
     teaser: assets/photography/2019_12_paris/Paris_225.jpg
     overlay_image: assets/photography/2019_12_paris/Paris_119.jpg
 gallery:
-  - url: assets/photography/2019_12_paris/Paris_016b.jpg
-    image_path: assets/photography/2019_12_paris/Paris_016b.jpg
-  - url: assets/photography/2019_12_paris/Paris_099.jpg
-    image_path: assets/photography/2019_12_paris/Paris_099.jpg
-  - url: assets/photography/2019_12_paris/Paris_128.jpg
-    image_path: assets/photography/2019_12_paris/Paris_128.jpg
-  - url: assets/photography/2019_12_paris/Paris_323b.jpg
-    image_path: assets/photography/2019_12_paris/Paris_323b.jpg
+  - image_path: assets/photography/2019_12_paris/Paris_016b.jpg
+  - image_path: assets/photography/2019_12_paris/Paris_099.jpg
+  - image_path: assets/photography/2019_12_paris/Paris_128.jpg
+  - image_path: assets/photography/2019_12_paris/Paris_323b.jpg
 categories:
   - Allgemein
   - Photography
