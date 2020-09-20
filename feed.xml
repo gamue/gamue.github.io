@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2020-09-20T20:32:55+02:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de</title><subtitle>Über Reisen, Photographie, Technik, Leben und sonstigen Spaß</subtitle><author><name>Johannes Ganzenmüller</name></author><entry><title type="html">Deutschland Bilder online</title><link href="https://gamue.de/deutschland-bilder-online/" rel="alternate" type="text/html" title="Deutschland Bilder online" /><published>2020-09-20T00:00:00+02:00</published><updated>2020-09-20T00:00:00+02:00</updated><id>https://gamue.de/deutschland-bilder</id><content type="html" xml:base="https://gamue.de/deutschland-bilder-online/">&lt;p&gt;Ich habe gerade die &lt;a href=&quot;/photography/deutschland-2020/&quot;&gt;Bilder der Deutschland-Rundfahrt&lt;/a&gt; vom Juli hochgeladen und ich finde, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2020-09-20T22:12:07+02:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de</title><subtitle>Über Reisen, Photographie, Technik, Leben und sonstigen Spaß</subtitle><author><name>Johannes Ganzenmüller</name></author><entry><title type="html">Deutschland Bilder online</title><link href="https://gamue.de/deutschland-bilder-online/" rel="alternate" type="text/html" title="Deutschland Bilder online" /><published>2020-09-20T00:00:00+02:00</published><updated>2020-09-20T00:00:00+02:00</updated><id>https://gamue.de/deutschland-bilder</id><content type="html" xml:base="https://gamue.de/deutschland-bilder-online/">&lt;p&gt;Ich habe gerade die &lt;a href=&quot;/photography/deutschland-2020/&quot;&gt;Bilder der Deutschland-Rundfahrt&lt;/a&gt; vom Juli hochgeladen und ich finde, 
 es macht deutlich mehr Spaß die Fotos direkt nach dem Urlaub durchzugehen und auszusortieren anstatt sich durch 
 Bildermassen der vergangenen Jahre arbeiten zu müssen. Auch hat es, aus meiner Sicht, dieses Mal gar nicht so lange gedauert,
 bis ich mit den Meisten durch war.
@@ -8,55 +8,43 @@ Beispielsweise eine neue Staffel einer guten Serie, ein neues Spiel oder andere 
 &lt;p&gt;Auf den Bildern kann man sehen, dass wir nicht immer das beste Wetter hatten, aber wirklich schlecht war es ehrlich gesagt auch nicht 
 und ich finde, gerade bei den Wanderungen durch die Almbach- und Breitachklamm sind etliche Fotos entstanden, die mir sehr gefallen.&lt;/p&gt;
 
-&lt;figure class=&quot;half &quot;&gt;
+&lt;figure class=&quot;half&quot;&gt;
   
-    
       &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0121.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;662&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0305.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;662&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0715.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0959.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_1089.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
   
 &lt;/figure&gt;
@@ -848,11 +836,11 @@ auf einen Deutschland-Roadtrip. Bin auf Beides schon sehr gespannt! …und Urlau
 
 &lt;p&gt;Zudem sind mir wieder einige Sachen aufgefallen, die mir nicht so gefallen und ich dann irgendwann demnächst angehen möchte.
 Mehr dazu aber ein andermal ;)&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Homepage" /><summary type="html">Eigentlich wollte ich mittlerweile die Vietnam-Bilder online haben, aber so wirklich konnte ich mich in den letzten Wochen nicht aufraffen die weiter durchzugehen und hab mich stattdessen mit der Playstation vergnügt :D</summary></entry><entry><title type="html">Japan Bilder online &amp;amp; Homeoffice Upgrade</title><link href="https://gamue.de/japan-bilder-online-und-homeoffice-upgrade/" rel="alternate" type="text/html" title="Japan Bilder online &amp;amp; Homeoffice Upgrade" /><published>2020-06-01T00:00:00+02:00</published><updated>2020-06-01T00:00:00+02:00</updated><id>https://gamue.de/japan-bilder-und-homeoffice</id><content type="html" xml:base="https://gamue.de/japan-bilder-online-und-homeoffice-upgrade/">&lt;p&gt;Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden 
-auch etliche beschlossen, so dass wir wieder einen Schritt in Richtung Normalität gemacht haben. 
+auch etliche beschlossen, sodass wir wieder einen Schritt in Richtung Normalität gemacht haben. 
 Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, 
 aber immerhin kann man sich nun mit einigen Leuten treffen und für unsere Hochzeitsfeier Mitte Juli sieht soweit auch alles gut aus. &lt;br /&gt; 
 Dadurch, dass alle Läden geschlossen hatten, hab ich bisher zwar noch keinen Anzug, 
-aber denke das sollte sich auch noch organisieren lassen^^&lt;/p&gt;
+aber denke, das sollte sich auch noch organisieren lassen^^&lt;/p&gt;
 
 &lt;h2 id=&quot;japan-bilder-online&quot;&gt;Japan Bilder online&lt;/h2&gt;
 
@@ -862,39 +850,31 @@ Es war zudem toll sich wieder an die Reise zurückzuerinnern und am liebsten wü
 Auch wenn es eher ein Städtetrip war, so hab ich sehr viele Bilder von Tieren machen können. 
 Gerade der Besuch bei den Schneeaffen war eines meiner Highlights, ebenso wie die frei laufenden Rehe in Nara.&lt;/p&gt;
 
-&lt;figure class=&quot;half &quot;&gt;
+&lt;figure class=&quot;half&quot;&gt;
   
-    
       &lt;a href=&quot;/assets/photography/2017_04_japan/Japan_0022.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_0022.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_0022.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_0022.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_0022.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2017_04_japan/Japan_0022.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_04_japan/Japan_0022.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2017_04_japan/Japan_1425.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_1425.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_1425.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_1425.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_1425.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2017_04_japan/Japan_1425.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_04_japan/Japan_1425.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2017_04_japan/Japan_0711b.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_0711b.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_0711b.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_0711b.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_0711b.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2017_04_japan/Japan_0711b.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_04_japan/Japan_0711b.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
-    
       &lt;a href=&quot;/assets/photography/2017_04_japan/Japan_1155.jpg&quot;&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_1155.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_1155.jpg 100w,
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_1155.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_1155.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2017_04_japan/Japan_1155.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_04_japan/Japan_1155.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-    
   
   
 &lt;/figure&gt;
@@ -939,10 +919,19 @@ in nächster Zeit etwas an der Einrichtung zu ändern. Bestellung Nummer 1 war e
 nach der ersten Woche Nutzung frage ich mich, warum ich das nicht schon früher gemacht hab. 
 Mal schauen was als Nächstes dran ist ;)&lt;/p&gt;
 
-&lt;figure&gt;
-	&lt;a href=&quot;/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg&quot;&gt;&lt;img src=&quot;/thumbnails/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Meine aktuelle Arbeitsecke inklusive neuem Stuhl&lt;/figcaption&gt;
+&lt;figure class=&quot;&quot;&gt;
+  
+      &lt;a href=&quot;/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;750&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+  
+    &lt;figcaption&gt;Meine aktuelle Arbeitsecke inklusive neuem Stuhl
+&lt;/figcaption&gt;
+  
 &lt;/figure&gt;
 
-&lt;p&gt;Da in der letzten Rundmail von meinem Arbeitsgeber der Homeoffice-Zeitraum auf mindestens 1.September verlängert worden ist, 
-wird sich das sicherlich lohnen, auch weil “mindestens” in dick geschrieben worden ist …schauen wir mal wie lang es tatsächlich wird.&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Allgemein" /><category term="Photography" /><summary type="html">Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden auch etliche beschlossen, so dass wir wieder einen Schritt in Richtung Normalität gemacht haben. Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, aber immerhin kann man sich nun mit einigen Leuten treffen und für unsere Hochzeitsfeier Mitte Juli sieht soweit auch alles gut aus. Dadurch, dass alle Läden geschlossen hatten, hab ich bisher zwar noch keinen Anzug, aber denke das sollte sich auch noch organisieren lassen^^</summary></entry></feed>
+&lt;p&gt;Da in der letzten Rundmail von meinem Arbeitsgeber der Homeoffice-Zeitraum auf mindestens 1. September verlängert worden ist, 
+wird sich das sicherlich lohnen, auch weil “mindestens” in dick geschrieben worden ist …schauen wir mal wie lang es tatsächlich wird.&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Allgemein" /><category term="Photography" /><summary type="html">Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden auch etliche beschlossen, sodass wir wieder einen Schritt in Richtung Normalität gemacht haben. Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, aber immerhin kann man sich nun mit einigen Leuten treffen und für unsere Hochzeitsfeier Mitte Juli sieht soweit auch alles gut aus. Dadurch, dass alle Läden geschlossen hatten, hab ich bisher zwar noch keinen Anzug, aber denke, das sollte sich auch noch organisieren lassen^^</summary></entry></feed>

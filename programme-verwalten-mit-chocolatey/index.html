@@ -195,15 +195,15 @@ eventuell will es ja jemand übernehmen ;)</p>
 
 <h2 id="was-ist-ein-paketmanager">Was ist ein Paketmanager?</h2>
 
-<p>Man kann sich einen Paketmanager als Sammlung von Software-Tools vorstellen um Anwendungen zu verwalten. 
+<p>Man kann sich einen Paketmanager als Sammlung von Software-Tools vorstellen, um Anwendungen zu verwalten. 
 Die wichtigsten Funktionen davon sind das Installieren, Aktualisieren und Löschen.</p>
 
 <h2 id="warum-einen-paketmanager-nutzen">Warum einen Paketmanager nutzen?</h2>
 
-<p>Auch wenn es erst einmal komplizierter klingt, etwas Zusätzliches zu verwenden um Programme zu installieren, 
+<p>Auch wenn es erst einmal komplizierter klingt, etwas Zusätzliches zu verwenden, um Programme zu installieren, 
 aktualisieren oder zu löschen, so bietet ein Paketmanager etliche Vorteile. 
-Der Größte für mich ist die Zeitersparnis, besonders wenn man einen Computer neu aufsetzt kann man so schnell eine 
-Vielzahl von Programmen installieren ohne dass man jede Anwendung einzeln herunterladen und manuell installieren muss.
+Der Größte für mich ist die Zeitersparnis, besonders wenn man einen Computer neu aufsetzt, kann man so schnell eine 
+Vielzahl von Programmen installieren, ohne dass man jede Anwendung einzeln herunterladen und manuell installieren muss.
 Ebenso kann man alle verwalteten Programme über einen Befehl aktualisieren und profitiert dadurch von neuen Funktionen 
 und Sicherheitsupdates in den Anwendungen, was sonst vermutlich auch niemand für alle installierten Programme macht.</p>
 
@@ -230,10 +230,15 @@ was ich als angenehmer empfinde, der Befehl lautet dann <code class="language-pl
 <p>Alternativ kann man den Namen des Installationspakets auch über die Kommandozeile suchen, in dem man <code class="language-plaintext highlighter-rouge">choco search 7zip</code> eingibt. 
 Anschließend werden alle Paketnamen angezeigt, die dazu passen und aus denen man auswählen kann.</p>
 
-<figure class="full">
-	<a href="/assets/2020-03-26-chocolatey/choco-search.jpg">
-	    <img src="/thumbnails/2020-03-26-chocolatey/choco-search.jpg" />
-	</a>
+<figure class="">
+  
+      <a href="/assets/2020-03-26-chocolatey/choco-search.jpg">
+        <img src="https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2020-03-26-chocolatey/choco-search.jpg" srcset="https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2020-03-26-chocolatey/choco-search.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2020-03-26-chocolatey/choco-search.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-03-26-chocolatey/choco-search.jpg 400w" sizes="100vw" width="1131" height="273" crossorigin="anonymous" />
+      </a>
+  
+  
 </figure>
 
 <h2 id="übersicht--programme-aktualisieren">Übersicht &amp; Programme aktualisieren</h2>
@@ -247,10 +252,15 @@ und sein System so aktuell und auch sicherer hält.
 Da ich recht viele Programme installiert habe, wäre mir der manuelle Aufwand dafür zu hoch und 
 so kann ich ab und an <code class="language-plaintext highlighter-rouge">choco upgrade all -y</code> bzw. die Kurzform <code class="language-plaintext highlighter-rouge">cup all -y</code> ausführen und zusehen wie nach und nach jede Anwendung aktualisiert wird.</p>
 
-<figure class="full">
-	<a href="/assets/2020-03-26-chocolatey/choco-update.jpg">
-	    <img src="/thumbnails/2020-03-26-chocolatey/choco-update.jpg" />
-	</a>
+<figure class="">
+  
+      <a href="/assets/2020-03-26-chocolatey/choco-update.jpg">
+        <img src="https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2020-03-26-chocolatey/choco-update.jpg" srcset="https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2020-03-26-chocolatey/choco-update.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2020-03-26-chocolatey/choco-update.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-03-26-chocolatey/choco-update.jpg 400w" sizes="100vw" width="964" height="707" crossorigin="anonymous" />
+      </a>
+  
+  
 </figure>
 
 <h2 id="programm-deinstallieren">Programm deinstallieren</h2>
@@ -267,12 +277,12 @@ einmal installieren indem man einfach mehrere Paketnamen aufzählt, zum Beispiel
 nacheinander <a href="https://www.7-zip.de/">7zip</a>, <a href="https://www.irfanview.com/">Irfanview</a> und <a href="https://www.videolan.org/vlc/index.de.html">VLC</a> zu installieren.</p>
 
 <p>Alternativ geht das auch über eine Datei, die folgenden Beispielinhalt hat und deren Dateiendung <code class="language-plaintext highlighter-rouge">.config</code> sein muss:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;packages&gt;
-  &lt;package id="7zip" /&gt;
-  &lt;package id="irfanview" /&gt;
-  &lt;package id="vlc" /&gt;
-&lt;/packages&gt;
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span class="nt">&lt;packages&gt;</span>
+  <span class="nt">&lt;package</span> <span class="na">id=</span><span class="s">"7zip"</span> <span class="nt">/&gt;</span>
+  <span class="nt">&lt;package</span> <span class="na">id=</span><span class="s">"irfanview"</span> <span class="nt">/&gt;</span>
+  <span class="nt">&lt;package</span> <span class="na">id=</span><span class="s">"vlc"</span> <span class="nt">/&gt;</span>
+<span class="nt">&lt;/packages&gt;</span>
 </code></pre></div></div>
 <p>Hat man die Datei etwa <code class="language-plaintext highlighter-rouge">choco.config</code> genannt, würde der entsprechende Befehl <code class="language-plaintext highlighter-rouge">choco install choco.config</code> lauten, 
 wobei man gegebenenfalls auch den Pfad zur Datei angeben muss.</p>

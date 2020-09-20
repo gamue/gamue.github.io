@@ -1706,6 +1706,9 @@ figure.highlight {
 .highlight .p {
   /* Punctuation */
   color: #eeffff; }
+.highlight .cp {
+  /* Comment.Preproc */
+  color: #b2ccd6; }
 .highlight .ge {
   /* Generic.Emph */
   font-style: italic; }
@@ -1872,9 +1875,6 @@ body:hover .visually-hidden button {
   margin-right: auto; }
 
 /* file page content container */
-@media (min-width: 64em) {
-  .full {
-    margin-right: -20.3389830508% !important; } }
 
 /*
    Icons

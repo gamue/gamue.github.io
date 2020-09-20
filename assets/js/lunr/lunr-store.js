@@ -676,7 +676,7 @@ var store = [{
         "teaser": "https://gamue.de/assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg"
       },{
         "title": "Laos Bilder online",
-        "excerpt":"Bin doch schneller als gedacht durch die Laos-Bilder gekommen, so dass es diese noch dieses Jahr online geschafft haben. Die Thailand-Bilder kommen aber definitiv erst nächstes Jahr 😉 Denke die Laos-Bilder vermitteln schon einen kleinen Eindruck was ich landschaftlich, und auch sonst so, erlebt habe. Die Reise war auf jeden...","categories": ["Photography"],
+        "excerpt":"Bin doch schneller als gedacht durch die Laos-Bilder gekommen, sodass es diese noch dieses Jahr online geschafft haben. Die Thailand-Bilder kommen aber definitiv erst nächstes Jahr 😉 Denke die Laos-Bilder vermitteln schon einen kleinen Eindruck was ich landschaftlich und auch sonst so, erlebt habe. Die Reise war auf jeden Fall...","categories": ["Photography"],
         "tags": [],
         "url": "https://gamue.de/laos-bilder-online/",
         "teaser": "https://gamue.de/assets/photography/2014_11_laos/Laos_175.jpg"
@@ -742,7 +742,7 @@ var store = [{
         "teaser": "https://gamue.de/assets/2019-11-29-billig-nach-jordanien/grenze_jordanien.jpg"
       },{
         "title": "Sri Lanka Bilder online",
-        "excerpt":"Fast auf den Tag genau, vor 3 Jahren ging es nach Sri Lanka. Wurde also mal Zeit, sich um die Bilder zu kümmern, die nun in der Galerie online sind. Die zugehörige Länderseite folgt ebenfalls bald, dafür fehlen noch ein paar Kleinigkeiten ;) EDIT: Das mit der Länderseite von Sri...","categories": ["Photography"],
+        "excerpt":"Fast auf den Tag genau vor 3 Jahren ging es nach Sri Lanka. Wurde also mal Zeit, sich um die Bilder zu kümmern, die nun in der Galerie online sind. Die zugehörige Länderseite folgt ebenfalls bald, dafür fehlen noch ein paar Kleinigkeiten ;) EDIT: Das mit der Länderseite von Sri...","categories": ["Photography"],
         "tags": [],
         "url": "https://gamue.de/sri-lanka-bilder-online/",
         "teaser": "https://gamue.de/assets/photography/2016_12_sri_lanka/SriLanka_0498.jpg"
@@ -808,7 +808,7 @@ var store = [{
         "teaser": "https://gamue.de/assets/2020-05-31-bayern-statt-bali/jared-rice-O6DUoIl6NWA-unsplash_q.jpg"
       },{
         "title": "Japan Bilder online & Homeoffice Upgrade",
-        "excerpt":"Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden auch etliche beschlossen, so dass wir wieder einen Schritt in Richtung Normalität gemacht haben. Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, aber immerhin kann man sich...","categories": ["Allgemein","Photography"],
+        "excerpt":"Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden auch etliche beschlossen, sodass wir wieder einen Schritt in Richtung Normalität gemacht haben. Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, aber immerhin kann man sich nun...","categories": ["Allgemein","Photography"],
         "tags": [],
         "url": "https://gamue.de/japan-bilder-online-und-homeoffice-upgrade/",
         "teaser": "https://gamue.de/assets/photography/2017_04_japan/Japan_1218.jpg"
