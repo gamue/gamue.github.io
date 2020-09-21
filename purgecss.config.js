@@ -1,6 +1,4 @@
 module.exports = {
-  content: ["./_site/**/*.html"],
-  css: ["./_site/assets/css/*.css"],
-  whitelist: ["header-link"],
-  whitelistPatterns: [/mfp-.*/]
+  content: ["./_site/**/*.html", "./_site/**/*.js"],
+  css: ["./_site/assets/css/*.css"]
 };
