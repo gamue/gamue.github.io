@@ -115,7 +115,7 @@ visitedCountries:
       link: /photography/zypern-2015/
 ---
 
-![image-left](/thumbnails/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_032-678x1024.jpg){: .align-left}
+![image-left](/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg){: .align-left}
 Hi, ich bin Johannes. Weltenbummler, Hobbyfotograf und Technikfreak.
 
 Auf dieser privaten Homepage möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, 
