@@ -21,7 +21,12 @@ var store = [
          "categories": {{ p.categories | jsonify }},
          "tags": {{ p.tags | jsonify }},
          "url": {{ p.url | absolute_url | jsonify }},
-         "teaser": {{ p.header.teaser | absolute_url | jsonify }}
+          {%- assign img_path = p.header.teaser | absolute_url -%}
+          {%- if jekyll.environment == 'production' -%}
+         "teaser": {{ "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/" | append: img_path | jsonify }}
+          {%- else -%}
+          "teaser": {{ img_path | jsonify }}
+          {%- endif -%}
        },
     {%- endif -%}
   {%- endfor -%}
@@ -66,7 +71,12 @@ var store = [
         "categories": {{ doc.categories | jsonify }},
         "tags": {{ doc.tags | jsonify }},
         "url": {{ doc.url | absolute_url | jsonify }},
-        "teaser": {{ teaser | absolute_url | jsonify }}
+        {%- assign img_path = teaser | absolute_url -%}
+        {%- if jekyll.environment == 'production' -%}
+        "teaser": {{ "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/" | append: img_path | jsonify }}
+        {%- else -%}
+        "teaser": {{ img_path | jsonify }}
+        {%- endif -%}
       }{%- unless forloop.last and l -%},{%- endunless -%}
     {%- endfor -%}
   {%- endfor -%}]

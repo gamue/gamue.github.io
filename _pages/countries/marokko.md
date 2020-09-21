@@ -2,7 +2,7 @@
 title: Marokko
 permalink: /marokko/
 header:
-    teaser: thumbnails/photography/2011_05_marokko/Marokko_097b.jpg
+    teaser: assets/photography/2011_05_marokko/Marokko_097b.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_391.jpg
 itinerary:
     - name: Fès

@@ -2,7 +2,7 @@
 title: Belize
 permalink: /belize/
 header:
-    teaser: thumbnails/photography/2019_04_belize/Belize_0317.jpg
+    teaser: assets/photography/2019_04_belize/Belize_0317.jpg
     overlay_image: assets/photography/2019_04_belize/Belize_0317.jpg
 itinerary:
     - name: Caye Cauker

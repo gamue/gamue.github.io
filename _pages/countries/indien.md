@@ -2,7 +2,7 @@
 title: Indien
 permalink: /indien/
 header:
-    teaser: thumbnails/photography/2011_10_indien/dsc_8266.jpg
+    teaser: assets/photography/2011_10_indien/dsc_8266.jpg
     overlay_image: assets/photography/2011_10_indien/dsc_8533.jpg
 itinerary:
     - name: Delhi

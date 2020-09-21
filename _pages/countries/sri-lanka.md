@@ -2,7 +2,7 @@
 title: Sri Lanka
 permalink: /sri-lanka/
 header:
-    teaser: thumbnails/photography/2016_12_sri_lanka/SriLanka_0255.jpg
+    teaser: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
     overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 itinerary:
     - name: Negombo

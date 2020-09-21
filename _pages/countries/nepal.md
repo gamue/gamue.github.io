@@ -2,7 +2,7 @@
 title: Nepal
 permalink: /nepal/
 header:
-    teaser: thumbnails/photography/2011_10_nepal/Nepal_1104bw.jpg
+    teaser: assets/photography/2011_10_nepal/Nepal_1104bw.jpg
     overlay_image: assets/photography/2011_10_nepal/Nepal_1110b.jpg
 itinerary:
     - name: Lumbini
