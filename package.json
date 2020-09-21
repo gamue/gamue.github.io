@@ -1,7 +1,7 @@
 {
   "name": "gamue_de",
   "version": "1.0.0",
-  "description": "Script to create thumbnails/smaller versions of images for better performance",
+  "description": "everything needed for my private homepage",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,11 +17,6 @@
   },
   "homepage": "https://github.com/gamue/gamue.github.io#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-changed": "^4.0.1",
-    "gulp-image-resize": "^0.13.1",
-    "gulp-imagemin": "^6.1.0",
-    "gulp-debug": "^4.0.0",
     "purgecss": "^2.3.0"
   }
 }
