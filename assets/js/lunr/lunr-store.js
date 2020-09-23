@@ -104,11 +104,11 @@ var store = [{
         "title": "You&#8217;re my Hero",
         "excerpt":"Yeah hab auch mal ein Smartphone mit Riesendisplay, Touchscreen und allem Firlefanz 😀 Doch erstmal aus der Verpackung bekommen, die auf 0,01mm an die Maße angepasst wurde. Also drücken, hebeln und klopfen bis es endlich mal in der Hand ist 🙂 Fürn Anfang erstmal meine alte SIM-Karte rein, wirds ja...","categories": ["Technik"],
         "tags": [],
-        "url": "https://gamue.de/youre-my-hero/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/youre-my-hero/","teaser": null},{
         "title": "Erste Version fertig",
         "excerpt":"Nach einigen Abenden und Nächten hab ichs endlich geschafft mir eine kleine Fotoseite zu basteln! Es gibt zwar viele fertige Dinge oder Fotoseiten, aber irgendwie nichts, dass all meine Punkte erfüllt hat, von daher musst ich eben selbst was zusammen schustern und hier ist das Ergebnis 😉 Auf meiner ToDo-Liste...","categories": ["Homepage","Photography","Technik"],
         "tags": [],
-        "url": "https://gamue.de/release/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/release/","teaser": null},{
         "title": "Dänemark Trip",
         "excerpt":"Nachdem ich die letzte Zeit recht viel unterwegs war, bin ich endlich dazu gekommen ein paar Bilder meiner kleinen Trips online zustellen (unter Photos-&gt;Sonstiges). Nachdem ich ein Wochenende bei einem Freund am Bodensee verbracht habe, ging’s direkt weiter nach Zürich zum Flughafen um mit dem zweiten Koffer im Kofferraum geschäftlich...","categories": ["Unterwegs"],
         "tags": ["Dänemark","Kopenhagen"],
@@ -124,15 +124,15 @@ var store = [{
         "title": "The Times They Are A-Changin&#8216;",
         "excerpt":"Die Zeit rast unaufhaltsam und um einen herum ändert sich alles. Hätte mir jemand Anfang letzten Jahres gesagt, was alles passieren wird und wo ich jetzt stehe, hätte ich ihn wahrscheinlich als Spinner abgetan. Vergleiche ich meine früheren Vorstellungen der Zukunft mit der Gegenwart, finde ich recht wenige Schnittmengen. Ich...","categories": ["Allgemein"],
         "tags": ["Braindump"],
-        "url": "https://gamue.de/the-times-they-are-a-changin/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/the-times-they-are-a-changin/","teaser": null},{
         "title": "Was heißt hier neurotisch?",
         "excerpt":"Wie einige wissen wohne ich ja in einer WG mit zwei Mädels, immer wenn ich das jemandem gesagt hat war die Reaktionen meistens: „Ohhh, du tust mir leid“. Da hab ich mich immer gefragt: Warum? Was ist daran so schlimm bzw. schlecht? Mittlerweilen finde ich es gar nicht schlecht, auch...","categories": ["Allgemein"],
         "tags": ["Braindump"],
-        "url": "https://gamue.de/was-heisst-hier-neurotisch/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/was-heisst-hier-neurotisch/","teaser": null},{
         "title": "The World&#8217;s Greatest",
         "excerpt":"Ein Satz, den ich in meinem Leben schon unzählige Male gehört habe ist „Warum isst du das nicht, ist das zu gesund?“. Eine Frage bei der ich immer leichte Aggressionen bekomme. Es stört mich auch ein wenig, dass bei jedem Fest oder Ausflug besonders auf die Vegetarier oder Veganer Rücksicht...","categories": ["Allgemein"],
         "tags": ["Braindump"],
-        "url": "https://gamue.de/the-worlds-greatest/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/the-worlds-greatest/","teaser": null},{
         "title": "On The Road Again",
         "excerpt":"Alsdorf, Luxemburg, die Ardennen, Brüssel, Gent, Brügge, Antwerpen, Rotterdam, Den Haag, Amsterdam, Bremen, Bremerhaven, Hamburg, Stockholm, Göteborg, Örebro und Linköping. Das sind die Städte und Orte die ich in den letzten 5 Wochen besucht habe, ich war also mehr unterwegs als zu Hause, dafür war ich aber dieses Jahr noch...","categories": ["Unterwegs"],
         "tags": ["Alsdorf","Luxemburg"],
@@ -160,7 +160,7 @@ var store = [{
         "title": "The Jetset Life Is Gonna Kill You",
         "excerpt":"Normalerweise ist mein Terminkalender ziemlich voll gestopft, die To-Do-Liste gefüllt und ich so gut wie immer mit irgendetwas beschäftigt. So auch in den letzten 8 Wochen, die ein Paradebeispiel waren. Denn in diesen gab es ganze 7 Tage, die nicht irgendeinen tages- oder abendfüllenden Eintrag hatten. Nach so einem „Termin-Marathon“...","categories": ["Allgemein","Homepage"],
         "tags": [],
-        "url": "https://gamue.de/the-jetset-life-is-gonna-kill-you/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/the-jetset-life-is-gonna-kill-you/","teaser": null},{
         "title": "Lost",
         "excerpt":"Meine Urlaubspläne erwecken in den meisten Fällen bei meiner Familie keine große Freude, sondern eher Besorgnis. So auch letztes Mal mit Ziel Marokko, die Unruhen in Nordafrika und ein Bombenanschlag in Marrakesch vor meinem Abflug haben es auch nicht wirklich verbessert. Selbst meine Oma, die den Fernseher nicht für Nachrichten...","categories": ["Unterwegs"],
         "tags": ["Fes","Marokko"],
@@ -200,7 +200,7 @@ var store = [{
         "title": "It’s my life",
         "excerpt":"Da meine Reisen mich öfter mal in Gegenden führen, die nicht so ganz als sicher gelten und auch schon an vielen der Plätze auf denen ich wandelte der eine Aufstand stattfand oder die andere Bombe explodiert ist, wurde schon öfter mal versucht mich von einem Trip abzubringen. Funktioniert hat es...","categories": ["Allgemein"],
         "tags": ["Braindump"],
-        "url": "https://gamue.de/its-my-life/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/its-my-life/","teaser": null},{
         "title": "Reisziel Indien, nur wohin?",
         "excerpt":"Wie auch die letzten Jahre ging meine Hauptreisesaison dieses Jahr wieder gegen Sommerende los. Manch einer behauptet zwar meine Reisesaison ginge 12 Monate, andere behaupten aber auch, dass wir einen Sommer gehabt hätten. Ist alles irgendwie relativ, jedenfalls war die längste Reise in dem Zeitraum. Da es mich schon seit...","categories": ["Unterwegs"],
         "tags": ["Indien","Nepal"],
@@ -344,7 +344,7 @@ var store = [{
         "title": "Bye Bye 2013",
         "excerpt":"Vorletztes Jahr, 2012, hatte ich es nur knapp 3 Wochen nach Island geschafft, ansonsten war ich recht viel mit dem Umzug nach Berlin und meinem Job beschäftigt. Trotzdem gab es viele, die behauptet haben, dass ich ständig auf Reisen wäre…natürlich völliger Humbug 😉 2013 hatte ich mir daher vorgenommen wieder...","categories": ["Allgemein"],
         "tags": [],
-        "url": "https://gamue.de/bye-bye-2013/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/"},{
+        "url": "https://gamue.de/bye-bye-2013/","teaser": null},{
         "title": "Hitzige Highlands",
         "excerpt":"Schottland war eines der Länder, die auf meiner Reiseliste stehen und ich damit mindestens einmal im Leben sehen wollte. Das lag vermutlich mit unter an all den Filmen, die dort spielen und, egal ob Highlander, Braveheart oder James Bond, eine faszinierende Szenerie haben. Wann ich wohin reise überleg ich mir...","categories": ["Unterwegs"],
         "tags": ["Equipment","Schottland"],
