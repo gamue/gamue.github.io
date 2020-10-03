@@ -2,8 +2,8 @@
 title: Meine Kameraausrüstung
 permalink: /meine-kameraausruestung-2020/
 header:
-    teaser: assets/2020-09-12-kameraausruetung/equip_dslr.jpg
-    overlay_image: assets/2020-09-12-kameraausruetung/equip_dslr.jpg
+    teaser: assets/2020-09-12-kameraausruestung/equip_dslr.jpg
+    overlay_image: assets/2020-09-12-kameraausruestung/equip_dslr.jpg
 categories:
   - Photography
   - Technik
@@ -19,7 +19,7 @@ habe zu keinem der Hersteller oder Marken eine Geschäftsbeziehung oder bin in i
 das nicht meiner eigenen Meinung entspricht.
 
 ## Kamera
-{% cloudinary /assets/2020-09-12-kameraausruetung/equip_dslr.jpg alt="DSLR Ausrüstung" %}
+{% cloudinary /assets/2020-09-12-kameraausruestung/equip_dslr.jpg alt="DSLR Ausrüstung" %}
 
 Nikon D7000
 : Die Spiegelreflex habe ich seit November 2011 und ist seitdem meine Hauptkamera. 
@@ -77,7 +77,7 @@ Manfrotto Befree Stativ
     und ist schlecht an meinem Tagesrucksack zu befestigen. Empfehlen würde ich es für Landschaftsaufnahmen aber trotzdem.
 
 ## Actioncam
-{% cloudinary /assets/2020-09-12-kameraausruetung/equip_actioncam.jpg alt="ActionCam Ausrüstung" %}
+{% cloudinary /assets/2020-09-12-kameraausruestung/equip_actioncam.jpg alt="ActionCam Ausrüstung" %}
 
 Yi 4k Action Cam
 : Nachdem ich eine Actioncam [in Laos versenkt habe][1] und mir bei der zweiten der Bildschirm fehlte, 
@@ -91,7 +91,7 @@ XCSOURCE Schwimmer/Auftriebshilfe
     Die paar Euro sind in jedem Fall gut angelegt.
 
 ## Drohne
-{% cloudinary /assets/2020-09-12-kameraausruetung/equip_drone.jpg alt="Drohne" %}
+{% cloudinary /assets/2020-09-12-kameraausruestung/equip_drone.jpg alt="Drohne" %}
 
 DJI Mavic Mini (Fly More Combo)
 : Ich hab zugegebenermaßen noch nicht sehr viel Flugzeit mit der Mini, 
