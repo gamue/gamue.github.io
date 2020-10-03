@@ -584,8 +584,12 @@ var store = [{
         "title": "Meine Kameraausrüstung",
         "excerpt":"Falls du dich gefragt hast, wie meine Kameraausstattung auf Reisen aussieht, findest du in diesem Artikel die Antwort. Wobei ich natürlich nicht jedes Mal alles mitnehme, sondern individuell entscheide, was im Gepäck landet ;) Der Großteil der Ausrüstung begleitet mich nun schon seit vielen Jahren um die Welt und jedes...","categories": ["Photography","Technik"],
         "tags": [],
-        "url": "https://gamue.de/meine-kameraausruestung-2020/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-09-12-kameraausruetung/equip_dslr.jpg"},{
+        "url": "https://gamue.de/meine-kameraausruestung-2020/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-09-12-kameraausruestung/equip_dslr.jpg"},{
         "title": "Deutschland Bilder online",
         "excerpt":"Ich habe gerade die Bilder der Deutschland-Rundfahrt vom Juli hochgeladen und ich finde, es macht deutlich mehr Spaß die Fotos direkt nach dem Urlaub durchzugehen und auszusortieren anstatt sich durch Bildermassen der vergangenen Jahre arbeiten zu müssen. Auch hat es, aus meiner Sicht, dieses Mal gar nicht so lange gedauert,...","categories": ["Photography"],
         "tags": [],
-        "url": "https://gamue.de/deutschland-bilder-online/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0535.jpg"}]
+        "url": "https://gamue.de/deutschland-bilder-online/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0535.jpg"},{
+        "title": "Meine neue Kamera - Sony a6400",
+        "excerpt":"Ich hatte schon länger überlegt mir eine neue Kamera zu holen und vor ein paar Wochen, als ich auf einer Fotomesse war, konnte ich nicht wiederstehen und habe mir eine Sony Alpha 6400 zugelegt :) Warum, Wieso und was ich mir davon erhoffe, erfährst du in diesem Artikel. Warum &amp;...","categories": ["Photography","Technik"],
+        "tags": [],
+        "url": "https://gamue.de/neue-kamera-sony-a6400/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_thumb.jpg"}]
