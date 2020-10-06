@@ -598,4 +598,8 @@ var store = [{
         "title": "Meine neue Kamera - Sony a6400",
         "excerpt":"Ich hatte schon länger überlegt mir eine neue Kamera zu holen und vor ein paar Wochen, als ich auf einer Fotomesse war, konnte ich nicht wiederstehen und habe mir eine Sony Alpha 6400 zugelegt :) Warum, Wieso und was ich mir davon erhoffe, erfährst du in diesem Artikel. Warum &amp;...","categories": ["Photography","Technik"],
         "tags": [],
-        "url": "https://gamue.de/neue-kamera-sony-a6400/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_thumb.jpg"}]
+        "url": "https://gamue.de/neue-kamera-sony-a6400/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_thumb.jpg"},{
+        "title": "Der Kameramarkt in 2020 <br>(Spiegellose Systemkameras)",
+        "excerpt":"Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und...","categories": ["Photography","Technik"],
+        "tags": [],
+        "url": "https://gamue.de/kameramarkt-2020-mirrorless/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg"}]
