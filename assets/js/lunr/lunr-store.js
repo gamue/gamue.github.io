@@ -602,4 +602,8 @@ var store = [{
         "title": "Der Kameramarkt in 2020 <br>(Spiegellose Systemkameras)",
         "excerpt":"Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und...","categories": ["Photography","Technik"],
         "tags": [],
-        "url": "https://gamue.de/kameramarkt-2020-mirrorless/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg"}]
+        "url": "https://gamue.de/kameramarkt-2020-mirrorless/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg"},{
+        "title": "Review: Lens-Aid Einschlagtuch",
+        "excerpt":"Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, wodurch alles sehr gut geschützt ist. Der Nachteil davon ist jedoch, dass das Inlay recht groß ist und daher viel Platz im Rucksack einnimmt. Da meine neue Kamera...","categories": ["Photography"],
+        "tags": [],
+        "url": "https://gamue.de/lens-aid-einschlagtuch/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-hero.jpg"}]
