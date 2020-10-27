@@ -606,4 +606,8 @@ var store = [{
         "title": "Review: Lens-Aid Einschlagtuch",
         "excerpt":"Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, wodurch alles sehr gut geschützt ist. Der Nachteil davon ist jedoch, dass das Inlay recht groß ist und daher viel Platz im Rucksack einnimmt. Da meine neue Kamera...","categories": ["Photography"],
         "tags": [],
-        "url": "https://gamue.de/lens-aid-einschlagtuch/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-hero.jpg"}]
+        "url": "https://gamue.de/lens-aid-einschlagtuch/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-hero.jpg"},{
+        "title": "Review: Peak Design Capture v3",
+        "excerpt":"Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, damit ich vor dem Fotografieren nicht erst ewig im Rucksack kramen muss und mir so kein Bild entgeht. Bisher habe ich dafür einen Kameragurt verwendet, den ich über die Schulter trage. Ein Nachteil, der mich unterwegs immer...","categories": ["Photography"],
+        "tags": [],
+        "url": "https://gamue.de/review-peak-design-capture-v3/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_thumb.jpg"}]
