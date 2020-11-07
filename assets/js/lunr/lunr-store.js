@@ -610,4 +610,8 @@ var store = [{
         "title": "Review: Peak Design Capture v3",
         "excerpt":"Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, damit ich vor dem Fotografieren nicht erst ewig im Rucksack kramen muss und mir so kein Bild entgeht. Bisher habe ich dafür einen Kameragurt verwendet, den ich über die Schulter trage. Ein Nachteil, der mich unterwegs immer...","categories": ["Photography"],
         "tags": [],
-        "url": "https://gamue.de/review-peak-design-capture-v3/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_thumb.jpg"}]
+        "url": "https://gamue.de/review-peak-design-capture-v3/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_thumb.jpg"},{
+        "title": "Review: Peak Design Slide Lite",
+        "excerpt":"Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. Mein bisheriger Kameragurt ist prinzipiell noch gut in Schuss und könnte ich weiterverwenden, wirkt aber an der kleineren Kamera ziemlich überproportioniert. Zudem wird der am ¼-Zoll-Gewinde befestigt,...","categories": ["Photography"],
+        "tags": [],
+        "url": "https://gamue.de/review-peak-design-slide-lite/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg"}]
