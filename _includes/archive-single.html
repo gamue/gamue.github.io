@@ -19,11 +19,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-        {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><svg class="icon icon-link"><use xlink:href="#icon-link"></use></svg><span class="sr-only">Permalink</span></a>
-        {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-        {% endif %}
     </h2>
 
     <div class="archive__item-content-container">
