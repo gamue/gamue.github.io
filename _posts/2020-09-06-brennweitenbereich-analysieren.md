@@ -6,8 +6,11 @@ header:
     overlay_image: assets/2020-09-06-brennweitenbereich-analysieren/chris-liverani-dBI_My696Rk-unsplash-c.jpg
     overlay_filter: rgba(200, 200, 200, 0.6)
 categories:
-  - Photography
+  - Fotografie
   - Technik
+tags:
+  - Tools
+  - Fotowissen
 ---
 
 Im [Artikel zu den Superzooms][1], habe ich ja gesagt, dass Objektive mit einem sehr großen Brennweitenbereich leider 

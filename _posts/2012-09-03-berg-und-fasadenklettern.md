@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0156.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_0105.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Nepal
   - Tansen
+  - Reisebericht
 ---
 
 Nepal kam mir zudem Zeitpunkt schon komplett anders als Indien vor. Alles um einiges kleiner, unberührter, 

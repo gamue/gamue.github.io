@@ -5,7 +5,9 @@ header:
     teaser: assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg
     overlay_image: assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg
 categories:
-  - Photography
+  - Fotografie
+tags:
+  - Ausrüstung
 ---
 
 Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. 

@@ -5,10 +5,11 @@ header:
     teaser: assets/photography/2013_07_schottland/Schottland_0532.jpg
     overlay_image: assets/photography/2013_07_schottland/Schottland_0532.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Schottland
   - Stirling
+  - Reisebericht
 ---
 Wieder hat es nur kurz gedauert bis ein LKW-Fahrer angehalten hat und mit mitnahm. 
 Am Steuer saß dieses Mal ein Klischee von Schotte bzw. einem Briten: Glatze, ein paar Kilos zu viel, 

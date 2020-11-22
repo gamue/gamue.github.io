@@ -10,11 +10,12 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0829.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_0840.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - CouchSurfing
   - Kathmandu
   - Nepal
+  - Reisebericht
 ---
 
 Nach einem längeren Schlaf wollt ich mich zu Fuß zum Busbahnhof aufmachen, 

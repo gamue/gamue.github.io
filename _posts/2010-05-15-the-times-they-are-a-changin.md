@@ -1,11 +1,8 @@
 ---
 title: 'The Times They Are A-Changin&#8216;'
-date: 2010-05-15T12:51:13+02:00
 permalink: /the-times-they-are-a-changin/
 categories:
   - Allgemein
-tags:
-  - Braindump
 ---
 Die Zeit rast unaufhaltsam und um einen herum ändert sich alles. 
 Hätte mir jemand Anfang letzten Jahres gesagt, was alles passieren wird und wo ich jetzt stehe, hätte ich ihn wahrscheinlich als Spinner abgetan.  

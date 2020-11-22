@@ -14,12 +14,12 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1152.jpg
   - image_path: assets/photography/2012_06_island/dsc_1432_tonemapped.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Seljalandsfoss
   - Skogar
-  - Skogarfoss
+  - Reisebericht
 ---
 Der Wanderweg war hinter uns, daher hätte ich zur Abwechslung mal ausschlafen können. 
 Die Sonne schien aber etwas dagegen zu haben, denn das Zelt hatte sich bei nun strahlendem Sonnenschein aufgehitzt…

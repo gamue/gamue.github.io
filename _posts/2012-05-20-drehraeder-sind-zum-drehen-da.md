@@ -11,11 +11,11 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8900.jpg
   - image_path: assets/photography/2011_10_indien/dsc_8894.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
-  - Benares
   - Indien
   - Varanasi
+  - Reisebericht
 ---
 
 Normalerweise bin ich Schlaflosigkeit gewöhnt, daher freue ich mich immer wenn ich auf Reisen doch mal etwas schlafen kann. 

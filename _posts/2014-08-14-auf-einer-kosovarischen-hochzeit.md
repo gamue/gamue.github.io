@@ -9,10 +9,11 @@ gallery:
   - image_path: assets/photography/2013_08_kosovo/Hochzeit_Aba_090.jpg
   - image_path: assets/photography/2013_08_kosovo/Hochzeit_Aba_116.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Kosovo
   - Prishtina
+  - Reisebericht
 ---
 
 Nach dem kleinen Stadtrundgang musste ich dann aber auch schon wieder ins Hotel, da die anderen und ich gegen 10:00Uhr 

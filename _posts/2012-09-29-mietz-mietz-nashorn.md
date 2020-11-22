@@ -14,10 +14,11 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0543.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_0500b.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Chitwan
   - Nepal
+  - Reisebericht
 ---
 Bei einem kleinen Spaziergang durch den Ort bin ich auf alte Bekannte gestoßen, Jesse und Erica. 
 Die auch ganz zufällig im Hotel nebenan Unterschlupf gefunden haben. 

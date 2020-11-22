@@ -13,7 +13,8 @@ homeoffice:
   - image_path: assets/2020-06-01-japan-bilder-und-homeoffice/20200531_desk.jpg
 categories:
   - Allgemein
-  - Photography
+  - Fotografie
+  - Reisen
 ---
 
 Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden 

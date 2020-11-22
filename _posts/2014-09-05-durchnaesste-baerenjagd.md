@@ -10,12 +10,12 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_630.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_640.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Brasov
   - Piatra Mare
   - Rumänien
-  - Trekking
+  - Reisebericht
 ---
 
 Zurück in Brasov haben wir uns darüber Gedanken gemacht, was wir uns sonst noch anschauen sollten, 

@@ -9,7 +9,10 @@ gallery:
   - image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
   - image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Abu Dhabi
 ---
 Ich bin seit dem 21.November wieder zurück von meiner diesjährigen Asienreise und hab seither kaum Zeit gefunden mich um die Bilder zu kümmern, 
 da meine To-Do-Liste mal wieder ziemliche Ausmaße angenommen und mein Kalender kaum weiße Stellen hat. 

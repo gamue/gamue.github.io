@@ -25,9 +25,10 @@ appSnapseed:
     - image_path: assets/2016-07-14-empfehlungen-reise-apps/snapseed_2.jpg
 categories:
   - Technik
-  - Unterwegs
+  - Reisen
 tags:
-  - Equipment
+  - Tools
+  - Reisetipps
 ---
 
 Auf Reisen hat man meistens so allerhand Gepäck dabei und weil ich nun doch schon den ein oder anderen Trip in meinem bisherigen Leben gemacht hab, 

@@ -1,11 +1,8 @@
 ---
 title: 'The World&#8217;s Greatest'
-date: 2010-06-29T20:43:53+02:00
 permalink: /the-worlds-greatest/
 categories:
   - Allgemein
-tags:
-  - Braindump
 ---
 Ein Satz, den ich in meinem Leben schon unzählige Male gehört habe ist „Warum isst du das nicht, ist das zu gesund?“. 
 Eine Frage bei der ich immer leichte Aggressionen bekomme.  

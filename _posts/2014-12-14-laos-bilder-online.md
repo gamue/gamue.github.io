@@ -13,7 +13,10 @@ gallery:
   - image_path: assets/photography/2014_11_laos/Laos_589.jpg
   - image_path: assets/photography/2014_11_laos/Laos_717.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Laos
 ---
 Bin doch schneller als gedacht durch die Laos-Bilder gekommen, sodass es diese noch dieses Jahr online geschafft haben. 
 Die Thailand-Bilder kommen aber definitiv erst nächstes Jahr 😉

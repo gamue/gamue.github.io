@@ -22,14 +22,12 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_369.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_389b.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Errachidia
   - Marokko
   - Merzouga
-  - Sahara
-  - Touristenfallen
-  - Wüste
+  - Reisebericht
 ---
 Nächster Halt auf meiner Marokkoreise hätte eigentlich Merzouga sein sollen, ein Ort in oder an der Sahara. 
 Da aber angeblich alle direkten Bustickets dahin ausverkauft waren, musste ich einen Zwischenstopp in Errachidia einlegen. 

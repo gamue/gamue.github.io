@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/photography/2013_08_kosovo/Pristina_22.jpg
   - image_path: assets/photography/2013_08_kosovo/Pristina_33.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Kosovo
   - Prishtina
+  - Reisebericht
 ---
 
 Von Oslo aus ging es mit Norwegian Airlines nach Prishtina in den Kosovo. 

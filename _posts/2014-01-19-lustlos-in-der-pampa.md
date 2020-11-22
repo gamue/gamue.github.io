@@ -9,11 +9,11 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0570.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_0574.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Schottland
-  - Trekking
   - West Highland Way
+  - Reisebericht
 ---
 
 Der kommende Tag war der schlechteste auf meiner Schottlandreise, nachdem sich morgens wie geplant die Wege von Nicole und mir getrennt haben, 

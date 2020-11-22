@@ -12,11 +12,12 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_480.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_464.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - CouchSurfing
   - Marokko
   - Ouarzazate
+  - Reisebericht
 ---
 Irgendwie hatte ich das Gefühl, das ich auf dem Trip einfach nicht schlafen sollte, 
 denn meine Schlafgelegenheit hat sich nach Gefängnispritsche angefühlt und war ziemlich unbequem. 

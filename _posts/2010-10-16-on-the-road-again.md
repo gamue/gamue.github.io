@@ -12,10 +12,11 @@ gallery:
   - image_path: assets/photography/2010_09_luxemburg/dsc_2859.jpg
   - image_path: assets/photography/2010_09_luxemburg/dsc_2796.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Alsdorf
   - Luxemburg
+  - Reisebericht
 ---
 Alsdorf, Luxemburg, die Ardennen, Brüssel, Gent, Brügge, Antwerpen, Rotterdam, Den Haag, Amsterdam, Bremen, Bremerhaven, 
 Hamburg, Stockholm, Göteborg, Örebro und Linköping. 

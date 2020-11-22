@@ -14,13 +14,11 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_9153.jpg
   - image_path: assets/photography/2011_10_indien/dsc_9164.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
-  - Benares
-  - Ganges
   - Indien
-  - Touristenfallen
   - Varanasi
+  - Reisebericht
 ---
 Das Gasthaus in dem ich genächtigt habe, hat am Morgen und am Abend gratis Bootstouren auf dem Ganges angeboten. 
 Genau die Boottouren, die einem jeder für teuer Geld (~1-2€) andrehen will wenn man mal etwas am Ufer entlang lauft.

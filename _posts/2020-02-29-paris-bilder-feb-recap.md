@@ -11,7 +11,11 @@ gallery:
   - image_path: assets/photography/2019_12_paris/Paris_323b.jpg
 categories:
   - Allgemein
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Frankreich
+  - Paris
 ---
 
 Nun ist auch der Februar vorbei und ich bin sehr zufrieden, wie es gerade mit den Bildern läuft. 

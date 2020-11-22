@@ -12,12 +12,12 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_0848.jpg
   - image_path: assets/photography/2012_06_island/dsc_0832.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Landmannalaugar
   - Laugavegur
-  - Trekking
+  - Reisebericht
 ---
 
 Die Nacht in Landmannalaugar war katastrophal: lang andauernder Regen und der stürmische Wind haben die Temperatur deutlich gesenkt. 

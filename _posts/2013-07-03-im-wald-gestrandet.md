@@ -12,11 +12,12 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1529.jpg
   - image_path: assets/photography/2012_06_island/dsc_1589.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Golden Circle
   - Island
   - Thingvellir
+  - Reisebericht
 ---
 
 Wie schon erwähnt hatten wir den Plan der Inselumrundung aufgegeben, doch was sollte man mit den restlichen Tagen auf der Insel machen? 

@@ -14,11 +14,11 @@ gallery:
   - image_path: assets/photography/2012_06_island/dscn0178.jpg
   - image_path: assets/photography/2012_06_island/2012-06-21_island_291.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Laugavegur
-  - Trekking
+  - Reisebericht
 ---
 
 Der nächste Tag auf der Laugavegur-Wanderung begann wie der vorherige endete, 

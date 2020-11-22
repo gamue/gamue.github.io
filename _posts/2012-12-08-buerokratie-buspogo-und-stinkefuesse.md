@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0081_0100_0354_0825_1037_1235.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_1065.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Delhi
   - Indien
+  - Reisebericht
 ---
 
 Von Kathmandu ging es mit dem Flieger erst nach Delhi und am nächsten Tag sollte es dann wieder zurück nach Deutschland gehen. 

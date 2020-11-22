@@ -5,10 +5,11 @@ permalink: /vs-fluggesellschaft-und-tageslicht/
 header:
     teaser: assets/photography/2012_06_island/dsc_1721.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Reykjavik
+  - Reisebericht
 ---
 Unser Flug ging spät abends und sollte eigentlich ein Direktflug sein, 
 aber 2 Wochen vor dem Start meinte die Fluggesellschaft diesen stornieren zu müssen, in der Absagemail war lediglich ein Hinweis, 

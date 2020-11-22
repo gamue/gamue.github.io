@@ -5,7 +5,9 @@ header:
     teaser: assets/2020-08-22-superzooms/superzoom-thumbnail.jpg
     overlay_image: assets/2020-08-22-superzooms/objektiv_quer.jpg
 categories:
-  - Photography
+  - Fotografie
+tags:
+  - Fotowissen
 ---
 
 Egal ob du dir das erste Objektiv anschaffst oder bereits einige besitzst, die richtige Wahl zu treffen ist nicht leicht 

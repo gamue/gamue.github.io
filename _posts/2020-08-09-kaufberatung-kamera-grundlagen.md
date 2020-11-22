@@ -6,7 +6,9 @@ header:
     teaser: assets/2020-08-09-kaufberatung-kamera-grundlagen/thumbnail.jpg
     overlay_image: assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg
 categories:
-  - Photography
+  - Fotografie
+tags:
+  - Fotowissen
 ---
 
 Ich überlege zur Zeit mein Kamerasystem zu aktualisieren und da ich ab und an von Freunden gefragt werde, 

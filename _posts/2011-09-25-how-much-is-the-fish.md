@@ -11,10 +11,11 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_604b.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_615.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Essaouira
   - Marokko
+  - Reisebericht
 ---
 
 Gehört man in Deutschland zu den Beifahrern die fast einen Herzinfarkt bekommen wenn man mal etwas zu schnell fährt, 

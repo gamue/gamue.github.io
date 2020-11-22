@@ -13,11 +13,11 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8821-8822-8837.jpg
   - image_path: assets/photography/2011_10_indien/dscn0097.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Indien
   - Khajuraho
-  - Touristenfallen
+  - Reisebericht
 ---
 
 Im Zug sind wir dann noch auf 2 Mädchen aus Schweden gestoßen. Babli wurde in Indien geboren und dann von einer schwedischen Familie adoptiert. 

@@ -6,8 +6,7 @@ header:
     teaser: assets/photography/2014_11_laos/Laos_439.jpg
     overlay_image: assets/photography/2014_11_laos/Laos_439.jpg
 categories:
-  - Technik
-  - Unterwegs
+  - Reisen
 tags:
   - Laos
   - Nam Song

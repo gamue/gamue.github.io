@@ -13,12 +13,11 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1001.jpg
   - image_path: assets/photography/2012_06_island/dsc_1038.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Laugavegur
-  - Trekking
-  - Þórsmörk
+  - Reisebericht
 ---
 
 Der dritte Tag auf dem Laugavegur begann recht früh, wobei uns das eigentlich egal war. 

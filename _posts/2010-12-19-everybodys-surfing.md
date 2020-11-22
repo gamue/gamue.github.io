@@ -10,13 +10,14 @@ gallery:
   - image_path: assets/photography/2010_09_niederlande/dsc_3940.jpg
   - image_path: assets/photography/2010_09_niederlande/dsc_3960.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Amsterdam
   - Den Haag
   - Holland
   - Niederlande
   - Scheveningen
+  - Reisebericht
 ---
 
 Als sich der Tag dem Ende neigte musste ich mich dann von der herrlichen Landschaft in Kinderdjik verabschieden und 

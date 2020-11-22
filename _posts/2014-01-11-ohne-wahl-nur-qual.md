@@ -4,10 +4,11 @@ permalink: /ohne-wahl-nur-qual/
 header:
     teaser: assets/photography/2013_07_schottland/Schottland_0019.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Inverness
   - Schottland
+  - Reisebericht
 ---
 Nach Schottland ging es zur Abwechslung zu meinen anderen Flügen mit einer „Billigairline“ von Berlin-Schönefeld aus, 
 und ich muss sagen Tegel gefällt mir schon deutlich besser, aber naja die Wahlmöglichkeiten waren nicht sonderlich groß. 

@@ -13,11 +13,11 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_547.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_552.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Marokko
   - Marrakesch
-  - Touristenfallen
+  - Reisebericht
 ---
 Am nächsten Morgen ging es mit einem Einheimischen-Bus in Richtung Marrakesch. 
 Der Bus sah schon von außen aus, wie eine Antiquität, das ständige Motoraufheulen hat nicht wirklich das Vertrauen gesteigert, 

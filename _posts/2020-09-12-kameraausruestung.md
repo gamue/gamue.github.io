@@ -5,8 +5,10 @@ header:
     teaser: assets/2020-09-12-kameraausruestung/equip_dslr.jpg
     overlay_image: assets/2020-09-12-kameraausruestung/equip_dslr.jpg
 categories:
-  - Photography
+  - Fotografie
   - Technik
+tags:
+  - Ausrüstung
 ---
 
 Falls du dich gefragt hast, wie meine Kameraausstattung auf Reisen aussieht, findest du in diesem Artikel die Antwort. 

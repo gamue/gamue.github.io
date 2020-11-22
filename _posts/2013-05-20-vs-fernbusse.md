@@ -11,10 +11,11 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_0635.jpg
   - image_path: assets/photography/2012_06_island/dsc_1712_tonemapped.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Reykjavik
+  - Reisebericht
 ---
 
 Camping war für mich Neuland, so doof beim Zeltaufstellen hab ich mich jedoch nicht geschlagen und gegen Ende des Trips 

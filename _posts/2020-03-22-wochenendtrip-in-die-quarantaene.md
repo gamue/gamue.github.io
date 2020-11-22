@@ -8,9 +8,6 @@ gallery:
     - image_path: assets/2020-03-22-wochenendtrip-in-die-quarantaene/20200315_cake.jpg
 categories:
   - Allgemein
-tags:
-  - Corona
-  - Quarantäne
 ---
 
 Meine Familie ist zwischen Keltern, Freiburg und Berlin verteilt, daher ist ein gemeinsames Treffen nicht so einfach möglich und so kam es, 

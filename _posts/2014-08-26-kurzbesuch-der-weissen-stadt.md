@@ -16,10 +16,11 @@ gallery:
   - image_path: assets/photography/2013_08_serbien/Belgrad_106.jpg
   - image_path: assets/photography/2013_08_serbien/Belgrad_125.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Belgrad
   - Serbien
+  - Reisebericht
 ---
 
 Nach dem Höllenritt im Übernachtbus kam ich mit ziemlichen Augenringen gegen 4Uhr in Belgrad an. 

@@ -5,10 +5,11 @@ header:
     teaser: assets/2020-09-04-bildmanagement-mit-cloudinary/veri-ivanova-p3Pj7jOYvnM-unsplash.jpg
     overlay_image: assets/2020-09-04-bildmanagement-mit-cloudinary/steven-lelham-atSaEOeE8Nk-unsplash.jpg
 categories:
-  - Homepage
   - Technik
 tags:
-  - Anwendungen / Tools
+  - Tools
+  - Homepage
+  - Coding
 ---
 
 Dadurch, dass ich im [ersten Schritt die Buildautomatisierung der Homepage mit Hilfe von GitHub Actions][1] in meine Hände genommen hatte, 

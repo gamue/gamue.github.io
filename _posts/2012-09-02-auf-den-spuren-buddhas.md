@@ -12,11 +12,12 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0067b.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_0027.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Indien
   - Lumbini
   - Nepal
+  - Reisebericht
 ---
 
 Bald hieß es auch schon Abschied nehmen aus Indien und auf Richtung Nepal. 

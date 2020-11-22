@@ -18,11 +18,12 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_437.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_493.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Lacul Bucura
   - Retezat
   - Rumänien
+  - Reisebericht
 ---
 
 Am Anfang der Wanderung gab es schon einen sehr schönen Wasserfall zu sehen, der Lust auf mehr gemacht hat. 

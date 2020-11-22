@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0560.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_0778_0779.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Chitwan
   - Nepal
+  - Reisebericht
 ---
 Am nächsten morgen ging es mit meinen Touriprogramm in Chitwan ungehindert weiter. 
 Eine der Hauptattraktionen sind Elefantensafaris, keine Frage musst ich natürlich auch machen 😉 

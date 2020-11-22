@@ -13,10 +13,10 @@ bildbetrachter:
 synctoy:
     - image_path: assets/2020-04-05-workflow-fotos/synctoy-run.jpg
 categories:
-  - Photography
+  - Fotografie
   - Technik
 tags:
-  - Anwendungen / Tools
+  - Tools
 ---
 
 Durch die digitale Fotografie ist die Anzahl der Bilder, die auf Reisen entstehen massiv gestiegen und 

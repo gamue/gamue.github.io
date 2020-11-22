@@ -10,12 +10,12 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_527_556.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_541.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Brasov
   - Petrosani
   - Rumänien
-  - Touristenfallen
+  - Reisebericht
 ---
 
 Nach der Wanderung sind wir in Petrosani gelandet, wo wir die Nacht verbringen wollten. 

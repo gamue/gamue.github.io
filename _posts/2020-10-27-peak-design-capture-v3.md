@@ -5,7 +5,9 @@ header:
     teaser: assets/2020-10-27-peak-design-capture-v3/capture_thumb.jpg
     overlay_image: assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg
 categories:
-  - Photography
+  - Fotografie
+tags:
+  - Ausrüstung
 ---
 
 Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, 

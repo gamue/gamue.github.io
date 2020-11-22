@@ -5,6 +5,7 @@ header:
     teaser: assets/2020-05-31-bayern-statt-bali/jared-rice-O6DUoIl6NWA-unsplash_q.jpg
 categories:
   - Allgemein
+  - Reisen
 ---
 
 Wie auch schon mein Slowenien-Trip Ende März ist nun auch die Bali-Reise Mitte Juli der Corona-Pandemie zum Opfer gefallen. 

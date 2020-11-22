@@ -5,10 +5,11 @@ header:
     teaser: assets/2020-08-28-buildautomatisierung-mit-github-actions/github-actions-thumb.jpg
     overlay_image: assets/2020-08-28-buildautomatisierung-mit-github-actions/gh-actions-command.jpg
 categories:
-  - Homepage
   - Technik
 tags:
-  - Anwendungen / Tools
+  - Tools
+  - Homepage
+  - Coding
 ---
 
 Ich habe in der letzten Woche ein paar größere Änderungen unter der Haube der Homepage vorgenommen, 

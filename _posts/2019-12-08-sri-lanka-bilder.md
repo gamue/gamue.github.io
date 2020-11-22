@@ -12,7 +12,10 @@ gallery:
   - image_path: assets/photography/2016_12_sri_lanka/SriLanka_0575b.jpg
   - image_path: assets/photography/2016_12_sri_lanka/SriLanka_0705.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Sri Lanka
 ---
 
 Fast auf den Tag genau vor 3 Jahren ging es nach Sri Lanka.

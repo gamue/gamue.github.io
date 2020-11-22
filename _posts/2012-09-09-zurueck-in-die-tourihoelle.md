@@ -15,12 +15,12 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_0353b.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_0367.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Chitwan
   - Nepal
   - Pokhara
-  - Touristenfallen
+  - Reisebericht
 ---
 
 Pokhara liegt idyllisch in einem Tal am See. Umgeben von hohen Bergen und Ausgangspunkt für etliche Trekkingtouren 

@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2013_08_oslo/Oslo_198.jpg
   - image_path: assets/photography/2013_08_oslo/Oslo_097_103.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Norwegen
   - Oslo
+  - Reisebericht
 ---
 
 In meinem Freundeskreis ist Heiraten und Kinder kriegen in den letzten Jahren ziemlich angesagt, 

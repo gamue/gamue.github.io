@@ -1,7 +1,29 @@
-# gamue.github.io
+# gamue.github.io / gamue.de
 
-Source code of my private homepage
+Source code of my [private homepage](https://gamue.de).
 
 - Build with Static Site Generator [Jekyll](https://jekyllrb.com/) and based on theme [minimal-mistake](https://github.com/mmistakes/minimal-mistakes)
 - Icons from [IcoMoon Free bundle](https://icomoon.io/app/#/select)
 - Search based on [Lunr](https://lunrjs.com/)
+
+
+## Kategorien / Tags
+
+Artikel können in Jekyll über Kategorien und Tags organisiert werden. 
+Da es dabei leider keine Hierarchieebenen dabei gibt, nutze ich als Definition Kategorien als Hauptebene und Tags als Unterkategorien.
+
+Die Seite ist aktuell so strukturiert:
+
+- Reisen
+  - Reisebericht
+  - Reisetipps
+  - ... Länder, Städte, etc.
+- Fotografie
+  - Ausrüstung
+  - Fotowissen
+- Technik
+  - Tools
+  - Homepage
+  - Coding
+- Allgemein
+

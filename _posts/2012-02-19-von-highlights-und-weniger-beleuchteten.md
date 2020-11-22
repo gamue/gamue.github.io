@@ -13,11 +13,12 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8522.jpg
   - image_path: assets/photography/2011_10_indien/dsc_8533.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Agra
   - Indien
   - Taj Mahal
+  - Reisebericht
 ---
 
 Kaum ein Auge zu getan ging es dann gegen 6 Uhr zwecks Sonnenaufgangs zum Taj Mahal, ein wirklich beeindruckendes Bauwerk. 

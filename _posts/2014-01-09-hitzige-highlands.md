@@ -8,9 +8,8 @@ header:
 gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0001.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
-  - Equipment
   - Schottland
 ---
 

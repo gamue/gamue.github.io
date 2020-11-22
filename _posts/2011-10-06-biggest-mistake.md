@@ -11,11 +11,11 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_049.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_009.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Fes
   - Marokko
-  - Touristenfallen
+  - Reisebericht
 ---
 
 Am letzten Abend hatte mir netterweise noch Sarah die Zugdaten für meine Rückfahrt per SMS zugeschickt, 

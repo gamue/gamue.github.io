@@ -8,10 +8,11 @@ gallery:
   - image_path: assets/photography/0000_misc/2009-11_copenhagen_1.jpg
   - image_path: assets/photography/0000_misc/2009-11_copenhagen_2.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Dänemark
   - Kopenhagen
+  - Reisebericht
 ---
 Nachdem ich die letzte Zeit recht viel unterwegs war, bin ich endlich dazu gekommen ein paar Bilder meiner kleinen Trips online zustellen (unter Photos->Sonstiges).  
 Nachdem ich ein Wochenende bei einem Freund am Bodensee verbracht habe, ging’s direkt weiter nach Zürich zum Flughafen um mit dem zweiten Koffer im Kofferraum geschäftlich nach Dänemark zu fliegen 🙂

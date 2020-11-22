@@ -5,7 +5,7 @@ header:
     teaser: assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg
     overlay_image: assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg
 categories:
-  - Photography
+  - Fotografie
   - Technik
 ---
 

@@ -11,10 +11,11 @@ gallery:
   - image_path: assets/photography/2014_05_tuerkei/Tuerkei_290.jpg
   - image_path: assets/photography/2014_05_tuerkei/Tuerkei_348.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Istanbul
   - Türkei
+  - Reisebericht
 ---
 Die Rückfahrt von Kappadokien nach Istanbul war leider nicht so komfortabel, 
 denn dort hatte ich kein Flugschnäppchen gefunden und entschied mich daher für den Nachtbus. 

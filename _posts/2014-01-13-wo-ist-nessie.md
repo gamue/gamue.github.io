@@ -13,11 +13,12 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0062_tonemapped.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_0088.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Inverness
   - Loch Ness
   - Schottland
+  - Reisebericht
 ---
 
 Inverness liegt wenige Fahrminuten vom Loch Ness entfernt, gut das wir im Hostel 2 Hamburger Jungs kennen gelernt hatten, 

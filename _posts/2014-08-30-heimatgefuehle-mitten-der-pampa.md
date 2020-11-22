@@ -15,10 +15,11 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/2013-08-17_Rumaenien_mit_Johannes_187.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_215.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Rumänien
   - Sibiu
+  - Reisebericht
 ---
 
 In Sibiu hatte ich mich mit Markus verabredet, einem Freund mit dem ich schon in Island unterwegs war, 

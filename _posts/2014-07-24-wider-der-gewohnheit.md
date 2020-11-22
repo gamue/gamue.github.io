@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/2014-07-24-wider-der-gewohnheit/malle_2.jpg
   - image_path: assets/2014-07-24-wider-der-gewohnheit/malle_3.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Mallorca
   - Spanien
+  - Reisebericht
 ---
 Wer ein bisschen meine Reisen und Fotos verfolgt, hat bestimmt schon mitbekommen, dass ich Natur, fremde Kulturen und Abgeschiedenheit bevorzuge. 
 Dementsprechend haben die meisten meiner Bekannten und Freunde etwas verdutzt geschaut, als ich Ihnen von meinem Reiseziel 

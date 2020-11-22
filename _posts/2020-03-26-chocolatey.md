@@ -10,7 +10,8 @@ chocoUpdate:
 categories:
   - Technik
 tags:
-  - Anwendungen / Tools
+  - Tools
+  - Coding
 ---
 
 Eigentlich wäre ich gerade in Slowenien, aber durch die aktuelle Lage bin ich stattdessen in Selbstisolation und 

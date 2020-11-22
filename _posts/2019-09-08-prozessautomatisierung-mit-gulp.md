@@ -9,10 +9,10 @@ gallery:
   - image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_zypern.jpg
   - image_path: assets/2019-09-08-prozessautomatisierung-mit-gulp/stats_thailand.jpg
 categories:
-  - Homepage
   - Technik
 tags:
-  - Anwendungen / Tools
+  - Homepage
+  - Coding
 ---
 
 Mit der Umstellung der Homepage auf [Jekyll](https://jekyllrb.com/) gab es einige Dinge "neu zu erfinden", 

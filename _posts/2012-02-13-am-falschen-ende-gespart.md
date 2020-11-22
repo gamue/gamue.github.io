@@ -11,10 +11,11 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8278.jpg
   - image_path: assets/photography/2011_10_indien/dscn0042.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Agra
   - Indien
+  - Reisebericht
 ---
 
 Da es mit den Zugtickets am Vortag geklappt hatte, machte ich mich früh Richtung Agra auf. Am ersten Tag wollt ich mir 

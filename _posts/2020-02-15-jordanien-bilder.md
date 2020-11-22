@@ -10,7 +10,10 @@ gallery:
   - image_path: assets/photography/2017_11_jordanien/Jordanien_128b.jpg
   - image_path: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Jordanien 
 ---
 
 Wie in den letzten Posts erwähnt, kümmere ich mich gerade wieder etwas vermehrt um die Bilder meiner vergangenen Reisen, 

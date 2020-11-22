@@ -10,11 +10,12 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1239_tonemapped.jpg
   - image_path: assets/photography/2012_06_island/dsc_1249.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Skaftafell
   - Svartifoss
+  - Reisebericht
 ---
 
 Am nächsten Tag ist dann auch endlich wieder ein Bus von Vik gen Osten gefahren, den wir gerne genommen haben. 

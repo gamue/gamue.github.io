@@ -12,11 +12,12 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_680.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_683.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Rumänien
   - Sighisoara
   - Transsilvanien
+  - Reisebericht
 ---
 
 Wieder einmal per Zug ging es in das ca. 120km entfernte Sighisoara, was lediglich 3 Stunden dauerte. 

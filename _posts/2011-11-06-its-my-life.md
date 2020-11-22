@@ -1,11 +1,8 @@
 ---
 title: It’s my life
-date: 2011-11-06T16:04:21+02:00
 permalink: /its-my-life/
 categories:
   - Allgemein
-tags:
-  - Braindump
 ---
 
 Da meine Reisen mich öfter mal in Gegenden führen, die nicht so ganz als sicher gelten und auch schon an vielen 

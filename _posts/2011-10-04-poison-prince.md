@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_754_755.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_758b.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Casablanca
   - Marokko
+  - Reisebericht
 ---
 
 Casablanca, wenn man das in Pforzheim nennt, wird meistens ein Hip-Hop-Schuppen mit überwiegend osteuropäischer Kundschaft damit assoziiert. 

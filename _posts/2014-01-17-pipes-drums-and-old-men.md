@@ -13,12 +13,13 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_0451.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Isle of Skye
   - Old Man of Storr
   - Portree
   - Schottland
+  - Reisebericht
 ---
 
 Der größte Ort auf der Isle of Skye heißt Portree und ist mehr oder weniger ein Fischerort, 

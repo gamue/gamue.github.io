@@ -11,11 +11,12 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8143.jpg
   - image_path: assets/photography/2011_10_indien/dsc_8159.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - CouchSurfing
   - Delhi
   - Indien
+  - Reisebericht
 ---
 An einem Samstagabend im Oktober ging es dann ins Flugzeug, so dass ich am nächsten Morgen in Delhi ankam. 
 Der Flug war recht unspektakulär und die knapp 9h Flug waren viel mit Schlaf verbracht. 

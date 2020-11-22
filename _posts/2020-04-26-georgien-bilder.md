@@ -12,7 +12,10 @@ gallery:
   - image_path: assets/photography/2018_06_georgien/Georgien_0424b.jpg
   - image_path: assets/photography/2018_06_georgien/Georgien_0609.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Georgien
 ---
 
 Bei den Reisebildern geht es weiter mit denen vom Georgien-Trip von vor knapp zwei Jahren. 

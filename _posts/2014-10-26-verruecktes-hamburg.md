@@ -6,11 +6,11 @@ header:
     teaser: assets/2014-10-26-verruecktes-hamburg/hamburg_schlagermove.jpg
     overlay_image: assets/2014-10-26-verruecktes-hamburg/hamburg_schlagermove.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Deutschland
   - Hamburg
-  - Schlagermove
+  - Reisebericht
 ---
 
 Ich weiß nicht wie ich die letzten Wochen beschreiben könnte, sie waren auf jeden Fall in vielen Dingen extrem und ich 

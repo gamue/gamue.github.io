@@ -1,6 +1,5 @@
 ---
 title: Beitragsflaute
-date: 2015-09-08T12:54:28+02:00
 permalink: /beitragsflaute/
 header:
     teaser: assets/2015-09-08-beitragsflaute/haus.jpg

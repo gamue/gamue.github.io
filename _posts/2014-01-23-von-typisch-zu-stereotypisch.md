@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0704.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_0720.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Schottland
   - Stirling
+  - Reisebericht
 ---
 
 Die Altstadt von Stirling ist sehr überschaubar, aber dennoch schön. Auf einem kleinen Hügel vor den Toren der Stadt steht das Wallace Monument, 

@@ -4,6 +4,8 @@ permalink: /kleinere-homepage-updates/
 header:
     teaser: assets/photography/2017_04_japan/Japan_1538.jpg
 categories:
+  - Technik
+tags:
   - Homepage
 ---
 

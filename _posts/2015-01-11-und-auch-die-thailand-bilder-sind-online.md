@@ -13,7 +13,10 @@ gallery:
   - image_path: assets/photography/2014_10_thailand/Thailand_0907.jpg
   - image_path: assets/photography/2014_10_thailand/Thailand_0941.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Thailand
 ---
 Mit den Thailand-Bildern sind nun auch die letzten Fotos meines letztjährigen Asientrips online, 
 wurden doch ein paar mehr als anfangs gedacht, aber hoffe das stört niemanden 😀

@@ -9,11 +9,11 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8193.jpg
   - image_path: assets/photography/2011_10_indien/dsc_8178.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Delhi
   - Indien
-  - Touristenfallen
+  - Reisebericht
 ---
 
 Neuer Tag in einer neuen Welt für neue Erfahrungen. Als alter Geizhals nehm ich meistens öffentliche Verkehrsmittel anstatt eines Taxis, 

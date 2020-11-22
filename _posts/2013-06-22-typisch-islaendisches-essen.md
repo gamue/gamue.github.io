@@ -11,10 +11,11 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1227.jpg
   - image_path: assets/photography/2012_06_island/dsc_1199.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Vik
+  - Reisebericht
 ---
 Von Skogar aus ging es in das von der Landkarte angepriesene „Handels- und Kulturzentrum der Region“ welches den Namen Vik trägt. 
 Das Kaff hat knapp 300 Einwohner, eine Tankstelle und einen größeren Supermarkt…die Beschreibung hat also nicht zu viel versprochen 😀

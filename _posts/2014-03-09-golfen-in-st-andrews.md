@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0933.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_0789.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Schottland
   - St. Andrews
+  - Reisebericht
 ---
 
 

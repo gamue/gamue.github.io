@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_1023_1024.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_1027.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Kathmandu
   - Nepal
+  - Reisebericht
 ---
 
 Mein erstes Ziel war Swayambunath, eine auf einem Berg gelegene Stupa. Da dort eine sehr große Menge Affen, 

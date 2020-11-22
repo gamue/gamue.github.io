@@ -19,10 +19,11 @@ gallery:
   - image_path: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
   - image_path: assets/photography/2014_05_tuerkei/Tuerkei_443.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Istanbul
   - Türkei
+  - Reisebericht
 ---
 Anfang 2014 kam ich wieder auf die Idee, dass ich etwas länger durch Asien touren wollen würde, 
 weswegen ich einen Blick in meinen Kalender warf, um festzustellen, dass ich in der ersten Jahreshälfte keine unverplanten 3 Wochen am Stück fand. 

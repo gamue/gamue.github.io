@@ -8,9 +8,8 @@ header:
 gallery:
   - image_path: assets/2013-04-21-auf-zur-insel-aus-feuer-und-eis/equipment_iceland.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
-  - Equipment
   - Island
 ---
 Mein letzter Blogbeitrag ist schon ziemlich lange her, was mit unter an chronischem Zeitmangel liegt. 

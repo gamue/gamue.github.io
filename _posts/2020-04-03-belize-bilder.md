@@ -12,7 +12,10 @@ gallery:
   - image_path: assets/photography/2019_04_belize/Belize_0823.jpg
   - image_path: assets/photography/2019_04_belize/Belize_0770.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Belize
 ---
 
 Das Gute am Kontaktverbot ist, dass ich große Fortschritte bei den Reisebildern mache. 

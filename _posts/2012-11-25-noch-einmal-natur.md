@@ -11,11 +11,12 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_1065.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_1066.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Himalaya
   - Nagarkot
   - Nepal
+  - Reisebericht
 ---
 
 Der Kontrast von Kathmandu zu den anderen nepalesischen Städten die ich zuvor bereist hatte war doch schon sehr stark. 

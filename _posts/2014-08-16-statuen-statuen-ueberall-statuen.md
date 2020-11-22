@@ -13,10 +13,11 @@ gallery:
   - image_path: assets/photography/2013_08_mazedonien/Skopje_093.jpg
   - image_path: assets/photography/2013_08_mazedonien/Skopje_118.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Mazedonien
   - Skopje
+  - Reisebericht
 ---
 
 Da ich durch die Hochzeit sowieso in Südosteuropa unterwegs war, hatte ich mich noch mit einem Kumpel verabredet 

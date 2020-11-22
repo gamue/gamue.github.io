@@ -13,14 +13,14 @@ gallery:
   - image_path: assets/photography/2010_09_deutschland/dsc_4548.jpg
   - image_path: assets/photography/2010_09_deutschland/dsc_4585.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Bremen
   - Bremerhafen
   - CouchSurfing
   - Deutschland
   - Hamburg
-  - Reeperbahn
+  - Reisebericht
 ---
 
 In Bremen hab ich einen Freund besucht, mit dem es dann gleich zum Fußballspielen weiterging. 

@@ -5,7 +5,9 @@ header:
     teaser: assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-hero.jpg
     overlay_image: assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-hero.jpg
 categories:
-  - Photography
+  - Fotografie
+tags:
+  - Ausrüstung
 ---
 
 Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, 

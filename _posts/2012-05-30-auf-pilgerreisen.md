@@ -12,12 +12,12 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_9045-9054.jpg
   - image_path: assets/photography/2011_10_indien/dsc_9062.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
-  - Ganges
   - Indien
   - Sarnath
   - Varanasi
+  - Reisebericht
 ---
 
 Nicht weit von Varanasi liegt Sarnath, der Ort an dem Buddha das erste Mal gepredigt und somit den Buddhismus gegründet haben soll. 

@@ -17,11 +17,12 @@ gallery:
   - image_path: assets/photography/2014_05_tuerkei/Tuerkei_696.jpg
   - image_path: assets/photography/2014_05_tuerkei/Tuerkei_762.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Göreme
   - Kappadokien
   - Türkei
+  - Reisebericht
 ---
 Der Ausflug ins Zentrum der Türkei hat mit einem schmerzvollen Verlust begonnen, 
 denn irgendwie ist meine Sonnenbrille auf dem Weg zum Flughafen abhanden gekommen, 

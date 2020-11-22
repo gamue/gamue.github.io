@@ -12,7 +12,10 @@ gallery:
   - image_path: assets/photography/2020_07_deutschland/Deutschland_0959.jpg
   - image_path: assets/photography/2020_07_deutschland/Deutschland_1089.jpg
 categories:
-  - Photography
+  - Reisen
+  - Fotografie
+tags:
+ - Deutschland
 ---
 
 Ich habe gerade die [Bilder der Deutschland-Rundfahrt][1] vom Juli hochgeladen und ich finde, 

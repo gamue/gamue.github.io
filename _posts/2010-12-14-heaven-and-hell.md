@@ -13,7 +13,7 @@ gallery:
   - image_path: assets/photography/2010_09_niederlande/dsc_3868_hdr_0.jpg
   - image_path: assets/photography/2010_09_niederlande/dsc_3870_hdr_0.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Antwerpen
   - Belgien
@@ -25,6 +25,7 @@ tags:
   - Kinderdjik
   - Niederlande
   - Rotterdam
+  - Reisebericht
 ---
 Da die touristischen und architektonischen Attraktionen von Brüssel schnell erkundet waren, 
 hab ich Brüssel etwas als Ausgangsbasis für Trips benutzt um weitere Dinge im Umkreis zu erkunden. 

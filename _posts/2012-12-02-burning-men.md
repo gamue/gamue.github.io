@@ -12,12 +12,13 @@ gallery:
   - image_path: assets/photography/2011_10_nepal/Nepal_1146b.jpg
   - image_path: assets/photography/2011_10_nepal/Nepal_1230.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Bodnath
   - Kathmandu
   - Nepal
-  - Pashupatinath  
+  - Pashupatinath
+  - Reisebericht
 ---
 
 Weil mein Trip sich dem Ende näherte musste ich auch wieder irgendwann zurück nach Kathmandu. 

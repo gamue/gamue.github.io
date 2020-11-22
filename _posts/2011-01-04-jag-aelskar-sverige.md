@@ -13,7 +13,7 @@ gallery:
   - image_path: assets/photography/2010_10_schweden/dsc_4987.jpg
   - image_path: assets/photography/2010_10_schweden/dsc_4996.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - CouchSurfing
   - Göteborg
@@ -21,6 +21,7 @@ tags:
   - Örebro
   - Schweden
   - Stockholm
+  - Reisebericht
 ---
 Nach dem BeNeLux-Roadtrip hab ich mir ne Woche Verschnaufpause gegönnt, aber dann ging’s auch schon weiter nach Stockholm, 
 sonst wird’s mir ja langweilig 😉 Als ich mein Gepäck zusammen suchte, ist mir aufgefallen, 

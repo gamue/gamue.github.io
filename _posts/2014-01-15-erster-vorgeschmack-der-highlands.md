@@ -15,13 +15,13 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_0282.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_0382.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Eilean Donan Castle
-  - Fairy Pools
   - Isle of Skye
   - Schottland
   - Sligachan
+  - Reisebericht
 ---
 
 Von Inverness ging mit einer Busfahrt, auf der man aus dem Staunen nicht mehr herauskam, auf die Isle of Skye. 

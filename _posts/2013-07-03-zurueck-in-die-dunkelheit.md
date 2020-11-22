@@ -12,13 +12,14 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1617.jpg
   - image_path: assets/photography/2012_06_island/dsc_0696.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Geysir
   - Golden Circle
   - Gulfoss
   - Island
   - Reykjavik
+  - Reisebericht
 ---
 
 Zweiter Stopp auf dem Golden Circle ist Geysir, Namensgeber der Geysire. Also so ein Wasserspritzdingens das sich auflädt und dann Wusch macht 😀

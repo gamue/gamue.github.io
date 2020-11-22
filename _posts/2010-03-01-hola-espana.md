@@ -11,11 +11,12 @@ gallery:
   - image_path: assets/photography/0000_misc/2010-02_barca_4.jpg
   - image_path: assets/photography/0000_misc/2010-02_barca_5.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Barcelona
   - CouchSurfing
   - Spanien
+  - Reisebericht
 ---
 Nach einiger Zeit konnte ich wieder mal etwas die Welt bereisen, da ich geschäftlich nach Spanien musste habe ich mir 
 einfach das Wochenende davor drangehängt um Barcelona zu erkunden. Und das mal wieder ohne hilfreiche Sprachkenntnisse, 

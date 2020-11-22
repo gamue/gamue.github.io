@@ -10,7 +10,11 @@ gallery:
   - image_path: assets/photography/2016_05_kreta/Kreta_683.jpg
   - image_path: assets/photography/2016_05_kreta/Kreta_848_b.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Griechenland
+  - Kreta
 ---
 
 Nachdem ich die Homepage auf Vordermann gebracht hab, hab ich keine Ausrede mehr mich vor den liegen gebliebenen Reisebildern zu drücken.

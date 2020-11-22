@@ -8,7 +8,11 @@ gallery:
   - image_path: assets/photography/2016_09_rom/Rom_220.jpg
   - image_path: assets/photography/2016_09_rom/Rom_361.jpg
 categories:
-  - Photography
+  - Fotografie
+  - Reisen
+tags:
+  - Italien
+  - Rom
 ---
 
 Der Fortschritt bei den Reisebildern ist langsamer als gedacht, aber mühsam ernährt sich das Eichhörnchen und 

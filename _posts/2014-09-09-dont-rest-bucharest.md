@@ -12,10 +12,11 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_790.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_701.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Bukarest
   - Rumänien
+  - Reisebericht
 ---
 Während Markus zurück nach Sibiu fuhr, um von dort aus nach Hause zu fliegen, verschlug es mich noch ein paar Tage nach Bukarest. 
 Vielleicht lag es am schlechten Wetter, aber ich empfand die Stadt als ziemlich hässlich und überhaupt nicht besonders. 

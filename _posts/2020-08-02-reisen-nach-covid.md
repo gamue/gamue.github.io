@@ -8,7 +8,7 @@ header:
     caption: "Foto von [Unsplash/Ross Parmly](https://unsplash.com/photos/rf6ywHVkrlY)"
 categories:
   - Allgemein
-  - Unterwegs
+  - Reisen
 ---
 
 Hinweis: Dieser Artikel basiert auf meiner eigenen Meinung und meinen persönlichen Erfahrungen und ich habe von keiner der genannten oder verlinkten Firmen irgendeine Form von Sponsoring bekommen.

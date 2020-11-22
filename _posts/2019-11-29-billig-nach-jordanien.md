@@ -9,9 +9,10 @@ gallery:
     - image_path: assets/2019-11-29-billig-nach-jordanien/grenze_jordanien.jpg
     - image_path: assets/2019-11-29-billig-nach-jordanien/visa_jordan.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Jordanien
+  - Reisetipps
 ---
 
 Die Felsenstadt Petra hat mich schon seit dem Zeitpunkt fasziniert, als ich sie zum ersten Mal in [Indiana Jones und der letzte Kreuzzug](https://www.imdb.com/title/tt0097576/) gesehen habe, 

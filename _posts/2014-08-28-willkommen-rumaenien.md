@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_080.jpg
   - image_path: assets/photography/2013_08_rumaenien/Rumaenien_050.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Rumänien
   - Timisoara
+  - Reisebericht
 ---
 Mein erster halt in Rumänien hieß [Timisoara](http://de.wikipedia.org/wiki/Timi%C8%99oara). 
 Partnerstadt meines Geburtsorts, aber das war nur Zufall und habe ich auf einer Plakette in der Fußgängerzone gesehen. 

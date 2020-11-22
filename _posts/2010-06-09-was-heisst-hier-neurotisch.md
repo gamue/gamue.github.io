@@ -1,11 +1,8 @@
 ---
 title: Was heißt hier neurotisch?
-date: 2010-06-09T20:28:52+02:00
 permalink: /was-heisst-hier-neurotisch/
 categories:
   - Allgemein
-tags:
-  - Braindump
 ---
 Wie einige wissen wohne ich ja in einer WG mit zwei Mädels, immer wenn ich das jemandem gesagt hat war die Reaktionen meistens: 
 „Ohhh, du tust mir leid“. Da hab ich mich immer gefragt: Warum? Was ist daran so schlimm bzw. schlecht?

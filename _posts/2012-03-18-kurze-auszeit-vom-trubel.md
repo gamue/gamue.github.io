@@ -12,10 +12,11 @@ gallery:
   - image_path: assets/photography/2011_10_indien/dsc_8626.jpg
   - image_path: assets/photography/2011_10_indien/dsc_8686.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Indien
   - Orchha
+  - Reisebericht
 ---
 
 Neben dem Taj Mahal und dem Roten Fort gibt es in Agra nicht wirklich viel zu sehen, daher hat es mich auch bald schon weiter getrieben, 

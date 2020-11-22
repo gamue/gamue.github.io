@@ -7,7 +7,7 @@ header:
     overlay_image: assets/2011-12-18-reisziel-indien-nur-wohin/naveed-ahmed-9Dt4WutvwDs-unsplash.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/9Dt4WutvwDs)"
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Indien
   - Nepal

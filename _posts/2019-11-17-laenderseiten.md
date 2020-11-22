@@ -4,6 +4,8 @@ permalink: /laenderseiten-online/
 header:
     teaser: assets/2019-11-17-laenderseiten/photo-1452421822248-d4c2b47f0c81.webp
 categories:
+  - Technik
+tags:
   - Homepage
 ---
 

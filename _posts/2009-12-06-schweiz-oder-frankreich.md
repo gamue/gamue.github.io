@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/photography/0000_misc/2009-11_switzerland_3.jpg
   - image_path: assets/photography/0000_misc/2009-11_switzerland_4.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Lausanne
   - Schweiz
+  - Reisebericht
 ---
 Abends vom Flughafen und dem Reifenwechseln zurückgekommen hieß es den nächsten Koffer packen um damit am nächsten Morgen in die Schweiz zu fahren. 
 Dort wollt ich zusammen mit zwei Freunden meinen großen Bruder besuchen, der in Lausanne ein „Auslandsstudierjahr“ macht.  

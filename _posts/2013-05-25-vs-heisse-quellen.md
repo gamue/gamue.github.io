@@ -14,10 +14,11 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_0825_tonemapped.jpg
   - image_path: assets/photography/2012_06_island/dscn0125.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Landmannalaugar
+  - Reisebericht
 ---
 
 Nach dem Bus-Fiasko am Vortag ging dann aber alles rund und in einem höher gelegten Gefährt wurde das nächste Ziel Landmannalaugar angesteuert. 

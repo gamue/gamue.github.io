@@ -10,10 +10,11 @@ gallery:
   - image_path: assets/photography/2013_07_schottland/Schottland_1006_tonemapped.jpg
   - image_path: assets/photography/2013_07_schottland/Schottland_1011_tonemapped.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Edinburgh
   - Schottland
+  - Reisebericht
 ---
 
 Der letzte Stopp auf meiner Schottland-Tour war die Hauptstadt, von der ich immer noch nicht weiß wie man sie ausspricht: 

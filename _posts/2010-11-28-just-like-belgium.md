@@ -14,12 +14,13 @@ gallery:
   - image_path: assets/photography/2010_09_belgien/dsc_3149.jpg
   - image_path: assets/photography/2010_09_belgien/dsc_3269.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Belgien
   - Brüssel
   - CouchSurfing
   - Han-Sur-Lesse
+  - Reisebericht
 ---
 Eigentlich dachte ich, ich komm schneller dazu die Reisegeschichten weiterzuerzählen, 
 aber nun ja ich bin eben ein viel beschäftigter Mensch xD Aber ich hab’s mir echt vorgenommen, 

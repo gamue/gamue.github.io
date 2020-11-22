@@ -14,10 +14,11 @@ gallery:
   - image_path: assets/photography/2012_06_island/dsc_1380_tonemapped.jpg
   - image_path: assets/photography/2012_06_island/dsc_1386.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Island
   - Jökulsarlon
+  - Reisebericht
 ---
 
 Am nächsten Morgen war ich wider Erwarten immer noch in Skaftafell 😉

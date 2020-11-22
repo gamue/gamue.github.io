@@ -8,9 +8,10 @@ header:
 gallery:
   - image_path: assets/photography/2011_10_indien/dscn0112.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Indien
+  - Reisebericht
 ---
 Es gibt ja die grausigsten Geschichten, Vorstellungen und Bilder über Zugfahren in Indien, wirklich bestätigen kann ich aber keine. 
 Zugegeben, ich bin meistens in der „versnobten“ Touri-Klasse gefahren, aber auch für die einfache Klasse muss man sich begrenzte Tickets kaufen. 

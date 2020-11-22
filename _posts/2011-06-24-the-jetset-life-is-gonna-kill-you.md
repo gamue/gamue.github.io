@@ -1,10 +1,8 @@
 ---
 title: The Jetset Life Is Gonna Kill You
-date: 2011-06-24T17:59:10+02:00
 permalink: /the-jetset-life-is-gonna-kill-you/
 categories:
   - Allgemein
-  - Homepage
 ---
 Normalerweise ist mein Terminkalender ziemlich voll gestopft, die To-Do-Liste gefüllt und ich so gut wie immer mit irgendetwas beschäftigt. 
 So auch in den letzten 8 Wochen, die ein Paradebeispiel waren. 

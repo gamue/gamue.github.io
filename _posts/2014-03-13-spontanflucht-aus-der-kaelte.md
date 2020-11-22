@@ -10,11 +10,12 @@ gallery:
   - image_path: assets/photography/0000_misc/2013-11_Aegypten_129_tonemapped.jpg
   - image_path: assets/photography/0000_misc/2013-11_Aegypten_172.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Ägypten
   - Assuan
   - Marsa Alam
+  - Reisebericht
 ---
 Ende November 2013 flatterte eine Mail mit dem Hinweis auf einen spontanen Ägypten-Trip in mein Postfach. 
 Da in Berlin zu der Zeit einstellige Temperaturen herrschten und ich kein Freund von Kälte und Winter bin, 

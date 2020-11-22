@@ -13,11 +13,11 @@ gallery:
   - image_path: assets/photography/2011_05_marokko/Marokko_097b.jpg
   - image_path: assets/photography/2011_05_marokko/Marokko_107_hdr.jpg
 categories:
-  - Unterwegs
+  - Reisen
 tags:
   - Fes
   - Marokko
-  - Touristenfallen
+  - Reisebericht
 ---
 Am nächsten Tag ging es zur Erkundungstour in die Altstadt von Fes. War es morgens noch recht menschenleer, 
 füllen sich die Straßen gegen 11.00h so dass man Schwierigkeiten hat durch manche „Straßen“ zu kommen. 
