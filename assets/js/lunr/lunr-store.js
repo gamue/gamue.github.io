@@ -614,4 +614,8 @@ var store = [{
         "title": "Review: Peak Design Slide Lite",
         "excerpt":"Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. Mein bisheriger Kameragurt ist prinzipiell noch gut in Schuss und könnte ich weiterverwenden, wirkt aber an der kleineren Kamera ziemlich überproportioniert. Zudem wird der am ¼-Zoll-Gewinde befestigt,...","categories": ["Fotografie"],
         "tags": ["Ausrüstung"],
-        "url": "https://gamue.de/review-peak-design-slide-lite/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg"}]
+        "url": "https://gamue.de/review-peak-design-slide-lite/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg"},{
+        "title": "Review: Tenba Tools BYOB 9 und 10",
+        "excerpt":"Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. Gerade wenn ich nur mit Handgepäck reise,...","categories": ["Fotografie"],
+        "tags": ["Ausrüstung"],
+        "url": "https://gamue.de/review-tenba-tools-byob-9-und-10/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_thumb.jpg"}]
