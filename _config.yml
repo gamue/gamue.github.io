@@ -1,6 +1,6 @@
 # set JEKYLL_ENV=development
 # set JEKYLL_ENV=production
-# bundle exec jekyll serve --future
+# bundle exec jekyll serve --future --unpublished
 
 # Site settings
 locale: "de"

@@ -27,3 +27,8 @@ Die Seite ist aktuell so strukturiert:
   - Coding
 - Allgemein
 
+## Styling
+
+Um den Überblick über alle verwendeten Elemente und Styles zu behalten, 
+sind alle auf [einer Seite](http://localhost:4000/style/) vorhanden. Um diese sehen zu können, 
+muss Jekyll mit dem Parameter `--unpublished` lokal gestartet werden.
