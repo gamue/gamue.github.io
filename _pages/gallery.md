@@ -1,5 +1,6 @@
 ---
 title: Photos
+description: Auf meinen Reisen habe ich sehr viele Bilder gemacht, einige davon sind hier zu sehen.
 classes: galleryPage
 permalink: /photography/
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Review: Peak Design Slide Lite"
+description: Ich habe schon viel Positives über den Peak Design Slide Lite gehört, daher war ich gespannt was er kann. In diesem Artikel schildere ich euch meine ersten Eindrücke von ihm. 
 permalink: /review-peak-design-slide-lite/
 header:
     teaser: assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg

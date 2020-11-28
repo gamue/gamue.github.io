@@ -1,5 +1,6 @@
 ---
 title: "Review: Peak Design Capture v3"
+description: Bei der Suche nach einer besseren Art die Kamera auf Wanderungen zu transportieren, bin ich auf den Peak Design Capture Clip gestoßen. In diesem Artikel findest du meine ersten Erfahrungen damit.
 permalink: /review-peak-design-capture-v3/
 header:
     teaser: assets/2020-10-27-peak-design-capture-v3/capture_thumb.jpg

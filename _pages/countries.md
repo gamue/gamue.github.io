@@ -1,5 +1,6 @@
 ---
 title: Länder
+description: Hier findest du Informationen über meine Reiserouten, Reiseberichte und viele weitere Tipps zu den Ländern, die ich schon besucht habe.
 classes: galleryPage
 permalink: /laender/
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Review: Tenba Tools BYOB 9 und 10"
+description: Ich möchte euch den Tenba Tools BYOB Rucksackeinsatz vorstellen, der seit einiger Zeit meine Kameraausrüstung sicher aufbewahrt.  
 permalink: /review-tenba-tools-byob-9-und-10/
 header:
     teaser: assets/2020-11-22-tenba-tools-byob/tenba_thumb.jpg

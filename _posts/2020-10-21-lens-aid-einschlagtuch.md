@@ -1,5 +1,6 @@
 ---
 title: "Review: Lens-Aid Einschlagtuch"
+description: Einschlagtücher sollen eine sichere und platzsparende Möglichkeit sein, die Kamera zu transportieren. Ich hab mir daher das Lens-Aid Einschlagtuch einmal genauer angeschaut.
 permalink: /lens-aid-einschlagtuch/
 header:
     teaser: assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-hero.jpg
