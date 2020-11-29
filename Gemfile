@@ -12,6 +12,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-cloudinary"
   gem "jekyll-include-cache"
-  gem 'jekyll-purgecss'
   gem "jekyll-sitemap"
 end
