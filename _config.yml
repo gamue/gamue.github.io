@@ -104,7 +104,7 @@ compress_html:
 
 cloudinary:
   cloud_name: gamue
-  only_prod: false
+  only_prod: true #disable for development
   verbose: true
   presets:
     default:
