@@ -5,7 +5,6 @@
 # Site settings
 locale: "de"
 title: "gamue.de: Blog von Johannes Ganzenmüller"
-title_separator: "-"
 name: "Johannes Ganzenmüller"
 email: johannes@gamue.de
 description: "Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik."
