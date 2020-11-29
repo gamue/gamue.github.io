@@ -1,8 +1,11 @@
 ---
-title: Länder
+title: Destinationen
 description: Hier findest du Informationen über meine Reiserouten, Reiseberichte und viele weitere Tipps zu den Ländern, die ich schon besucht habe.
+comments: false
 classes: galleryPage
 permalink: /laender/
+header:
+    teaser: assets/photography/2012_06_island/dsc_1072.jpg
 ---
 
 {% assign countries = site.pages | where_exp: "item" , "item.path contains 'countries/'"%}

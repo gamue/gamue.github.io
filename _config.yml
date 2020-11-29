@@ -12,6 +12,7 @@ repository: "gamue/gamue.github.io"
 baseurl: ""
 url: "https://gamue.de"
 logo: "assets/images/j_logo_75.jpg"
+og_image: "assets/images/j_logo.jpg"
 words_per_minute: 200
 search: true
 
@@ -73,8 +74,6 @@ defaults:
       type: pages
     values:
       layout: single
-      header:
-        og_image: assets/images/j_logo.jpg
   - scope:
       path: _pages/photography
       type: pages
