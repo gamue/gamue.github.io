@@ -1,5 +1,6 @@
 ---
 title: Welchen Brennweitenbereich nutze ich am meisten?
+description: Mithilfe eines kleinen Programms habe ich meine Brennweiten-Nutzung analysiert. Falls du das auch machen willst, findest du hier eine Anleitung.
 permalink: /welchen-brennweitenbereich-nutze-ich-am-meisten/
 header:
     teaser: assets/2020-09-06-brennweitenbereich-analysieren/magdiel-damas-sIUTqm5qu1I-unsplash.jpg

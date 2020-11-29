@@ -1,5 +1,6 @@
 ---
 title: "Superzooms: Die idealen Objektive?"
+description: Superzooms sind definitiv praktisch, aber welchen Kompromiss geht man damit ein? Das beantworte ich dir in diesem Artikel.
 permalink: /superzooms-die-idealen-objektive/
 header:
     teaser: assets/2020-08-22-superzooms/superzoom-thumbnail.jpg

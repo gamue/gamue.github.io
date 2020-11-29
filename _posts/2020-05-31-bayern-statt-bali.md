@@ -1,5 +1,6 @@
 ---
 title: Bayern statt Bali
+description: Fernreisen fallen dieses Jahr wohl leider aus, stattdessen geht es nach Bayern.
 permalink: /bayern-statt-bali/
 header:
     teaser: assets/2020-05-31-bayern-statt-bali/jared-rice-O6DUoIl6NWA-unsplash_q.jpg

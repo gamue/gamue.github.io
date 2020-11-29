@@ -1,5 +1,6 @@
 ---
 title: Meine Kameraausrüstung
+description: Hier stelle ich dir meine Kameraausrüstung im November 2020 vor. Diese hat mich schon auf vielen Reisen begleitet. 
 permalink: /meine-kameraausruestung-2020/
 header:
     teaser: assets/2020-09-12-kameraausruestung/equip_dslr.jpg

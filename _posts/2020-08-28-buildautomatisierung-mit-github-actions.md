@@ -1,5 +1,6 @@
 ---
 title: Buildautomatisierung mit GitHub Actions
+description: Eine Einführung in GitHub Actions und meine ersten Erfahrungen damit
 permalink: /buildautomatisierung-mit-github-actions/
 header:
     teaser: assets/2020-08-28-buildautomatisierung-mit-github-actions/github-actions-thumb.jpg
