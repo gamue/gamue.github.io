@@ -13,7 +13,6 @@ layout: compress
 </head>
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-{% include_cached skip-links.html %}
 
 <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">Du verwendest einen <strong>veralteten Browser. Bitte <a href="https://browsehappy.com/">aktualisiere deinen Browser</a> um sicher im Internet zu sein und das Erlebnis zu verbessern.</div>
