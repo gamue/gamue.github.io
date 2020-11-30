@@ -10,10 +10,7 @@
  * https://tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply
 */
 @layer components {
-
-    .masthead,
-    .initial-content,
-    .search-content
+    .masthead, .search-content
     {
       @apply hidden;
     }
@@ -23,4 +20,21 @@
       top: -0.1em;
     }
 
+    .notice--warning{
+      @apply bg-yellow-100 p-2 rounded-md;
+    }
+    .notice--info{
+      @apply bg-blue-100 p-2 rounded-md;
+    }
+
+    a.btn{
+      @apply font-medium inline-block bg-gray-500 text-white rounded py-1.5 px-2.5;
+    }
+    a.btn:hover{
+      @apply bg-gray-600 no-underline;
+    }
+
+    .prose img{
+      @apply shadow-lg rounded;
+    }
 }
