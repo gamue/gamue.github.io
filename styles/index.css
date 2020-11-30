@@ -1,6 +1,5 @@
-/* Syntax highlighting
- * https://jwarby.github.io/jekyll-pygments-themes/languages/java.html */
-@import "./monokai.css";
+
+@import "./syntax.css";
 
 @tailwind base;
 @tailwind components;
