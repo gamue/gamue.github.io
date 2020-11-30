@@ -10,7 +10,16 @@ module.exports = {
     purge: [
         '{,!(node_modules|_site)/**/}*.{html,md,js}',
     ],
-    theme: {},
+    theme: {
+        container: {
+            screens: { /* disable the 2xl breakpoint by default. */
+               sm: "100%",
+               md: "100%",
+               lg: "1024px",
+               xl: "1280px"
+            }
+         }
+    },
     plugins: [
         require('@tailwindcss/typography'),
     ],

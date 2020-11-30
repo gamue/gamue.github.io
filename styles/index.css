@@ -10,11 +10,17 @@
  * https://tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply
 */
 @layer components {
-    .custom-underline-blue {
-        @apply border-b-4 border-blue-400;
+
+    .masthead,
+    .initial-content,
+    .search-content
+    {
+      @apply hidden;
     }
 
-    .custom-underline-red {
-        @apply border-b-4 border-red-400;
+    .icon{
+      @apply h-4 w-4 inline-block fill-current relative;
+      top: -0.1em;
     }
+
 }
