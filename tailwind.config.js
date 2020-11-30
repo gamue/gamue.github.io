@@ -12,13 +12,45 @@ module.exports = {
     ],
     theme: {
         container: {
+            center: true,
             screens: { /* disable the 2xl breakpoint by default. */
                sm: "100%",
                md: "100%",
                lg: "1024px",
-               xl: "1280px"
-            }
-         }
+               xl: "1280px",
+            },
+        },
+        extend: {
+            colors: {
+                red: {
+                    900: '#660000',
+                },
+            },
+            typography: {
+                DEFAULT: {
+                    css: {
+                        a: {
+                          textDecoration: 'none',
+                          color: '#660000',
+                          '&:hover': {
+                              textDecoration: 'underline',
+                          },
+                        },
+                        img: {
+                          marginTop: 0,
+                          marginBottom: 0,
+                        },
+                        dt: {
+                          fontWeight: '600',
+                        },
+                        dd: {
+                          marginBottom: '1.25em',
+                          paddingLeft: '1.25em',
+                        },
+                    },
+                },
+            },
+        },
     },
     plugins: [
         require('@tailwindcss/typography'),
