@@ -27,4 +27,4 @@ aber glaub die jetzt ausgewählten spiegeln ganz gut die Orte wieder, an denen i
 
 {% include gallery layout="half" %}
 
-[Hier geht's zur kompletten Thailand-Galerie]({% link _pages/photography/2014-10-thailand.md %}){: .btn .btn--primary}
+[Hier geht's zur kompletten Thailand-Galerie]({% link _pages/photography/2014-10-thailand.md %}){: .btn}

@@ -34,7 +34,7 @@ Gerade der Besuch bei den Schneeaffen war eines meiner Highlights, ebenso wie di
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2017-04-japan.md %}){: .btn .btn--primary}
+[Zur kompletten Bildergalerie]({% link _pages/photography/2017-04-japan.md %}){: .btn}
 
 Wenn ihr mehr zu Japan wissen wollt und Prime Video habt, dann kann ich [James May: Unser Mann in Japan](https://www.amazon.de/gp/video/detail/B0856QKBYR/ref=atv_dp_share_cu_r) empfehlen. 
 Sehr unterhaltsam und gibt einen guten Einblick in das Land.

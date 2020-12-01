@@ -17,9 +17,9 @@ Immerhin konnte ich die [Belize-]({% link _pages/photography/2019-04-belize.md %
 Denke die werden noch eine Weile auf sich warten lassen, da es aktuell viele andere Themen und Entscheidungen gibt, 
 um die ich mich kümmern musste bzw. immer noch muss.
 
-[Zu den Belize-Bildern]({% link _pages/photography/2019-04-belize.md %}){: .btn .btn--primary}
+[Zu den Belize-Bildern]({% link _pages/photography/2019-04-belize.md %}){: .btn}
 
-[Zu den Georgien-Bildern]({% link _pages/photography/2018-06-georgien.md %}){: .btn .btn--primary}
+[Zu den Georgien-Bildern]({% link _pages/photography/2018-06-georgien.md %}){: .btn}
 
 
 ## Wie geht es mit den Reisen weiter?

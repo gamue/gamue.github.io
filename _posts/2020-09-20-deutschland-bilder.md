@@ -30,7 +30,7 @@ und ich finde, gerade bei den Wanderungen durch die Almbach- und Breitachklamm s
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie][1]{: .btn .btn--primary}
+[Zur kompletten Bildergalerie][1]{: .btn}
 
 Ich hoffe euch gefallen die Bilder und, wie immer, freue ich mich auf Feedback oder konstruktive Kritik :)
 

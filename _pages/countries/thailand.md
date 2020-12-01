@@ -26,7 +26,7 @@ Da sehr viele von Südostasien schwärmen, dachte ich mir Ende 2014, ich schau m
 Saisonal bedingt war ich im Norden unterwegs und habe auch einen Abstecher nach [Laos](/laos/) unternommen. 
 Die beiden Länder lassen sich super kombinieren und die Orte, die man sich gerne anschauen möchte, gehen eigentlich nicht aus ;)    
 
-[Zur Bildergalerie](/photography/thailand-2014/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/thailand-2014/){: .btn}
 
 {% include custom/route.html mapId="10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK" %}
 {% include custom/itinerary.html %}

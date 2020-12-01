@@ -32,7 +32,7 @@ itinerary:
 Mein erster Solo-Backpacking-Trip hat mich im September/Oktober 2009 nach Israel und dem Westjordanland geführt und mit dem Reisefieber infiziert.
 Im Vorfeld haben sich viele kritisch über die Sicherheit geäußert, aber aus meiner Sicht gab es dazu keinerlei Bedenken und empfinde Israel als sehr sicheres Land.
 
-[Zur Bildergalerie](/photography/israel-2009/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/israel-2009/){: .btn}
 
 Etliche Jahre später hat es mich nochmal nach Israel verschlagen, 
 dieses Mal jedoch nur um kurz später [die Grenze nach Jordanien zu überqueren](/guenstig-nach-jordanien/).  

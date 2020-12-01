@@ -31,4 +31,4 @@ der findet diese auf [der Länderseite]({% link _pages/countries/jordanien.md %}
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2017-11-jordanien.md %}){: .btn .btn--primary}
+[Zur kompletten Bildergalerie]({% link _pages/photography/2017-11-jordanien.md %}){: .btn}

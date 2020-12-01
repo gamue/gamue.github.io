@@ -39,7 +39,7 @@ Japan ist generell kein günstiges Reiseland, sehr viel teurer als Europa ist es
 Rückblickend war es genau das, was wir uns vorgestellt haben: Ein Misch aus Tradition und Moderne mit "einem Hauch" von Verrücktheit. 
 Für meinen Geschmack vielleicht zu viel Stadt und zu wenig Natur, aber das hat man ja eigentlich selbst in der Hand.
 
-[Zur Bildergalerie](/photography/japan-2017/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/japan-2017/){: .btn}
 
 {% include custom/route.html mapId="1A0cTN2zA9A_EaRkQt9OGvFYxtadMHqYq" %}
 {% include custom/itinerary.html %}

@@ -34,7 +34,7 @@ Ich hatte in jedem Fall eine sehr schöne Zeit dort und kann es nur empfehlen!
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn .btn--primary}
+[Zur kompletten Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn}
 
 Dann stehen jetzt nur noch die Bilder aus Japan und Vietnam an, 
 klingt irgendwie surreal nach so langer Zeit alle Bilder auf der Festplatte fertig zu haben :D

@@ -24,10 +24,10 @@ Ich nähere mich also zielstrebig dem aktuellen Datum, auch wenn die Reisen mit 
 In Riga und Finnland habe ich nicht so viele Bilder geschossen,
 so dass diese in der [allgemeinen Galerie](/photography/here-there-and-everywhere/) untergekommen sind.
 
-[Zur allgemeinen Reise-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}){: .btn .btn--primary} 
+[Zur allgemeinen Reise-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}){: .btn} 
 
 Beim Rom-Trip hat die Kamera dann doch mehr geklickt und so gibt es hierfür eine [eigene Galerie](/photography/rom-2016/).
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Rom-Galerie]({% link _pages/photography/2016-09-rom.md %}){: .btn .btn--primary}
+[Zur kompletten Rom-Galerie]({% link _pages/photography/2016-09-rom.md %}){: .btn}

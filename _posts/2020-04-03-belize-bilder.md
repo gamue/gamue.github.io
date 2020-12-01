@@ -28,6 +28,6 @@ Belize kann ich als Reiseland in jedem Fall empfehlen, war ein sehr entspannter 
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2019-04-belize.md %}){: .btn .btn--primary}
+[Zur kompletten Bildergalerie]({% link _pages/photography/2019-04-belize.md %}){: .btn}
 
 Dann fehlen jetzt nur noch die Bilder aus Vietnam, Japan und Georgien :)

@@ -25,7 +25,7 @@ Das war genau was ich wollte und ich wurde nicht enttäuscht: Georgien bietet sc
 
 Ich hab in den 9 Tagen bei weitem nicht alles gesehen und erlebt was das Land zu bieten hat und würde es in jedem Fall wieder bereisen.
 
-[Zur Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn .btn--primary}
+[Zur Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn}
 
 {% include custom/route.html mapId="1c-7iQgo2w6T4YEhTRcz_YrgUOothc_-l" %}
 {% include custom/itinerary.html %}

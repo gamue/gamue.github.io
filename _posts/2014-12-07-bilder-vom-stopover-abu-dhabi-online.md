@@ -24,7 +24,7 @@ nun online.
 
 {% include gallery layout="half" %}
 
-[Hier geht&#8217;s zu den Bildern](/photography/abu-dhabi-2014/ "Abu Dhabi 2014"){: .btn .btn--primary}
+[Hier geht&#8217;s zu den Bildern](/photography/abu-dhabi-2014/ "Abu Dhabi 2014"){: .btn}
 
 Meine Berichte, die "eigentlichen" Asienbilder und ein paar Einträge über meine restlichen Projekte an 
 denen ich gerade arbeite werden noch etwas dauern, aber gut Ding will bekannteweise Weile haben 😛

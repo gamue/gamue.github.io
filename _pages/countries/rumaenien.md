@@ -30,7 +30,7 @@ Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und mir 
 Neben idyllischer Natur und schönen Altstädten, waren auch die Menschen sehr freundlich und aufgeschlossen. 
 Zusätzlich gibt es noch leckeres Essen und das alles für vergleichsweise schmales Geld. Was will man mehr? :D
 
-[Zur Bildergalerie](/photography/suedosteuropa-2013/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/suedosteuropa-2013/){: .btn}
 
 {% include custom/route.html mapId="104xblik_61hUGYdsez4n_sM9fFgYUcY6" %}
 {% include custom/itinerary.html %}

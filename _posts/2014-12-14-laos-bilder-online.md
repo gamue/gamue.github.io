@@ -26,4 +26,4 @@ Die Reise war auf jeden Fall eines der Highlights für mich in 2014!
 
 {% include gallery layout="half" %}
 
-[Hier geht's zu den Laos-Bildern.](/photography/laos-2014/ "Laos 2014"){: .btn .btn--primary}
+[Hier geht's zu den Laos-Bildern.](/photography/laos-2014/ "Laos 2014"){: .btn}

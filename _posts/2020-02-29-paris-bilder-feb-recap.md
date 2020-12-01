@@ -36,7 +36,7 @@ Und ja, der Eiffelturm ist sehr oft vertreten...ist aber auch schön :D
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2019-12-paris.md %}){: .btn .btn--primary}
+[Zur kompletten Bildergalerie]({% link _pages/photography/2019-12-paris.md %}){: .btn}
 
 Zusätzlich habe ich die Bilder in der ["Here, There and Everywhere"-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}) chronologisch absteigend sortiert, 
 so dass man neue Bilder einfacher sehen würde. Ich denke aber nicht, dass ich dort welche hinzufüge, solange ich bei den längeren Reisen nicht fertig bin.

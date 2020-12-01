@@ -76,7 +76,7 @@ Info-Box: Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, 
 **Warning-Box:** Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 {: .notice--warning}
 
-[Button Primary](#){: .btn .btn--primary}
+[Button Primary](#){: .btn}
 
 Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 
