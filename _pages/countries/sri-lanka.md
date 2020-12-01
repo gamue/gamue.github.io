@@ -32,7 +32,7 @@ In der Vorweihnachtszeit 2016 ging auf eine Fernreise, dieses Mal ins warme Sri 
 Der knapp 2 wöchige Trip ist als eine Backpacking-Tour gestartet und nachdem wir viele Sehenswürdigkeiten besucht 
 und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, was für sich wieder eine ganz eigene Welt war.
 
-[Zur Bildergalerie](/photography/sri-lanka-2016/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/sri-lanka-2016/){: .btn}
 
 {% include custom/route.html mapId="1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW" %}
 {% include custom/itinerary.html %}

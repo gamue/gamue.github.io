@@ -23,7 +23,7 @@ Da ich im November 2014 im [Norden Thailands](/thailand/) unterwegs war, hab ich
 Auch wenn ich nur einen kleinen Teil des Landes gesehen habe, war dieser sehr beeindruckend und hat genau dem 
 entsprochen was ich wollte. Ich kann das Land in jedem Fall weiterempfehlen und würde in jedem Fall wieder hingehen.
 
-[Zur Bildergalerie](/photography/laos-2014/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/laos-2014/){: .btn}
 
 {% include custom/route.html mapId="1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr" %}
 {% include custom/itinerary.html %}

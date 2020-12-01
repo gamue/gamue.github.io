@@ -26,7 +26,7 @@ Die zugehörige Länderseite folgt ebenfalls ~~bald, dafür fehlen noch ein paar
 
 {% include gallery layout="half" %}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2016-12-sri-lanka.md %}){: .btn .btn--primary}
+[Zur kompletten Bildergalerie]({% link _pages/photography/2016-12-sri-lanka.md %}){: .btn}
 
 Als nächstes stehen dann die Bilder aus Japan, Jordanien, Vietnam, Georgien und Belize an. 
 Vom Bilderumfang her werden das auch etwas größere Projekte, aber ich bin gerade in einem guten Flow. 

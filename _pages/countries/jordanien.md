@@ -25,7 +25,7 @@ Da hat es sich angeboten, dass eine neue Billigflug-Verbindung gestartet ist und
 Wadi Rum und Petra hatten schon lange Zeit eine gewisse Anziehungskraft auf mich, umso schöner war es beides mit meinen eigenen Augen zu sehen. 
 Am Ende wurden meine Erwartungen sogar übertroffen und kann beides nur wärmstens empfehlen.
 
-[Zur Bildergalerie](/photography/jordanien-2017/){: .btn .btn--primary}
+[Zur Bildergalerie](/photography/jordanien-2017/){: .btn}
 
 {% include custom/route.html mapId="1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
 {% include custom/itinerary.html %}
