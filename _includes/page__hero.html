@@ -3,18 +3,16 @@
   {% assign overlay_img_path = "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/" | append: overlay_img_path %}
 {% endif %}
 
-{% if page.header.overlay_filter contains "rgba" %}
+{% if page.header.overlay_filter %}
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
-{% elsif page.header.overlay_filter %}
-  {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
 {% endif %}
 
 {% assign image_description = page.title | markdownify | strip_html | strip_newlines | escape_once %}
 
 <div class="py-16 bg-center bg-cover relative"
-  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if page.header.overlay_image %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+  style="{% if page.header.overlay_image %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
 >
-  {% if page.header.overlay_color or page.header.overlay_image %}
+  {% if page.header.overlay_image %}
     <div class="container text-white text-center text-shadow-lg">
       <h1 id="page-title" class="text-5xl font-bold mb-4" itemprop="headline">
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
