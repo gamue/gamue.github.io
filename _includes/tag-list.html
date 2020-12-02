@@ -6,14 +6,14 @@
   {% capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}|{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign tag_hashes = page_tags | split: ',' | sort %}
 
-  <p class="page__taxonomy">
-    <strong><svg class="icon icon-price-tags"><use xlink:href="#icon-price-tags"></use></svg> Tags:</strong>
+  <div class="my-4 text-base">
+    <span class="font-semibold text-gray-500 pr-2"><svg class="icon"><use xlink:href="#icon-price-tags"></use></svg> Tags</span>
     <span itemprop="keywords">
     {% for hash in tag_hashes %}
       {%- assign keyValue = hash | split: '|' -%}
       {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
-      <a href="{{ tag_word | slugify | prepend: '#' | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      <a href="{{ tag_word | slugify | prepend: '#' | prepend: site.tag_archive.path | relative_url }}" class="border border-gray-500 rounded px-2 py-1.5 hover:text-white hover:bg-gray-500" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="hidden">, </span>{% endunless %}
     {% endfor %}
     </span>
-  </p>
+  </div>
 {% endif %}

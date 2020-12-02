@@ -42,6 +42,7 @@ module.exports = {
                         },
                         dt: {
                           fontWeight: '600',
+                          marginBottom: '0.1em',
                         },
                         dd: {
                           marginBottom: '1.25em',
