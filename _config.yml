@@ -63,8 +63,7 @@ defaults:
     values:
       layout: single
       comments: true
-      read_time: true
-      show_date: true
+      show_meta_data: true
       header:
         show_overlay_excerpt: false
 

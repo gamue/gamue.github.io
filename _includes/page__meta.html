@@ -1,30 +1,27 @@
 {% assign document = post | default: page %}
-{% if document.read_time or document.show_date %}
+{% if document.show_meta_data %}
   <p class="page__meta">
-    {% if document.show_date and document.date %}
+    {% if document.date %}
       {% assign date = document.date %}
       <span class="page__meta-date">
-        <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
+        <svg class="icon"><use xlink:href="#icon-calendar"></use></svg>
         <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>
       </span>
     {% endif %}
 
-    {% if document.read_time and document.show_date %}<span class="page__meta-sep"></span>{% endif %}
+    <span class="page__meta-sep"></span>
 
-    {% if document.read_time %}
-      {% assign words_per_minute = document.words_per_minute | default: site.words_per_minute | default: 200 %}
-      {% assign words = document.content | strip_html | number_of_words %}
-
-      <span class="page__meta-readtime">
-        <svg class="icon icon-clock"><use xlink:href="#icon-clock"></use></svg>
-        {% if words < words_per_minute %}
-          weniger als 1 Minute zum Lesen
-        {% elsif words == words_per_minute %}
-          1 Minute zum Lesen
-        {% else %}
-          {{ words | divided_by: words_per_minute }} Minuten zum Lesen
-        {% endif %}
-      </span>
-    {% endif %}
+    {% assign words_per_minute = document.words_per_minute | default: site.words_per_minute | default: 200 %}
+    {% assign words = document.content | strip_html | number_of_words %}
+    <span class="page__meta-readtime">
+      <svg class="icon"><use xlink:href="#icon-clock"></use></svg>
+      {% if words < words_per_minute %}
+        weniger als 1 Minute zum Lesen
+      {% elsif words == words_per_minute %}
+        1 Minute zum Lesen
+      {% else %}
+        {{ words | divided_by: words_per_minute }} Minuten zum Lesen
+      {% endif %}
+    </span>
   </p>
 {% endif %}
