@@ -10,8 +10,8 @@ layout: default
 
   {% unless page.header.overlay_color or page.header.overlay_image %}
     <header>
-      {% if page.title %}<h1 itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-      {% include page__meta.html %}
+      <h1 itemprop="headline" class="mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+      {% if page.show_meta_data %}<div class="text-gray-500">{% include page__meta.html %}</div>{% endif %}
     </header>
   {% endunless %}
 
