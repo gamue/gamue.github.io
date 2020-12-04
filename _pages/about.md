@@ -115,7 +115,7 @@ visitedCountries:
       link: /photography/zypern-2015/
 ---
 
-![image-left](/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg){: .align-left}
+![image-left](/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg){: .float-left .mr-2}
 Hi, ich bin Johannes. Weltenbummler, Hobbyfotograf und Technikfreak.
 
 Auf dieser privaten Homepage möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, 
@@ -124,21 +124,23 @@ Technologie, Gadgets und natürlich meine Abenteuer schreiben.
 Folge mir auch gerne auf [Instagram](https://www.instagram.com/gamue16/), um auf dem Laufenden zu bleiben. 
 Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich die Homepage entsprechend aktualisiere.
 
+<div class="clear-both"></div>
+
 ## Folgende {{ page.visitedCountries.size }} Länder habe ich schon bereist:
 
 {% include custom/visited-countries.html countries=page.visitedCountries %}
 
-<ul class="countries">
+<div class="text-sm mt-4 flex flex-wrap justify-center">
 {% for country in page.visitedCountries %}
-    <li>
+    <span class="p-1 m-0.5 border border-gray-300 rounded-lg">
     {% if country.link %}
     <a href="{{ country.link }}">{{ country.name }}</a>
     {% else %}
     {{ country.name }}
     {% endif %}
-    </li>
+    </span>
 {% endfor %}
-</ul>
+</div>
 
 ## Kontakt
 
