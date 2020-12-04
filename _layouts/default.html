@@ -14,23 +14,13 @@ layout: compress
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-<!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">Du verwendest einen <strong>veralteten Browser. Bitte <a href="https://browsehappy.com/">aktualisiere deinen Browser</a> um sicher im Internet zu sein und das Erlebnis zu verbessern.</div>
-<![endif]-->
-
 {% include_cached masthead.html %}
 
-<div class="initial-content">
-    {% if page.header.overlay_image %}
-        {% include page__hero.html %}
-    {% endif %}
-
-    {{ content }}
-</div>
-
-{% if site.search == true %}
-    {% include_cached search/search_form.html %}
+{% if page.header.overlay_image %}
+    {% include page__hero.html %}
 {% endif %}
+
+{{ content }}
 
 {% include_cached footer.html %}
 {% include scripts.html %}

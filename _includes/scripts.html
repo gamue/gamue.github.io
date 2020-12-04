@@ -1,11 +1,5 @@
 <!-- <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script> -->
 
-{% if site.search == true or page.layout == "search" %}
-<!-- <script src="{{ '/assets/js/lunr/lunr.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/lunr/lunr-store.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/lunr/lunr-en.js' | relative_url }}"></script> -->
-{% endif %}
-
 {% include analytics.html %}
 
 {% if jekyll.environment == 'production' and page.comments and site.comments.disqus.shortname %}
