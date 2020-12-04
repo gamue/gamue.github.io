@@ -30,7 +30,7 @@
         {% endif %}
 
         <div>
-            {% if page.show_meta_data %}<div>{% include page__meta.html %}</div>{% endif %}
+            {% if post.show_meta_data %}<div>{% include page__meta.html %}</div>{% endif %}
             {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>{% endif %}
         </div>
     </div>
