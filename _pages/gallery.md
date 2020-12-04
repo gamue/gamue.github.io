@@ -1,7 +1,7 @@
 ---
 title: Reisegalerien
 description: Auf meinen Reisen habe ich sehr viele Bilder gemacht, einige davon sind hier zu sehen.
-classes: galleryPage
+full_width: true
 permalink: /photography/
 header:
     teaser: assets/photography/2020_07_deutschland/Deutschland_0535.jpg

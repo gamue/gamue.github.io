@@ -1,5 +1,5 @@
 {% if (site.tag_archive.type and page.tags[0]) or (site.category_archive.type and page.categories[0]) %}
-<footer class="mt-8">
+<footer class="container prose mt-8">
   {% if site.tag_archive.type and page.tags[0] %}
     {% include tag-list.html %}
   {% endif %}

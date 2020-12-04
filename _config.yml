@@ -77,12 +77,12 @@ defaults:
       path: _pages/photography
       type: pages
     values:
-      classes: galleryPage
+      full_width: true
   - scope:
       path: _pages/countries
       type: pages
     values:
-      classes: galleryPage
+      full_width: true
       comments: true
       search: true
 
