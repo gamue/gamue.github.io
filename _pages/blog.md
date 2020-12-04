@@ -6,17 +6,10 @@ pagination:
   enabled: true
 ---
 
-<div id="main" role="main">
-  <div class="archive">
-
-{% assign entries_layout = 'list' %}
-<div class="entries-{{ entries_layout }}">
+<section class="container text-gray-700 flex flex-col place-items-center pt-8">
   {% for post in paginator.posts %}
-    {% include archive-single.html type=entries_layout %}
+    {% include post-summary-list-view.html %}
   {% endfor %}
-</div>
+</section>
 
 {% include paginator.html %}
-
-   </div>
-</div>
