@@ -10,7 +10,7 @@
  * https://tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply
 */
 @layer components {
-    .masthead, .search-content
+    .search-content
     {
       @apply hidden;
     }

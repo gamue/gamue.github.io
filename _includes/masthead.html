@@ -1,34 +1,19 @@
-{% capture logo_path %}{{ site.logo }}{% endcapture %}
+<header class="container flex flex-wrap justify-between items-center px-2 py-4">
+  <div>
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ site.logo | relative_url }}" alt="Logo" class="h-14 w-14">
+    </a>
+  </div>
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
-        {% endunless %}
-
-        <ul class="visible-links">
+  <div>
+      <nav id="site-nav">
+        <ul class="flex items-center justify-between">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
+            <li class="block mx-4 text-xl text-gray-600">
               <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
-        {% if site.search == true %}
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-          <svg id="icon-search" class="icon" width="16" height="16" viewBox="0 0 32 32">
-            <path d="M31.008 27.231l-7.58-6.447c-0.784-0.705-1.622-1.029-2.299-0.998 1.789-2.096 2.87-4.815 2.87-7.787 0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-0.031 0.677 0.293 1.515 0.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007 0.23s0.997-2.903-0.23-4.007zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"></path>
-          </svg>
-        </button>
-        {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
       </nav>
-    </div>
   </div>
-</div>
+</header>
