@@ -2,32 +2,30 @@
 layout: default
 ---
 
-<div class="hero-intro">
-  <div class="text">
-    <h2>Hi, ich bin Johannes.</h2>
-    <p>Weltenbummler, Hobbyfotograf und Technikfreak.</p>
-    <p>Auf dieser Seite möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, Technologie, Gadgets und natürlich meine Abenteuer schreiben.</p>
-    <a href="/about/">Mehr über mich</a>
+<div class="p-8 flex flex-wrap justify-center bg-gray-100 text-gray-700">
+  <div class="mb-4 w-1/2">
+    <h1 class="my-5">Hi, ich bin Johannes.</h1>
+    <p class="my-5 text-xl">Weltenbummler, Hobbyfotograf und Technikfreak.</p>
+    <p class="my-5 text-xl">Auf dieser Seite möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, Technologie, Gadgets und natürlich meine Abenteuer schreiben.</p>
+    <p class="my-5 text-xl text-red-900"><a href="/about/">Mehr über mich</a></p>
   </div>
-  <div class="image">
-    {% cloudinary /assets/photography/2017_11_jordanien/Jordanien_123.jpg alt="" %}
+  <div class="w-96">
+    {% cloudinary /assets/photography/2017_11_jordanien/Jordanien_123.jpg alt="" class="shadow-lg rounded object-cover w-full h-full" %}
   </div>
 </div>
 
-<div id="main" role="main">
+
 
   {{ content }}
 
-  <div class="archive">
-    <h3>Aktuelle Artikel im Blog</h3>
-    {% assign entries_layout = page.entries_layout | default: 'list' %}
-    <div class="entries-{{ entries_layout }}">
-      {% for post in site.posts limit:4 %}
-        {% include archive-single.html type=entries_layout %}
-      {% endfor %}
-    </div>
-    <div class="more-entries">
-      <a href="/blog/" class="btn btn--primary">Alle Einträge</a>
-    </div>
+<section class="container text-gray-700">
+  <h2 class="mt-12 mb-6">Aktuelle Artikel im Blog</h2>
+  <div class="flex">
+    {% for post in site.posts limit:4 %}
+      {% include post-summary-grid-view.html %}
+    {% endfor %}
   </div>
-</div>
+  <div class="flex justify-center mt-8">
+    <a href="/blog/" class="btn">Alle Einträge</a>
+  </div>
+</section>
