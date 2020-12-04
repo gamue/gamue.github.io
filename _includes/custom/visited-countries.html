@@ -2,7 +2,7 @@
 <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
 
-<div id="chartdiv"></div>
+<div id="chartdiv" class="w-full h-80"></div>
 
 <script>
     var chart = am4core.create("chartdiv", am4maps.MapChart);
@@ -19,15 +19,15 @@
     polygonTemplate.tooltipText = "{name}";
 
     polygonSeries.data = [
-    {% for country in include.countries %}
-    {% if country.code %}
-    {
-      "id": "{{ country.code }}",
-      "name": "{{ country.name }}",
-      "fill": am4core.color("#660000")
-    },
-    {% endif %}
-    {% endfor %}
+    {%- for country in include.countries -%}
+      {%- if country.code -%}
+      {
+        "id": "{{ country.code }}",
+        "name": "{{ country.name }}",
+        "fill": am4core.color("#660000")
+      },
+      {%- endif -%}
+    {%- endfor -%}
     ];
 
     polygonTemplate.propertyFields.fill = "fill";
