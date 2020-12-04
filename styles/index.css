@@ -41,7 +41,7 @@
     }
 
     .prose img{
-      @apply shadow-lg rounded;
+      @apply shadow-lg rounded mx-auto;
     }
 
     .preview-image{

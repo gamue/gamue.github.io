@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<article class="container p-2 prose" itemscope itemtype="https://schema.org/CreativeWork">
+<article class="container p-4" itemscope itemtype="https://schema.org/CreativeWork">
   {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
   {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
   {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
   {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
   {% unless page.header.overlay_image %}
-    <header>
-      <h1 itemprop="headline" class="mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
-      {% if page.show_meta_data %}<div class="text-gray-500">{% include page__meta.html %}</div>{% endif %}
+    <header class="text-center mb-8">
+      <h1 itemprop="headline" class="text-4xl mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+      {% if page.show_meta_data %}<div class="text-sm text-gray-500">{% include page__meta.html %}</div>{% endif %}
     </header>
   {% endunless %}
 
-  <section itemprop="text">
+  <section itemprop="text" class="container prose{% if page.full_width == true %} max-w-none{% endif %}">
     {%- if page.toc -%}
       <aside class="sidebar__right">
         <nav class="toc">

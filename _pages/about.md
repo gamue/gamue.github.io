@@ -114,8 +114,10 @@ visitedCountries:
       code: CY
       link: /photography/zypern-2015/
 ---
+<p class="float-left mr-2">
+{% cloudinary thumbnail /assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg alt="" %}
+</p>
 
-![image-left](/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg){: .float-left .mr-2}
 Hi, ich bin Johannes. Weltenbummler, Hobbyfotograf und Technikfreak.
 
 Auf dieser privaten Homepage möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, 
