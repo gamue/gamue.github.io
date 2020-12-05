@@ -25,13 +25,13 @@ um die ich mich kümmern musste bzw. immer noch muss.
 ## Wie geht es mit den Reisen weiter?
 
 Waren wir im April letzten Jahres noch tausende Kilometer weit weg und haben Belize erkundet, 
-hieß es dieses Jahr bisher nur in Erinnerungen schwelgen während ich mich um die übrigen Reisebilder kümmerte.
+hieß es dieses Jahr bisher nur in Erinnerungen schwelgen, während ich mich um die übrigen Reisebilder kümmerte.
 
 Entsprechend deprimierend fiel die Zusammenfassung aus, die ich monatlich von Google Maps zugeschickt bekomme, 
 meine Highlights: Einkaufen bei Edeka, Lidl und Geldabheben im Einkaufszentrum. 
 Hört sich doch mega spannend an oder etwa nicht?
 
-![image-center](/assets/2020-05-10-april-recap/maps-highlights.jpg){: .align-center}
+{% cloudinary /assets/2020-05-10-april-recap/maps-highlights.jpg alt="Besuchte Orte laut Google Maps" %}
 
 Ich hoffe, dass sich das bald ändert und man endlich wieder reisen kann, denn ich merke wie es mich in die Ferne zieht 
 und ich neue Orte erkunden und die Natur genießen will. Zwar wird sehr wahrscheinlich die geplante Bali-Reise im Juli auch ausfallen, 
