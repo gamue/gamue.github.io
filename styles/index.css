@@ -49,4 +49,8 @@
       @apply rounded w-full h-full object-cover shadow-lg;
     }
 
+    .filter-blur-1{
+      filter: blur(0.25em);
+    }
+
 }

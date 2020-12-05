@@ -15,7 +15,7 @@ layout: default
     </header>
   {% endunless %}
 
-  <section itemprop="text" class="container prose{% if page.full_width == true %} max-w-none{% endif %}">
+  <section itemprop="text" class="container{% unless page.typography == false %} prose{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
     {%- if page.toc -%}
       <aside class="sidebar__right">
         <nav class="toc">

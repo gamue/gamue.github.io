@@ -1,23 +1,25 @@
-<div class="galleryPreview">
-    {% for item in include.pages %}
-    <article>
+<div class="flex flex-wrap justify-center">
+    {%- for item in include.pages -%}
+    <article class="w-1/3 p-3 relative">
         <a href="{{item.permalink}}">
-            <div class="meta"><h2>{{item.title}}</h2></div>
-            <section class="gallery">
+            <div class="absolute inset-0 text-center">
+                <h2 class="text-white absolute top-1/2 left-1/2 z-20 text-3xl text-shadow-lg w-10/12 transform -translate-x-1/2 -translate-y-1/2">{{item.title}}</h2>
+            </div>
+            <section>
                 {% if item.header.teaser %}
                     {%- assign img_path = item.header.teaser | absolute_url -%}
                     {%- if jekyll.environment == 'production' -%}
                         {% assign img_path = "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/" | append: img_path %}
                     {%- endif -%}
-                <div class="image" style="background-image: url('{{img_path}}')"></div>
-                <div class="shadow">
-                    <div class="shadow-image" style="background-image: url('{{img_path}}')"></div>
+                <div class="w-full h-72 bg-center bg-cover rounded shadow-lg" style="background-image: url('{{img_path}}')"></div>
+                <div class="block absolute h-24 top-1/2 inset-x-0 transform -translate-y-1/2 mx-3 border-t border-b border-white">
+                    <div class="absolute inset-0 bg-cover bg-center z-10 inset-x-0.5 filter-blur-1" style="background-image: url('{{img_path}}')"></div>
                 </div>
                 {% else %}
-                <div class="image"></div>
+                <div class="bg-gray-400 h-72"></div>
                 {% endif %}
             </section>
         </a>
     </article>
-    {% endfor %}
+    {%- endfor -%}
 </div>
