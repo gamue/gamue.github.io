@@ -15,15 +15,17 @@ layout: default
     </header>
   {% endunless %}
 
+  {%- if page.toc -%}
+  <aside>
+    <nav class="toc">
+      <header><h4>Auf dieser Seite</h4></header>
+      {% include toc.html sanitize=true html=content h_min=1 h_max=6 %}
+    </nav>
+  </aside>
+  {%- endif -%}
+
   <section itemprop="text" class="container{% unless page.typography == false %} prose{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
-    {%- if page.toc -%}
-      <aside class="sidebar__right">
-        <nav class="toc">
-          <header><h4 class="nav__title">Auf dieser Seite</h4></header>
-          {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
-        </nav>
-      </aside>
-    {%- endif -%}
+
     {{ content }}
   </section>
 

@@ -11,7 +11,7 @@ tags:
   - Fotowissen
 ---
 
-Ich überlege zur Zeit mein Kamerasystem zu aktualisieren und da ich ab und an von Freunden gefragt werde, 
+Ich überlege zurzeit mein Kamerasystem zu aktualisieren und da ich ab und an von Freunden gefragt werde, 
 auf was man beim Kamerakauf achten soll, dachte ich mir, es ist eine gute Idee mal alles herunterzuschreiben.
 
 In dem Artikel will ich die grundsätzlichen Begriffe und Kriterien erklären, die du kennen solltest, 
@@ -25,9 +25,7 @@ Und wer weiß, eventuell widme ich mich konkreten Geräten in einem weiteren Art
 
 # Begriffe und Kriterien bei Kameras
 
-<figure>
-  <img src="/assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg">
-</figure>
+{% cloudinary /assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg alt="Kamerasammlung" %}
 
 ## Action-, Kompakt-, Bridge-, Spiegelreflex oder spiegellose Systemkamera
 Der Kameramarkt ist riesig und die Preisspanne ebenso, du solltest dir daher überlegen welcher Kameratyp für dich in Frage kommt. 
@@ -123,9 +121,7 @@ manchmal sogar mehr als die Kamera.
 
 # Begriffe und Kriterien bei Objektiven
 
-<figure>
-  <img src="/assets/2020-08-09-kaufberatung-kamera-grundlagen/objektiv.jpg">
-</figure>
+{% cloudinary /assets/2020-08-09-kaufberatung-kamera-grundlagen/objektiv.jpg alt="Objektiv" %}
 
 ## Kameraanschluss
 Wie bei den Kameras erwähnt, hat jeder Kamerahersteller sein eigenes Ökosystem und daher musst du bei Objektiven darauf achten, 

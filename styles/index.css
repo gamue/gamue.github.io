@@ -53,4 +53,19 @@
       filter: blur(0.25em);
     }
 
+    .toc{
+      @apply text-gray-700 text-sm w-1/2 mx-auto my-4 border rounded;
+    }
+    .toc h4{
+      @apply bg-gray-200 px-3 py-1 font-bold;
+    }
+    .toc a{
+      @apply block border-b border-gray-200 py-1 px-3 font-semibold;
+    }
+    .toc a:hover{
+      @apply underline text-gray-900;
+    }
+    .toc li ul>li a{
+      @apply pl-6 font-normal;
+    }
 }
