@@ -23,6 +23,8 @@ itinerary:
     - name: Casablanca 
       image: assets/photography/2011_05_marokko/Marokko_666_hdr.jpg
       description: In Marokkos größter Stadt hat es mir vorallem die Hasan-II-Moschee mit ihren strahlenden Farben angetan. Ansonsten hab ich die Reise dort eher ausklingen lassen so dass ich nicht viel darüber schreiben kann ;)
+map_id: 1leiIo594Bjk4XyBjp8QOqsiu-6KQk33u
+country_tag: Marokko
 ---
 
 Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der einiges schief gelaufen ist.
@@ -30,7 +32,3 @@ Auch haben mich die permanenten Bettel- und Verkaufsversuche schnell genervt, so
 Selbst wenn die Natur und Bauwerke für einiges entschädigen.
 
 [Zur Bildergalerie](/photography/marokko-2011/){: .btn}
-
-{% include custom/route.html mapId="1leiIo594Bjk4XyBjp8QOqsiu-6KQk33u" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Marokko" %}

@@ -17,6 +17,7 @@ itinerary:
     - name: Kutaissi
       image: assets/photography/2018_06_georgien/Georgien_0821.jpg
       description: "Neben Tiflis war Kutaissi die zweite Stadt, die ich als Ausgangspunkt für Tagestrips genutzt habe. Wären meine Flüge nicht von und nach Kutaissi gewesen, hätte ich sie vermutlich übersehen, was sehr Schade gewesen wäre, denn es ist eine kleine gemütliche Stadt die auch selbst einiges zu bieten hat und von der man aus einige Tagestouren machen kann. So ging es von da aus zu diversen Klöstern und Kirchen sowie zu einer Tropfsteinhöhle und einem Nationalpark."
+map_id: 1c-7iQgo2w6T4YEhTRcz_YrgUOothc_-l
 ---
 
 Georgien war bisher mein vielleicht spontanster Trip: Im Juni 2018 hab ich entschieden meinen Arbeitgeber zu wechseln, mit zwei Wochen Kündigungsfrist und als mit meinem neuen Job alles unter Dach und Fach war, ist mir aufgefallen, dass ich noch etwa zwei Wochen Resturlaub habe.
@@ -26,6 +27,3 @@ Das war genau was ich wollte und ich wurde nicht enttäuscht: Georgien bietet sc
 Ich hab in den 9 Tagen bei weitem nicht alles gesehen und erlebt was das Land zu bieten hat und würde es in jedem Fall wieder bereisen.
 
 [Zur Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn}
-
-{% include custom/route.html mapId="1c-7iQgo2w6T4YEhTRcz_YrgUOothc_-l" %}
-{% include custom/itinerary.html %}

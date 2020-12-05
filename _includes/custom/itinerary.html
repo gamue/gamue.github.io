@@ -1,26 +1,24 @@
-{% if include.headline %}
-    {% assign headline = include.headline %}
-{% else %}
-    {% assign headline = 'Stationen' %}
-{% endif %}
-
-### {{ headline }}
-<div class="itinerary">
-    {% for place in page.itinerary %}
-        {%- assign teaser = place.image -%}
-        <div class="grid__item">
-        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-            {% if teaser %}
-            <div class="archive__item-teaser">
-                {% cloudinary thumbnail {{teaser | relative_url }} alt="" %}
-            </div>
-            {% endif %}
-            <h2 class="archive__item-title" itemprop="headline">{{ place.name }}</h2>
-
-            <div class="archive__item-content-container">
-                <div><p class="archive__item-excerpt" itemprop="description">{{ place.description }}</p></div>
-            </div>
-        </article>
-        </div>
-    {% endfor %}
-</div>
+{%- if page.itinerary -%}
+    {%- if page.itinerary_title -%}
+        {%- assign headline = page.itinerary_title -%}
+    {%- else -%}
+        {%- assign headline = 'Stationen' -%}
+    {%- endif -%}
+<article class="text-gray-700">
+    <h2 class="mb-2">{{ headline }}</h2>
+    <article class="flex flex-wrap">
+        {%- for place in page.itinerary -%}
+            {%- assign teaser = place.image -%}
+            <article class="w-1/4 p-4">
+                {% if teaser %}
+                <div class="h-64 mb-2">
+                    {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
+                </div>
+                {% endif %}
+                <h1 class="mb-2">{{ place.name }}</h1>
+                <p>{{ place.description }}</p>
+            </article>
+        {%- endfor -%}
+    </article>
+</article>
+{%- endif -%}

@@ -1,2 +1,8 @@
-## Reiseroute
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ include.mapId }}" width="100%" height="550px"></iframe>
+{% if page.map_id %}
+<article class="py-8">
+  <h1 class="mb-2">Reiseroute</h1>
+  <div class="p-4">
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ page.map_id }}" width="100%" height="550px"></iframe>
+  </div>
+</article>
+{% endif %}

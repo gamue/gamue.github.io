@@ -17,6 +17,8 @@ itinerary:
     - name: Aqaba
       image: assets/photography/2017_11_jordanien/Jordanien_823b.jpg
       description: "Aus meiner Sicht eine eher unspannende Stadt und hätte ich keinen frühen Flug erwischen müssen, wäre ich dort vermutlich auch nicht abgestiegen. Prinzipiell hat Aqaba zwei große Vorteile:  Man kommt durch den Flughafen und die Grenze zu Israel gut hin bzw. weg, und es liegt am Roten Meer, was es für Bade- oder Tauchurlauber interessant macht. Eine Nacht hat für mich in jedem Fall ausgereicht."
+map_id: 1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1
+country_tag: Jordanien
 ---
 
 Meine Jordanien Reise im November 2017 war recht spontan, ich hatte noch einige Urlaubstage übrig und wollte nochmal in die Wärme. 
@@ -26,7 +28,3 @@ Wadi Rum und Petra hatten schon lange Zeit eine gewisse Anziehungskraft auf mich
 Am Ende wurden meine Erwartungen sogar übertroffen und kann beides nur wärmstens empfehlen.
 
 [Zur Bildergalerie](/photography/jordanien-2017/){: .btn}
-
-{% include custom/route.html mapId="1zelho8Po0C_7WmvJIiQCA0Dpm5cOP0_1" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Jordanien" %}

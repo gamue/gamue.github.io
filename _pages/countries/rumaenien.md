@@ -23,6 +23,8 @@ itinerary:
     - name: Bukarest
       image: assets/photography/2013_08_rumaenien/Rumaenien_790.jpg
       description: "Die Hauptstadt Rumäniens hat mich nicht begeistert und würde daher empfehlen nur so viel Zeit wie nötig dort zu verbringen. Sicherlich gibt es einige schöne Ecken und beeindruckende Bauwerke, wie den Palast des Volkes, die es lohnt sich anzuschauen, aber persönlich würde ich jede vorherige Station vorziehen, da ich diese einfach als entspannter und interessanter erlebt habe. Wer hingegen nach Disco, Party und erotischen Massagen sucht, der wird dort sicherlich fündig :D"
+map_id: 104xblik_61hUGYdsez4n_sM9fFgYUcY6
+country_tag: Rumänien
 ---
 
 Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und mir vorgenommen wiederzukommen.
@@ -31,7 +33,3 @@ Neben idyllischer Natur und schönen Altstädten, waren auch die Menschen sehr f
 Zusätzlich gibt es noch leckeres Essen und das alles für vergleichsweise schmales Geld. Was will man mehr? :D
 
 [Zur Bildergalerie](/photography/suedosteuropa-2013/){: .btn}
-
-{% include custom/route.html mapId="104xblik_61hUGYdsez4n_sM9fFgYUcY6" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Rumänien" %}

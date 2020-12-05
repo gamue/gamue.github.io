@@ -26,7 +26,7 @@ itinerary:
     - name: Tel Aviv
       image: assets/photography/2009_09_israel/dsc_8088.jpg
       description: Tel Aviv lässt sich eher mit einer westlichen Großstadt vergleichen als mit einer anderen Stadt im Nahen Osten und eignet sich daher eigentlich auch sehr gut für ein Kurztrip, Sandstrand inklusive.
-
+map_id: 1gTrthySd7p8YgZFCoLWVuzr80VjZHbOR
 ---
 
 Mein erster Solo-Backpacking-Trip hat mich im September/Oktober 2009 nach Israel und dem Westjordanland geführt und mit dem Reisefieber infiziert.
@@ -36,6 +36,3 @@ Im Vorfeld haben sich viele kritisch über die Sicherheit geäußert, aber aus m
 
 Etliche Jahre später hat es mich nochmal nach Israel verschlagen, 
 dieses Mal jedoch nur um kurz später [die Grenze nach Jordanien zu überqueren](/guenstig-nach-jordanien/).  
-
-{% include custom/route.html mapId="1gTrthySd7p8YgZFCoLWVuzr80VjZHbOR" %}
-{% include custom/itinerary.html %}

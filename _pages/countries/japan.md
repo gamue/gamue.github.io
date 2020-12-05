@@ -26,6 +26,7 @@ itinerary:
     - name: Hiroshima
       image: assets/photography/2017_04_japan/Japan_1563.jpg
       description: Mir hat der Umgang der Stadt mit seiner Geschichte gefallen, sicherlich ist sie ein Mahnmal der Kriegsgeschichte, aber es ist nicht sehr bestimmend und der Friedensdenkmal, wie auch der Friedenspark, sind gut integriert. Zusätzlich gibt es auch etliche andere Sehenswürdigkeiten die es sich lohnt anzusehen, Pokemon-Center inklusive :D
+map_id: 1A0cTN2zA9A_EaRkQt9OGvFYxtadMHqYq
 ---
 
 Japan zu bereisen war schon immer ein großer Wunsch meiner Freundin und auch auf meiner Reiseliste stand es seit Ewigkeiten. 
@@ -40,6 +41,3 @@ Rückblickend war es genau das, was wir uns vorgestellt haben: Ein Misch aus Tra
 Für meinen Geschmack vielleicht zu viel Stadt und zu wenig Natur, aber das hat man ja eigentlich selbst in der Hand.
 
 [Zur Bildergalerie](/photography/japan-2017/){: .btn}
-
-{% include custom/route.html mapId="1A0cTN2zA9A_EaRkQt9OGvFYxtadMHqYq" %}
-{% include custom/itinerary.html %}

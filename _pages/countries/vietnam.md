@@ -27,15 +27,17 @@ itinerary:
       description: Da Nang war für uns nur ein Zwischenstopp, da es dort einen größeren Bahnhof gibt, über den wir in Richtung Mui Ne aufgebrochen sind. So wirklich beindruckend fand ich die Stadt nicht, das Imposanteste daran ist vielleicht die Drachenbrücke und die Pagode. Abgesehen davon ist der Hai Van Pass und die Marble Mountains einen Ausflug wert, was man aber auch durchaus von Hoi An machen kann.
     - name: Mui Ne
       description: Abschluss der Reise war ein Resort in Mui Ne. Die Stadt ist quasi eine Aneinanderreihung von größeren Hotels und Resorts. Wenn man einen Hotelurlaub am Strand machen will, könnte es vielleicht eine Option sein, aber eigentlich gibt es dafür auch schönere Orte. Schlecht war es dort nicht, aber jetzt auch nichts herausragendes.
+map_id: 1r6qh-U-oe5ZJmBoFf114DmF5mXBQ9sTf
 ---
 
 {% include custom/country-wip.html %}
 
-Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. Nach etwas Recherche, und abzüglich der Länder die ich schon bereist habe, fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger.
+Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. 
+Nach etwas Recherche und abzüglich der Länder, die ich schon bereist habe, 
+fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger.
  
-Insgesamt haben wir das Land drei Wochen lang bereist und neben den Metropolen Ho-Chi-Minh-Stadt und Hanoi, ging es auch an Strände, in kleinere Orte und in die Natur.
+Insgesamt haben wir das Land drei Wochen lang bereist und neben den Metropolen Ho-Chi-Minh-Stadt und Hanoi, 
+ging es auch an Strände, in kleinere Orte und in die Natur.
 
-Sicherlich sind etliche Reiseziele, wie die Halong-Bucht, sehr touristisch und auch in den größeren Städten mangelt es an Menschenmassen nicht, aber insgesamt konnte man sich gut erholen und hat meist ein ruhiges Fleckchen Erde für sich gefunden. 
-
-{% include custom/route.html mapId="1r6qh-U-oe5ZJmBoFf114DmF5mXBQ9sTf" %}
-{% include custom/itinerary.html %}
+Sicherlich sind etliche Reiseziele, wie die Halong-Bucht, sehr touristisch und auch in den größeren Städten mangelt es an Menschenmassen nicht, 
+aber insgesamt konnte man sich gut erholen und hat meist ein ruhiges Fleckchen Erde für sich gefunden. 

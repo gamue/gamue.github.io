@@ -20,6 +20,7 @@ itinerary:
     - name: Kanchanaburi
       image: assets/photography/2014_10_thailand/Thailand_0696.jpg
       description: Am Ende der Reise bin ich in Bangkok angekommen nach der vielen Natur und Ruhe war es mit etwas zu stressig, so dass ich noch einen Kurztrip nach Kanchanaburi eingebaut habe, was ich jedem empfehlen kann. Neben der berühmten Brücke am Kwai ist der Erawan Nationalpark sehr nahe und man findet eine grüne Oase vor den Toren Bangkoks.
+map_id: 10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK
 ---
 
 Da sehr viele von Südostasien schwärmen, dachte ich mir Ende 2014, ich schau mir das mal selbst an und bin zum Einstieg nach Thailand geflogen.
@@ -27,6 +28,3 @@ Saisonal bedingt war ich im Norden unterwegs und habe auch einen Abstecher nach 
 Die beiden Länder lassen sich super kombinieren und die Orte, die man sich gerne anschauen möchte, gehen eigentlich nicht aus ;)    
 
 [Zur Bildergalerie](/photography/thailand-2014/){: .btn}
-
-{% include custom/route.html mapId="10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK" %}
-{% include custom/itinerary.html %}

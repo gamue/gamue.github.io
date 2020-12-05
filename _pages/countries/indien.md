@@ -20,6 +20,8 @@ itinerary:
     - name: Varanasi
       image: assets/photography/2011_10_indien/dsc_9169.jpg
       description: Die heilige Stadt am Ganges. Ich weiß nicht wie ich die Stadt zusammenfassen kann, denn es kann so viel über sie sagen. Zum einen ist sie eine wichtige Städte im Hinduismus, da man durch sie dem ewigen Wiedergeburtskreislauf entfliehen kann, zum anderen liegt (aus meiner Sicht) aber genau da das Problem, denn wenn sterbenskranke Menschen zu tausenden in eine Stadt pilgern und Leichen rund um die Uhr verbrannt und die Asche in den Fluss gestreut wird, prägt das schon ziemlich das Stadtbild. Gepaart mit den nicht sehr hohen Hygienestandards, war das die vermutlich dreckigste Stadt auf meiner Reise und von dem was ich gehört habe, stehen die Chancen hoch sich dort irgendwas einzufangen. Gesehen sollte man es trotzdem haben, auch wenn es einen ziemlich verstört.
+map_id: 16H6_4xl5uwt91PZLog8xUBhNvYb4LN40
+country_tag: Indien
 ---
 
 Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen. 
@@ -28,7 +30,3 @@ Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varan
 zur nepalesischen Grenze in Sonauli.
 
 [Zur Bildergalerie](/photography/indien-2011/){: .btn}
-
-{% include custom/route.html mapId="16H6_4xl5uwt91PZLog8xUBhNvYb4LN40" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Indien" %}
