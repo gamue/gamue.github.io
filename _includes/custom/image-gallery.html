@@ -1,17 +1,15 @@
-{% if include.reverse == "true" %}
-    {% assign allFiles = site.static_files | reverse %}
-{% else %}
-    {% assign allFiles = site.static_files %}
-{% endif %}
+{%- if include.reverse == "true" -%}
+    {% assign allFiles = site.static_files | reverse -%}
+{%- else -%}
+    {%- assign allFiles = site.static_files -%}
+{%- endif -%}
 
-<figure class="image-gallery">
-    {% for file in allFiles %}
-    {% if file.path contains include.folder %}
-
-    <a href="{{ file.path }}">
-        {% cloudinary thumbnail {{file.path}} alt="" %}
+<figure class="flex flex-wrap">
+{%- for file in allFiles -%}
+    {%- if file.path contains include.folder -%}
+    <a href="{{ file.path }}" class="w-1/4 h-64 p-4">
+        {% cloudinary thumbnail {{file.path}} alt="" class="preview-image" %}
     </a>
-
-    {% endif %}
-    {% endfor %}
+    {%- endif -%}
+{%- endfor -%}
 </figure>
