@@ -147,7 +147,7 @@ Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich
 ## Kontakt
 
 Wenn du Fragen zu meinen Reisen oder einem Beitrag hast, schreib gerne einen Kommentar auf der jeweiligen Seite, 
-kontaktiere mich über das [Kontaktformular](/contact/) oder Social Media.
+kontaktiere mich über Social Media.
 
 ## Die längere Version
 

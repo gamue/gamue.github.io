@@ -70,6 +70,9 @@ Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tinc
 Pellentesque bibendum, erat vel sollicitudin molestie, risus quam fringilla risus, sit amet rhoncus diam magna sit amet metus. 
 Nulla nec condimentum velit, ac viverra libero. Vivamus feugiat, neque ut dictum gravida, diam libero placerat nibh, eget dictum diam nulla ac turpis. 
 
+Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
+{: .notice}
+
 Info-Box: Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 {: .notice--info}
 
