@@ -6,7 +6,7 @@
   {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}|{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign category_hashes = page_categories | split: ',' | sort %}
 
-  <div class="my-4 text-base">
+  <div class="my-4">
     <span class="font-semibold text-gray-500 pr-2"><svg class="icon"><use xlink:href="#icon-folder-open"></use></svg> Kategorien</span>
     <span itemprop="keywords">
     {% for hash in category_hashes %}
