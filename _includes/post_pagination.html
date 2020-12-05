@@ -2,7 +2,7 @@
 {%- assign disabledStyle = 'w-1/2 p-2 text-center font-semibold border border-gray-500 text-gray-500' -%}
 
 {% if page.previous or page.next %}
-  <nav class="container prose mt-8 py-8 border-t border-gray-100 flex">
+  <nav class="container prose prose-sm md:prose lg:prose-lg mt-8 py-8 border-t border-gray-100 flex">
     {% if page.previous %}
       <a href="{{ page.previous.url | relative_url }}" class="{{commonStyle}} rounded-l" title="{{ page.previous.title | markdownify | strip_html }}">Vorherige</a>
     {% else %}

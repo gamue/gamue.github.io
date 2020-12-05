@@ -10,8 +10,8 @@ layout: default
 
   {% unless page.header.overlay_image %}
     <header class="text-center mb-8">
-      <h1 itemprop="headline" class="text-4xl mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
-      {% if page.show_meta_data %}<div class="text-sm text-gray-500">{% include page__meta.html %}</div>{% endif %}
+      <h1 itemprop="headline" class="text-3xl sm:text-4xl mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+      {% if page.show_meta_data %}<div class="text-xs sm:text-sm text-gray-500">{% include page__meta.html %}</div>{% endif %}
     </header>
   {% endunless %}
 
@@ -24,7 +24,7 @@ layout: default
   </aside>
   {%- endif -%}
 
-  <section itemprop="text" class="container{% unless page.typography == false %} prose{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
+  <section itemprop="text" class="container{% unless page.typography == false %} prose prose-sm md:prose lg:prose-lg{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
 
     {{ content }}
   </section>

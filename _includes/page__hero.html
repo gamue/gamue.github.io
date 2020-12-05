@@ -13,8 +13,8 @@
   style="{% if page.header.overlay_image %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
 >
   {% if page.header.overlay_image %}
-    <div class="container text-white text-center text-shadow-lg">
-      <h1 id="page-title" class="text-5xl font-bold mb-4" itemprop="headline">
+    <div class="container text-white text-center text-shadow-lg text-sm lg:text-base">
+      <h1 id="page-title" class="text-4xl lg:text-5xl font-bold mb-4" itemprop="headline">
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
       </h1>
 
