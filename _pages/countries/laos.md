@@ -17,6 +17,7 @@ itinerary:
     - name: Vientiane
       image: assets/photography/2014_11_laos/Laos_540.jpg
       description: Hauptstadt von Laos und nach den kleineren Städten zuvor, wieder mehr Zivilisation. Mit dem Triumphbogen und einigen Tempeln hat es kulturell einiges zu bieten, auch wenn ich die vorherigen Stationen wegen deren grüner Umgebung und Gelassenheit immer vorziehen würde, trotzdem fand ich es eine schöne Stadt in der man ein paar Tage bleiben kann.
+map_id: 1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr
 ---
 
 Da ich im November 2014 im [Norden Thailands](/thailand/) unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. 
@@ -24,6 +25,3 @@ Auch wenn ich nur einen kleinen Teil des Landes gesehen habe, war dieser sehr be
 entsprochen was ich wollte. Ich kann das Land in jedem Fall weiterempfehlen und würde in jedem Fall wieder hingehen.
 
 [Zur Bildergalerie](/photography/laos-2014/){: .btn}
-
-{% include custom/route.html mapId="1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr" %}
-{% include custom/itinerary.html %}

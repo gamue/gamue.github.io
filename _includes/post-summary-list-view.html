@@ -10,9 +10,9 @@
     {%- assign title = post.title -%}
 {%- endif -%}
 
-<article class="w-3/4 mb-8 p-2" itemscope itemtype="https://schema.org/CreativeWork">
+<article class="w-3/4 mb-8 p-2">
     <a href="{{ post.url | relative_url }}" rel="permalink">
-        <h1 class="text-red-900 mb-2" itemprop="headline">{{ title }}</h1>
+        <h1 class="text-red-900 mb-2">{{ title }}</h1>
 
         <div class="flex">
             {%- if teaser -%}
@@ -26,7 +26,7 @@
                     <div class="text-gray-500 text-sm mb-2">{% include page__meta.html %}</div>
                 {%- endif %}
                 {%- if post.excerpt -%}
-                    <p itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>
+                    <p>{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>
                 {%- endif -%}
             </div>
         </div>

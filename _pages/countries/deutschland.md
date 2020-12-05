@@ -4,6 +4,7 @@ permalink: /deutschland/
 header:
     teaser: assets/photography/2020_07_deutschland/Deutschland_0355.jpg
     overlay_image: assets/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg
+itinerary_title: Stationen Rundreise 2020
 itinerary:
     - name: Nürnberg
       image: assets/photography/2020_07_deutschland/Deutschland_0070.jpg
@@ -20,6 +21,8 @@ itinerary:
     - name: Pünderich
       image: assets/photography/2020_07_deutschland/Deutschland_1123.jpg
       description: Das Moseltal ist voll mit schönen Orten, die reich an Fachwerkhäusern, Campingplätzen und Winzereien sind. Einer davon ist Pünderich und wir haben die Zeit dort sehr genossen. Viele Sehenswürdigkeiten ließen sich von hier aus leicht erreichen und innerhalb von wenigen Minuten war man umgeben von Weinreben.
+map_id: 1nxd7wOQwQgT_Ea1HcZQNTTkRpzbl9qaW
+country_tag: Deutschland
 ---
 
 Es muss nicht immer weit in die Ferne gehen, denn auch in Deutschland gibt es vieles zu sehen und zu erleben.
@@ -42,7 +45,3 @@ Am Ende war das aber überhaupt nicht schlimm, denn auch hier gibt es echt schö
 ins Berchtesgadener Land, Allgäu, an den Bodensee und ins Moseltal.
 
 [Zur Deutschland-Galerie](/photography/deutschland-2020/){: .btn}
-
-{% include custom/route.html mapId="1nxd7wOQwQgT_Ea1HcZQNTTkRpzbl9qaW" %}
-{% include custom/itinerary.html headline="Stationen Rundreise 2020" %}
-{% include custom/posts-with-tag.html tag="Deutschland" %}

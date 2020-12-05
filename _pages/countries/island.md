@@ -26,6 +26,8 @@ itinerary:
     - name: Thingvellir
       image: assets/photography/2012_06_island/dsc_1529.jpg
       description: Neben Geysir und Gullfoss eines der Highlights der Goldenen Circle Tour, die vermutlich jeder Island-Tourist unternimmt. Wir haben in Thingvellir unsere Zelte aufgeschlagen um dort noch etwas mehr Zeit zu verbringen. Abgesehen von den vielen Mücken, eine traumhafte Landschaft mit beeindruckender Historie und zusätzlich treffen sich hier die eurasische und amerikanische Erdplatten.
+map_id: 1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI
+country_tag: Island
 ---
 
 Zusammen mit zwei Freunden bin ich im Juni 2012 zu einer 19tägigen Campingtour in den Süden Islands aufgebrochen.
@@ -36,7 +38,3 @@ Auch wenn es sicherlich eines der Ziele ist, die häufig empfohlen werden, kann 
 dann aber mit Mietwagen^^
 
 [Zur Bildergalerie](/photography/island-2012/){: .btn}
-
-{% include custom/route.html mapId="1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Island" %}

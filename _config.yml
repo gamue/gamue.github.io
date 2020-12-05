@@ -74,15 +74,15 @@ defaults:
     values:
       layout: single
   - scope:
-      path: _pages/photography
+      path: _pages/photography/*
       type: pages
     values:
       full_width: true
   - scope:
-      path: _pages/countries
+      path: _pages/countries/*
       type: pages
     values:
-      full_width: true
+      layout: country
       comments: true
       search: true
 

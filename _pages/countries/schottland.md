@@ -26,6 +26,8 @@ itinerary:
     - name: Edinburgh
       image: assets/photography/2013_07_schottland/Schottland_1040_tonemapped.jpg
       description: Schottlands Hauptstadt kann vermutlich allein eine Reise füllen. Gerade das Schloss, die Altstadt und die nahegelegenen Hügel haben mich sehr beeindruckt. Falls also jemand ein Ziel für einen Wochenendtrip sucht, sollte sich mal Edinburgh näher anschauen.
+map_id: 13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e
+country_tag: Schottland
 ---
 
 Im Juli 2013 ging es mal wieder auf Erkundungstour, dieses Mal nach Schottland. Highland- und Whiskytour inklusive^^
@@ -35,7 +37,3 @@ Zugegebener Weise war der Hochsommer, mit einer Rekordhitze, nicht die beste Wah
 aber dann eben mehr Tagestouren und die Städte hatten auch einiges zu bieten.  
 
 [Zur Bildergalerie](/photography/schottland-2013/){: .btn}
-
-{% include custom/route.html mapId="13M0bhnclOXshJVWDQx-L2Q3Suqd-Yi-e" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Schottland" %}

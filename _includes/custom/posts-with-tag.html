@@ -1,8 +1,14 @@
-## Artikel über {{ include.tag }}
-<div>
-{% for post in site.posts %}
-    {% if post.tags contains include.tag %}
-        {% include post-summary-grid-view.html %}
-    {% endif %}
-{% endfor %}
-</div>
+{%- if page.country_tag -%}
+<article class="py-8">
+    <h1 class="mb-2">Artikel über {{ page.country_tag }}</h1>
+    <article class="flex flex-wrap">
+    {% for post in site.posts %}
+        {% if post.tags contains page.country_tag %}
+            {% include post-summary-grid-view.html %}
+        {% endif %}
+    {% endfor %}
+    </article>
+</article>
+{%- endif -%}
+
+

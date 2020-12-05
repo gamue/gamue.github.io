@@ -26,6 +26,7 @@ itinerary:
     - name: Beruwala
       image: assets/photography/2016_12_sri_lanka/SriLanka_1022.jpg
       description: Außer den vielen Resorts und größeren Hotels gibt es glaube ich in der Gegend nicht viel zu sehen, aber wer hier herkommt, hat vermutlich eh nichts anderes vor ;)
+map_id: 1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW
 ---
 
 In der Vorweihnachtszeit 2016 ging auf eine Fernreise, dieses Mal ins warme Sri Lanka. 
@@ -33,6 +34,3 @@ Der knapp 2 wöchige Trip ist als eine Backpacking-Tour gestartet und nachdem wi
 und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, was für sich wieder eine ganz eigene Welt war.
 
 [Zur Bildergalerie](/photography/sri-lanka-2016/){: .btn}
-
-{% include custom/route.html mapId="1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW" %}
-{% include custom/itinerary.html %}

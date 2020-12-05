@@ -23,6 +23,8 @@ itinerary:
     - name: Nagarkot
       image: assets/photography/2011_10_nepal/Nepal_1077b.jpg
       description: Das kleine Bergdorf ist wegen seinem Ausblick auf diverse Gebirgsketten, wie beispielsweise dem Everest, ein beliebtes Ausflugsziel. Man darf aber nicht vergessen, dass man für einen solchen Ausblick immer etwas Glück braucht. Aufgrund der Höhe war es dort auch deutlich frischer als im restlichen Land.
+map_id: 1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq
+country_tag: Nepal
 ---
 
 Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen.
@@ -33,7 +35,3 @@ Leider hatte ich für die mehrtägigen Trekkingtouren, die dort starten keine Ze
 die schöne Natur und das umfangreiche Tierreich genießen, bevor es zum Ausklang der Tour nach Kathmandu und für einen Abstecher nach Nagarkot ging.
 
 [Zur Bildergalerie](/photography/nepal-2011/){: .btn}
-
-{% include custom/route.html mapId="1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq" %}
-{% include custom/itinerary.html %}
-{% include custom/posts-with-tag.html tag="Nepal" %}

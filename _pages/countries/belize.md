@@ -20,6 +20,7 @@ itinerary:
     - name: Belize City
       image: assets/photography/2019_04_belize/Belize_1019.jpg
       description: Die ehemalige Hauptstadt hat nicht den besten Ruf. Wir haben uns daher dafür entschieden sie auszulassen und die letzte Nacht etwas ausserhalb in einem AirBnB zu verbringen. Freunde des Gastgebers haben uns vom Busbahnhof abgeholt und anschliessend etwas durch die Stadt gefahren, so dass wir doch noch ein paar Highlights sehen konnten. Ich hab in jedem Fall nicht das Gefühl etwas verpasst gehabt zu haben.
+map_id: 1OgN-vpaEXxEr3VOGUYAFpfrvQsqAvDIU
 ---
 
 Da die bisherigen Reisen vor allem nach Europa und Asien gingen, wollten wir uns 2019 einmal den amerikanischen Kontinent anschauen und so ging es für knapp 3 Wochen im April/Mai nach Belize.
@@ -33,5 +34,3 @@ Ich würde in jedem Fall wieder dort hin reisen.
 
 [Zur Bildergalerie](/photography/belize-2019/){: .btn}
 
-{% include custom/route.html mapId="1OgN-vpaEXxEr3VOGUYAFpfrvQsqAvDIU" %}
-{% include custom/itinerary.html %}
