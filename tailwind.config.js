@@ -50,6 +50,22 @@ module.exports = {
                         },
                     },
                 },
+                sm:{
+                    css: {
+                        img: {
+                          marginTop: 0,
+                          marginBottom: 0,
+                        },
+                    },
+                },
+                lg:{
+                    css: {
+                        img: {
+                          marginTop: 0,
+                          marginBottom: 0,
+                        },
+                    },
+                },
             },
         },
     },
