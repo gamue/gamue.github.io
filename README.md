@@ -2,9 +2,12 @@
 
 Source code of my [private homepage](https://gamue.de).
 
-- Build with Static Site Generator [Jekyll](https://jekyllrb.com/) and based on theme [minimal-mistake](https://github.com/mmistakes/minimal-mistakes)
+- Build with Static Site Generator [Jekyll](https://jekyllrb.com/) 
+- Design based on theme [minimal-mistake](https://github.com/mmistakes/minimal-mistakes)
+- CSS created with [TailwindCSS](https://tailwindcss.com/)
 - Icons from [IcoMoon Free bundle](https://icomoon.io/app/#/select)
-- Search based on [Lunr](https://lunrjs.com/)
+- ~Search based on [Lunr](https://lunrjs.com/)~~ Currently removed due redesign
+- Table of Content by [jekyll-toc](ttps://github.com/allejo/jekyll-toc)
 
 
 ## Kategorien / Tags
