@@ -132,7 +132,7 @@ Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich
 
 {% include custom/visited-countries.html countries=page.visitedCountries %}
 
-<div class="text-sm mt-4 flex flex-wrap justify-center">
+<div class="text-xs md:text-sm mt-4 flex flex-wrap justify-center">
 {% for country in page.visitedCountries %}
     <span class="p-1 m-0.5 border border-gray-300 rounded-lg">
     {% if country.link %}
