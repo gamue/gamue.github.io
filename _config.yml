@@ -78,6 +78,7 @@ defaults:
       type: pages
     values:
       full_width: true
+      typography: false
   - scope:
       path: _pages/countries/*
       type: pages
