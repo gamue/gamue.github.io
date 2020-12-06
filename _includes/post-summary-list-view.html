@@ -10,23 +10,23 @@
     {%- assign title = post.title -%}
 {%- endif -%}
 
-<article class="w-3/4 mb-8 p-2">
+<article class="w-3/4 xl:w-2/3 mb-8 p-2">
     <a href="{{ post.url | relative_url }}" rel="permalink">
         <h1 class="text-red-900 mb-2">{{ title }}</h1>
 
         <div class="flex">
             {%- if teaser -%}
-            <div class="flex-none h-48 w-48 mr-4">
+            <div class="flex-none h-48 w-full sm:w-48 mr-4">
                 {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
             </div>
             {%- endif -%}
 
-            <div>
+            <div class="hidden sm:block">
                 {%- if post.show_meta_data -%}
-                    <div class="text-gray-500 text-sm mb-2">{% include page__meta.html %}</div>
+                    <div class="text-gray-500 text-xs md:text-sm mb-2">{% include page__meta.html %}</div>
                 {%- endif %}
                 {%- if post.excerpt -%}
-                    <p>{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>
+                    <p class="text-sm md:text-base">{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>
                 {%- endif -%}
             </div>
         </div>
