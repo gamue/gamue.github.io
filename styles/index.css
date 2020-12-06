@@ -54,7 +54,7 @@
     }
 
     .toc{
-      @apply text-gray-700 text-sm w-1/2 mx-auto my-4 border rounded;
+      @apply text-gray-700 text-sm w-11/12 lg:w-3/4 xl:w-7/12 mx-auto my-4 border rounded;
     }
     .toc h4{
       @apply bg-gray-200 px-3 py-1 font-bold;
