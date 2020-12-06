@@ -3,6 +3,7 @@ title: Styling Guide
 permalink: /style/
 header:
     overlay_image: assets/photography/2020_07_deutschland/Deutschland_0334.jpg
+tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 gallery:
   - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
   - image_path: assets/photography/2017_04_japan/Japan_1425.jpg
@@ -12,6 +13,7 @@ gallerySingle:
   - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
 sitemap: false
 published: false
+toc: true
 ---
 
 # h1 headline
@@ -118,19 +120,19 @@ Item
 Item
 : Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 
-## Gallery Single
+# Gallery Single
 
 {% include gallery id="gallerySingle" %}
 
-## Gallery Half
+# Gallery Half
 
 {% include gallery layout="half" %}
 
-## Gallery Third
+# Gallery Third
 
 {% include gallery %}
 
-## Einzelbild
+# Einzelbild
 
 {% cloudinary /assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg alt="Clip am Rucksack" %}
 
