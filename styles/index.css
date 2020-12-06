@@ -35,10 +35,10 @@
     }
 
     a.btn{
-      @apply font-medium inline-block bg-gray-500 text-white rounded py-1.5 px-2.5;
+      @apply font-medium inline-block bg-gray-500 text-white rounded py-1.5 px-2.5 !important;
     }
     a.btn:hover{
-      @apply bg-gray-600 no-underline;
+      @apply bg-gray-600 no-underline !important;
     }
 
     .prose img{

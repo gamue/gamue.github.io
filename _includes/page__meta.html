@@ -2,7 +2,7 @@
 
 {% if document.date %}
   {% assign date = document.date %}
-  <span class="pr-4">
+  <span class="pr-4 pb-1">
     <svg class="icon"><use xlink:href="#icon-calendar"></use></svg>
     <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>
   </span>
