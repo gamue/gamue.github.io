@@ -11,7 +11,6 @@ description: "Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotogr
 repository: "gamue/gamue.github.io"
 baseurl: ""
 url: "https://gamue.de"
-logo: "assets/images/j_logo_75.jpg"
 og_image: "assets/images/j_logo.jpg"
 words_per_minute: 200
 search: true
