@@ -78,6 +78,7 @@ defaults:
     values:
       full_width: true
       typography: false
+      lightbox: true
   - scope:
       path: _pages/countries/*
       type: pages

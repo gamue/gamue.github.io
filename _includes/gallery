@@ -1,20 +1,22 @@
-{% if include.id %}
-  {% assign gallery = page[include.id] %}
-{% else %}
-  {% assign gallery = page.gallery %}
-{% endif %}
+{%- if include.id -%}
+  {%- assign gallery = page[include.id] -%}
+  {%- assign galleryName = include.id -%}
+{%- else -%}
+  {%- assign gallery = page.gallery -%}
+  {%- assign galleryName = 'image-gallery' -%}
+{%- endif -%}
 
-{% if include.layout %}
+{%- if include.layout -%}
   {% assign gallery_layout = include.layout %}
-{% else %}
-  {% if gallery.size == 2 %}
+{%- else -%}
+  {%- if gallery.size == 2 -%}
     {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 3 %}
+  {%- elsif gallery.size >= 3 -%}
     {% assign gallery_layout = 'third' %}
-  {% else %}
+  {%- else -%}
     {% assign gallery_layout = '' %}
-  {% endif %}
-{% endif %}
+  {%- endif -%}
+{%- endif -%}
 
 {% if gallery_layout == 'half' %}
   {% assign element_class = 'w-1/2' %}
@@ -24,7 +26,7 @@
   {% assign element_class = 'w-full' %}
 {% endif %}
 
-<figure class="flex flex-wrap">
+<figure class="flex flex-wrap {{galleryName}}">
   {% for img in gallery %}
       <a href="{{ img.image_path | relative_url }}" class="flex-none p-1.5 {{ element_class }}">
         {% cloudinary thumbnail {{ img.image_path | relative_url }} %}
@@ -34,3 +36,7 @@
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>
+
+<script>
+    new SimpleLightbox({elements: '.{{galleryName}} a'});
+</script>

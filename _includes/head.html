@@ -12,3 +12,8 @@
 </script>
 
 <link rel="stylesheet" href="{{ '/dist/index.css' | relative_url }}">
+
+{%- if page.gallery or page.lightbox == true -%}
+<script src="{{ '/assets/js/simpleLightbox.min.js' | relative_url }}"></script>
+<link rel="stylesheet" href="{{ '/styles/simpleLightbox.min.css' | relative_url }}">
+{%- endif -%}
