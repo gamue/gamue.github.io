@@ -5,12 +5,6 @@ var store = [{
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/belize/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2019_04_belize/Belize_0317.jpg"},{
-         "title": "Destinationen",
-         "excerpt":
-             "                                 Belize                                                                                                                                                                  Deutschland                                                                                                                                                                  Georgien                                                                                                                                                                  Indien                                                                                                                                                                  Irland                                                                                                                                                                  Island                                                                                                                                                                  Israel                                                                                                                                                                  Japan                                                                                                                                                                  Jordanien                                                                                                                                                                  Laos                                                                                                                                                                  Marokko                                                                                                                                                                  Nepal                                                                                                                                                                  Rumänien                                                                                                                                                                  Schottland                                                                                                                                                                  Sri Lanka                                                                                                                                                                  Thailand                                                                                                                                                                  Vietnam                                                                                                                                         ",
-         "categories": null,
-         "tags": null,
-         "url": "https://gamue.de/laender/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2012_06_island/dsc_1072.jpg"},{
          "title": "Deutschland",
          "excerpt":
              "Es muss nicht immer weit in die Ferne gehen, denn auch in Deutschland gibt es vieles zu sehen und zu erleben. Die meisten Städte und Sehenswürdigkeiten habe ich als Kurzreise besichtigt und wenn ich auf der Karte alles markieren würde, was ich gesehen habe, dann wären da viel zu viele...",
@@ -25,13 +19,13 @@ var store = [{
          "url": "https://gamue.de/georgien/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_06_georgien/Georgien_0424b.jpg"},{
          "title": "Indien",
          "excerpt":
-             "Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen. Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varanasi ging es auf dem Landweg zur nepalesischen Grenze in Sonauli. Zur Bildergalerie Reiseroute Stationen Delhi Diese Metropole, die die Hauptstadt...",
+             "Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen.   Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varanasi ging es auf dem Landweg  zur nepalesischen Grenze in Sonauli.   Zur Bildergalerie  ",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/indien/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2011_10_indien/dsc_8266.jpg"},{
          "title": "Irland",
          "excerpt":
-             "Anfang 2009 führte mich meine erste Flugreise nach Irland. Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die (noch nicht wirklich grüne) Insel. Zur Bildergalerie Reiseroute Stationen Dublin Irlands Hauptstadt ist voller Sehenswürdigkeiten und Pubs. In jedem Fall eine schöne Stadt, in die sich auch mal ein...",
+             "Anfang 2009 führte mich meine erste Flugreise nach Irland.  Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die (noch nicht wirklich grüne) Insel.   Zur Bildergalerie  ",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/irland/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2009_02_irland/Irland_2009_Johannes_711.jpg"},{
@@ -103,7 +97,7 @@ var store = [{
          "url": "https://gamue.de/thailand/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2014_10_thailand/Thailand_0630.jpg"},{
          "title": "Vietnam",
          "excerpt":
-             "{% include custom/country-wip.html %} Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. Nach etwas Recherche, und abzüglich der Länder die ich schon bereist habe, fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger. Insgesamt haben wir das...",
+             "{% include custom/country-wip.html %} Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. Nach etwas Recherche und abzüglich der Länder, die ich schon bereist habe, fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger. Insgesamt haben wir das...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/vietnam/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/countries/vietnam/Vietnam_10_043.JPG"},{
@@ -568,7 +562,7 @@ var store = [{
         "tags": [],
         "url": "https://gamue.de/reisen-nach-covid-19/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-08-02-reisen-nach-covid/ross-parmly-rf6ywHVkrlY-unsplash.jpg"},{
         "title": "Kamera- und Objektiv-Kaufberatung: Die Grundlagen",
-        "excerpt":"Ich überlege zur Zeit mein Kamerasystem zu aktualisieren und da ich ab und an von Freunden gefragt werde, auf was man beim Kamerakauf achten soll, dachte ich mir, es ist eine gute Idee mal alles herunterzuschreiben. In dem Artikel will ich die grundsätzlichen Begriffe und Kriterien erklären, die du kennen...","categories": ["Fotografie"],
+        "excerpt":"Ich überlege zurzeit mein Kamerasystem zu aktualisieren und da ich ab und an von Freunden gefragt werde, auf was man beim Kamerakauf achten soll, dachte ich mir, es ist eine gute Idee mal alles herunterzuschreiben. In dem Artikel will ich die grundsätzlichen Begriffe und Kriterien erklären, die du kennen solltest,...","categories": ["Fotografie"],
         "tags": ["Fotowissen"],
         "url": "https://gamue.de/kamera-kaufberatung-grundlagen/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-08-09-kaufberatung-kamera-grundlagen/thumbnail.jpg"},{
         "title": "Superzooms: Die idealen Objektive?",

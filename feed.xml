@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2020-11-29T13:40:07+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><author><name>Johannes Ganzenmüller</name></author><entry><title type="html">Review: Tenba Tools BYOB 9 und 10</title><link href="https://gamue.de/review-tenba-tools-byob-9-und-10/" rel="alternate" type="text/html" title="Review: Tenba Tools BYOB 9 und 10" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://gamue.de/tenba-tools-byob</id><content type="html" xml:base="https://gamue.de/review-tenba-tools-byob-9-und-10/">&lt;p&gt;Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2020-12-10T19:40:06+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><author><name>Johannes Ganzenmüller</name></author><entry><title type="html">Review: Tenba Tools BYOB 9 und 10</title><link href="https://gamue.de/review-tenba-tools-byob-9-und-10/" rel="alternate" type="text/html" title="Review: Tenba Tools BYOB 9 und 10" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://gamue.de/tenba-tools-byob</id><content type="html" xml:base="https://gamue.de/review-tenba-tools-byob-9-und-10/">&lt;p&gt;Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, 
 wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. 
 Gerade wenn ich nur mit Handgepäck reise, ist Platz ein kostbares Gut.&lt;/p&gt;
 
@@ -655,39 +655,39 @@ Beispielsweise eine neue Staffel einer guten Serie, ein neues Spiel oder andere 
 &lt;p&gt;Auf den Bildern kann man sehen, dass wir nicht immer das beste Wetter hatten, aber wirklich schlecht war es ehrlich gesagt auch nicht 
 und ich finde, gerade bei den Wanderungen durch die Almbach- und Breitachklamm sind etliche Fotos entstanden, die mir sehr gefallen.&lt;/p&gt;
 
-&lt;figure class=&quot;half&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
   
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0121.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0121.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0121.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;662&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0305.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0305.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0305.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;662&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0715.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0715.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0715.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0959.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0959.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0959.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_1089.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_1089.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 250w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_1089.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
@@ -696,7 +696,11 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https:/
   
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&quot;/photography/deutschland-2020/&quot; class=&quot;btn btn--primary&quot;&gt;Zur kompletten Bildergalerie&lt;/a&gt;&lt;/p&gt;
+&lt;script&gt;
+    new SimpleLightbox({elements: '.image-gallery a'});
+&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;/photography/deutschland-2020/&quot; class=&quot;btn&quot;&gt;Zur kompletten Bildergalerie&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Ich hoffe euch gefallen die Bilder und, wie immer, freue ich mich auf Feedback oder konstruktive Kritik :)&lt;/p&gt;
 
