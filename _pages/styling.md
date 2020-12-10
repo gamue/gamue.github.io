@@ -8,7 +8,13 @@ gallery:
   - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
   - image_path: assets/photography/2017_04_japan/Japan_1425.jpg
   - image_path: assets/photography/2017_04_japan/Japan_0711b.jpg
-  - image_path: assets/photography/2017_04_japan/Japan_1155.jpg
+  - image_path: assets/photography/2017_04_japan/Japan_1155.jpg 
+gallery2:
+    - image_path: assets/photography/2014_11_laos/Laos_059.jpg
+    - image_path: assets/photography/2014_11_laos/Laos_096.jpg
+    - image_path: assets/photography/2014_11_laos/Laos_188.jpg
+    - image_path: assets/photography/2014_11_laos/Laos_306.jpg
+    - image_path: assets/photography/2014_11_laos/Laos_589.jpg
 gallerySingle:
   - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
 sitemap: false
@@ -122,7 +128,7 @@ Item
 
 # Gallery Single
 
-{% include gallery id="gallerySingle" %}
+{% include gallery id="gallerySingle" caption="Godzilla in Tokio" %}
 
 # Gallery Half
 
@@ -130,7 +136,7 @@ Item
 
 # Gallery Third
 
-{% include gallery %}
+{% include gallery id="gallery2" %}
 
 # Einzelbild
 
