@@ -32,6 +32,10 @@ exclude:
   - node_modules
   - vendor
   - README.md
+  - styles/index.css
+  - styles/syntax.css
+  - postcss.config.js
+  - tailwind.config.js
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -104,7 +108,7 @@ compress_html:
 
 cloudinary:
   cloud_name: gamue
-  only_prod: true #disable for development
+  only_prod: false
   verbose: true
   presets:
     default:
