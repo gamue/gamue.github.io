@@ -50,4 +50,4 @@ War aber alles kein Problem, die Leute im Hostel kannten sich ja aus.
 Wirklich gefallen hat mir der Plan nicht, denn es ging mit einem Zug um 5:30 Uhr los, also mal wieder kein wirklich langer Schlaf für mich…
 ob ich es jemals schaffen werde auf Reisen ausschlafen zu können? 😛
 
-{% include gallery %}
+{% include gallery.html %}

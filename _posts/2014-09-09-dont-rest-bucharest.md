@@ -35,4 +35,4 @@ Davon abgesehen hatte ich in der etwas mehr als 3wöchigen Odyssee quer durch Eu
 An dem ein oder anderen Ort hätte ich vermutlich mehr Zeit verbringen und die Wanderungen hätten besser funktionieren können, 
 aber ich kann ja wiederkommen und vielleicht hab ich dann auch Glück und mir lauft ein Bär vor die Linse ^^
 
-{% include gallery %}
+{% include gallery.html %}

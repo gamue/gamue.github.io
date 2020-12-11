@@ -28,7 +28,7 @@ Beispielsweise eine neue Staffel einer guten Serie, ein neues Spiel oder andere 
 Auf den Bildern kann man sehen, dass wir nicht immer das beste Wetter hatten, aber wirklich schlecht war es ehrlich gesagt auch nicht 
 und ich finde, gerade bei den Wanderungen durch die Almbach- und Breitachklamm sind etliche Fotos entstanden, die mir sehr gefallen.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie][1]{: .btn}
 

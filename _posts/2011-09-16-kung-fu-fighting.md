@@ -66,4 +66,4 @@ die man ab und an im Fernsehen sieht. Hellblaue Farbe, stark heruntergekommen, s
 Da es mehrere Gruppen waren habe ich eine ganze Weile mit gemacht, aber als meine Fußsohlen blutig waren hab ich dann doch lieber ausgesetzt, 
 hatte ja noch genug Tage übrig an denen ich die weiterquälen konnte =)
 
-{% include gallery %}
+{% include gallery.html %}

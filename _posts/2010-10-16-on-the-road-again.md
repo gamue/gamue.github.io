@@ -54,4 +54,4 @@ ich frag mich was komischer ist, das ich auf Friedhöfen fotografiere oder das d
 
 Damit sind meine ersten beiden Reisen und ~1420km auch schon zusammengefasst, demnächst gibt es dazu auch [Bilder](/photography/) und die Geschichten der anderen Kilometer 😉
 
-{% include gallery %}
+{% include gallery.html %}

@@ -53,4 +53,4 @@ oder Internetcafes. Letzteres war auch ziemlich nötig, da meine eigentlich näc
 abgesagt hatte musste ich noch auf die Schnelle etwas anderes auftreiben. 
 Wie es halt mal so ist liegt Pech und Glück recht nahe beieinander, und so hab ich auch etwas aufgetrieben bekommen 🙂
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

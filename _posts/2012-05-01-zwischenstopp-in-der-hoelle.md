@@ -58,4 +58,4 @@ Die kurzzeitige Verwirrung hab ich genutzt um schnell mein Gepäck zu nehmen und
 
 Mit quietschenden Reifen und unter vermutlich unfreundlichen Rufen der zurückgelassenen Taxifahrern, ging es dann endlich raus aus Khajuraho.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

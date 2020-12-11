@@ -56,4 +56,4 @@ Während wir Wasser für das Abendessen aufgekocht haben, haben ein paar brummig
 die vor der Tür standen und auf denen „Wild Russia“ stand. Die Boxen waren natürlich prallgefüllt mit Nahrungsmittel jeglicher Art…
 irgendwas hatten wir wohl falsch gemacht.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

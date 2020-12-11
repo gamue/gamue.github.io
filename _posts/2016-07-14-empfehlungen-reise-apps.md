@@ -62,7 +62,7 @@ es gibt nun auch eine Pro-Version (gleicher Funktionsumfang, jedoch ohne Werbung
 
 Links: [iOS](https://itunes.apple.com/en/app/currency/id284220417) \| [Android](https://play.google.com/store/apps/details?id=com.currencyapp.currencyandroid)
 
-{% include gallery id="appCurrency" caption="Currency" %}
+{% include gallery.html id="appCurrency" caption="Currency" %}
 
 
 # CityMaps2Go
@@ -90,7 +90,7 @@ Tipp: Das GPS-Signal ist normalerweise auch im Flugmodus verfügbar, so dass man
 
 Links: [Hersteller](http://www.ulmon.com/) \| [iOS](https://itunes.apple.com/us/app/citymaps2go-save-places!-plan/id408866084) \| [Android](https://play.google.com/store/apps/details?id=com.ulmon.android.citymaps2go)
 
-{% include gallery id="appCityMaps" caption="CityMaps2Go" %}
+{% include gallery.html id="appCityMaps" caption="CityMaps2Go" %}
 
 # Google Maps
 Eigentlich wollte ich die Standard-Apps, wozu Google Maps für mich gehört, weglassen. Aber weil die wenigsten Wissen, 
@@ -111,7 +111,7 @@ Links:
 * Google Maps [iOS](https://itunes.apple.com/us/app/google-maps-real-time-navigation/id585027354) \| [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 * here [iOS](https://itunes.apple.com/us/app/here-maps-offline-navigation/id955837609) \| [Android](https://play.google.com/store/apps/details?id=com.here.app.maps) 
 
-{% include gallery id="appGoogleMaps" caption="Google Maps" %}
+{% include gallery.html id="appGoogleMaps" caption="Google Maps" %}
 
 # Hostelworld / Booking.com
 Wenn ich mit dem Rucksack durch irgendein Land reise, hab ich meistens einen groben Plan wohin es gehen soll, 
@@ -128,7 +128,7 @@ Links:
 * Hostelword [iOS](https://itunes.apple.com/bw/app/hostelworld-book-hostels-budget/id348890820) \| [Android](https://play.google.com/store/apps/details?id=com.hostelworld.app) 
 * Booking.com  [iOS](https://itunes.apple.com/us/app/booking.com-hotel-reservations/id367003839) \| [Android](https://play.google.com/store/apps/details?id=com.booking)
 
-{% include gallery id="appHotels" caption="Hostelworld (links) und Booking.com (rechts)" %}
+{% include gallery.html id="appHotels" caption="Hostelworld (links) und Booking.com (rechts)" %}
 
 # Skyscanner / Swoodoo
 Ich gebe zu, die Flugsuch-Apps von Skyscanner und Swoodoo habe ich selbst selten auf Reisen benutzt. 
@@ -142,7 +142,7 @@ Links:
  * Skyscanner [iOS](https://itunes.apple.com/us/app/skyscanner/id415458524) \| [Android](https://play.google.com/store/apps/details?id=net.skyscanner.android.main) 
  * Swoodoo [iOS](https://itunes.apple.com/us/app/swoodoo-billige-fluge-hotels/id362070846) \| [Android](https://play.google.com/store/apps/details?id=com.kayak.android.swoodoo)
 
-{% include gallery id="appFlug" caption="Skyscanner (links) und Swoodoo (rechts)" %}
+{% include gallery.html id="appFlug" caption="Skyscanner (links) und Swoodoo (rechts)" %}
 
 # Snapseed
 Ich bin kein Freund von extremer Bildbearbeitung und besonders von Fotofiltern, weil ich gern Kontrolle über die Details haben möchte. 
@@ -154,7 +154,7 @@ für den gibt es sogar auch einiges in der App ^^
 
 Links: [iOS](https://itunes.apple.com/EN/app/snapseed/id439438619) \| [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en)
 
-{% include gallery id="appSnapseed" caption="Snapseed" %}
+{% include gallery.html id="appSnapseed" caption="Snapseed" %}
 
 Und damit sind wir auch schon am Ende meiner Auflistung, ich hoffe für den ein oder anderen war etwas neues und interessantes dabei. Solltet ihr selbst auch App-Empfehlungen haben, lasst mich es wissen 😉  
 P.S.: Auf Reisen ist mein Smartphone fast ausschließlich im Flugmodus, damit hält der Akku echt erstaunlich lange, ich kann mich trotzdem in WLANs einklinken und werde von Anrufen nicht gestört 😛

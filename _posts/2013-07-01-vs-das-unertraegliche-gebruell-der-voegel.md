@@ -55,4 +55,4 @@ erinnerte doch stark an einen Raumschifflaser. Und da soll man dann entspannen o
 immer mit der Vorahnung dass gleich ein Gorn oder sonstige Außerirdische irgendwo landen und man in einen intergalaktischen Konflikt rein gezogen wird…
 ohje, ich brauchte wirklich Schlaf xD
 
-{% include gallery %}
+{% include gallery.html %}

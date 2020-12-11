@@ -53,4 +53,4 @@ In Petrosani hatten wir zum Beispiel für Essen und Trinken 11 Euro gezahlt, zus
 In so Touristenhochburgen, wie Sighisoara ist es natürlich etwas teurer, aber immer noch vergleichsweise billig. 
 Mit vollen Magen und guter Laune hat einem auch das Wetter nicht viel ausgemacht, das sich nun dauerhaft trübe und regnerisch gab.
 
-{% include gallery %}
+{% include gallery.html %}

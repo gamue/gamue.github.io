@@ -62,4 +62,4 @@ kommt macht es natürlich am meisten Sinn, die Netze noch mehr zu belasten…
 Als hätte man es nicht ahnen können, fiel auch kurze Zeit später der Strom aus. Natürlich just in dem Moment als ich duschen wollte, 
 aber egal, dann eben mit Stirnlampe 😀
 
-{% include gallery %}
+{% include gallery.html %}

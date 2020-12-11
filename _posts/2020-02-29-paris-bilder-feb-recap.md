@@ -34,7 +34,7 @@ Vor dem Hintergrund waren die Bilder ebenfalls recht interessant durchzusehen.
 Lange Rede, kurzer Sinn: [Hier geht es zu den Fotos aus Paris]({% link _pages/photography/2019-12-paris.md %}). 
 Und ja, der Eiffelturm ist sehr oft vertreten...ist aber auch schön :D
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2019-12-paris.md %}){: .btn}
 

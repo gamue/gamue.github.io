@@ -44,4 +44,4 @@ so dass nahezu kein Baum weit und breit mehr stand 🙁
 Oben auf dem Berg, bzw. ein paar Aussichtspunkten auf dem Weg dahin, hatte man den besten Blick auf die Felsnadeln des Old Man of Storr, 
 welche sich faszinierend in der Landschaft erheben. Die kleine Wanderung ist auf jeden Fall zu empfehlen, falls man mal in der Nähe ist 😉
 
-{% include gallery %}
+{% include gallery.html %}

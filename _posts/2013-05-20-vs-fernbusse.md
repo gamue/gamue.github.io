@@ -48,4 +48,4 @@ Durch die Aktion hatten wir aber dann genug Zeit uns die nächsten Tage auszumal
 mit anderen Leuten zu quatschen oder einfach nur am Ufer rum zu sitzen, gemütlich etwas zu essen und den Möwen zuzuhören 
 während die Sonne sich senkt jedoch ein weiteres mal nicht ganz untergeht.
 
-{% include gallery %}
+{% include gallery.html %}

@@ -47,4 +47,4 @@ musste mal wieder ein Einweggrill herhalten und mal wieder hat der Klump nicht s
 aber immerhin hat‘s für die erste Runde gereicht. Für die folgende musste dann wieder die Pfanne herhalten, 
 immer mit dem Blick nach draußen, denn fiese, hungrige Möwen lauern überall in dem kleinen Küstenort. Garstige kleine Biester&#8230;
 
-{% include gallery %}
+{% include gallery.html %}

@@ -54,4 +54,4 @@ Zumindest mehr oder weniger, denn die Tage nach meiner Rückkehr hab ich mich, w
 beim Arzt eingefunden. Wirklich festgestellt wurde nichts, nur das meine Blutwerte komisch waren, 
 also vielleicht ein Virusinfekt oder so, glücklicherweise musste ich dieses Mal zumindest keine Tabletten-Cocktails nehmen.
 
-{% include gallery %}
+{% include gallery.html %}

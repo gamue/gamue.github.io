@@ -29,6 +29,6 @@ Wenn ich mir die Bilder von Wadi Rum und aus Petra anschaue, habe ich gleich wie
 Aber schaut sie euch selbst an :) [Hier geht es zur Galerie]({% link _pages/photography/2017-11-jordanien.md %}) und falls jemand mehr zur Reiseroute erfahren möchte, 
 der findet diese auf [der Länderseite]({% link _pages/countries/jordanien.md %}).
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2017-11-jordanien.md %}){: .btn}

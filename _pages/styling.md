@@ -128,15 +128,15 @@ Item
 
 # Gallery Single
 
-{% include gallery id="gallerySingle" caption="Godzilla in Tokio" %}
+{% include gallery.html id="gallerySingle" caption="Godzilla in Tokio" %}
 
 # Gallery Half
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 # Gallery Third
 
-{% include gallery id="gallery2" %}
+{% include gallery.html id="gallery2" %}
 
 # Einzelbild
 

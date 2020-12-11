@@ -49,4 +49,4 @@ Und wenn man mittrinkt, freundlich lächelt und ab und an nickt, fällt das auch
 Bis zum frühen Morgen wurde getanzt, sehr laute albanische Volksmusik gespielt und ab und an auch mal vorzügliches Essen genossen. 
 Auf jeden Fall ein Erlebnis das ich nicht vergessen werde 🙂
 
-{% include gallery %}
+{% include gallery.html %}

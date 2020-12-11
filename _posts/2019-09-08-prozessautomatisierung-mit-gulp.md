@@ -142,4 +142,4 @@ Ich kenne noch Zeiten, da hätte man für das Übertragen solcher Datenmengen St
 Durch die Änderung waren es dann nur noch 2.9 MB und zwischen 300ms und 1.3s
 
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

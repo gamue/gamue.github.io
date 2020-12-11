@@ -41,4 +41,4 @@ Kaum im Zimmer kam mir aber schon eine Wasserdampfwolke entgegen, hatte wohl sei
 Immerhin war der Fußboden im Bad jetzt mal nass „raugeputzt“ und die hohe Luftfeuchtigkeit bot auch mal eine ganz 
 angenehme Abwechslung zur sonst stehenden Hitze.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

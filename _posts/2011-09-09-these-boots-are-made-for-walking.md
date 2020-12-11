@@ -71,4 +71,4 @@ die einem stolz ihre „Kunstwerke“ präsentieren und man natürlich abkaufen 
 das war an Geschmacksverirrung kaum zu übertreffen. Kamelpuppen in den unterschiedlichsten Farben und Mustern. 
 Soweit ja nicht schlimm, wäre es nur an unterschiedlichen Puppen gewesen…aber Schönheit ist ja bekanntermaßen relativ.
 
-{% include gallery %}
+{% include gallery.html %}

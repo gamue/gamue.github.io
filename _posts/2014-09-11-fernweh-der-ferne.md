@@ -65,4 +65,4 @@ schaute ich mich um ob es im Umkreis etwas gab, das mich interessierte.
 Es zwar einiges dabei, aber nichts stach im speziellen heraus. Deswegen hab ich dann noch ein paar andere Möglichkeiten erkundet 
 und kurze Zeit später war für den nächsten Tag einen Inlandflug nach Kappadokien gebucht….ahh, ich liebe es 🙂
 
-{% include gallery %}
+{% include gallery.html %}

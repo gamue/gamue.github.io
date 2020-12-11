@@ -60,4 +60,4 @@ Für 12€ würde ich das in Deutschland zwar nicht bestellen, aber gut Island i
 Im Anschluss haben wir uns noch mit anderem Futterkram und Skyr eingedeckt. 
 In Skyr, eine isländische Art von Joghurt, hätte man sich reinlegen können, verdammt lecker das Zeugs \*yammi\*
 
-{% include gallery %}
+{% include gallery.html %}

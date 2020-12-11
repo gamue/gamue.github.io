@@ -32,4 +32,4 @@ so dass man sich da gerne inspirieren lassen kann.
 Ansonsten ging es im Januar noch auf [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv?si=9G-ZupjGQbCoH5xRqNNiDg) Konzert, 
 die Ausstrahlung der Typen ist einfach grandios und es gab viel zu lachen. Man darf nur die Lieder nicht ganz so ernst nehmen :D
 
-{% include gallery %}
+{% include gallery.html %}

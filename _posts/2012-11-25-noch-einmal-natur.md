@@ -59,4 +59,4 @@ Immerhin hat der Eimer in meinem Zimmer genügend Platz gehabt um alle Regentrop
 Dach kamen und am nächsten morgen sollte der Himmel und die Sicht klarer sein. 
 So dass sich in der Ferne die majestätischen Gipfel der Himalayagebirgskette andeuteten.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

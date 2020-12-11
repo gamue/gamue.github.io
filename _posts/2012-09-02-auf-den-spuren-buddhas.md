@@ -66,4 +66,4 @@ Wieder im Hotel gab’s eine gute Nachricht: die Dusche wurde repariert.
 
 Grandioser Tag!
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

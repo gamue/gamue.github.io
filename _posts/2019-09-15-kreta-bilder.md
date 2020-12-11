@@ -25,6 +25,6 @@ ist es bestimmt sch√∂n sich an die verschiedenen Orte, Menschen und Momente zur√
 
 Von daher verliere ich nicht viel Zeit und los geht es mit der Reise nach Kreta, deren Bilder ihr [hier]({% link _pages/photography/2016-05-kreta.md %}) findet.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2016-05-kreta.md %}){: .btn}

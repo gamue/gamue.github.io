@@ -88,7 +88,7 @@ Wenn man das Foto über Social Media teilen will, wird damit auch meist schon de
 
 Für diesen Vorgang nutze ich das Programm [Geosetter](http://geosetter.de/).
 
-{% include gallery id="geosetter" caption="In Geosetter sieht man leicht, wo das jeweilige Bild aufgenommen wurde." %}
+{% include gallery.html id="geosetter" caption="In Geosetter sieht man leicht, wo das jeweilige Bild aufgenommen wurde." %}
 
 ## Bilder bewerten & markieren
 
@@ -104,7 +104,7 @@ denn wirklich mehr als 3 Sterne vergebe ich im Normalfall nicht, was mir aber vo
 In Durchgang zwei gehe ich dann nur noch die mit Sternen bewerteten Bilder durch und verpasse ihnen eine gelbe Farbmarkierung, 
 wenn ich diese bearbeiten oder auf die Homepage stellen möchte.
 
-{% include gallery id="bildbetrachter" caption="So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild." %}
+{% include gallery.html id="bildbetrachter" caption="So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild." %}
 
 Beide Schritte führe ich recht grob durch und nehme in die Auswahlen auch Bilder mit auf bei denen ich mir nicht sicher bin 
 oder die unterschiedliche Varianten eines Motivs sind. Meist ändere ich die Bewertung oder Markierung im Nachgang nicht noch einmal, 
@@ -170,7 +170,7 @@ denn da die Fotos für mich wichtige Dateien sind, lege ich regelmäßig Sicheru
 
 Dafür nutze ich [Microsoft SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155), da es kostenlos und sehr einfach zu bedienen ist.
 
-{% include gallery id="synctoy" caption="Ausgangs- und Zielordner für die Backups einstellen und auf Start klicken, mehr braucht SyncToy nicht." %}
+{% include gallery.html id="synctoy" caption="Ausgangs- und Zielordner für die Backups einstellen und auf Start klicken, mehr braucht SyncToy nicht." %}
 
 Der Artikel ist jetzt doch länger geworden als gedacht, aber sind ja auch einige Schritte ;) 
 Lasst mich wissen, wenn etwas unklar ist, ihr Verbesserungstipps habt oder wie euer Workflow aussieht.

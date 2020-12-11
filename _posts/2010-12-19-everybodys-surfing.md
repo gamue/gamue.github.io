@@ -61,4 +61,4 @@ Was aber nicht heißt, dass die Gestalten in den dunklen Gassen es nicht sehr of
 Amsterdam war auch meine letzte Station bevor es wieder über die deutsche Grenze in Richtung Bremen und direkt in 
 einen kleinen Stau ging…typisch deutsche Autobahnen.
 
-{% include gallery %}
+{% include gallery.html %}

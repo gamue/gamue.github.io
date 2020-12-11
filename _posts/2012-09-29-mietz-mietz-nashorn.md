@@ -46,4 +46,4 @@ anderen Touristen und Parkwächtern, wodurch das ganze etwas langweilig wurde, e
 Und so ging es nach einer Kulturshow im Dorf zurück ins Hotel zu einer wohltuenden Dusche, 
 so dass die Geckos an den Wänden und der Decke die letzten Tiere für den Tag waren.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

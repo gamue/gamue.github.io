@@ -61,4 +61,4 @@ Es war ein faszinierendes Abenteuer und etwas das ich nicht vergessen werde!
 
 P.S.: Wen der Trip aus Bernds Sicht interessiert, dem sei hiermit [sein Blog](http://berndhardiner.de/) ans Herz gelegt 😉
 
-{% include gallery %}
+{% include gallery.html %}

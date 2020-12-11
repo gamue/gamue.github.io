@@ -52,4 +52,4 @@ hat man lauter menschenbefüllter Boote nicht mehr gesehen. In der Mitte ein hal
 jeder mit seinem eigenen kleinen Schrein vor sich. Wirklich spannend war es nicht: 30 Minuten lang Getrommel, 
 Geklatsche und dazu abwechselnd Weihrauch und Kerzen durch die Luft schwingen. Aber was soll es, so lange es Ganga und Touristen erfreut 😉
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

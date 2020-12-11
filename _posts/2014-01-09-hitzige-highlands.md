@@ -36,4 +36,4 @@ Eine [2wöchige Hitzewelle](http://www.bbc.co.uk/news/uk-scotland-23608806) hatt
 und daher einige zu warme Sachen im Gepäck (man siehe zB die Handschuhe), aber ich will mich jetzt auch nicht über das tolle Wetter beklagen 😛
 
 Hier noch ein Bild vom kompletten Equipment:
-{% include gallery %}
+{% include gallery.html %}

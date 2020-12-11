@@ -41,4 +41,4 @@ Hätte man das vorher gewusst, hätte man sich das sparen können…aber hätte,
 Am nächsten Tag gab‘s zur Erholung nur eine kleine Besichtigungsrunde rund um Inverness, was eine deutlich besser war. 
 Ist echt eine recht schöne und gemütliche Stadt.
 
-{% include gallery %}
+{% include gallery.html %}

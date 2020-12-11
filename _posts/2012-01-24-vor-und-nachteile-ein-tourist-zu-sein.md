@@ -50,4 +50,4 @@ Manchmal gab es aber auch Ausnahmen, so hat ein kleines Kind vehement versucht m
 Nach einer Weile begann dann das schluchzen und angedeutete heulen, die komplette Mitleidsschiene. 
 Ich glaub das Grinsen in meinem Gesicht hat ihn dann doch zum Aufgeben bewegt und schwups war er wieder im Normalzustand und am nächsten „weißen Mann“ dran.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

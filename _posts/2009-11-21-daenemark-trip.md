@@ -60,4 +60,4 @@ Der Rückflug am nächsten Tag verlief problemlos.
 Von Zürich aus ging es zum Autohändler Winterreifen drauf ziehen um am nächsten Tag in die Schweiz zu fahren um meinen Bruder zu besuchen, 
 aber das ein andermal…
 
-{% include gallery %}
+{% include gallery.html %}

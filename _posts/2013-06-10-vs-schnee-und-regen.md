@@ -58,4 +58,4 @@ Die Wärme in der Hütte und die nassen Klamotten loswerden tat soooo verdammt g
 glücklicherweise hatten die anderen in der Hütte bessere Verpflegung und vor allem für sich selbst zu viel, 
 so dass man noch die ein oder andere Brot- oder Käsescheibe abbekam und danach sofort einschlief während der Regen draußen munter weiterplätscherte.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

@@ -28,6 +28,6 @@ so dass diese in der [allgemeinen Galerie](/photography/here-there-and-everywher
 
 Beim Rom-Trip hat die Kamera dann doch mehr geklickt und so gibt es hierfür eine [eigene Galerie](/photography/rom-2016/).
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Rom-Galerie]({% link _pages/photography/2016-09-rom.md %}){: .btn}

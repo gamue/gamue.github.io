@@ -36,4 +36,4 @@ in einem Park oder einfach im [gemütlichen Hostel](http://www.royalmilebackpack
 Gerade richtig um den, doch teilweise anstrengenden aber sehr schönen Urlaub gemächlich ausklingen zu lassen, 
 bevor ich mir erneut ein paar Stunden die easyJet-Werbeshow über den Wolken reinziehen musste ehe ich wieder Berliner Boden unter meinen Füßen spürte.
 
-{% include gallery %}
+{% include gallery.html %}

@@ -50,4 +50,4 @@ Insgesamt war ich 3,5 Tage in Oslo, die für meinen Geschmack mehr als ausreiche
 Wenn man aber meistens selbst kocht geht das schon. Zufälligweise stand in der Innenstadt wegen eines Festivals auch gerade 
 ein Cola-Truck bei dem Getränkedosen verteilt wurden…oh man, bin ich geizig.
 
-{% include gallery %}
+{% include gallery.html %}

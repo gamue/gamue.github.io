@@ -47,4 +47,4 @@ Also Leute anquatschen und Personen suchen, die auch an der Station raus müssen
 Man kommt aber in eine kleine Zwickmühle, wenn diese irgendwann meinen der aktuelle Zug würde schleichen und 
 deshalb auf einen anderen Zug aufspringen, angehalten hat wohlgemerkt keiner der Züge gehabt…aber ok wirklich schnell waren die auch nicht 😀
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

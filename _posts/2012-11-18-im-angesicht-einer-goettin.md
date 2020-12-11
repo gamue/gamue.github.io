@@ -67,4 +67,4 @@ Aber es war ja alles aus dem Auto gebaut und damit bestimmt so vorgesehen xD
 Innerhalb der 15km langen Fahrt, hat der Fahrer zweimal angehalten und den Wagenheber bzw. den Radmutterschlüssel geholt 
 um irgendwas zu reparieren oder so. War jedenfalls ziemlich abenteuerlich, und bei weitem spannender als die Vishnu-Statue…
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

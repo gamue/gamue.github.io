@@ -49,4 +49,4 @@ Was ich an Istanbul auch mochte, war die Musik, die in den Restaurants und Hoste
 denn durch die Dauerbeschallung mit Wind of Change, November Rain, Yesterday sowie vielen 80er und 90er fühlte man sich gleich 
 in eine andere Zeit zurückversetzt 😉
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

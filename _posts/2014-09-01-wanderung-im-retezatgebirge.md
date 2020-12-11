@@ -76,4 +76,4 @@ haben auch wir unser Glück versucht und den Abstieg fortgesetzt. Die Spuren des
 überall hat es entweder gedampft oder Wasserströme bahnten sich ihren Weg durch das Gelände. 
 Nichtsdestotrotz kamen wir ziemlich trocken unten an.
 
-{% include gallery %}
+{% include gallery.html %}

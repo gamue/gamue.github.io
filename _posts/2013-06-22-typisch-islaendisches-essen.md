@@ -47,4 +47,4 @@ welche preiswert Hot Dogs und Softeis anbieten. Man kann daher schon sagen, dass
 Unsere Hotdogs kamen aber nicht von der Tanke, sondern wir haben die Einzelteile geholt und wie richtiger Camper im Wasserkocher gemacht. 
 Welch ein Wohlgenuss für den Gaumen, so etwas Delikates hatten wir seit Tagen nicht mehr gegessen 🙂
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

@@ -51,4 +51,4 @@ was auch auf Tourifalle hinweist.
 
 Das Schloss an sich ist recht klein und ein netter Tagesausflug, mehr aber auch nicht. Hätte mir definitiv mehr erhofft 🙁
 
-{% include gallery %}
+{% include gallery.html %}

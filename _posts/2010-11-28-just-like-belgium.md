@@ -79,4 +79,4 @@ dann wieder zurück und das dann ein paar Mal hin und her, war ziemlich amüsant
 To be continued…
 
 
-{% include gallery %}
+{% include gallery.html %}

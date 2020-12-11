@@ -48,6 +48,6 @@ Arnold Schwarzenegger in seinen besseren Tagen 😛
 
 Hier mal ein Bild was alles dabei war:
 
-{% include gallery %}
+{% include gallery.html %}
 
 P.S.: Es war gerade Europameisterschaft, daher durfte eine kleine Deutschland-Fahne nicht fehlen 😀

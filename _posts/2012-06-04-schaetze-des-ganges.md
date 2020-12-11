@@ -57,4 +57,4 @@ Mag es durch den Neppertrieb oder Vergesslichkeit kommen, so wird nach einer Wei
 Mein Geldbeutel blieb aber verschlossen, was zu Unmut bei den Handmasseuren führte, aber lang konnten die sich nicht ärgern, 
 die nächsten Weißhäute waren ja schon in Sicht ^^
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

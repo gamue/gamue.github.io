@@ -60,4 +60,4 @@ und die restlichen Klamotten waren auch noch nicht komplett trocken, was uns abe
 und wir erstmal im nächsten Restaurant uns ein Bier genehmigten und anschließend mit dem Taxi in Richtung Bahnhof kutschierten, 
 um noch einen weiteren Ort zu besichtigen, den mit Wanderungen schienen wir in Rumänien kein Glück zu haben :/
 
-{% include gallery %}
+{% include gallery.html %}

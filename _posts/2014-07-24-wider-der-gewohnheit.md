@@ -61,4 +61,4 @@ Als es dann irgendwann nachts wieder für mich zum Hotel zurückging konnte ich 
 Unterm Strich haben die paar Tage doch Spaß gemacht und ich hatte meine Abwechslung zum Alltag…
 ein Dauerurlaubsziel wird Malle aber jedenfalls für mich auch nicht 😛
 
-{% include gallery %}
+{% include gallery.html %}

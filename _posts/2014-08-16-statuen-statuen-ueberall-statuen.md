@@ -57,4 +57,4 @@ wieder einsammelt. Kurz darauf ging das Geschrei los, da eine Familie offensicht
 Spätestens da, war mein Halbschlafzustand kaputt und ich konnte es nicht erwarten endlich eine bessere Schlafmöglichkeit zu finden, 
 dafür musste ich jedoch noch ein paar Stunden aushalten.
 
-{% include gallery %}
+{% include gallery.html %}

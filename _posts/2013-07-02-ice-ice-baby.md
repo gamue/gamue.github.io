@@ -53,4 +53,4 @@ Ein sehr lustiger Zeitgenosse, der in fast jeder Erklärung „very special“ o
 Nach einer knappen Stunde solcher Hinweise waren wir dann auch schon wieder auf dem Campingplatz in Skaftafell…
 schutzlos all den Mücken und dem komischen Vogelgesängen ausgesetzt.
 
-{% include gallery %}
+{% include gallery.html %}

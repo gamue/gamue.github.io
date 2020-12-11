@@ -56,4 +56,4 @@ Normalerweise gibt es bei den Zügen unterschiedliche Klassen, die für gewöhnl
 für die etwas Reicheren oder eben die Touristen. Dieser Zug hatte keine verschiedenen Klassen, 
 heißt eine Klasse und ein Preis für alle: Umgerechnet 45 Cent für knapp 4,5h Zugfahrt.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

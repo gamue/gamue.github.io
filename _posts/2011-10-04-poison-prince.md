@@ -54,4 +54,4 @@ Da ich out-of-Prinzenrolle war, hab ich dem nächsten Supermarkt einen Besuch ab
 jedoch gab es keine richtige Prinzenrolle, so dass ich mit einem Imitat Vorlieb nehmen musste. 
 Voller Vorfreude dann ein paar Bissen gemacht…einfach Ekelhaft. Dann eben doch keine Süßigkeiten 🙁
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

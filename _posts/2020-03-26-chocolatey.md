@@ -61,7 +61,7 @@ was ich als angenehmer empfinde, der Befehl lautet dann `choco install 7zip -y`.
 Alternativ kann man den Namen des Installationspakets auch über die Kommandozeile suchen, in dem man `choco search 7zip` eingibt. 
 Anschließend werden alle Paketnamen angezeigt, die dazu passen und aus denen man auswählen kann.
 
-{% include gallery id="chocoSearch" %}
+{% include gallery.html id="chocoSearch" %}
 
 ## Übersicht & Programme aktualisieren
 
@@ -74,7 +74,7 @@ und sein System so aktuell und auch sicherer hält.
 Da ich recht viele Programme installiert habe, wäre mir der manuelle Aufwand dafür zu hoch und 
 so kann ich ab und an `choco upgrade all -y` bzw. die Kurzform `cup all -y` ausführen und zusehen wie nach und nach jede Anwendung aktualisiert wird.
 
-{% include gallery id="chocoUpdate" %}
+{% include gallery.html id="chocoUpdate" %}
 
 ## Programm deinstallieren
 

@@ -77,4 +77,4 @@ Gegen 6 Uhr ging es dann wieder Richtung Marias Wohnung. Gegen 8h hat Sie sich d
 weil Sie jemanden abholen musste..Immer dieses morgens aus Wohnungen schleichen 😛 Irgendwann als ich dann wieder fit war, 
 ging’s ab ins Auto und auf die letzten rund 660km des insgesamt ca. 2500km langen Roadtrips.
 
-{% include gallery %}
+{% include gallery.html %}

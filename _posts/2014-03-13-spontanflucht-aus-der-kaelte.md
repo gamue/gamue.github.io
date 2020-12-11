@@ -72,4 +72,4 @@ Uzis und Kampfjets in Startbereitschaft den Leuten am besten vermittelt, sei mal
 Ich würde jedenfalls niemandem von einer Ägyptenreise abraten! Ich will jedenfalls auch wieder mal hin und dann Pyramiden und die Sphinx sehen, 
 das hat nämlich leider gefehlt 🙁
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

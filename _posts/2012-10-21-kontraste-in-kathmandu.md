@@ -44,4 +44,4 @@ Aber irgendwann musst ich dann wieder nach Kathmandu zurück, schließlich ging 
 Den angebrochenen Tag in Nepals Hauptstadt musst ich aber mindestens noch vorüber bekommen und ich würde Unrecht tun 
 wenn ich sag dass es dort nichts zu besichtigen gibt.
 
-{% include gallery %}
+{% include gallery.html %}

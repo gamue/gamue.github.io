@@ -32,7 +32,7 @@ Es war zudem toll sich wieder an die Reise zurückzuerinnern und am liebsten wü
 Auch wenn es eher ein Städtetrip war, so hab ich sehr viele Bilder von Tieren machen können. 
 Gerade der Besuch bei den Schneeaffen war eines meiner Highlights, ebenso wie die frei laufenden Rehe in Nara.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2017-04-japan.md %}){: .btn}
 
@@ -74,7 +74,7 @@ in nächster Zeit etwas an der Einrichtung zu ändern. Bestellung Nummer 1 war e
 nach der ersten Woche Nutzung frage ich mich, warum ich das nicht schon früher gemacht hab. 
 Mal schauen was als Nächstes dran ist ;)
 
-{% include gallery id="homeoffice" caption="Meine aktuelle Arbeitsecke inklusive neuem Stuhl" %}
+{% include gallery.html id="homeoffice" caption="Meine aktuelle Arbeitsecke inklusive neuem Stuhl" %}
 
 Da in der letzten Rundmail von meinem Arbeitsgeber der Homeoffice-Zeitraum auf mindestens 1. September verlängert worden ist, 
 wird sich das sicherlich lohnen, auch weil "mindestens" in dick geschrieben worden ist ...schauen wir mal wie lang es tatsächlich wird.

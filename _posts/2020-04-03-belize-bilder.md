@@ -26,7 +26,7 @@ so dass die auch fertig ist.
 
 Belize kann ich als Reiseland in jedem Fall empfehlen, war ein sehr entspannter und schöner Trip mit viel Natur und netten Menschen.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2019-04-belize.md %}){: .btn}
 

@@ -48,4 +48,4 @@ Das wäre glaube ich ein Geschrei geworden xD
 
 Das sind die Momente an denen man sich schämt auch aus Deutschland zu kommen.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

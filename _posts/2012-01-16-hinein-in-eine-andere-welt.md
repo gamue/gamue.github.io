@@ -52,4 +52,4 @@ In dem Fall war es ziemlich scharf und am Anfang recht gewöhnungsbedürftig all
 Jedoch keine Frage sehr lecker, und das ist ja die Hauptsache. 
 Da sieht man dann auch von den Kakerlaken ab, die hin und wieder auf dem Boden vorbeihuschen 😛
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

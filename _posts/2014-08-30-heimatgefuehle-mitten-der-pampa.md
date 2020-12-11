@@ -51,4 +51,4 @@ Dafür ging das zusammenpacken morgens um 2:00Uhr auch nicht sonderlich leise vo
 Eine gefühlte Ewigkeit im Zug und an der Umsteigehaltestelle später war es aber dann endlich soweit und die Wanderung im 
 Retezatgebirge konnte beginnen. Also zumindest nachdem uns ein Taxi zum Ausgangspunkt gefahren hatte&#8230;so lauffaul^^
 
-{% include gallery %}
+{% include gallery.html %}

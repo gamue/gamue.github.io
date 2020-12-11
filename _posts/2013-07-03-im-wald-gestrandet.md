@@ -55,4 +55,4 @@ Normalerweise ändert sich das Wetter in Island alle 5 Minuten, dieses Mal war e
 Was die Stimmung bisschen in den Eimer fallen ließ, da konnte ich dann nichts weiter machen als den Regentropfen zuzuhören, 
 wie sie auf mein Zelt tropfen und auf den nächsten Morgen warten.
 
-{% include gallery %}
+{% include gallery.html %}

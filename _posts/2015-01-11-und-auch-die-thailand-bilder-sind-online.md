@@ -25,6 +25,6 @@ Auf der Tour hatte ich insgesamt knapp 2800 Bilder geschossen, wohlgemerkt ohne 
 Das ein oder andere Bild würde sich also noch auf meiner Festplatte befinden, 
 aber glaub die jetzt ausgewählten spiegeln ganz gut die Orte wieder, an denen ich war.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Hier geht's zur kompletten Thailand-Galerie]({% link _pages/photography/2014-10-thailand.md %}){: .btn}

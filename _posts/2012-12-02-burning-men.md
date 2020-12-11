@@ -42,4 +42,4 @@ Beerdigung anzuschauen oder ins Krematorium. Warum schaut man sich das also in I
 Nur weil es eine andere Kultur und Religion ist? Weil es im Reiseführer steht? 
 Ich hab dann jedenfalls recht schnell etwas anderes gesucht.
 
-{% include gallery %}
+{% include gallery.html %}

@@ -53,7 +53,7 @@ dass sich die Lage so extrem zuspitzt, wären wir wohl erst gar nicht geflogen.
 Da wir es aber sind, kann man dann nur das Beste aus der Lage zu machen und immerhin konnte ich wieder Zeit mit meinen Eltern verbringen 
 ...und wenn wir mal ehrlich sind, gibt es schlimmere Orte für eine Quarantäne als bei den Eltern mit leckerem Essen im Überfluss :P
 
-{% include gallery %}
+{% include gallery.html %}
 
 Weil wir bei der Hotline niemanden erreicht hatten und uns an die Vorschriften halten wollten, 
 hatten wir also keine andere Wahl als unser Wochenendtrip um 5 Tage zu verlängern und die kommende Woche vom Süden Deutschlands aus zu arbeiten. 

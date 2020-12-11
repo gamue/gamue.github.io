@@ -54,4 +54,4 @@ In Göreme gibt es auch ein [Freiluftmuseum](http://www.muze.gov.tr/goreme-en), 
 Freskenmalereien besichtigt werden können. Oder man spart sich die ~5€ Eintritt und lauft etwas durch die Gegend in der man das Ähnliche bestaunen kann, 
 schon irgendwie Abzocke…aber so lange es für den Erhalt ist, kann man das schon mal machen…rede ich mir zumindest ein 😛
 
-{% include gallery %}
+{% include gallery.html %}

@@ -51,4 +51,4 @@ die akzeptabel aussah und der Hotelier mit sich über den Preis reden lies.
 
 Ich hab zwar auf Grund der vielen Scheine meinen Geldbeutel kaum mehr zubekommen, aber da ging es ums Prinzip.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

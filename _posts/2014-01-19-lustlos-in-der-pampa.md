@@ -32,4 +32,4 @@ die Sehenswürdigkeiten in meinem Reiseführer waren da leider nicht sonderlich 
 daher hab ich mich nach den Straßenverläufen gerichtet und gedacht Stirling könnte man sich als nächstes mal anschauen…
 müsste man nur noch irgendwie hinkommen 😉
 
-{% include gallery %}
+{% include gallery.html %}

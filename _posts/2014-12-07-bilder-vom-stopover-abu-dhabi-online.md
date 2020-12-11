@@ -22,7 +22,7 @@ Aber nun ja, echte Männer kaufen die auch erst am 24. 😉
 Aber jetzt Schluß mit dem Rumgejammer, die Abu Dhabi Bilder hab ich nämlich gestern fertig bekommen und sind daher 
 nun online.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Hier geht&#8217;s zu den Bildern](/photography/abu-dhabi-2014/ "Abu Dhabi 2014"){: .btn}
 

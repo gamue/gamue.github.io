@@ -32,7 +32,7 @@ auf der [überarbeitete Länderseite]({% link _pages/countries/georgien.md %}) e
 
 Ich hatte in jedem Fall eine sehr schöne Zeit dort und kann es nur empfehlen!
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2018-06-georgien.md %}){: .btn}
 

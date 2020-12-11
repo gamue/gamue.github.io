@@ -43,4 +43,4 @@ Hab mich dann aber doch nicht für 5:30Uhr entschieden und die humane Alternativ
 So konnte ich mal wieder ein paar Stunden schlafen, ehe ich eingepfercht in einem Sprinter, 
 in dem auch Vögel in einem Karton mittransportiert wurden, die 6 stündige Weiterreise nach Sibiu gestartet habe.
 
-{% include gallery %}
+{% include gallery.html %}

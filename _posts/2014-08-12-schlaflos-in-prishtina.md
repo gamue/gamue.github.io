@@ -43,4 +43,4 @@ Aber gut, zurück zu wirklichen Problemen: Ich hatte Durst und wollte daher Wass
 aber nur noch ein paar norwegische Kronen und daher musste ich zum Geldautomat. Wirklich weitergeholfen hatte das aber letztendlich nicht, 
 da niemand Rückgeld auf einen 50 Euro-Schein hatte…also vorerst kein Trinken für mich 🙁
 
-{% include gallery %}
+{% include gallery.html %}

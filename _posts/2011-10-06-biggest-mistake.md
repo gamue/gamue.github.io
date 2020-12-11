@@ -54,4 +54,4 @@ man sicherlich nicht alles über einen Kamm scheren kann. Ein Japaner, den ich g
 hat es aber teilweise sehr gut gesagt: „Nice landcape, but the people…I really feel offended“. 
 Aber was will man auch von einem Land erwarten in dem Französisch eine Hauptsprache ist? 😛
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

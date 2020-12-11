@@ -24,7 +24,7 @@ Die zugehörige Länderseite folgt ebenfalls ~~bald, dafür fehlen noch ein paar
 
 **EDIT:** Das mit der [Länderseite von Sri Lanka](/sri-lanka/) ging doch schneller als gedacht.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}
 
 [Zur kompletten Bildergalerie]({% link _pages/photography/2016-12-sri-lanka.md %}){: .btn}
 

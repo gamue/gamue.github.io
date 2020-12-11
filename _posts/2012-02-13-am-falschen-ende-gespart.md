@@ -47,4 +47,4 @@ irgendwelche „Gesangsübungen“ anfangen und diese Stundenlang durchziehen?
 
 Das Ende vom Lied war, dass ich kaum ein Auge zu gemacht hatte als das Handy mich zum Aufstehen bewegte 🙁
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

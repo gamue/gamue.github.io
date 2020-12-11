@@ -52,4 +52,4 @@ Suzi ist eine Amerikanerin, die eine Ein-Jahres-Weltreise machen wollte und gera
 Anfangs dacht ich noch 4 Wochen sind schon eine lange Zeit, aber gegen die Reisezeiten von vielen die ich getroffen habe 
 ist es etwas lächerlich…Irgendwann bin ich bestimmt auch mal für länger weg.
 
-{% include gallery layout="half" %}
+{% include gallery.html layout="half" %}

@@ -51,4 +51,4 @@ Zusätzlich hat die permanent anhaltende Sonne auch Ihre Spuren hinterlassen, ei
 Körper hatten daher einen ziemlichen Rotstich, was mir viel Häme von den anderen Reisenden in der Unterkunft eingebracht hat…
 aber egal nach einer Weile wird das bei mir sowieso braun, und wer hätte das von einem Schottland-Urlaub gedacht 😀
 
-{% include gallery %}
+{% include gallery.html %}

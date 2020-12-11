@@ -46,4 +46,4 @@ die sich um einen offensichtlich stark angetrunkenen versammelten. Dass er dann 
 und beschimpfen war für ihn nicht sonderlich hilfreich, und so lag er dann kurze Zeit später am Boden und wurde in Handschellen abtransportiert. 
 Super Abend ^^
 
-{% include gallery %}
+{% include gallery.html %}
