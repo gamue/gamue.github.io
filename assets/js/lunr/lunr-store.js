@@ -612,4 +612,8 @@ var store = [{
         "title": "Review: Tenba Tools BYOB 9 und 10",
         "excerpt":"Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. Gerade wenn ich nur mit Handgepäck reise,...","categories": ["Fotografie"],
         "tags": ["Ausrüstung"],
-        "url": "https://gamue.de/review-tenba-tools-byob-9-und-10/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_thumb.jpg"}]
+        "url": "https://gamue.de/review-tenba-tools-byob-9-und-10/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_thumb.jpg"},{
+        "title": "Migration zu TailwindCSS",
+        "excerpt":"In den letzten Wochen und Monaten habe ich mal wieder an der Technik der Homepage geschraubt. Wie es meistens so ist, ist das meiste davon nicht sichtbar und man könnte darüber diskutieren, ob es notwendig war, aber ich habe wieder etliches gelernt und das ist mit ein Grund warum ich...","categories": ["Technik"],
+        "tags": ["Homepage"],
+        "url": "https://gamue.de/migration-zu-tailwindcss/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-12-13-homepage-auf-tailwind-umgestellt/tailwind_thumb.jpg"}]

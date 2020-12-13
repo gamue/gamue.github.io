@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2020-12-11T09:07:26+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><author><name>Johannes Ganzenmüller</name></author><entry><title type="html">Review: Tenba Tools BYOB 9 und 10</title><link href="https://gamue.de/review-tenba-tools-byob-9-und-10/" rel="alternate" type="text/html" title="Review: Tenba Tools BYOB 9 und 10" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://gamue.de/tenba-tools-byob</id><content type="html" xml:base="https://gamue.de/review-tenba-tools-byob-9-und-10/">&lt;p&gt;Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2020-12-13T17:38:40+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><author><name>Johannes Ganzenmüller</name></author><entry><title type="html">Migration zu TailwindCSS</title><link href="https://gamue.de/migration-zu-tailwindcss/" rel="alternate" type="text/html" title="Migration zu TailwindCSS" /><published>2020-12-13T00:00:00+01:00</published><updated>2020-12-13T00:00:00+01:00</updated><id>https://gamue.de/homepage-auf-tailwind-umgestellt</id><content type="html" xml:base="https://gamue.de/migration-zu-tailwindcss/">&lt;p&gt;In den letzten Wochen und Monaten habe ich mal wieder an der Technik der Homepage geschraubt. 
+Wie es meistens so ist, ist das meiste davon nicht sichtbar und man könnte darüber diskutieren, ob es notwendig war, 
+aber ich habe wieder etliches gelernt und das ist mit ein Grund warum ich das mache ;)&lt;/p&gt;
+
+&lt;h1 id=&quot;tschüss-minimal-mistakes&quot;&gt;Tschüss minimal-mistakes&lt;/h1&gt;
+
+&lt;p&gt;Seitdem ich die Homepage von &lt;a href=&quot;/relaunch-2019/&quot;&gt;Wordpress auf Jekyll umgestellt&lt;/a&gt; habe, 
+habe ich als Design das &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes&quot;&gt;minimal-mistakes Theme&lt;/a&gt; genutzt und dort auch selbst ein paar Kleinigkeiten dazu beigetragen (ein Hoch auf Open Source). 
+Da meine Layout- und Design-Vorstellungen aber immer mehr und mehr vom Theme abgewichen sind, 
+hatte ich etliche Anpassungen in meinem Code was schon 1-2 mal zu Problemen mit Updates führte.&lt;/p&gt;
+
+&lt;p&gt;Da das Theme zudem recht alt ist, verwendet es etliche Frameworks und Bibliotheken, die veraltet sind und teilweise sogar nicht mehr gewartet werden. 
+Hinzu kommt, dass das Theme viele Optionen und Möglichkeiten bietet, die ich nicht verwende und diese teilweise die Ladezeit unnötig verlängern.&lt;/p&gt;
+
+&lt;p&gt;Aus den Gründen habe ich beschlossen meine Seite umzustellen, sodass ich mich vom Theme abkopple, 
+die Updates davon nicht mehr bekomme und so eigene Anpassungen vornehmen kann. Möchte aber betonen, 
+dass ich das Theme nach wie vor sehr gut finde und der Entwickler eine fantastische Arbeit gemacht hat und immer noch macht, 
+obwohl er das Theme selbst auch nicht mehr nutzt.&lt;/p&gt;
+
+&lt;p&gt;Nachdem ich die Layout-Dateien vom minimal-mistakes-Theme in mein Repository kopiert und die Verbindung zu den Updates gekappt hatte, 
+ging es mit dem Entschlacken los. Jede Datei, Zeile und Konfigurationsoption durchzugehen, hat mir auch nochmal besser geholfen Jekyll zu verstehen. 
+Insgesamt waren es sehr viele kleinere Dinge, die ich entfernt und angepasst habe, aber es waren auch ein paar größere Schritte dabei. 
+So habe ich die Möglichkeit genutzt Jekyll auf Version 4 zu aktualisieren, was einige Nerven mit den Abhängigkeiten gekostet hat.&lt;/p&gt;
+
+&lt;p&gt;Eine weitere größere Änderung, war das Einbinden von &lt;a href=&quot;https://purgecss.com/&quot;&gt;PurgeCSS&lt;/a&gt;, ein Tool, dass nicht verwendete CSS-Definitionen erkennt und im Build-Prozess entfernt. 
+Gerade weil ich die minimal-mistake-CSS-Klassen nicht anfassen wollte, war das sehr hilfreich und von den 106 kb Dateigröße blieben am Ende nur noch 73 kb übrig.&lt;/p&gt;
+
+&lt;p&gt;Ich hab aber nicht nur technische Änderungen vorgenommen, besonders die Startseite hat viele Änderungen erfahren, 
+so kam ein Einleitungsbereich hinzu, damit jeder gleich weiß um was es geht und die letzten 4 Artikel werden nun nicht mehr als Liste, 
+sondern als Kacheln dargestellt. Mit dem Umstieg auf &lt;a href=&quot;https://github.com/sverrirs/jekyll-paginate-v2&quot;&gt;jekyll-paginate-v2&lt;/a&gt; habe ich auch gleich die Blog-Übersichtsseite neu gestaltet.&lt;/p&gt;
+
+&lt;h1 id=&quot;hallo-tailwindcss&quot;&gt;Hallo TailwindCSS&lt;/h1&gt;
+
+&lt;p&gt;Eigentlich wollte ich weitere Änderungen erst später machen, aber das “Redesign” hat mich dann doch zu sehr gereizt. 
+Die HTML-Dateien hatte ich bereits recht gut angepasst und die Strukturen entsprechend verändert, 
+die CSS- und JavaScript-Dateien waren aber noch so gut wie unberührt vom minimal-mistakes-Theme übernommen. 
+Genau denen sollte es im nächsten Schritt an den Kragen gehen.&lt;/p&gt;
+
+&lt;p&gt;CSS kann knifflig sein und heutzutage ist es wichtig, dass die Seite auf mehreren Bildschirmgrößen gut aussieht und sich entsprechend anpasst. 
+Aus dem Grund wollte ich ein CSS Framework nutzen, welches mir einiges an Arbeit abnimmt. 
+Eines solcher Frameworks hört auf den Namen &lt;a href=&quot;https://tailwindcss.com/&quot;&gt;TailwindCSS&lt;/a&gt; und erfreut sich in letzter Zeit hoher Beliebtheit unter Frontend-Entwicklern. 
+Zufälligerweise hatte ich damit vor kurzem beruflich Berührung und konnte erste Erfahrungen sammeln. 
+Weil es mir dort gefallen hat und ich die Nutzung sehr einfach finde, ist die Wahl dann auch auf &lt;a href=&quot;https://tailwindcss.com/&quot;&gt;TailwindCSS&lt;/a&gt; gefallen.&lt;/p&gt;
+
+&lt;p&gt;Ich werden in diesem Artikel nicht in die Tiefe gehen, solltest du aber vor einer ähnlichen Herausforderung stehen und eine Webseite umsetzen wollen, 
+schau dir &lt;a href=&quot;https://tailwindcss.com/&quot;&gt;TailwindCSS&lt;/a&gt; einmal genauer an, ich kann es nur empfehlen und die Anpassungen gingen nach einer kleinen Eingewöhnungs- und Lernphase recht schnell von der Hand.&lt;/p&gt;
+
+&lt;p&gt;Das Schwierigste war ein vernünftiges Setup hinzubekommen, von den vielen Tutorials und Beispielprojekten rund um Jekyll zusammen mit TailwindCSS haben etliche entweder nicht funktioniert oder nutzen eine sehr alte Version. 
+Am Ende hatte ich dann aber doch noch &lt;a href=&quot;https://github.com/kangabru/jekyll-tailwindcss-boilerplate&quot;&gt;eine Variante gefunden&lt;/a&gt;, die für mich gepasst hat (ein weiteres Hoch auf Open Source). 
+Mit einer anderen Technologie als Jekyll, wäre das sicherlich alles etwas einfacher gewesen, aber damit fangen wir jetzt nicht an ;)&lt;/p&gt;
+
+&lt;p&gt;Als das CSS überarbeitet war, ging es als Nächstes ans JavaScript. Wirklich viel benötige ich davon zurzeit nicht, 
+neben der Bildergalerie sind lediglich ein paar Zeilen für das Navigationsmenü notwendig. Daher wollte ich darauf verzichten eine Bibliothek, 
+wie beispielsweise &lt;a href=&quot;https://jquery.com/&quot;&gt;jQuery&lt;/a&gt;, einzubinden. Gar nicht so einfach, denn die meisten Lightbox-Galerien haben eine Abhängigkeit zu jQuery. 
+Nach einiger Suche habe ich dann aber &lt;a href=&quot;https://dbrekalo.github.io/simpleLightbox/&quot;&gt;SimpleLightbox&lt;/a&gt; gefunden und es macht genau das, was ich will (Bild darstellen und über die Tastatur navigieren), 
+zudem ist es deutlich einfacher zu nutzen, als die Alternativen, die ich getestet hatte.&lt;/p&gt;
+
+&lt;h1 id=&quot;nächste-themen&quot;&gt;Nächste Themen&lt;/h1&gt;
+
+&lt;p&gt;Um ehrlich zu sein, gab es noch eine Stelle, die JavaScript verwendet hat: die Suchfunktion. 
+Mit der Umsetzung davon war ich aber nicht wirklich zufrieden und hab sie daher erst einmal ausgebaut um den aktuellen Stand veröffentlichen zu können. 
+Ich will mir zur Suche nochmal Gedanken machen und überlege, ob ich die bisherige &lt;a href=&quot;https://lunrjs.com/&quot;&gt;Lunr-Variante&lt;/a&gt; gegen eine &lt;a href=&quot;https://www.algolia.com/&quot;&gt;Algolia-Implementation&lt;/a&gt; austausche.&lt;/p&gt;
+
+&lt;p&gt;Vor der Umstellung auf TailwindCSS hatte ich schon kurz Algolia getestet, es dann aber nicht weiterverfolgt, da ich das CSS nicht so anpassen konnte, 
+wie ich wollte bzw. ich es nicht in den alten Stand einbauen wollte. Die Voraussetzung hat sich ja zwischenzeitlich geändert, 
+wäre daher vermutlich ein neuer Anlauf wert, aber schauen wir mal, welche Priorität das bekommt ;)&lt;/p&gt;
+
+&lt;p&gt;Ansonsten stehen noch weitere Designänderungen an, bei der TailwindCSS-Migration habe ich mich recht nah am vorherigen Stand orientiert, 
+habe aber schon die ein oder andere Stelle im Auge, die ich noch etwas ändern möchte. 
+Aber wie gesagt, eigentlich wollte ich erst viele andere Dinge fertig machen, bevor ich mich an die ganzen Änderungen gesetzt habe :D&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Technik" /><category term="Homepage" /><summary type="html">In den letzten Wochen und Monaten habe ich mal wieder an der Technik der Homepage geschraubt. Wie es meistens so ist, ist das meiste davon nicht sichtbar und man könnte darüber diskutieren, ob es notwendig war, aber ich habe wieder etliches gelernt und das ist mit ein Grund warum ich das mache ;)</summary></entry><entry><title type="html">Review: Tenba Tools BYOB 9 und 10</title><link href="https://gamue.de/review-tenba-tools-byob-9-und-10/" rel="alternate" type="text/html" title="Review: Tenba Tools BYOB 9 und 10" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://gamue.de/tenba-tools-byob</id><content type="html" xml:base="https://gamue.de/review-tenba-tools-byob-9-und-10/">&lt;p&gt;Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, 
 wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. 
 Gerade wenn ich nur mit Handgepäck reise, ist Platz ein kostbares Gut.&lt;/p&gt;
 
@@ -889,106 +958,4 @@ das in dem Fall ausgereicht hätte oder optimal war, es war lediglich die am hö
 Das Gleiche natürlich auch am unteren Ende, wofür ich aber auch schon ein 11-16mm Weitwinkelobjektiv habe.&lt;/p&gt;
 
 &lt;p&gt;Für mich war die Analyse erhellend und hat mir bei der Suche nach den Brennweitenbereichen meiner nächsten Objektive weitergeholfen. 
-Ich hoffe das trifft auch auf jeden zu, der die Schritte mit seinen Daten nachstellt.&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><category term="Fotowissen" /><summary type="html">Im Artikel zu den Superzooms, habe ich ja gesagt, dass Objektive mit einem sehr großen Brennweitenbereich leider meistens Abstriche bei der Bildqualität zur Folge haben. Da das eines der Punkte ist, die mich bei meiner aktuellen Ausrüstung stören, habe ich beschlossen mein 18-200mm gegen ein kleineres Zoom-Objektiv zu tauschen, das eine bessere Abbildungsleistung bietet. Was ich gemacht habe, um zu entscheiden, welcher Brennweitenbereich der Passende ist, will ich hier erklären.</summary></entry><entry><title type="html">Schnellere Ladezeiten durch Bildmanagementdienste</title><link href="https://gamue.de/schnellere-ladezeiten-durch-bildmanagementdienste/" rel="alternate" type="text/html" title="Schnellere Ladezeiten durch Bildmanagementdienste" /><published>2020-09-04T00:00:00+02:00</published><updated>2020-09-04T00:00:00+02:00</updated><id>https://gamue.de/bildmanagement-mit-cloudinary</id><content type="html" xml:base="https://gamue.de/schnellere-ladezeiten-durch-bildmanagementdienste/">&lt;p&gt;Dadurch, dass ich im &lt;a href=&quot;/buildautomatisierung-mit-github-actions/&quot;&gt;ersten Schritt die Buildautomatisierung der Homepage mit Hilfe von GitHub Actions&lt;/a&gt; in meine Hände genommen hatte, 
-war nun der Weg frei, mich im zweiten Schritt um die eigentliche Verbesserung zu kümmern: &lt;strong&gt;Optimierung der Ladezeit von Bildern&lt;/strong&gt;. 
-Warum und wie ich das gemacht hab, will ich in diesem Artikel beschreiben.&lt;/p&gt;
-
-&lt;p&gt;Bilder haben einen hohen Anteil der Datenmenge, die geladen werden müssen. Umso schneller diese also geladen werden, 
-umso schneller lädt auch die Seite. Ich denke, so weit ist es noch gut verständlich.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Datenmengen je Typ&quot; width=&quot;1000&quot; height=&quot;299&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ein weiterer Teil ist, dass Besucher einer Seite unterschiedliche Geräte nutzen, die wiederum unterschiedliche Bildschirmgrößen haben. 
-Insbesondere wenn manche einen Desktop-PC oder Laptop und andere ein Smartphone oder Tablet verwenden, gibt es hohe Unterschiede. 
-Im Normalfall hat das keine Auswirkungen auf ein Bild, es wird immer das Gleiche geladen und angezeigt, 
-sprich, es muss immer die gleiche Datenmenge geladen werden. Und genau hier ist der Ansatz der Optimierung: 
-Wenn jemand beispielsweise ein Bild auf einem halb so großen Bildschirm betrachtet, sollte er auch nur ein Bild laden müssen, dass halb so groß ist.&lt;/p&gt;
-
-&lt;p&gt;Technisch bietet HTML5 mit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;srcset&lt;/code&gt; dafür eine Lösung, sodass der Browser erkennt, welche Bildgröße für das Gerät die Optimale ist 
-und dadurch entsprechend Datenmenge einspart, was wiederum zu einer schnelleren Ladezeit führt. 
-Das setzt jedoch voraus, dass von einem Bild verschiedene Größen vorhanden sind, 
-wofür es unterschiedliche Varianten der Erstellung gibt.&lt;/p&gt;
-
-&lt;h1 id=&quot;mögliche-optionen&quot;&gt;Mögliche Optionen&lt;/h1&gt;
-
-&lt;h2 id=&quot;bildversionen-selbst-erstellen&quot;&gt;Bildversionen selbst erstellen&lt;/h2&gt;
-&lt;p&gt;Die erste Variante ist, selbst diverse Größen eines Bildes anzulegen und diese dann entsprechend einzubinden. 
-Am einfachsten geht das beispielsweise über Skripte. Die kleinen Vorschaubilder auf meiner Homepage, 
-lass ich sogar schon über ein solches Gulp-Skript erstellen, sodass ich das prinzipiell erweitern könnte. 
-Informationen zum Skript und wie ich es erstellt habe, findest du übrigens &lt;a href=&quot;/prozessautomatisierung-mit-gulp/&quot;&gt;in diesem Artikel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Die Variante hat den Vorteil, dass man alles selbst in der Hand hat, was aber auch heißt, dass man sich um alles selbst kümmern muss. 
-Insgesamt keine schlechte Variante, aber ich wollte dieses Mal etwas anderes ausprobieren und etwas Neues lernen ;)&lt;/p&gt;
-
-&lt;h2 id=&quot;umstieg-auf-neues-homepage-system&quot;&gt;Umstieg auf neues Homepage-System&lt;/h2&gt;
-&lt;p&gt;Auch wenn ich mit &lt;a href=&quot;/relaunch-2019/&quot;&gt;Jekyll als Homepage-System&lt;/a&gt; bisher zufrieden bin, ist es nicht das Beste, was den Umgang mit Medien angeht, 
-sodass ich überlegt hatte, das komplette System auszutauschen. Ich habe mir dazu auch schon &lt;a href=&quot;https://www.gatsbyjs.com/&quot;&gt;Gatsby&lt;/a&gt; als Option angeschaut und muss sagen, 
-dass mir das sehr gut gefällt und im Standard einen besseren Umgang mit Bildern bietet, 
-denn dort werden direkt mehrere Bildgrößen erstellt und diese erst geladen, wenn diese im Browser sichtbar sind, was man lazy-loading nennt.&lt;/p&gt;
-
-&lt;p&gt;Auch wenn mich &lt;a href=&quot;https://www.gatsbyjs.com/&quot;&gt;Gatsby&lt;/a&gt; reizt, hab ich entschieden, dass es für jetzt dann doch ein zu großer Aufwand ist. 
-Vielleicht schau ich mir das ein anderes Mal genauer an, aber zuvor stehen noch viele andere Dinge auf meiner To-Do-Liste.&lt;/p&gt;
-
-&lt;p&gt;Sicherlich bieten Homepagebaukästen oder richtige Content-Management-Systeme, wie zB Wordpress, 
-auch von Haus aus etliche Tools für einen optimierten Umgang mit Bildern, aber davon bin ich ja bewusst weggegangen 
-und bisher zieht mich da auch nichts wieder hin.&lt;/p&gt;
-
-&lt;h2 id=&quot;nutzung-eines-bildmanagementdienstes&quot;&gt;Nutzung eines Bildmanagementdienstes&lt;/h2&gt;
-&lt;p&gt;Die dritte Variante und die, für die ich mich entschieden habe, ist der Einsatz eines sogenannten Bildmanagementdienstes. 
-Solche Dienste sind darauf spezialisiert Bilder und auch andere Medien, in einer optimierten Variante auszuliefern 
-und schnell diverse Größen eines Bildes erzeugen zu können.&lt;/p&gt;
-
-&lt;p&gt;Vorteil der Lösung ist, dass diese Dienste die Bilder noch deutlich mehr optimieren als mein aktuelles &lt;a href=&quot;/prozessautomatisierung-mit-gulp/&quot;&gt;Gulp-Skript&lt;/a&gt; es macht. 
-So werden diese beispielsweise auch direkt in ein neues Bildformat konvertiert. 
-Nachteil ist jedoch, dass ich mich dadurch abhängig von einem Dienst mache und es je nach Anbieter und Volumen mit Kosten verbunden ist.&lt;/p&gt;
-
-&lt;p&gt;Für &lt;a href=&quot;https://cloudinary.com/&quot;&gt;Cloudinary&lt;/a&gt;, was ein solcher Dienst ist, habe ich ein &lt;a href=&quot;https://github.com/nhoizey/jekyll-cloudinary&quot;&gt;entsprechendes Jekyll-Plugin&lt;/a&gt; gefunden und dort komme ich mit der kostenlosen Variante aus, 
-daher habe ich mich für diesen Dienst entschlossen. Prinzipiell würde aber auch jeder andere solcher Dienste funktionieren.&lt;/p&gt;
-
-&lt;h1 id=&quot;homepage-anpassen&quot;&gt;Homepage anpassen&lt;/h1&gt;
-
-&lt;h2 id=&quot;jekyll-cloudinary-plugin-einbinden&quot;&gt;Jekyll-Cloudinary Plugin einbinden&lt;/h2&gt;
-&lt;p&gt;Die Einbindung des Plugins ist relativ einfach, nachdem die Abhängigkeit im &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; definiert und es installiert ist, 
-steht ein neues Liquid-Tag zur Verfügung, das dann je ein entsprechendes &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img&lt;/code&gt;-HTML-Element mit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;srcset&lt;/code&gt; erzeugt.&lt;/p&gt;
-
-&lt;p&gt;Die Funktionsweise ist relativ simpel und es müssen keine Bilder zu Cloudinary hochgeladen werden, 
-stattdessen schaltet sich der Dienst über die angegebene URL dazwischen und wenn ein Bild das erste Mal aufgerufen wird, 
-lädt Cloudinary dies von meiner Seite und liefert die optimierte Version im Browser des Besuchers aus. 
-Der erste Aufruf eines Bildes kann daher etwas länger dauern, aber sobald es einmal von Cloudinary geladen wurde, 
-sollte jeder nachfolgende Aufruf schneller vonstattengehen.&lt;/p&gt;
-
-&lt;h1 id=&quot;plugin-verwenden-und-bilder-anpassen&quot;&gt;Plugin verwenden und Bilder anpassen&lt;/h1&gt;
-&lt;p&gt;Die meisten Stellen, an denen ich Bilder auf der Homepage verwende, waren recht schnell auf die neue Variante umgestellt, 
-jedoch verwende ich bei einigen Bildern kein &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img&lt;/code&gt;-Tag sondern binde es über CSS-Definitionen ein 
-und diese lassen sich leider nicht so einfach umstellen, sodass ich diese erstmal lasse wie sie sind.&lt;/p&gt;
-
-&lt;p&gt;Eine Möglichkeit wäre dort auch eine Cloudinary-Url zu verwenden, damit zumindest die Datei optimiert wird. 
-Die Verbesserung mit den verschiedenen Größen lässt sich, meinem Wissen nach, dort jedoch nicht so einfach lösen. 
-Zwar kann man je nach Bildschirmgröße unterschiedliche CSS-Definitionen nutzen, aber das wäre für die erreichte Verbesserung aus meiner Sicht zu komplex.&lt;/p&gt;
-
-&lt;p&gt;Zusätzlich ist es sinnvoll die Anzahl der verschiedenen Bilder zu minimieren, sodass der Cache von Cloudinary besser funktioniert. 
-Für mich heißt das, die eigenen Vorschaubilder, die ich über das Gulp-Skript generiere, nicht zu verwenden, sondern das Ganze auch Cloudinary zu überlassen.&lt;/p&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-&lt;p&gt;Nachdem alles, mit vergleichsweise geringem Aufwand, eingebunden und umgestellt war, gab es noch den Punkt zu klären, 
-ob es sich gelohnt hat. Dafür hab ich ein paar Geschwindigkeitstests mit &lt;a href=&quot;https://tools.pingdom.com&quot;&gt;Pingdom&lt;/a&gt; durchgeführt.&lt;/p&gt;
-
-&lt;p&gt;Dazu habe ich vor und nach der Umstellung auf der Startseite und auf der Belize-Galerie je 3 Messungen durchgeführt. 
-Nach der Umstellung hatte ich die Seiten zuerst manuell besucht, damit Cloudinary diese vor der Messung laden und in den Cache legen kann.&lt;/p&gt;
-
-&lt;p&gt;Hier ein paar Ergebnisse davon:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_907/https://gamue.de/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg 907w&quot; sizes=&quot;100vw&quot; alt=&quot;Messergebnisse von Pingdom&quot; width=&quot;907&quot; height=&quot;595&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ich muss sagen, dass ich etwas enttäuscht gewesen bin, zwar werden die Bilder nun gefühlt etwas schneller geladen, 
-aber leider sieht man das nicht wirklich in den Messungen. Die Ladezeit der Startseite war davor 276ms - 645ms, 
-danach zwischen 382ms und 531ms. Die Ladezeit der Belize-Galerie davor 1,55s - 2,46s, danach zwischen 531ms und 2,86s. 
-Zusätzlich hat sich die Datenmenge der Belize-Seite sogar von 3,3 MB auf 3,8 MB vergrößert, 
-also entgegengesetzt zu dem, was ich eigentlich erreichen wollte.&lt;/p&gt;
-
-&lt;p&gt;Positiv aufgefallen ist mir jedoch, dass sich die Bewertung durch Pingdom gering verbessert hat, 
-was ich aber auf die anderen Bildoptimierungen von Cloudinary zurückführe.&lt;/p&gt;
-
-&lt;p&gt;Gefühlt hat die Umstellung einen positiven Effekt gebracht, auch wenn er nicht so groß ausgefallen ist wie erhofft, 
-oder auch nicht wirklich messbar war. Ich habe trotzdem beschlossen das Plugin erstmal auf der Seite zu lassen, 
-denn der positive Effekt auf die Performance-Bewertung und mein subjektives Gefühl sind ja immerhin etwas und es hat keine negativen Auswirkungen.&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Technik" /><category term="Tools" /><category term="Homepage" /><category term="Coding" /><summary type="html">Dadurch, dass ich im ersten Schritt die Buildautomatisierung der Homepage mit Hilfe von GitHub Actions in meine Hände genommen hatte, war nun der Weg frei, mich im zweiten Schritt um die eigentliche Verbesserung zu kümmern: Optimierung der Ladezeit von Bildern. Warum und wie ich das gemacht hab, will ich in diesem Artikel beschreiben.</summary></entry></feed>
+Ich hoffe das trifft auch auf jeden zu, der die Schritte mit seinen Daten nachstellt.&lt;/p&gt;</content><author><name>Johannes Ganzenmüller</name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><category term="Fotowissen" /><summary type="html">Im Artikel zu den Superzooms, habe ich ja gesagt, dass Objektive mit einem sehr großen Brennweitenbereich leider meistens Abstriche bei der Bildqualität zur Folge haben. Da das eines der Punkte ist, die mich bei meiner aktuellen Ausrüstung stören, habe ich beschlossen mein 18-200mm gegen ein kleineres Zoom-Objektiv zu tauschen, das eine bessere Abbildungsleistung bietet. Was ich gemacht habe, um zu entscheiden, welcher Brennweitenbereich der Passende ist, will ich hier erklären.</summary></entry></feed>
