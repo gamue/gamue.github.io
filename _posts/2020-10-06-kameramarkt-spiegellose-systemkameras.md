@@ -5,6 +5,7 @@ permalink: /kameramarkt-2020-mirrorless/
 header:
     teaser: assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg
     overlay_image: assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg
+toc: true
 categories:
   - Fotografie
   - Technik

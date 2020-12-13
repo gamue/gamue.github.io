@@ -5,6 +5,7 @@ permalink: /empfehlungen-reise-apps/
 header:
     teaser: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
     overlay_image: assets/2016-07-14-empfehlungen-reise-apps/pexels-photo_s.jpg
+lightbox: true
 appCurrency:
     - image_path: assets/2016-07-14-empfehlungen-reise-apps/currency_1.jpg
     - image_path: assets/2016-07-14-empfehlungen-reise-apps/currency_2.jpg

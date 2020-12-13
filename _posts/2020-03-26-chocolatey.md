@@ -3,6 +3,8 @@ title: Programme verwalten mit Chocolatey
 permalink: /programme-verwalten-mit-chocolatey/
 header:
     teaser: assets/2020-03-26-chocolatey/choco-thumbnail.jpg
+toc: true
+lightbox: true
 chocoSearch:
     - image_path: assets/2020-03-26-chocolatey/choco-search.jpg
 chocoUpdate:

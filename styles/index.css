@@ -68,4 +68,7 @@
     .toc li ul>li a{
       @apply pl-6 font-normal;
     }
+    .toc li ul>li ul>li a{
+      @apply pl-9;
+    }
 }
