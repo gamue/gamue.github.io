@@ -1,13 +1,14 @@
 
 <footer class="py-8 px-4 mt-12 bg-gray-100 text-gray-600">
-  <div class="container">
+  <div class="container text-center">
     <ul class="uppercase font-bold mb-4 text-sm md:text-base">
       <li class="inline-block mr-6"><a href="https://www.instagram.com/gamue16/" rel="nofollow noopener noreferrer"><svg class="icon mr-0.5"><use xlink:href="#icon-instagram"></use></svg> Instagram</a></li>
       <li class="inline-block mr-6"><a href="https://github.com/gamue" rel="nofollow noopener noreferrer"><svg class="icon mr-0.5"><use xlink:href="#icon-github"></use></svg> GitHub</a></li>
       <li class="inline-block mr-6"><a href="{{ '/feed.xml' | relative_url }}"><svg class="icon mr-0.5"><use xlink:href="#icon-rss2"></use></svg> Feed</a></li>
     </ul>
 
-    <p class="text-xs md:text-sm">&copy; {{ site.time | date: '%Y' }} {{ site.name }}. Built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> and <a href="https://tailwindcss.com/" rel="nofollow">TailwindCSS</a>.</p>
+    <p class="text-sm md:text-base mb-4">&copy; {{ site.time | date: '%Y' }} {{ site.name }} | <a href="{{ '/impressum/' | relative_url }}" class="hover:underline">Impressum</a></p>
+    <p class="text-xs md:text-sm">Built with <a href="https://jekyllrb.com" rel="nofollow" class="hover:underline">Jekyll</a> and <a href="https://tailwindcss.com/" rel="nofollow" class="hover:underline">TailwindCSS</a></p>
   </div>
 </footer>
 
