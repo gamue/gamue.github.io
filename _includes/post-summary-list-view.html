@@ -16,7 +16,7 @@
 
         <div class="flex">
             {%- if teaser -%}
-            <div class="flex-none h-48 w-full sm:w-48 mr-4">
+            <div class="flex-none h-48 w-full sm:w-48 mr-4 overflow-hidden rounded-md">
                 {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
             </div>
             {%- endif -%}

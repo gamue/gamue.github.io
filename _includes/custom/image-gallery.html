@@ -9,7 +9,7 @@
 {%- for file in allFiles -%}
     {%- if file.path contains include.folder -%}
     <a href="{{ file.path }}" class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 h-64 p-4">
-        {% cloudinary thumbnail {{file.path}} alt="" class="preview-image" %}
+        {% cloudinary thumbnail {{file.path}} alt="" class="preview-image rounded-md" %}
     </a>
     {%- endif -%}
 {%- endfor -%}

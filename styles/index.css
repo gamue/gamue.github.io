@@ -42,11 +42,11 @@
     }
 
     .prose img{
-      @apply shadow-lg rounded mx-auto;
+      @apply shadow-lg rounded-md mx-auto transform hover:scale-105 transition duration-300 ease-out;
     }
 
     .preview-image{
-      @apply rounded w-full h-full object-cover shadow-lg;
+      @apply w-full h-full object-cover shadow-lg transform hover:scale-110 transition duration-500 ease-out;
     }
 
     .filter-blur-1{

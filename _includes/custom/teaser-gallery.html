@@ -11,7 +11,7 @@
                     {%- if jekyll.environment == 'production' -%}
                         {% assign img_path = "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/" | append: img_path %}
                     {%- endif -%}
-                <div class="w-full h-72 bg-center bg-cover rounded shadow-lg" style="background-image: url('{{img_path}}')"></div>
+                <div class="w-full h-72 bg-center bg-cover rounded-md shadow-lg" style="background-image: url('{{img_path}}')"></div>
                 <div class="block absolute h-24 top-1/2 inset-x-0 transform -translate-y-1/2 mx-3 border-t border-b border-white">
                     <div class="absolute inset-0 bg-cover bg-center z-10 inset-x-0.5 filter-blur-1" style="background-image: url('{{img_path}}')"></div>
                 </div>
