@@ -11,24 +11,29 @@
 {%- endif -%}
 
 <article class="w-3/4 xl:w-2/3 mb-8 p-2">
-    <a href="{{ post.url | relative_url }}" rel="permalink">
-        <h1 class="text-red-900 mb-2">{{ title }}</h1>
+    <div class="flex flex-wrap my-1">
+        {% for category in post.categories %}
+        <div class="pr-4 font-semibold text-gray-500">{{ category }}</div>
+        {% endfor %}
+    </div>
 
-        <div class="flex">
-            {%- if teaser -%}
-            <div class="flex-none h-48 w-full sm:w-48 mr-4 overflow-hidden rounded-md">
-                {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
-            </div>
-            {%- endif -%}
+    <h1 class="text-red-900 mb-2"><a href="{{ post.url | relative_url }}" rel="permalink" title="{{ title }}">{{ title }}</a></h1>
 
-            <div class="hidden sm:block">
-                {%- if post.show_meta_data -%}
-                    <div class="text-gray-500 text-xs md:text-sm mb-2">{% include page__meta.html %}</div>
-                {%- endif %}
-                {%- if post.excerpt -%}
-                    <p class="text-sm md:text-base">{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>
-                {%- endif -%}
-            </div>
+    <div class="flex">
+        {%- if teaser -%}
+        <div class="flex-none h-48 w-full sm:w-48 mr-4 overflow-hidden rounded-md">
+            <a href="{{ post.url | relative_url }}" rel="permalink" title="{{ title }}">
+            {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
+            </a>
         </div>
-    </a>
+        {%- endif -%}
+        <div class="hidden sm:block">
+            {%- if post.show_meta_data -%}
+                <div class="text-gray-500 text-xs md:text-sm mb-2">{% include page__meta.html %}</div>
+            {%- endif %}
+            {%- if post.excerpt -%}
+                <p class="text-sm md:text-base">{{ post.excerpt | markdownify | strip_html | truncate: 350 }}</p>
+            {%- endif -%}
+        </div>
+    </div>
 </article>
