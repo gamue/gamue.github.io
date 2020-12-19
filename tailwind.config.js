@@ -36,6 +36,9 @@ module.exports = {
                               textDecoration: 'underline',
                           },
                         },
+                        h1: {
+                          marginTop: '1.25em',
+                        },
                         img: {
                           marginTop: 0,
                           marginBottom: 0,
@@ -56,6 +59,9 @@ module.exports = {
                           marginTop: 0,
                           marginBottom: 0,
                         },
+                        h1: {
+                          marginTop: '1.25em',
+                        },
                     },
                 },
                 lg:{
@@ -63,6 +69,9 @@ module.exports = {
                         img: {
                           marginTop: 0,
                           marginBottom: 0,
+                        },
+                        h1: {
+                          marginTop: '1.25em',
                         },
                     },
                 },
