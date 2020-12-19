@@ -19,12 +19,12 @@ layout: default
   <aside>
     <nav class="toc">
       <header><h4>Auf dieser Seite</h4></header>
-      {% include toc.html sanitize=true html=content h_min=1 h_max=6 %}
+      {% include toc.html sanitize=true html=content h_min=1 h_max=3 %}
     </nav>
   </aside>
   {%- endif -%}
 
-  <section itemprop="text" class="container{% unless page.typography == false %} prose prose-sm md:prose lg:prose-lg{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
+  <section itemprop="text" class="container pt-8{% unless page.typography == false %} prose prose-sm md:prose lg:prose-lg{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
 
     {{ content }}
   </section>
