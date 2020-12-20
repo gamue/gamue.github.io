@@ -91,12 +91,26 @@ defaults:
       comments: true
       search: true
 
+autopages:
+  enabled: true
+  tags:
+    layouts:
+      - 'paginate_overview.html'
+    title: 'Artikel aus der Kategorie :tag'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: 'default'
+      case: false
+    enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+
 
 # HTML Compression
 # - https://jch.penibelst.de/

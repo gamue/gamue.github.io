@@ -1,11 +1,11 @@
-{% if (site.tag_archive.type and page.tags[0]) or (site.category_archive.type and page.categories[0]) %}
+{% if (site.autopages.tags.enabled and page.tags[0]) or (site.category_archive.type and page.categories[0]) %}
 <footer class="container prose prose-sm md:prose lg:prose-lg mt-8">
   <div class="my-4" itemprop="keywords">
   {% if site.category_archive.type and page.categories[0] %}
     {% include category-list.html %}
   {% endif %}
 
-  {% if site.tag_archive.type and page.tags[0] %}
+  {% if site.autopages.tags.enabled and page.tags[0] %}
     {% include tag-list.html %}
   {% endif %}
   </div>
