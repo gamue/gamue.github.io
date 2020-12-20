@@ -1,16 +1,8 @@
-{%- comment -%}
-  <!-- Sort alphabetically regardless of case e.g. a B c d E -->
-  <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
-{%- endcomment -%}
-{% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}|{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{%- assign category_hashes = page_categories | split: ',' | sort -%}
-
-{%- for hash in category_hashes -%}
-  {%- assign key_value = hash | split: '|' -%}
-  {%- assign category_word = key_value[1] | strip_newlines -%}
-  <a href="{{ category_word | slugify | prepend: 'category/' | append: '/' | relative_url }}"
-     class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Kategorie {{ category_word }}" >
-    {{ category_word }}
+{%- assign categories_sorted = page.categories | sort_natural -%}
+{%- for category in categories_sorted -%}
+  <a href="{{ category | slugify | prepend: 'category/' | append: '/' | relative_url }}"
+     class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Kategorie {{ category }}" >
+    {{ category }}
   </a>
   {% unless forloop.last %}<span class="hidden">, </span>{% endunless %}
 {%- endfor -%}

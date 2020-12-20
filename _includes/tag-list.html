@@ -1,13 +1,5 @@
-{%- comment -%}
-  <!-- Sort alphabetically regardless of case e.g. a B c d E -->
-  <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
-{%- endcomment -%}
-{%- capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}|{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture -%}
-{%- assign tag_hashes = page_tags | split: ',' | sort -%}
-
-{%- for hash in tag_hashes -%}
-  {%- assign key_values = hash | split: '|' -%}
-  {%- assign tag_word = key_values[1] | strip_newlines -%}
+{%- assign tags_sorted = page.tags | sort_natural -%}
+{%- for tag_word in tags_sorted -%}
   <a href="{{ tag_word | slugify | prepend: 'tag/' | append: '/' | relative_url }}"
      class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Unterkategorie {{ tag_word }}">
     {{ tag_word }}
