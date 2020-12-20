@@ -13,7 +13,6 @@ baseurl: ""
 url: "https://gamue.de"
 og_image: "assets/images/j_logo.jpg"
 words_per_minute: 200
-search: true
 
 # Site Author
 author:
@@ -36,9 +35,9 @@ exclude:
   - styles/syntax.css
   - postcss.config.js
   - tailwind.config.js
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 markdown: kramdown
 
 pagination:
@@ -140,5 +139,4 @@ cloudinary:
       figure: never
 
 analytics:
-  google:
-    tracking_id: "UA-177618947-1"
+  google_tracking_id: "UA-177618947-1"
