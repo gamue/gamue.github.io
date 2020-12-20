@@ -97,12 +97,13 @@ autopages:
       - 'paginate_overview.html'
     title: 'Artikel aus der Kategorie :tag'
     permalink: '/tag/:tag'
-    slugify:
-      mode: 'default'
-      case: false
     enabled: true
   categories:
-    enabled: false
+    layouts:
+      - 'paginate_overview.html'
+    title: 'Artikel aus der Kategorie :cat'
+    permalink: '/category/:cat'
+    enabled: true
   collections:
     enabled: false
 
