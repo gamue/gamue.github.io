@@ -28,7 +28,10 @@
         </a>
       </li>
     </ul>
-    <p class="text-sm md:text-base mb-4">&copy; {{ site.time | date: '%Y' }} {{ site.name }} | <a href="{{ '/impressum/' | relative_url }}" class="hover:underline">Impressum</a></p>
+    <div class="text-sm md:text-base mb-4 md:flex justify-between">
+      <p>&copy; {{ site.time | date: '%Y' }} Johannes Ganzenmüller</p>
+      <p><a href="{{ '/impressum/' | relative_url }}" class="hover:underline">Impressum</a> | <a href="{{ '/datenschutz/' | relative_url }}" class="hover:underline">Datenschutzerklärung</a></p>
+    </div>
     <p class="text-xs md:text-sm">Built with <a href="https://jekyllrb.com" rel="nofollow" class="hover:underline">Jekyll</a> and <a href="https://tailwindcss.com/" rel="nofollow" class="hover:underline">TailwindCSS</a></p>
   </div>
 </footer>
