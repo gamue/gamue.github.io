@@ -26,55 +26,65 @@ module.exports = {
                     900: '#660000',
                 },
             },
-            typography: {
+            typography: (theme) => {
+              return {
                 DEFAULT: {
-                    css: {
-                        a: {
-                          textDecoration: 'none',
-                          color: '#660000',
-                          '&:hover': {
-                              textDecoration: 'underline',
-                          },
-                        },
-                        h1: {
-                          marginTop: '1.25em',
-                        },
-                        img: {
-                          marginTop: 0,
-                          marginBottom: 0,
-                        },
-                        dt: {
-                          fontWeight: '600',
-                          marginBottom: '0.1em',
-                        },
-                        dd: {
-                          marginBottom: '1.25em',
-                          paddingLeft: '1.25em',
-                        },
+                  css: {
+                    a: {
+                      textDecoration: 'none',
+                      color: theme(`colors.red.900`),
+                      '&:hover': {
+                        textDecoration: 'underline',
+                      },
                     },
-                },
-                sm:{
-                    css: {
-                        img: {
-                          marginTop: 0,
-                          marginBottom: 0,
-                        },
-                        h1: {
-                          marginTop: '1.25em',
-                        },
+                    h1: {
+                      marginTop: '1.25em',
                     },
-                },
-                lg:{
-                    css: {
-                        img: {
-                          marginTop: 0,
-                          marginBottom: 0,
-                        },
-                        h1: {
-                          marginTop: '1.25em',
-                        },
+                    img: {
+                      marginTop: 0,
+                      marginBottom: 0,
                     },
+                    dt: {
+                      fontWeight: '600',
+                      marginBottom: '0.1em',
+                    },
+                    dd: {
+                      marginBottom: '1.25em',
+                      paddingLeft: '1.25em',
+                    },
+                    code: {
+                      background: theme(`colors.gray.100`),
+                      padding: '0.125em',
+                    },
+                    'code::before': false,
+                    'code::after': false,
+                    'blockquote p:first-of-type::before': false,
+                    'blockquote p:last-of-type::after': false,
+                  },
                 },
+                sm: {
+                  css: {
+                    img: {
+                      marginTop: 0,
+                      marginBottom: 0,
+                    },
+                    h1: {
+                      marginTop: '1.25em',
+                    },
+                  },
+                },
+                lg: {
+                  css: {
+                    img: {
+                      marginTop: 0,
+                      marginBottom: 0,
+                    },
+                    h1: {
+                      marginTop: '1.25em',
+                    },
+                  },
+                },
+              }
             },
         },
     },

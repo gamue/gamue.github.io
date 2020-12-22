@@ -57,10 +57,10 @@
       @apply text-gray-700 text-sm w-11/12 lg:w-3/4 xl:w-7/12 mx-auto my-4 border rounded;
     }
     .toc h4{
-      @apply bg-gray-200 px-3 py-1 font-bold;
+      @apply bg-gray-200 px-3 py-2 font-bold;
     }
     .toc a{
-      @apply block border-b border-gray-200 py-1 px-3 font-semibold;
+      @apply block border-b border-gray-200 py-2 px-3 font-semibold;
     }
     .toc a:hover{
       @apply underline text-gray-900;
