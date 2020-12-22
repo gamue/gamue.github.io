@@ -582,7 +582,7 @@ var store = [{
         "tags": ["Tools","Fotowissen"],
         "url": "https://gamue.de/welchen-brennweitenbereich-nutze-ich-am-meisten/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-09-06-brennweitenbereich-analysieren/magdiel-damas-sIUTqm5qu1I-unsplash.jpg"},{
         "title": "Meine Kameraausrüstung",
-        "excerpt":"Falls du dich gefragt hast, wie meine Kameraausstattung auf Reisen aussieht, findest du in diesem Artikel die Antwort. Wobei ich natürlich nicht jedes Mal alles mitnehme, sondern individuell entscheide, was im Gepäck landet ;) Der Großteil der Ausrüstung begleitet mich nun schon seit vielen Jahren um die Welt und jedes...","categories": ["Fotografie","Technik"],
+        "excerpt":"Falls du dich gefragt hast, wie meine Kameraausstattung auf Reisen aussieht, findest du in diesem Artikel die Antwort. Wobei ich natürlich nicht jedes Mal alles mitnehme, sondern individuell entscheide, was im Gepäck landet ;) Der Großteil der Ausrüstung begleitet mich nun schon seit vielen Jahren um die Welt und jedes...","categories": ["Fotografie"],
         "tags": ["Ausrüstung"],
         "url": "https://gamue.de/meine-kameraausruestung-2020/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-09-12-kameraausruestung/equip_dslr.jpg"},{
         "title": "Deutschland Bilder online",
@@ -590,11 +590,11 @@ var store = [{
         "tags": ["Deutschland"],
         "url": "https://gamue.de/deutschland-bilder-online/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0535.jpg"},{
         "title": "Meine neue Kamera - Sony a6400",
-        "excerpt":"Ich hatte schon länger überlegt mir eine neue Kamera zu holen und vor ein paar Wochen, als ich auf einer Fotomesse war, konnte ich nicht wiederstehen und habe mir eine Sony Alpha 6400 zugelegt :) Warum, Wieso und was ich mir davon erhoffe, erfährst du in diesem Artikel. Warum &amp;...","categories": ["Fotografie","Technik"],
+        "excerpt":"Ich hatte schon länger überlegt mir eine neue Kamera zu holen und vor ein paar Wochen, als ich auf einer Fotomesse war, konnte ich nicht wiederstehen und habe mir eine Sony Alpha 6400 zugelegt :) Warum, Wieso und was ich mir davon erhoffe, erfährst du in diesem Artikel. Warum &amp;...","categories": ["Fotografie"],
         "tags": ["Ausrüstung"],
         "url": "https://gamue.de/neue-kamera-sony-a6400/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_thumb.jpg"},{
         "title": "Der Kameramarkt in 2020 <br>(Spiegellose Systemkameras)",
-        "excerpt":"Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und...","categories": ["Fotografie","Technik"],
+        "excerpt":"Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und...","categories": ["Fotografie"],
         "tags": [],
         "url": "https://gamue.de/kameramarkt-2020-mirrorless/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/christian-mackie-az2pTpXsDg0-unsplash.jpg"},{
         "title": "Review: Lens-Aid Einschlagtuch",
