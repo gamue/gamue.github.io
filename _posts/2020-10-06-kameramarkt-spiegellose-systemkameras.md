@@ -8,7 +8,6 @@ header:
 toc: true
 categories:
   - Fotografie
-  - Technik
 ---
 
 Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, 

@@ -7,7 +7,6 @@ header:
     overlay_image: assets/2020-09-12-kameraausruestung/equip_dslr.jpg
 categories:
   - Fotografie
-  - Technik
 tags:
   - Ausrüstung
 ---
