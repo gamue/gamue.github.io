@@ -1,5 +1,6 @@
 ---
 title: Sri Lanka
+description: Dieser Inselstaat im Indischen Ozean bietet mit seinen zahlreichen Nationalparks reichlich Natur. Wir haben die Reise sehr genossen und hier findest du Informationen zur Route und den Städten.
 permalink: /sri-lanka/
 header:
     teaser: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
@@ -25,12 +26,12 @@ itinerary:
       description: Hier hätten wir in jedem Fall mehr Zeit verbringen können, neben wunderschönen Stränden gibt es nämlich auch viel zu Entdecken und Erleben. Wobei ich mir das Whale-Watching sparen hätte können, stundenlang seekrank über der Reling ist jetzt nicht so meine Definition von Spaß.
     - name: Beruwala
       image: assets/photography/2016_12_sri_lanka/SriLanka_1022.jpg
-      description: Außer den vielen Resorts und größeren Hotels gibt es glaube ich in der Gegend nicht viel zu sehen, aber wer hier herkommt, hat vermutlich eh nichts anderes vor ;)
+      description: Außer den vielen Resorts und größeren Hotels gibt es, glaube ich in der Gegend nicht viel zu sehen, aber wer hier herkommt, hat vermutlich eh nichts anderes vor ;)
 map_id: 1NgpC8cj2xJfQv-hrpN5TxqvFdrgRbfuW
 ---
 
 In der Vorweihnachtszeit 2016 ging auf eine Fernreise, dieses Mal ins warme Sri Lanka. 
-Der knapp 2 wöchige Trip ist als eine Backpacking-Tour gestartet und nachdem wir viele Sehenswürdigkeiten besucht 
+Der knapp 2-wöchige Trip ist als eine Backpacking-Tour gestartet und nachdem wir viele Sehenswürdigkeiten besucht 
 und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, was für sich wieder eine ganz eigene Welt war.
 
 [Zur Bildergalerie](/photography/sri-lanka-2016/){: .btn}

@@ -1,5 +1,6 @@
 ---
 title: Indien
+description: Hier findest du die Reiseroute und Informationen über die Stationen meines Indientrips 2011.
 permalink: /indien/
 header:
     teaser: assets/photography/2011_10_indien/dsc_8266.jpg
@@ -24,7 +25,7 @@ map_id: 16H6_4xl5uwt91PZLog8xUBhNvYb4LN40
 country_tag: Indien
 ---
 
-Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen. 
+Im Oktober 2011 hat es mich auf eine 4-wöchige Tour durch Nord-Indien und Nepal verschlagen. 
 
 Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varanasi ging es auf dem Landweg 
 zur nepalesischen Grenze in Sonauli.

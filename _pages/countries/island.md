@@ -1,5 +1,6 @@
 ---
 title: Island
+description: Die Insel im hohen Norden steht vermutlich bei jedem Naturliebhaber und Fotografen hoch im Kurs und sie enttäuscht definitiv nicht. Hier findest du meine Reiseroute, tipps und Erfahrungsberichte aus Island.
 permalink: /island/
 header:
     teaser: assets/photography/2012_06_island/dsc_1072.jpg

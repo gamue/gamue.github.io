@@ -1,5 +1,6 @@
 ---
 title: Georgien
+description: Das kleine Land im Kaukasus hat sich in den letzten Jahren zum Top-Reiseziel entwickelt, wunderschöne Natur und gutes Essen sind dafür sicherlich mitverantwortlich. Hier sind meine Tipps rund für eine Georgien-Reise.
 permalink: /georgien/
 header:
     teaser: assets/photography/2018_06_georgien/Georgien_0424b.jpg
@@ -21,8 +22,8 @@ map_id: 1c-7iQgo2w6T4YEhTRcz_YrgUOothc_-l
 ---
 
 Georgien war bisher mein vielleicht spontanster Trip: Im Juni 2018 hab ich entschieden meinen Arbeitgeber zu wechseln, mit zwei Wochen Kündigungsfrist und als mit meinem neuen Job alles unter Dach und Fach war, ist mir aufgefallen, dass ich noch etwa zwei Wochen Resturlaub habe.
-Wieso also nicht nochmal wegfahren um mit frischem Kopf zu starten, nach etwas Suche bin ich auf preiswerte Flüge in ein Land gestoßen in dem ich noch nicht war und das landschaftlich eindrucksvoll aussah.
-Das war genau was ich wollte und ich wurde nicht enttäuscht: Georgien bietet schöne Landschaften, sympathische Menschen und gutes Essen. Definitiv zu empfehlen!
+Wieso also nicht nochmal wegfahren, um mit frischem Kopf zu starten, nach etwas Suche bin ich auf preiswerte Flüge in ein Land gestoßen, in dem ich noch nicht war und das landschaftlich eindrucksvoll aussah.
+Das war genau das, was ich wollte und ich wurde nicht enttäuscht: Georgien bietet schöne Landschaften, sympathische Menschen und gutes Essen. Definitiv zu empfehlen!
 
 Ich hab in den 9 Tagen bei weitem nicht alles gesehen und erlebt was das Land zu bieten hat und würde es in jedem Fall wieder bereisen.
 

@@ -1,5 +1,6 @@
 ---
 title: Deutschland
+description: Oft zieht es Menschen in weit entferne Länder, aber auch Deutschland hat etliches zu bieten. Hier findest du meine Tipps für das Heimatland.
 permalink: /deutschland/
 header:
     teaser: assets/photography/2020_07_deutschland/Deutschland_0355.jpg

@@ -1,5 +1,6 @@
 ---
 title: Jordanien
+description: Das Königreich im Nahen Osten bietet mit der Felsenstadt Petra und dem Wadi Rum beindruckende Reiseziele, die auch mich angezogen haben.
 permalink: /jordanien/
 header:
     teaser: assets/photography/2017_11_jordanien/Jordanien_404b.jpg

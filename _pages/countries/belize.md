@@ -1,5 +1,6 @@
 ---
 title: Belize
+description: Das kleine, recht unbekannte Land in Mittelamerika hat vieles zu bieten und ich kann es jedem nur empfehlen. Hier findest du Informationen, Tipps und meine Reiseroute rund um einen Urlaub in Belize.
 permalink: /belize/
 header:
     teaser: assets/photography/2019_04_belize/Belize_0317.jpg
@@ -29,8 +30,8 @@ Belize liegt eingekesselt von Guatemala und Mexico in Zentralamerika und hat mir
 war aber eine Empfehlung eines Bekannten und nach etwas Recherche klang es quasi nach allem, was wir sehen wollten: Strand, Mayaruinen und "Regenwald".
 
 Ein Vorteil von Belize ist, dass es das einzige Land in der Region ist, in dem Englisch die Hauptsprache ist und man daher um Spanisch lernen herumkommt ^^ 
-Das Land ist nicht sehr gross, so dass man es schnell durchqueren kann, zumindest wenn man in der Nähe der asphaltierten Hauptstrasse bleibt und es bietet eine enorme Vielfalt. 
-Ich würde in jedem Fall wieder dort hin reisen.
+Das Land ist nicht sehr gross, sodass man es schnell durchqueren kann, zumindest wenn man in der Nähe der asphaltierten Hauptstraße bleibt und es bietet eine enorme Vielfalt. 
+Ich würde in jedem Fall wieder dort hinreisen.
 
 [Zur Bildergalerie](/photography/belize-2019/){: .btn}
 

@@ -1,5 +1,6 @@
 ---
 title: Nepal
+description: Hier findest du die Reiseroute und Informationen über die Stationen meines Nepal-Trips 2011.
 permalink: /nepal/
 header:
     teaser: assets/photography/2011_10_nepal/Nepal_1104bw.jpg
@@ -27,7 +28,7 @@ map_id: 1xFSAicGzg832iXwmISZhKKc_ZMvbyTzq
 country_tag: Nepal
 ---
 
-Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen.
+Im Oktober 2011 hat es mich auf eine 4-wöchige Tour durch Nord-Indien und Nepal verschlagen.
 
 Nachdem ich die Indisch-Nepalesische Grenze auf dem Landweg überquert habe, ging es zuerst nach Lumbini, dem Geburtsort Buddhas.
 Über Tansen, einem kleinen Bergdorf, führte der Weg anschließend nach Pokhara. 

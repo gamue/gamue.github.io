@@ -1,5 +1,6 @@
 ---
 title: Rumänien
+description: Rumänien ist vermutlich nicht das klassische Reiseziel, hat jedoch viel zu bieten und kann es nur jedem ans Herz legen. Hier findest du Reiseinformationen, meine Reiseberichte und die Route des Rumänien-Trips.
 permalink: /rumaenien/
 header:
     teaser: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
@@ -10,7 +11,7 @@ itinerary:
       description: Ehrlich gesagt hab ich die Stadt nur besucht, weil es die beste Verbindung von Belgrad nach Rumänien war und hatte daher keine großen Ansprüche oder Erwartungen. Insgesamt aber eine schöne Stadt, mit vielen barocken Bauwerken und sehenswerten Kirchen und Parks. Kann man sich in jedem Fall anschauen, wenn man im Umkreis ist.
     - name: Sibiu
       image: assets/photography/2013_08_rumaenien/Rumaenien_187.jpg
-      description: Oder Hermannstadt, wie die Stadt auch heißt, liegt im Herzen von Rumänien und bietet ein entspanntes mittelalterliches Flair. Generell finden sich in Siebenbürgen bzw. Transsilvanien viele Städte und Dörfer, die reich an Geschichte sind und schöne Altstädte bieten. Gerade der zentrale Platz und die anschließende Fußgängerzone mit den vielen Cafés und Restaurants lädt zum verweilen an. Sibiu verfügt sogar über einen Flughafen, der von Süd- und Westdeutschland angeflogen wird und bietet daher eine gute Ausgangsbasis für Erkundungstouren in dem Gebiet.
+      description: Oder Hermannstadt, wie die Stadt auch heißt, liegt im Herzen von Rumänien und bietet ein entspanntes mittelalterliches Flair. Generell finden sich in Siebenbürgen bzw. Transsilvanien viele Städte und Dörfer, die reich an Geschichte sind und schöne Altstädte bieten. Gerade der zentrale Platz und die anschließende Fußgängerzone mit den vielen Cafés und Restaurants lädt zum Verweilen an. Sibiu verfügt sogar über einen Flughafen, der von Süd- und Westdeutschland angeflogen wird und bietet daher eine gute Ausgangsbasis für Erkundungstouren in dem Gebiet.
     - name: Retezat-Nationalpark
       image: assets/photography/2013_08_rumaenien/Rumaenien_415_tonemapped.jpg
       description: Was soll ich zu de Station groß sagen, außer das es dort etliche schöne Wandertouren gibt, man aber nicht sehr einfach in das Gebiet gelangt. Unsere damals einzige Möglichkeit von Sibiu aus, war ein Zug der zweimal täglich zu miesen Zeiten gefahren ist. Die Natur entschädigt jedoch dafür und wenn man Glück hat, trifft man zudem auf viele verschiedene Tierarten.
@@ -29,7 +30,7 @@ country_tag: Rumänien
 
 Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und mir vorgenommen wiederzukommen.
 
-Neben idyllischer Natur und schönen Altstädten, waren auch die Menschen sehr freundlich und aufgeschlossen. 
+Neben idyllischer Natur und schönen Altstädten waren auch die Menschen sehr freundlich und aufgeschlossen. 
 Zusätzlich gibt es noch leckeres Essen und das alles für vergleichsweise schmales Geld. Was will man mehr? :D
 
 [Zur Bildergalerie](/photography/suedosteuropa-2013/){: .btn}

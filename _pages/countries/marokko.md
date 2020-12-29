@@ -1,5 +1,6 @@
 ---
 title: Marokko
+description: Meine Route, Stationen und Berichte der Marokko-Reise im Mai 2011.
 permalink: /marokko/
 header:
     teaser: assets/photography/2011_05_marokko/Marokko_097b.jpg
@@ -22,13 +23,13 @@ itinerary:
       description: Wie Ouarzazate ebenfalls eine beliebte Filmkulisse, jedoch eben als Hafen- statt Wüstenstadt. Die Altstadt ist sehr sehenswert und im Hafen ist sehr viel los, wer frischen Fisch mag, wird hier auf jeden Fall fündig.
     - name: Casablanca 
       image: assets/photography/2011_05_marokko/Marokko_666_hdr.jpg
-      description: In Marokkos größter Stadt hat es mir vorallem die Hasan-II-Moschee mit ihren strahlenden Farben angetan. Ansonsten hab ich die Reise dort eher ausklingen lassen so dass ich nicht viel darüber schreiben kann ;)
+      description: In Marokkos größter Stadt hat es mir vorallem die Hasan-II-Moschee mit ihren strahlenden Farben angetan. Ansonsten hab ich die Reise dort eher ausklingen lassen, sodass ich nicht viel darüber schreiben kann ;)
 map_id: 1leiIo594Bjk4XyBjp8QOqsiu-6KQk33u
 country_tag: Marokko
 ---
 
-Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der einiges schief gelaufen ist.
+Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der einiges schiefgelaufen ist.
 Auch haben mich die permanenten Bettel- und Verkaufsversuche schnell genervt, so das es alles in allem nicht das beste Erlebnis war. 
-Selbst wenn die Natur und Bauwerke für einiges entschädigen.
+Selbst, wenn die Natur und Bauwerke für einiges entschädigen.
 
 [Zur Bildergalerie](/photography/marokko-2011/){: .btn}

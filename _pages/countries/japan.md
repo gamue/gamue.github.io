@@ -1,5 +1,6 @@
 ---
 title: Japan
+description: Das Land der aufgehenden Sonne hat sicherlich für viele eine hohe Anziehungskraft, so auch für mich. Hier findest du meine Reisetipps und -informationen zu Japan.
 permalink: /japan/
 header:
     teaser: assets/photography/2017_04_japan/Japan_1225.jpg

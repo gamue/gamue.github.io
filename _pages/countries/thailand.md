@@ -1,5 +1,6 @@
 ---
 title: Thailand
+description: Neben endlosen Stränden bietet Thailand auch pulsierende Metropolen und tierreichen Dschungel. Hier findest du meine Reisetipps und Informationen zur Reiseroute in Thailand.
 permalink: /thailand/
 header:
     teaser: assets/photography/2014_10_thailand/Thailand_0630.jpg
