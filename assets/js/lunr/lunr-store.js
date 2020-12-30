@@ -13,13 +13,13 @@ var store = [{
          "url": "https://gamue.de/deutschland/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0355.jpg"},{
          "title": "Georgien",
          "excerpt":
-             "Georgien war bisher mein vielleicht spontanster Trip: Im Juni 2018 hab ich entschieden meinen Arbeitgeber zu wechseln, mit zwei Wochen Kündigungsfrist und als mit meinem neuen Job alles unter Dach und Fach war, ist mir aufgefallen, dass ich noch etwa zwei Wochen Resturlaub habe. Wieso also nicht nochmal wegfahren um...",
+             "Georgien war bisher mein vielleicht spontanster Trip: Im Juni 2018 hab ich entschieden meinen Arbeitgeber zu wechseln, mit zwei Wochen Kündigungsfrist und als mit meinem neuen Job alles unter Dach und Fach war, ist mir aufgefallen, dass ich noch etwa zwei Wochen Resturlaub habe. Wieso also nicht nochmal wegfahren, um...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/georgien/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_06_georgien/Georgien_0424b.jpg"},{
          "title": "Indien",
          "excerpt":
-             "Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen.   Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varanasi ging es auf dem Landweg  zur nepalesischen Grenze in Sonauli.   Zur Bildergalerie  ",
+             "Im Oktober 2011 hat es mich auf eine 4-wöchige Tour durch Nord-Indien und Nepal verschlagen.   Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varanasi ging es auf dem Landweg  zur nepalesischen Grenze in Sonauli.   Zur Bildergalerie  ",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/indien/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2011_10_indien/dsc_8266.jpg"},{
@@ -37,7 +37,7 @@ var store = [{
          "url": "https://gamue.de/island/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2012_06_island/dsc_1072.jpg"},{
          "title": "Israel",
          "excerpt":
-             "Mein erster Solo-Backpacking-Trip hat mich im September/Oktober 2009 nach Israel und dem Westjordanland geführt und mit dem Reisefieber infiziert. Im Vorfeld haben sich viele kritisch über die Sicherheit geäußert, aber aus meiner Sicht gab es dazu keinerlei Bedenken und empfinde Israel als sehr sicheres Land. Zur Bildergalerie Etliche Jahre später...",
+             "Mein erster Solo-Backpacking-Trip hat mich im September und Oktober 2009 nach Israel und dem Westjordanland geführt und mit dem Reisefieber infiziert. Im Vorfeld haben sich viele kritisch über die Sicherheit geäußert, aber aus meiner Sicht gab es dazu keinerlei Bedenken und ich empfinde Israel als sehr sicheres Land. Zur Bildergalerie...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/israel/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2009_09_israel/dsc_6894_hdr.jpg"},{
@@ -55,25 +55,25 @@ var store = [{
          "url": "https://gamue.de/jordanien/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_11_jordanien/Jordanien_404b.jpg"},{
          "title": "Laos",
          "excerpt":
-             "Da ich im November 2014 im Norden Thailands unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. Auch wenn ich nur einen kleinen Teil des Landes gesehen habe, war dieser sehr beeindruckend und hat genau dem entsprochen was ich wollte. Ich kann das...",
+             "Da ich im November 2014 im Norden Thailands unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. Auch wenn ich nur einen kleinen Teil des Landes gesehen habe, war dieser sehr beeindruckend und hat genau dem entsprochen, was ich wollte. Ich kann das...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/laos/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2014_11_laos/Laos_188.jpg"},{
          "title": "Marokko",
          "excerpt":
-             "Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der einiges schief gelaufen ist. Auch haben mich die permanenten Bettel- und Verkaufsversuche schnell genervt, so das es alles in allem nicht das beste Erlebnis war. Selbst wenn die Natur und Bauwerke für einiges entschädigen. [Zur Bildergalerie](/photography/marokko-2011/){:...",
+             "Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der einiges schiefgelaufen ist. Auch haben mich die permanenten Bettel- und Verkaufsversuche schnell genervt, so das es alles in allem nicht das beste Erlebnis war. Selbst, wenn die Natur und Bauwerke für einiges entschädigen. [Zur Bildergalerie](/photography/marokko-2011/){: .btn}...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/marokko/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2011_05_marokko/Marokko_097b.jpg"},{
          "title": "Nepal",
          "excerpt":
-             "Im Oktober 2011 hat es mich auf eine 4 wöchige Tour durch Nord-Indien und Nepal verschlagen. Nachdem ich die Indisch-Nepalesische Grenze auf dem Landweg überquert habe, ging es zuerst nach Lumbini, dem Geburtsort Buddhas. Über Tansen, einem kleinen Bergdorf, führte der Weg anschließend nach Pokhara. Leider hatte ich für die...",
+             "Im Oktober 2011 hat es mich auf eine 4-wöchige Tour durch Nord-Indien und Nepal verschlagen. Nachdem ich die Indisch-Nepalesische Grenze auf dem Landweg überquert habe, ging es zuerst nach Lumbini, dem Geburtsort Buddhas. Über Tansen, einem kleinen Bergdorf, führte der Weg anschließend nach Pokhara. Leider hatte ich für die mehrtägigen...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/nepal/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2011_10_nepal/Nepal_1104bw.jpg"},{
          "title": "Rumänien",
          "excerpt":
-             "Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und mir vorgenommen wiederzukommen. Neben idyllischer Natur und schönen Altstädten, waren auch die Menschen sehr freundlich und aufgeschlossen. Zusätzlich gibt es noch leckeres Essen und das alles für vergleichsweise schmales Geld. Was will man mehr? :D [Zur Bildergalerie](/photography/suedosteuropa-2013/){:...",
+             "Rumänien hab ich im Sommer 2013 als Teil einer kleinen Odyssee bereist und mir vorgenommen wiederzukommen. Neben idyllischer Natur und schönen Altstädten waren auch die Menschen sehr freundlich und aufgeschlossen. Zusätzlich gibt es noch leckeres Essen und das alles für vergleichsweise schmales Geld. Was will man mehr? :D [Zur Bildergalerie](/photography/suedosteuropa-2013/){:...",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/rumaenien/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2013_08_rumaenien/Rumaenien_187.jpg"},{
@@ -85,7 +85,7 @@ var store = [{
          "url": "https://gamue.de/schottland/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg"},{
          "title": "Sri Lanka",
          "excerpt":
-             "In der Vorweihnachtszeit 2016 ging auf eine Fernreise, dieses Mal ins warme Sri Lanka. Der knapp 2 wöchige Trip ist als eine Backpacking-Tour gestartet und nachdem wir viele Sehenswürdigkeiten besucht und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, was für sich wieder eine ganz eigene Welt...",
+             "In der Vorweihnachtszeit 2016 ging auf eine Fernreise, dieses Mal ins warme Sri Lanka. Der knapp 2-wöchige Trip ist als eine Backpacking-Tour gestartet und nachdem wir viele Sehenswürdigkeiten besucht und unzählige Ereignisse erleben durften, ging es zum Ausklang in ein Resort, was für sich wieder eine ganz eigene Welt war....",
          "categories": null,
          "tags": null,
          "url": "https://gamue.de/sri-lanka/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg"},{
@@ -97,10 +97,10 @@ var store = [{
          "url": "https://gamue.de/thailand/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2014_10_thailand/Thailand_0630.jpg"},{
          "title": "Vietnam",
          "excerpt":
-             "{% include custom/country-wip.html %} Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. Nach etwas Recherche und abzüglich der Länder, die ich schon bereist habe, fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger. Insgesamt haben wir das...",
+             "Wir wollten den Jahreswechsel 2017/2018 im Warmen verbringen und Süd-Ost-Asien ist dafür eine gute Adresse. Nach etwas Recherche und abzüglich der Länder, die ich schon bereist habe, fiel die Entscheidung auf Vietnam und so ging es kurz nach Weihnachten in den Flieger. Insgesamt haben wir das Land drei Wochen lang...",
          "categories": null,
          "tags": null,
-         "url": "https://gamue.de/vietnam/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/countries/vietnam/Vietnam_10_043.JPG"},{
+         "url": "https://gamue.de/vietnam/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_1227.jpg"},{
         "title": "You&#8217;re my Hero",
         "excerpt":"Yeah hab auch mal ein Smartphone mit Riesendisplay, Touchscreen und allem Firlefanz 😀 Doch erstmal aus der Verpackung bekommen, die auf 0,01mm an die Maße angepasst wurde. Also drücken, hebeln und klopfen bis es endlich mal in der Hand ist 🙂 Fürn Anfang erstmal meine alte SIM-Karte rein, wirds ja...","categories": ["Technik"],
         "tags": [],
@@ -616,4 +616,8 @@ var store = [{
         "title": "Migration zu TailwindCSS",
         "excerpt":"In den letzten Wochen und Monaten habe ich mal wieder an der Technik der Homepage geschraubt. Wie es meistens so ist, ist das meiste davon nicht sichtbar und man könnte darüber diskutieren, ob es notwendig war, aber ich habe wieder etliches gelernt und das ist mit ein Grund warum ich...","categories": ["Technik"],
         "tags": ["Homepage"],
-        "url": "https://gamue.de/migration-zu-tailwindcss/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-12-13-homepage-auf-tailwind-umgestellt/tailwind_thumb.jpg"}]
+        "url": "https://gamue.de/migration-zu-tailwindcss/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2020-12-13-homepage-auf-tailwind-umgestellt/tailwind_thumb.jpg"},{
+        "title": "Vietnam Galerie online",
+        "excerpt":"Es ist knapp geworden, aber mit dem heutigen Upload der Vietnam-Reisegalerie, habe ich mein diesjähriges Ziel erreicht und alle Reisebilder der letzten Jahre verarbeitet. Ich kann es irgendwie selbst noch nicht glauben, bin aber sehr froh, dass ich das geschafft habe und freue mich die Bilder nun endlich mit allen...","categories": ["Reisen","Fotografie"],
+        "tags": ["Vietnam"],
+        "url": "https://gamue.de/reisebilder-vietnam-online/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0200b.jpg"}]
