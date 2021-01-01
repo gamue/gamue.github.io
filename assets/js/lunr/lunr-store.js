@@ -620,4 +620,8 @@ var store = [{
         "title": "Vietnam Galerie online",
         "excerpt":"Es ist knapp geworden, aber mit dem heutigen Upload der Vietnam-Reisegalerie, habe ich mein diesjähriges Ziel erreicht und alle Reisebilder der letzten Jahre verarbeitet. Ich kann es irgendwie selbst noch nicht glauben, bin aber sehr froh, dass ich das geschafft habe und freue mich die Bilder nun endlich mit allen...","categories": ["Reisen","Fotografie"],
         "tags": ["Vietnam"],
-        "url": "https://gamue.de/reisebilder-vietnam-online/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0200b.jpg"}]
+        "url": "https://gamue.de/reisebilder-vietnam-online/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0200b.jpg"},{
+        "title": "Mein Jahresrückblick 2020",
+        "excerpt":"Das Jahr 2020 ist nun Geschichte und ich glaube so ziemlich jeder ist froh darum. Was für ein herausforderndes und unerwartetes Jahr. Hätte man mir zu Beginn des Jahres erzählt, was sich alles verändert, ich hätte denjenigen als verrückt abgetan. Denn Jahresanfang, inklusive Jahreswechsel 2019/2020, habe ich in Paris verbracht,...","categories": ["Allgemein"],
+        "tags": [],
+        "url": "https://gamue.de/mein-jahresrueckblick-2020/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/schild_chemnitz.jpg"}]
