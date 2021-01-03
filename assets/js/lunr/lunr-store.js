@@ -624,4 +624,8 @@ var store = [{
         "title": "Mein Jahresrückblick 2020",
         "excerpt":"Das Jahr 2020 ist nun Geschichte und ich glaube so ziemlich jeder ist froh darum. Was für ein herausforderndes und unerwartetes Jahr. Hätte man mir zu Beginn des Jahres erzählt, was sich alles verändert, ich hätte denjenigen als verrückt abgetan. Denn Jahresanfang, inklusive Jahreswechsel 2019/2020, habe ich in Paris verbracht,...","categories": ["Allgemein"],
         "tags": [],
-        "url": "https://gamue.de/mein-jahresrueckblick-2020/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/schild_chemnitz.jpg"}]
+        "url": "https://gamue.de/mein-jahresrueckblick-2020/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/schild_chemnitz.jpg"},{
+        "title": "RAW oder JPEG zum Fotografieren?",
+        "excerpt":"Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden. JPEG, oder auch...","categories": ["Fotografie"],
+        "tags": ["Fotowissen"],
+        "url": "https://gamue.de/raw-oder-jpeg/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/raw-jpg-thumb.jpg"}]
