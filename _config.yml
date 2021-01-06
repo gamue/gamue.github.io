@@ -5,7 +5,6 @@
 # Site settings
 locale: "de"
 title: "gamue.de: Blog von Johannes Ganzenmüller"
-name: "Johannes Ganzenmüller"
 email: johannes@gamue.de
 description: "Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik."
 repository: "gamue/gamue.github.io"
@@ -13,11 +12,6 @@ baseurl: ""
 url: "https://gamue.de"
 og_image: "assets/images/j_logo.jpg"
 words_per_minute: 200
-
-# Site Author
-author:
-  name: "Johannes Ganzenmüller"
-  location: "Berlin, Germany"
 
 include:
   - _pages

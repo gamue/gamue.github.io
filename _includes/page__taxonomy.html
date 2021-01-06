@@ -1,6 +1,6 @@
 {% if (site.autopages.tags.enabled and page.tags[0]) or (site.autopages.categories.enabled and page.categories[0]) %}
 <footer class="container prose prose-sm md:prose lg:prose-lg mt-8">
-  <div class="my-4" itemprop="keywords">
+  <div class="my-4">
   {% if site.autopages.categories.enabled and page.categories[0] %}
     {% include category-list.html %}
   {% endif %}

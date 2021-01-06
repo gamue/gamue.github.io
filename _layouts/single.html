@@ -2,15 +2,11 @@
 layout: default
 ---
 
-<article class="container p-4" itemscope itemtype="https://schema.org/CreativeWork">
-  {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-  {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-  {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
-  {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+<article class="container p-4">
 
   {% unless page.header.overlay_image %}
     <header class="text-center mb-8">
-      <h1 itemprop="headline" class="text-3xl sm:text-4xl mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+      <h1 class="text-3xl sm:text-4xl mb-2">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
       {% if page.show_meta_data %}<div class="text-xs sm:text-sm text-gray-500">{% include page__meta.html %}</div>{% endif %}
     </header>
   {% endunless %}
@@ -24,7 +20,7 @@ layout: default
   </aside>
   {%- endif -%}
 
-  <section itemprop="text" class="container pt-8{% unless page.typography == false %} prose prose-sm md:prose lg:prose-lg{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
+  <section class="container pt-8{% unless page.typography == false %} prose prose-sm md:prose lg:prose-lg{% endunless %}{% if page.full_width == true %} max-w-none{% endif %}">
 
     {{ content }}
   </section>
