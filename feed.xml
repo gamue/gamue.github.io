@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-06T23:17:33+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-15T19:26:29+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Die Suche nach einem RAW-Konverter</title><link href="https://gamue.de/neuer-raw-konverter-gesucht/" rel="alternate" type="text/html" title="Die Suche nach einem RAW-Konverter" /><published>2021-01-15T00:00:00+01:00</published><updated>2021-01-15T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-intro</id><content type="html" xml:base="https://gamue.de/neuer-raw-konverter-gesucht/">&lt;p&gt;Wer im &lt;a href=&quot;/raw-oder-jpeg/&quot;&gt;RAW-Format fotografiert&lt;/a&gt;, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. 
+Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, 
+war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, 
+die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.&lt;/p&gt;
+
+&lt;p&gt;Wichtiger Zusatz: Natürlich konnte ich mir nicht alle RAW-Konverter anschauen, sondern habe mich auf die meistverbreiteten Programme fokussiert.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-format&quot;&gt;RAW-Format&lt;/h1&gt;
+
+&lt;p&gt;RAW-Dateien haben keinen festen Standard, jeder Kamerahersteller hat sein eigenes Format und entwickelt dies auch weiter, 
+sodass RAW-Dateien einer neuen Kamera oft von bisherigen Programmen nicht mehr gelesen werden können. 
+Zumindest nicht bis es ein entsprechendes Update für den RAW-Konverter gibt.&lt;/p&gt;
+
+&lt;p&gt;Bisher habe ich mit der Nikon D7000 fotografiert, die im Jahr 2010 erschienen ist, 
+und daher konnte meine Adobe Bridge bzw. Camera Raw Version von 2010 die Dateien problemlos öffnen. 
+Klar, ist die Software ziemlich alt, aber das hat mich nicht weiter gestört, denn ich konnte Bilder entwickeln und es hat alles funktioniert wie ich wollte. 
+Durch den &lt;a href=&quot;/neue-kamera-sony-a6400/&quot;&gt;Umstieg auf die 2019 erschienene Sony a6400&lt;/a&gt;, war dies nun nicht mehr der Fall und von Adobe gibt es seit Ewigkeiten auch keine Updates für die alte Version mehr, es muss also eine neue Software her. 
+Die Softwarekomponente war so ziemlich der letzte Punkt, an den ich bei der Anschaffung meiner neuen Kamera gedacht hatte, 
+denke das kann leicht vergessen werden, dabei ist es sehr wichtig, denn sonst kann das Potenzial der Kamera nicht ausgereizt werden.&lt;/p&gt;
+
+&lt;p&gt;Wenn dich mein bisheriger Workflow und die verwendeten Programme interessieren, findest du mehr Details &lt;a href=&quot;/mein-foto-workflow/&quot;&gt;in diesem Artikel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;anforderungen-und-kriterien&quot;&gt;Anforderungen und Kriterien&lt;/h1&gt;
+
+&lt;p&gt;Um einen möglichst objektiven Vergleich zwischen den Programmen ziehen zu können, habe ich mir im Vorfeld überlegt, 
+welche Kriterien ich an eine solche Anwendung habe. Das kann natürlich für jeden anders sein, aber hier mal meine Kriterien und Anforderungen, 
+was ein RAW-Konverter können muss:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Die Ergebnisse müssen stimmen&lt;/strong&gt;. Theoretisch sollten RAW-Konverter eigentlich alle das Gleiche machen können, 
+  schließlich ist das Ausgangsmaterial das gleiche und alle verfügen über nahezu die gleichen Möglichkeiten, 
+  zumindest die Basiseinstellungen wie Belichtung und Kontrast hat jedes Programm, 
+  aber trotzdem hat jedes von Haus aus eine etwas andere Bildwirkung und die Einstellungen funktionieren etwas anders.&lt;/li&gt;
+  &lt;li&gt;Das Programm muss &lt;strong&gt;einfach zu bedienen&lt;/strong&gt; sein. Zugegeben der Punkt ist sehr subjektiv und jedes Programm hat sicherlich eine Lernphase,
+  die es zu überwinden gilt, damit diese aber nicht so sehr ins Gewicht fällt, habe ich mit jedem Programm mehrere Stunden verbracht 
+  und mir jeweils unzählige Youtube-Videos und -Anleitungen angeschaut oder durchgelesen. 
+  Hintergrund ist, dass je besser und natürlicher ich mit dem RAW-Konverter umgehen kann, desto kürzer ist die Bearbeitungszeit pro Bild.&lt;/li&gt;
+  &lt;li&gt;Neben der Entwicklung von RAW-Dateien verwende ich Adobe Bridge auch zur &lt;strong&gt;Bildverwaltung und -organisation&lt;/strong&gt; 
+  (Bewertung, Markierung und Filterung meiner Bildersammlung), daher benötige ich dafür ebenfalls Ersatz. 
+  Das ist keine Muss-Anforderung an den neuen RAW-Konverter, aber wäre ein dickes Plus, denn ansonsten muss ich dafür noch ein Programm suchen. 
+  Eine Funktionalität, die ich in dem Zusammenhang häufig verwende, ist die &lt;strong&gt;Umbenennung von mehreren Dateien auf einmal&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Meine bisherigen Bearbeitungen sind in sogenannten &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.xmp&lt;/code&gt;-Dateien gespeichert, die neben den RAW-Dateien liegen. 
+  Wünschenswert wäre es daher natürlich, dass diese &lt;strong&gt;Werte und Einstellungen übernommen&lt;/strong&gt; werden würden. 
+  Die Dateien beinhalten neben den Entwicklungsinformationen auch meine Bildbewertungen und -markierungen als Sterne und Farblabels.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bearbeitungen&lt;/strong&gt; müssen sich leicht &lt;strong&gt;von einem Bild auf ein anderes übertragen&lt;/strong&gt; lassen. 
+  Gerade wenn ich viele ähnliche Bilder habe, lässt sich dadurch sehr viel Zeit sparen. 
+  Eine Steigerung davon wäre die Erstellung und Verwendung von &lt;strong&gt;eigenen Vorlagen&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Bei einigen Bildern führe ich neben der reinen Entwicklung auch eine &lt;strong&gt;kleine Retusche&lt;/strong&gt; aus, um beispielsweise störende Objekte, 
+  wie herumliegender Müll, nachträglich entfernen zu können. Prinzipiell ist das eher eine Aufgabe für ein Bildbearbeitungstool, 
+  sollte der RAW-Konverter aber schon die Möglichkeit besitzen, wäre das ein Plus.&lt;/li&gt;
+  &lt;li&gt;Die &lt;strong&gt;Kosten&lt;/strong&gt; sollen natürlich so niedrig wie möglich sein ;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;programme&quot;&gt;Programme&lt;/h1&gt;
+
+&lt;p&gt;Wie zu Beginn erwähnt, gibt es eine Vielzahl von RAW-Konverter und alle zu testen ist für mich zeitlich nicht machbar, 
+schließlich will ich in erster Linie ja fotografieren ;)&lt;/p&gt;
+
+&lt;p&gt;Aus dem Grund habe ich zum einen selbst nach den meist genutzten und beliebtesten RAW-Konvertern recherchiert, 
+zum anderen habe ich eine Umfrage in einer Fotografie-Facebook-Gruppe erstellt um zu erfahren, 
+was die Mitglieder dort für ein Programm einsetzen.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt haben 166 Personen an der Umfrage teilgenommen und das Ergebnis sah folgendermaßen aus:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Ergebnis Facebook-Umfrage&quot; width=&quot;1596&quot; height=&quot;726&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zufälligerweise haben sich die Programme auf den ersten 5 Plätzen mit meiner eigenen Recherche überschnitten, sodass diese auf meiner Testliste gelandet sind. 
+Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen kostenlosen Optionen ist.&lt;/p&gt;
+
+&lt;p&gt;Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen…&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
 
 &lt;p&gt;JPEG, oder auch JPG, ist dir vermutlich bereits ein Begriff, denn sehr viele Bilddateien sind in diesem Format und können von jedem Bildbetrachtungsprogramm 
@@ -912,136 +981,4 @@ Was aber auch zeigt, wie groß der Markt aktuell ist und welche Auswahl man hat.
 Ich würde keine der genannten Kameras als schlecht bezeichnen und denke ich hätte vermutlich mit keiner davon einen Fehler gemacht. 
 Sie unterscheiden sich oft nur in Details, am Ökosystem und eben beim Preis. 
 Ich hoffe der Artikel war trotz der Länge informativ und hat meine Überlegungen zum aktuellen Kameramarkt etwas aufgezeigt. 
-Wenn du vor einer ähnlichen Wahl stehst, lass mich gerne wissen wie du dich entschieden hast und warum. Gerne natürlich auch, wenn du anderer Meinung bist ;)&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><summary type="html">Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und her geschwirrt sind und warum dann die a6400 den Vorzug bekommen hat, will ich in diesem Post erklären.</summary></entry><entry><title type="html">Meine neue Kamera - Sony a6400</title><link href="https://gamue.de/neue-kamera-sony-a6400/" rel="alternate" type="text/html" title="Meine neue Kamera - Sony a6400" /><published>2020-10-03T00:00:00+02:00</published><updated>2020-10-03T00:00:00+02:00</updated><id>https://gamue.de/sony-a6400</id><content type="html" xml:base="https://gamue.de/neue-kamera-sony-a6400/">&lt;p&gt;Ich hatte schon länger überlegt mir eine neue Kamera zu holen und vor ein paar Wochen, als ich auf einer Fotomesse war, 
-konnte ich nicht wiederstehen und habe mir eine Sony Alpha 6400 zugelegt :)&lt;/p&gt;
-
-&lt;p&gt;Warum, Wieso und was ich mir davon erhoffe, erfährst du in diesem Artikel.&lt;/p&gt;
-
-&lt;h1 id=&quot;warum--wieso&quot;&gt;Warum &amp;amp; Wieso?&lt;/h1&gt;
-&lt;p&gt;Die Nikon D7000 ist auch nach den ca. 10 Jahren, in denen ich sie nun habe, immer noch eine gute Kamera, mit der ich gute Bilder hinbekommen kann. 
-Komplett nüchtern betrachtet hätte ich mir daher gar keine neue Kamera holen brauchen. 
-Der Wunsch nach neuer Technik, hat daher zugegebener weise auch eine Rolle gespielt, aber bei welchem Hobby ist das nicht der Fall ;)&lt;/p&gt;
-
-&lt;p&gt;Es ist aber auch so, dass sich in 10 Jahren einiges an der Technik getan hat und genau davon erhoffe ich mir eine Erleichterung. 
-Denn ich bin mir vollkommen bewusst, dass man mit neuerer oder teurer Ausrüstung nicht auf einmal bessere Fotos hinbekommt, 
-sondern das zu einem sehr großen Teil vom Können des Fotografen abhängt. 
-Die Technik bietet nur das Werkzeug dazu und ermöglicht vielleicht Dinge die zuvor nur schwer oder mit anderen Mitteln möglich waren. 
-Beispielsweise hatte ich mir die D7000 damals vor dem Hintergrund geholt, 
-dass sie deutlich besser mit schlechten Lichtsituationen klar kommt bzw. man bei höheren ISO-Werten ein geringeres Bildrauschen hat, 
-als mit der Nikon D80, die ich davor hatte. 
-Gerade bei Aufnahmen in Gebäuden war das sehr, sehr hilfreich und hätte ich sonst beispielsweise nur mit einem Stativ oder besseren Objektiv hinbekommen.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_top.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_top.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_top.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_top.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_top.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_top.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Größenvergleich&quot; width=&quot;1500&quot; height=&quot;1010&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Meine Kameras nebeneinander: links die Sony a6400 mit dem 18-135mm Objektiv, rechts die Nikon D7000 mit dem 18-200mm Objektiv.&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;vor--und-nachteile&quot;&gt;Vor- und Nachteile&lt;/h2&gt;
-
-&lt;p&gt;In folgender Tabelle will ich ein paar technische Werte der beiden Kameras gegenüberstellen, die bei meiner Entscheidung relevant waren:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Nikon D7000&lt;/th&gt;
-      &lt;th&gt;Sony a6400&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sensor&lt;/td&gt;
-      &lt;td&gt;APS-C mit 16 Megapixel&lt;/td&gt;
-      &lt;td&gt;APS-C mit 24 Megapixel&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Autofokus&lt;/td&gt;
-      &lt;td&gt;Phasenvergleich-Autofokus mit 39 Sensoren (davon 9 Kreuzsensoren)&lt;/td&gt;
-      &lt;td&gt;Phasenvergleich-Autofokus mit 425 Sensoren, Kontrast-Autofokus mit 425 Messfeldern&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Objektiv-Anschluss&lt;/td&gt;
-      &lt;td&gt;Nikon F-Bajonett&lt;/td&gt;
-      &lt;td&gt;Sony E-Mount&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;max. Videoauflösung&lt;/td&gt;
-      &lt;td&gt;1920x1080 30p&lt;/td&gt;
-      &lt;td&gt;3840x2160 30p&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Integrierter Bildstabilisator&lt;/td&gt;
-      &lt;td&gt;nein&lt;/td&gt;
-      &lt;td&gt;nein&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Größe (B x H x T)&lt;/td&gt;
-      &lt;td&gt;ca. 132 x 105 x 77 mm&lt;/td&gt;
-      &lt;td&gt;ca. 120 x 67 x 60 mm&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gewicht (inkl. Akku)&lt;/td&gt;
-      &lt;td&gt;ca. 780g&lt;/td&gt;
-      &lt;td&gt;ca. 403g&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Aus meiner Sicht ist der größte Vorteil der Sony &lt;strong&gt;der deutlich bessere Autofokus&lt;/strong&gt;. 
-Allein durch die Anzahl der Sensoren sollte die Schärfe der Bilder besser sitzen bzw. ich diese gezielter steuern können. 
-Zudem ist die Augen-Autofokus-Funktion ein Traum und macht beispielsweise Portraits zu einem Kinderspiel. 
-Die a6400 erkennt automatisch Augen von Mensch oder Tier und stellt das Foto automatisch darauf scharf, was sehr bequem ist und Zeit spart. 
-Auch sonst ist der Fokus sehr, sehr schnell und vereinfacht das Fotografieren. Genau die Art von Erleichterung, die ich wollte.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_size.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_size.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_size.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_size.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_size.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-03-sony-a6400/cameras_size.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Größenvergleich&quot; width=&quot;1500&quot; height=&quot;1386&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Die Sony a6400 und Nikon D7000 nebeneinander aus verschiedenen Perspektiven.&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Von den Maßen her ist die a6400 &lt;strong&gt;deutlich kleiner und leichter&lt;/strong&gt; als die D7000, was sich positiv auf mein Reisegepäck auswirkt. 
-Ich freue mich schon auf die erste größere Wanderung oder Reise damit, sobald das Corona-Thema vorbei ist. 
-Daraus ergibt sich jedoch auch, dass meine Kameratasche und einiges anderes Zubehör, wie der Kameragurt, 
-nun jetzt etwas zu groß sind, sodass die Kamera dort verloren oder unterproportiniert wirkt. 
-Vermutlich muss ich mir daher das ein oder andere neue Zubehör holen.&lt;/p&gt;
-
-&lt;p&gt;Apropo Neuanschaffungen, leider fang ich mit dem Wechsel bei den Objektiven neu an, 
-denn meine &lt;strong&gt;bisherigen Nikon-Objektive passen leider nicht&lt;/strong&gt; an die neue Sony-Kamera, was ziemlich Schade ist, 
-aber das wusste ich davor und wäre so auch bei jeder anderen Kamerawahl, die zuvor in meinem Kopf umher gekreist ist. 
-Selbst bei einem Spiegellosen Kamerasystem von Nikon.
-Da ich aber jetzt nicht so viele Objektive für die D7000 habe, hält sich das in Grenzen. Für den Anfang ist das Kit-Objektiv, 
-das bei der a6400 dabei war, ausreichend und ich muss nicht sofort neue Objektive holen, wobei ich natürlich schon ein paar im Auge habe^^&lt;/p&gt;
-
-&lt;p&gt;Ein sehr großer Unterschied ist natürlich auch, das die Nikon eine Spiegelreflexkamera (&lt;em&gt;DSLR&lt;/em&gt;) und die Sony eine &lt;strong&gt;Spiegellose Systemkamera&lt;/strong&gt; (&lt;em&gt;DSLM&lt;/em&gt;) ist. 
-Dadurch ergeben sich vom Prinzip her schon viele Unterschiede: Bei einer Spiegelreflex schaut man mit dem Sucher direkt durch das Objektiv, 
-bei einer Spiegellosen ist das Ganze digital und man schaut auf eine Live-Vorschau des Bildes. 
-Ob das jetzt gut oder schlecht ist, muss ich für mich noch herausfinden, ist aus meiner Sicht jedoch definitiv eine Umstellung, an die ich mich erst noch gewöhnen muss.&lt;/p&gt;
-
-&lt;p&gt;Der &lt;strong&gt;elektronische Sucher&lt;/strong&gt; bringt selbst ebenfalls neue Möglichkeiten mit sich, so können neben den üblichen Gitterlinien weitere Hilfsfunktionen, 
-wie eine Wasserwaage oder Histogramm, direkt in das Bild mit eingeblendet werden. 
-Es ist auch möglich sich einen Ausschnitt des Bildes mit der Fokuslupe vergrößert anzeigen zu lassen, um zu überprüfen, ob die Schärfe stimmt. 
-Gerade bei manueller Fokussierung ist das sehr hilfreich. 
-Das Ganze geht aber natürlich zu Lasten der &lt;strong&gt;Batterie und so ist die Laufzeit bei Spiegellosen leider nicht so lange&lt;/strong&gt; wie bei Spiegelreflexkameras, zusätzliche Akkus sind daher ein Muss.&lt;/p&gt;
-
-&lt;p&gt;Bei der &lt;strong&gt;Videofunktion&lt;/strong&gt; liegen Welten zwischen den Kameras, aber da ich meine Nutzung davon an einer Hand abzählen kann, 
-war das für mich kein Kriterium. Prinzipiell ist das aber der Bereich, der sich in den letzten Jahren am meisten weiterentwickelt hat.&lt;/p&gt;
-
-&lt;p&gt;Das waren auch schon die markantesten Unterschiede der Kameras, die für mich wichtig sind. 
-Ich könnte die Liste aber noch eine ganze Weile fortsetzen, 
-denn natürlich unterscheiden sie sich in vielen weiteren Features und Eigenschaften (Wifi-Funktion, klappbares Display, Anzahl der SD-Kartenslots, uvm.), 
-die für mich aber nicht ausschlaggebend waren, sondern eher ein schönes Beiwerk sind. 
-Wobei sprichwörtlich macht ja Kleinvieh auch Mist macht ;)&lt;/p&gt;
-
-&lt;p&gt;Ich freue mich schon die ersten richtigen Praxistests mit der Kamera und kann dann gerne über meine Eindrücke nochmal berichten.&lt;/p&gt;
-
-&lt;p&gt;Falls du auch auf eine Spiegellose Kamera umgestiegen bist, lass mich gerne wissen was für dich die größte Umgewöhnung war. 
-Auch wenn die Grundfunktionen gleich sind, wirkt einiges auf mich doch schon ziemlich anders.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Ich hatte schon länger überlegt mir eine neue Kamera zu holen und vor ein paar Wochen, als ich auf einer Fotomesse war, konnte ich nicht wiederstehen und habe mir eine Sony Alpha 6400 zugelegt :)</summary></entry></feed>
+Wenn du vor einer ähnlichen Wahl stehst, lass mich gerne wissen wie du dich entschieden hast und warum. Gerne natürlich auch, wenn du anderer Meinung bist ;)&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><summary type="html">Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und her geschwirrt sind und warum dann die a6400 den Vorzug bekommen hat, will ich in diesem Post erklären.</summary></entry></feed>

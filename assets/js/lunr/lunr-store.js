@@ -628,4 +628,8 @@ var store = [{
         "title": "RAW oder JPEG zum Fotografieren?",
         "excerpt":"Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden. JPEG, oder auch...","categories": ["Fotografie"],
         "tags": ["Fotowissen"],
-        "url": "https://gamue.de/raw-oder-jpeg/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/raw-jpg-thumb.jpg"}]
+        "url": "https://gamue.de/raw-oder-jpeg/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/raw-jpg-thumb.jpg"},{
+        "title": "Die Suche nach einem RAW-Konverter",
+        "excerpt":"Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor-...","categories": ["Fotografie","Technik"],
+        "tags": ["Tools"],
+        "url": "https://gamue.de/neuer-raw-konverter-gesucht/","teaser": "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-15-raw-konverter-intro/markus-spiske-nfwBWcaFAYg-unsplash.jpg"}]
