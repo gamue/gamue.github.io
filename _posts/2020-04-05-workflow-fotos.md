@@ -12,6 +12,7 @@ bildbetrachter:
     - image_path: assets/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg
 synctoy:
     - image_path: assets/2020-04-05-workflow-fotos/synctoy-run.jpg
+toc: true
 categories:
   - Fotografie
   - Technik
