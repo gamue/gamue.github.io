@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-15T19:26:29+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Die Suche nach einem RAW-Konverter</title><link href="https://gamue.de/neuer-raw-konverter-gesucht/" rel="alternate" type="text/html" title="Die Suche nach einem RAW-Konverter" /><published>2021-01-15T00:00:00+01:00</published><updated>2021-01-15T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-intro</id><content type="html" xml:base="https://gamue.de/neuer-raw-konverter-gesucht/">&lt;p&gt;Wer im &lt;a href=&quot;/raw-oder-jpeg/&quot;&gt;RAW-Format fotografiert&lt;/a&gt;, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-20T20:55:42+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Neue RAWs in alter Software: Adobe DNG Konverter</title><link href="https://gamue.de/adobe-dng-konverter/" rel="alternate" type="text/html" title="Neue RAWs in alter Software: Adobe DNG Konverter" /><published>2021-01-20T00:00:00+01:00</published><updated>2021-01-20T00:00:00+01:00</updated><id>https://gamue.de/adobe-dng-converter</id><content type="html" xml:base="https://gamue.de/adobe-dng-konverter/">&lt;p&gt;Eine Möglichkeit, die ich bei meiner Suche nach einem neuen RAW-Konverter nicht aufgezählt habe, 
+ist die Variante die RAW-Dateien in das DNG-Format umzuwandeln und alles so zu lassen, wie ich es gewohnt bin. 
+Was die Option genau bedeutet, und warum ich es nicht in die engere Auswahl genommen habe, will ich in diesem Artikel erklären.&lt;/p&gt;
+
+&lt;h1 id=&quot;was-ist-das-dng-format&quot;&gt;Was ist das DNG-Format?&lt;/h1&gt;
+
+&lt;p&gt;Das DNG-Format wurde von Adobe entwickelt, um die vielen unterschiedlichen RAW-Formate der Hersteller zu vereinheitlichen und so einen Industriestandard zu etablieren. 
+Das Dateiformat gibt es seit 2004 und aus meiner Sicht hat es sich nicht durchgesetzt, denn für einen wirklichen Standard fehlt die Verbreitung und Unterstützung der Hersteller.&lt;/p&gt;
+
+&lt;p&gt;Es gibt nur sehr, sehr wenige Geräte die Bilder direkt im DNG-Format abspeichern können, daher wirst du das Dateiformat eher im Zusammenhang mit &lt;a href=&quot;https://supportdownloads.adobe.com/detail.jsp?ftpID=6881&quot;&gt;einem Konverter&lt;/a&gt; antreffen.&lt;/p&gt;
+
+&lt;p&gt;Auf die Vor- und Nachteile von DNG- gegenüber RAW-Dateien möchte ich in diesem Artikel nicht im Detail eingehen, da die Meinungen hier auseinandergehen. 
+Beispielsweise wird öfter berichtet, dass DNGs deutlich weniger Speicherplatz als RAWs benötigen, bei meinen Tests waren DNGs jedoch etwas größer als die jeweilige RAW-Variante.&lt;/p&gt;
+
+&lt;p&gt;Zudem solltest du wissen, dass in einer DNG-Datei neben dem Bild, auch alle weiteren Metadaten und Entwicklungsinformationen gespeichert sind. 
+Bei RAW-Dateien wird dies im Normalfall in zusätzlichen &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.xmp&lt;/code&gt;-Dateien abgelegt und die eigentliche RAW-Datei nicht angefasst. 
+Ein Vorteil von &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.xmp&lt;/code&gt;-Dateien ist, dass diese sehr klein sind, wodurch der Computer bei Änderungen deutlich weniger Daten auf die Festplatte speichern muss. 
+Bei DNGs hingegen muss bei Änderungen die komplette Datei erneut geschrieben werden.&lt;/p&gt;
+
+&lt;h1 id=&quot;der-vorteil-des-dng-formats&quot;&gt;DER Vorteil des DNG-Formats&lt;/h1&gt;
+
+&lt;p&gt;Auch wenn man über viele Vor- und Nachteile des DNG-Formats diskutieren kann, gibt es einen Vorteil, der unumstritten ist, und das ist die &lt;strong&gt;Kompatibilität&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wie in vorherigen Artikeln erwähnt, sind RAWs herstellerabhängig und jeder macht sein eigenes Ding. 
+Kommt eine neue Kamera auf den Markt, ist es sehr wahrscheinlich, dass dein aktueller RAW-Konverter diese Dateien nicht oder noch nicht lesen kann. 
+Das ist natürlich sehr ärgerlich und würde bedeuten, dass du nur mit den JPGs aus deiner brandneuen Kamera etwas anfangen kannst.&lt;/p&gt;
+
+&lt;p&gt;Und genau hier kommt der &lt;a href=&quot;https://supportdownloads.adobe.com/detail.jsp?ftpID=6881&quot;&gt;Adobe DNG-Konverter&lt;/a&gt; ins Spiel. Denn selbst wenn ältere Programme die neuen RAWs nicht unterstützen, unterstützen sie meistens das DNG-Format und können dadurch das Bild anzeigen und entwickeln.&lt;/p&gt;
+
+&lt;p&gt;Die Umwandlung von RAW in DNG ist sehr einfach, neben dem Eingangs- und Ausgangsverzeichnis musst du lediglich konfigurieren zu welcher Camera Raw bzw. Lightroom Version die Dateien kompatibel sein sollen und anschließend auf “Konvertieren” klicken.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Adobe DNG Konverter&quot; width=&quot;1203&quot; height=&quot;1292&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nachdem die Dateien umgewandelt worden sind, sollten sie nun problemlos von deinem älteren Programm erkannt werden. Hier ein Beispiel von meinen Bildern als RAW- und als DNG-Dateien.&lt;/p&gt;
+
+&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
+  
+      &lt;a href=&quot;/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;2140&quot; height=&quot;1554&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+      &lt;a href=&quot;/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;2140&quot; height=&quot;1554&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+  
+    &lt;figcaption&gt;Links: RAW-Dateien werden vom Programm nicht erkannt. Rechts: Nach der Konvertierung zu DNG werden Bilder angezeigt
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;script&gt;
+    new SimpleLightbox({elements: '.image-gallery a'});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+
+&lt;p&gt;Aus meiner Sicht bietet der &lt;a href=&quot;https://supportdownloads.adobe.com/detail.jsp?ftpID=6881&quot;&gt;Adobe DNG Konverter&lt;/a&gt; prinzipiell eine einfache Möglichkeit neuere RAW-Dateien in älteren Programmen verwenden zu können. 
+Dadurch spart man sich neben der Anschaffung von einem neuen Programm auch die Einlernzeit in dieses und eventuell sogar den Aufwand seinen Workflow umzustellen.&lt;/p&gt;
+
+&lt;p&gt;Da es für mich aber nicht infrage kommt, meine RAW-Dateien nach der Konvertierung zu löschen, bedeutet dieser Weg, dass ich meinen benötigten Speicherplatz in etwa verdoppeln würde. 
+Das wäre schon eine ziemliche Verschwendung von Festplattenspeicher.&lt;/p&gt;
+
+&lt;p&gt;Zudem habe ich gesehen, was neuere Programme mittlerweile können und denke, deren neue Features kommen mir bei der RAW-Entwicklung und Bildbearbeitung zugute, sodass ich den Aufwand eines Umstiegs gerne in Kauf nehme ;)&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Eine Möglichkeit, die ich bei meiner Suche nach einem neuen RAW-Konverter nicht aufgezählt habe, ist die Variante die RAW-Dateien in das DNG-Format umzuwandeln und alles so zu lassen, wie ich es gewohnt bin. Was die Option genau bedeutet, und warum ich es nicht in die engere Auswahl genommen habe, will ich in diesem Artikel erklären.</summary></entry><entry><title type="html">Die Suche nach einem RAW-Konverter</title><link href="https://gamue.de/neuer-raw-konverter-gesucht/" rel="alternate" type="text/html" title="Die Suche nach einem RAW-Konverter" /><published>2021-01-15T00:00:00+01:00</published><updated>2021-01-15T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-intro</id><content type="html" xml:base="https://gamue.de/neuer-raw-konverter-gesucht/">&lt;p&gt;Wer im &lt;a href=&quot;/raw-oder-jpeg/&quot;&gt;RAW-Format fotografiert&lt;/a&gt;, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. 
 Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, 
 war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, 
 die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.&lt;/p&gt;
@@ -67,7 +134,11 @@ was die Mitglieder dort für ein Programm einsetzen.&lt;/p&gt;
 &lt;p&gt;Zufälligerweise haben sich die Programme auf den ersten 5 Plätzen mit meiner eigenen Recherche überschnitten, sodass diese auf meiner Testliste gelandet sind. 
 Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen kostenlosen Optionen ist.&lt;/p&gt;
 
-&lt;p&gt;Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen…&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
+&lt;p&gt;Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/adobe-dng-konverter/&quot;&gt;Bisherige Programme weiternutzen mit dem Adobe DNG Konverter&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
 
 &lt;p&gt;JPEG, oder auch JPG, ist dir vermutlich bereits ein Begriff, denn sehr viele Bilddateien sind in diesem Format und können von jedem Bildbetrachtungsprogramm 
@@ -865,120 +936,4 @@ die auf dem Fleecestoff halten und das Tuch somit in eingewickeltem Zustand nich
 Sicherlich ist der Schutz nicht so gut, wie in einem Inlay, leichte Stöße federt es aber gut ab und durch das Fleece entstehen keine Kratzer an Kamera oder Objektiv.&lt;/p&gt;
 
 &lt;p&gt;Aus meiner Sicht ist das Einschlagtuch eine gute Variante die Kamera zu transportieren, wenn man Platz sparen, 
-aber trotzdem etwas Sicherheit haben möchte. Ich kann es in jedem Fall weiterempfehlen.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, wodurch alles sehr gut geschützt ist. Der Nachteil davon ist jedoch, dass das Inlay recht groß ist und daher viel Platz im Rucksack einnimmt.</summary></entry><entry><title type="html">Der Kameramarkt in 2020 (Spiegellose Systemkameras)</title><link href="https://gamue.de/kameramarkt-2020-mirrorless/" rel="alternate" type="text/html" title="Der Kameramarkt in 2020 (Spiegellose Systemkameras)" /><published>2020-10-06T00:00:00+02:00</published><updated>2020-10-06T00:00:00+02:00</updated><id>https://gamue.de/kameramarkt-spiegellose-systemkameras</id><content type="html" xml:base="https://gamue.de/kameramarkt-2020-mirrorless/">&lt;p&gt;Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, 
-welche Alternativen es gibt und welche Vor- und Nachteile diese haben. 
-So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die &lt;a href=&quot;/neue-kamera-sony-a6400/&quot;&gt;Sony a6400&lt;/a&gt; entschieden habe.
-Welche Optionen in meinem Kopf hin und her geschwirrt sind und warum dann die a6400 den Vorzug bekommen hat, will ich in diesem Post erklären.&lt;/p&gt;
-
-&lt;p&gt;Da viele Punkte sehr subjektiv sind und es immer auf den Anwendungsfall und das Budget ankommt, 
-kann für dich eine andere Wahl besser passen. Ich versuche daher die Informationen und Bewertungen möglichst neutral zu halten. 
-Auch muss ich sagen, dass ich zwar jede der Kameras in der Hand hatte, aber nicht ausgiebig testen konnte, 
-was ich versucht habe mit dem Schauen von unzähligen Test-Videos oder Lesen von Testberichten auszugleichen.&lt;/p&gt;
-
-&lt;h1 id=&quot;kriterien&quot;&gt;Kriterien&lt;/h1&gt;
-&lt;p&gt;Neben den grundsätzlichen Kriterien, auf die du beim Kamerakauf immer achten solltest und du im &lt;a href=&quot;/kamera-kaufberatung-grundlagen/&quot;&gt;Kaufberatungs-Artikel&lt;/a&gt; findest, waren folgende Eckpunkte für mich gesetzt:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Spiegellose Systemkamera (DSLM) anstatt einer Spiegelreflexkamera (DSLR)&lt;/li&gt;
-  &lt;li&gt;1000 - 2000 Euro Budget inklusive einem Objektiv. Denn egal welche Wahl ich getroffen hätte, meine bisherigen Objektive sind zu den spiegellosen Kamerasystemen leider nicht kompatibel.&lt;/li&gt;
-  &lt;li&gt;Guter Autofokus, in dem Bereich war ich bisher nicht komplett zufrieden und erhoffe mir eine Verbesserung bzw. Erleichterung beim Fotografieren.&lt;/li&gt;
-  &lt;li&gt;Für das System sollte es eine breite Objektivpalette geben, besonders gute Zoomobjektive für Reisen sollten erhältlich sein. In &lt;a href=&quot;/welchen-brennweitenbereich-nutze-ich-am-meisten/&quot;&gt;diesem Artikel&lt;/a&gt; erfährst du, wie ich analysiert habe, welcher Brennweitenbereich am wichtigsten für mich ist.&lt;/li&gt;
-  &lt;li&gt;Die Videofunktion der Kamera spielt für mich keine Rolle, da ich diese bisher nicht genutzt habe.&lt;/li&gt;
-  &lt;li&gt;Wenn das Gesamtsystem, also Kamera und Objektiv, leichter und kleiner sind, wäre das von Vorteil, da ich auf Reisen die Kamera häufig für mehrere Stunden mit mir herumtrage.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;die-optionen&quot;&gt;Die Optionen&lt;/h1&gt;
-
-&lt;h2 id=&quot;sony-a6100-und-a6600&quot;&gt;Sony a6100 und a6600&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_hero.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_hero.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_hero.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_hero.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_hero.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-03-sony-a6400/a6400_hero.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Sony a6400&quot; width=&quot;1500&quot; height=&quot;1043&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Da ich ja schon gesagt habe, dass ich mich am Ende für die Sony a6400 entschieden habe, fang ich bei den offensichtlichsten Alternativen an: 
-Sony a6100 und Sony a6600, also die kleinere und größere APS-C-Variante. 
-Insgesamt muss ich sagen, dass sich die Varianten nur bei wenigen Dingen unterscheiden und auf den ersten Blick der Preis wohl das offensichtlichste davon ist.&lt;/p&gt;
-
-&lt;h3 id=&quot;sony-a6100&quot;&gt;Sony a6100&lt;/h3&gt;
-&lt;p&gt;Die kleinere Variante kostet ca. 700 Euro und damit etwa 150 Euro weniger als die a6400, dafür macht man Abstriche beim Prozessor, 
-einigen anderen Funktionen und das Kameragehäuse ist nicht witterungsgeschützt, wodurch es für meine Reisen nicht geeignet ist, 
-denn den ein oder anderen (Niesel-)regen muss die Kamera schon abkönnen und ich will mir keinen Kopf darüber machen, ob ich die Kamera nutzen kann und wann nicht.&lt;/p&gt;
-
-&lt;h3 id=&quot;sony-a6600&quot;&gt;Sony a6600&lt;/h3&gt;
-&lt;p&gt;Die größere Variante besticht vorallem durch einen besseren Akku, einen eingebauten Bildstabilisator und das sie, zumindest für mich, besser in der Hand liegt. 
-Macht mit einem Preis von ca. 1350 Euro aber auch einen großen Preissprung. 
-Sicherlich ist ein eingebauter Bildstabilisator wünschenswert, da das aber besonders für Videos wichtig ist und man beim Fotografieren auf stabilisierte Objektive zurückgreifen kann, fand ich den Aufpreis für meine Anwendungszwecke nicht angemessen. Sollte ich feststellen, dass ich zukünftig mehr Videos mache, kann ich immernoch umsteigen oder versuchen, dass durch einen Gimbal auszugleichen.&lt;/p&gt;
-
-&lt;h2 id=&quot;sony-a7ii-a7iii-und-a7c&quot;&gt;Sony A7ii, A7iii und A7c&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Sony A7ii&quot; width=&quot;1200&quot; height=&quot;800&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Neben der 6x00-Serie mit APS-C-Sensoren hat Sony eine Vollformat-Linie, die ich mir natürlich auch angeschaut habe und für mich sogar lange Zeit der Spitzenreiter war.&lt;/p&gt;
-
-&lt;p&gt;Neben der “normalen” A7-Reihe, also A7ii und A7iii, bietet Sony noch “Spezialversionen”, die sich besonders an Videofilmer (z.B. A7S iii) oder Fotografen, die mehr Megapixel benötigen (z.B A7R iii), richten. 
-Ich zähle mich zu keiner der beiden Gruppen und hab diese daher ignoriert, unabhängig davon, dass diese preislich weit über dem Budget sind :D&lt;/p&gt;
-
-&lt;h3 id=&quot;sony-a7ii&quot;&gt;Sony A7ii&lt;/h3&gt;
-&lt;p&gt;Eine Vollformatkamera für knapp 900 Euro ist nicht schlecht. Man muss jedoch bedenken, 
-dass die Kamera im November 2014 erschienen ist und somit auch schon einige Jahre auf dem Buckel hat. 
-Technisch haben daher a6100/a6400/a6600 die Nase vorn und verfügen über etliche Funktionen, die damals noch nicht verfügbar waren, gerade was Autofokus und Videofunktionen angeht. Auch wenn die A7ii heutzutage sicherlich ausreicht und durch den Vollformatsensor eine gute Bildqualität bietet, strebte sich etwas in mir so viel Geld für “veraltete” Technik auszugeben. Zudem wäre eine Vollformatkamera, was die Größe und das Gewicht angeht, kein Unterschied zu meiner jetzigen Nikon D7000.&lt;/p&gt;
-
-&lt;h3 id=&quot;sony-a7iii&quot;&gt;Sony A7iii&lt;/h3&gt;
-&lt;p&gt;Das aktuelle Spitzenmodell der “normalen” Vollformatreihe liegt mit ca. 1800 Euro am oberen Limit des gesteckten Budgets und mit einem Objektiv sogar deutlich darüber. 
-Im Vergleich zur A7ii ist die A7iii definitiv ein großer Schritt und verfügt beispielsweise über einen besseren Akku und die ganzen Autofokus-Entwicklungen der letzten Jahre, 
-die man aber auch in der a6400 oder a6600 findet. Würde ich nicht versuchen eine vernünftige Entscheidung zu treffen, 
-wäre die Kamera bestimmt eine der Top-Kandidaten, aber nüchtern betrachtet brauche ich, aus meiner Sicht, 
-kein Vollformat und wenn ich die 1000 Euro Preisunterschied zur a6400 in Objektive investiere, hab ich sicherlich mehr davon.&lt;/p&gt;
-
-&lt;h4 id=&quot;sony-a7c&quot;&gt;Sony A7c&lt;/h4&gt;
-&lt;p&gt;Im Prinzip ist die A7c eine aktualisierte A7iii im kleineren, kompakten Gehäuse der a6600 und eine Kamera, die ich nicht wirklich verstehe. 
-Wenn man sie mit lichtstarken Vollformat-Objektiven nutzt, geht aus meiner Sicht, der Größenvorteil flöten, und wenn man kleinere APS-C-Objektive verwendet, muss man sich keine Vollformatkamera kaufen. Auch kostet sie im deutschen Markt mit aktuell 2100 Euro ca. 300 Euro mehr als die A7iii. Schaut man sich die Preise in den USA an, dann ist sie 200 Dollar billiger als die A7iii, was sie schon wieder etwas attraktiver machen würde.&lt;/p&gt;
-
-&lt;p&gt;Zugegebener Weise war die A7c nicht Teil meiner Überlegungen, es gab jedoch vor der Veröffentlichung Gerüchte, dass Sony eine neue “Einsteiger-Vollformatkamera” anbieten wird. 
-Etwas neueres als die A7ii und günstigeres als die A7iii wäre für mich spannend gewesen, aber stattdessen kam dann die A7c. 
-Warum ich die Kamera mit in diese Liste aufgenommen habe, ist dass ich sagen wollte, dass du dir vor dem Kamerakauf die Gerüchteküche und kommenden Neuerscheinungen anschauen solltest. 
-Selbst wenn das Angekündigte dann nichts ist, hat es doch meistens Auswirkungen auf die Preise der etwas älteren Kameras, die dann beispielsweise in das Budget rutschen könnten. 
-Bei mir war das leider nicht der Fall. Die Ankündigung führte aber dazu, dass ich recht sicher wusste, dass demnächst nichts weiteres kommt, auf das es sich zu warten lohnt.&lt;/p&gt;
-
-&lt;h2 id=&quot;fuji-x-t3&quot;&gt;Fuji X-T3&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Fuji XT-3&quot; width=&quot;1200&quot; height=&quot;800&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Fuji hat es in den letzten Jahren geschafft sehr gute Spiegellose Systemkameras zu bauen und gerade die X-T3 fand ich bei den Überlegungen sehr spannend. 
-Die technischen Werte ähneln sehr stark der Sony a6400 und auch preislich geben sich beide nicht viel. Mir hat jedoch die Haptik der Sony etwas mehr zugesagt. 
-Zudem gibt es Objektive bisher ausschließlich von Fuji, sodass die Auswahl recht überschaubar ist und ich mich daher für Sony, als das größere Ökosystem entschieden habe.&lt;/p&gt;
-
-&lt;h2 id=&quot;nikon-z50-z5-und-z6&quot;&gt;Nikon Z50, Z5 und Z6&lt;/h2&gt;
-&lt;p&gt;Da meine bisherigen Spiegelreflexkameras von Nikon waren, war ich sehr interessiert, was es von denen als Spiegellose Systemkameras gibt. 
-Mit einem Adapter wäre es sogar möglich meine bisherigen Objektive an der Nikon Z50, als eine APS-C Kamera, zu nutzen. 
-rinzipiell würde das auch an den Vollformatkameras Z5 und Z6 gehen, aber dann eben mit verkleinertem Bild. 
-Die Ergonomie der Kameras und das Menü kamen mir sehr vertraut vor, als ich die Kameras in den Händen hatte. Wäre sicherlich ein leichterer Umstieg gewesen ;)&lt;/p&gt;
-
-&lt;h3 id=&quot;nikon-z50&quot;&gt;Nikon Z50&lt;/h3&gt;
-&lt;p&gt;Die kleinste der Spiegellosen von Nikon hat einen APS-C Sensor, also die gleiche Größe, wie meine Nikon D7000 oder die Sony a6400. 
-Im Vergleich zur a6400 hat die Z50 eine geringere Auflösung (21 statt 24 Megapixel) und etwa halb so viele Autofokus-Messpunkte (209 anstatt 425), 
-ansonsten sind sie technisch sehr ähnlich ausgestattet.&lt;/p&gt;
-
-&lt;p&gt;Da die Z-Serie von Nikon recht neu ist, gibt es noch ziemlich wenig Objektive, was mich schon bei der Fuji XT-3 gestört hat, 
-aber bei Nikon ist die Situation aus meiner Sicht noch schlimmer. 
-Die Z50 ist aktuell die Einzige Spiegellose APS-C Kamera von Nikon und zur Zeit meiner Recherche gab es ganze 2 passende APS-C Objektive für Spiegellose Kameras von Nikon, 
-ein 16-50mm f/3,5-6,3 und ein 50-250mm f/4,5-6,3. Als Alternative bleiben da nur die größeren und teureren Vollformatobjektive oder eben einen Adapter zu verwenden. 
-Und eine der beiden Varianten müsste ich gehen, denn ein Objektiv mit der Blende von 6,3 bei 50mm ist aus meiner Sicht völlig unbrauchbar. 
-Was dann auch irgendwie den Sinn einer APS-C Kamera zunichte macht.&lt;/p&gt;
-
-&lt;h3 id=&quot;nikon-z6&quot;&gt;Nikon Z6&lt;/h3&gt;
-&lt;p&gt;Bis vor kurzem, bevor die Z5 Ende August veröffentlicht wurde, war die Z6 die kleinere der Vollformatkameras. 
-Mit knapp 1500 Euro einiges günstiger als die Sony A7iii und sogar als Variante mit dem 24-70mm f/4 noch unter der 2000 Euro-Marke. 
-Wie aber schon bei der Sony A7iii geschrieben, habe ich mich letztendlich dann doch gegen Vollformat entschieden. 
-Die Anzahl der erhältlichen Objektive ist zwar noch recht gering, aber Nikon ist fleißig dabei Neue vorzustellen und wenn es so weitergeht, 
-gehe ich davon aus, dass auch bald der ein oder andere Fremdhersteller Objektive für das Z-System anbietet.&lt;/p&gt;
-
-&lt;h3 id=&quot;nikon-z5&quot;&gt;Nikon Z5&lt;/h3&gt;
-&lt;p&gt;Mit der Z5 hat Nikon eine Einsteiger-Vollformatkamera herausgebracht, die sich nur in sehr wenigen Punkten von der Z6 unterscheidet und prinzipiell eine gute Wahl wäre, 
-aufgrund der Firmenpolitik für mich jedoch leider nicht in Frage kam. 
-Auf dem deutschen Markt bekommt man diese nur zusammen mit einem 24-50mm f/4,0-6,3 Objektiv und die Lichtstärke passt für mich einfach nicht, 
-gäbe es ein anderes Kit-Objektiv wäre es vielleicht etwas für die engere Auswahl, aber so leider nicht. 
-Hinzu kommt, dass der preisliche Unterschied zur Z6 nicht groß ist und ich dann vermutlich eher zur größeren Variante greifen würde.&lt;/p&gt;
-
-&lt;h1 id=&quot;abschluss&quot;&gt;Abschluss&lt;/h1&gt;
-&lt;p&gt;Auch wenn ich zu jeder Kamera nur ein paar Sätze geschrieben habe, ist der Artikel doch deutlich länger geworden, als ich gedacht habe. 
-Was aber auch zeigt, wie groß der Markt aktuell ist und welche Auswahl man hat. 
-Ich würde keine der genannten Kameras als schlecht bezeichnen und denke ich hätte vermutlich mit keiner davon einen Fehler gemacht. 
-Sie unterscheiden sich oft nur in Details, am Ökosystem und eben beim Preis. 
-Ich hoffe der Artikel war trotz der Länge informativ und hat meine Überlegungen zum aktuellen Kameramarkt etwas aufgezeigt. 
-Wenn du vor einer ähnlichen Wahl stehst, lass mich gerne wissen wie du dich entschieden hast und warum. Gerne natürlich auch, wenn du anderer Meinung bist ;)&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><summary type="html">Wer mich kennt, der weiß, dass ich vor einem Kauf meist stundenlang recherchiere und überlege, welche Alternativen es gibt und welche Vor- und Nachteile diese haben. So natürlich auch bei meinem Kamerakauf, bei dem ich mich letztendlich für die Sony a6400 entschieden habe. Welche Optionen in meinem Kopf hin und her geschwirrt sind und warum dann die a6400 den Vorzug bekommen hat, will ich in diesem Post erklären.</summary></entry></feed>
+aber trotzdem etwas Sicherheit haben möchte. Ich kann es in jedem Fall weiterempfehlen.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, wodurch alles sehr gut geschützt ist. Der Nachteil davon ist jedoch, dass das Inlay recht groß ist und daher viel Platz im Rucksack einnimmt.</summary></entry></feed>
