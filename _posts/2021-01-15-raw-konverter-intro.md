@@ -81,6 +81,9 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
 
 Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen...
 
+1. [Bisherige Programme weiternutzen mit dem Adobe DNG Konverter][4]
+
 [1]: {% post_url 2021-01-03-raw-oder-jpeg %}
 [2]: {% post_url 2020-10-03-sony-a6400 %}
 [3]: {% post_url 2020-04-05-workflow-fotos %}
+[4]: {% post_url 2021-01-20-adobe-dng-converter %}
