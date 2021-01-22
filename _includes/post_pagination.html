@@ -1,17 +1,21 @@
-{%- assign commonStyle = 'w-1/2 p-2 text-center font-semibold border border-gray-500 hover:bg-gray-500 hover:text-white' -%}
-{%- assign disabledStyle = 'w-1/2 p-2 text-center font-semibold border border-gray-500 text-gray-500' -%}
-
 {% if page.previous or page.next %}
-  <nav class="container prose prose-sm md:prose lg:prose-lg mt-8 py-8 border-t border-gray-100 flex">
-    {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="{{commonStyle}} rounded-l" title="{{ page.previous.title | markdownify | strip_html }}">Vorherige</a>
-    {% else %}
-      <span class="{{disabledStyle}} rounded-l">Vorherige</span>
-    {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="{{commonStyle}} -ml-px rounded-r" title="{{ page.next.title | markdownify | strip_html }}">Nächste</a>
-    {% else %}
-      <span class="{{disabledStyle}} -ml-px rounded-r">Nächste</span>
-    {% endif %}
-  </nav>
+<nav class="container prose prose-sm md:prose lg:prose-lg mt-8 py-8 border-t border-gray-100 flex justify-between flex-wrap">
+  {% if page.previous %}
+  <div class="w-1/2 pr-2">
+    <div class="text-xs md:text-sm">&laquo;&nbsp;vorheriger Artikel</div>
+    <a href="{{ page.previous.url | relative_url }}" title="{{ page.previous.title | markdownify | strip_html }}">
+      {{ page.previous.title }}
+    </a>
+  </div>
+  {% endif %}
+
+  {% if page.next %}
+  <div class="w-1/2 pl-2 text-right">
+    <div class="text-xs md:text-sm">nächster Artikel&nbsp;&raquo;</div>
+    <a href="{{ page.next.url | relative_url }}" title="{{ page.next.title | markdownify | strip_html }}">
+      {{page.next.title}}
+    </a>
+  </div>
+  {% endif %}
+</nav>
 {% endif %}
