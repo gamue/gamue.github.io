@@ -19,11 +19,24 @@
 
   <div id="navbarMenu" class="w-full md:w-auto flex-grow hidden md:flex md:items-center block border border-gray-400 text-xl md:border-0 rounded-lg mt-4 md:mt-0">
       <ul class="md:flex justify-end flex-1 items-center">
-        {%- for link in site.data.navigation.main -%}
-          <li class="block md:inline-block mx-4 p-2 md:p-0">
-            <a href="{{ link.url | relative_url }}" class="block hover:underline">{{ link.title }}</a>
-          </li>
-        {%- endfor -%}
+        <li class="navbarItem">
+          <a href="{{ '/photography/' | relative_url }}">Fotos</a>
+        </li>
+        <li class="navbarItem">
+          <a href="{{ '/laender/' | relative_url }}">Länder</a>
+        </li>
+        <li class="navbarItem">
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          <div class="dropdown-content">
+            <a href="{{ '/category/fotografie/' | relative_url }}">Fotografie</a>
+            <a href="{{ '/category/reisen/' | relative_url }}">Reisen</a>
+            <a href="{{ '/category/technik/' | relative_url }}">Technik</a>
+            <a href="{{ '/category/allgemein/' | relative_url }}">Allgemein</a>
+          </div>
+        </li>
+        <li class="navbarItem">
+          <a href="{{ '/about/' | relative_url }}">About</a>
+        </li>
       </ul>
   </div>
 </header>

@@ -1,9 +1,0 @@
-main:
-  - title: "Fotos"
-    url: /photography/
-  - title: "Länder"
-    url: /laender/
-  - title: "Blog"
-    url: /blog/
-  - title: "About"
-    url: /about/
