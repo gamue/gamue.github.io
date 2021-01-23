@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2020_07_deutschland/Deutschland_0697.jpg
 ---
 
-{% include custom/image-gallery.html folder="/assets/photography/2020_07_deutschland" %}
+{% include content/image-gallery.html folder="/assets/photography/2020_07_deutschland" %}

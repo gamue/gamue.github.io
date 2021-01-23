@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2013_07_schottland/Schottland_0504_tonemapped.jpg
 ---
 
-{% include custom/image-gallery.html folder="/assets/photography/2013_07_schottland" %}
+{% include content/image-gallery.html folder="/assets/photography/2013_07_schottland" %}

@@ -10,4 +10,4 @@ header:
 ---
 
 {% assign galleries = site.pages | where_exp: "item" , "item.path contains 'photography'" | reverse %}
-{% include custom/teaser-gallery.html pages=galleries %}
+{% include content/teaser-gallery.html pages=galleries %}

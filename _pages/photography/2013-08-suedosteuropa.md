@@ -8,16 +8,16 @@ header:
 ---
 
 # Oslo
-{% include custom/image-gallery.html folder="/assets/photography/2013_08_oslo" %}
+{% include content/image-gallery.html folder="/assets/photography/2013_08_oslo" %}
 
 # Kosovo
-{% include custom/image-gallery.html folder="/assets/photography/2013_08_kosovo" %}
+{% include content/image-gallery.html folder="/assets/photography/2013_08_kosovo" %}
 
 # Mazedonien
-{% include custom/image-gallery.html folder="/assets/photography/2013_08_mazedonien" %}
+{% include content/image-gallery.html folder="/assets/photography/2013_08_mazedonien" %}
 
 # Serbien
-{% include custom/image-gallery.html folder="/assets/photography/2013_08_serbien" %}
+{% include content/image-gallery.html folder="/assets/photography/2013_08_serbien" %}
 
 # Rumänien
-{% include custom/image-gallery.html folder="/assets/photography/2013_08_rumaenien" %}
+{% include content/image-gallery.html folder="/assets/photography/2013_08_rumaenien" %}

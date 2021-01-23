@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2014_10_thailand/Thailand_0092.jpg
 ---
 
-{% include custom/image-gallery.html folder="/assets/photography/2014_10_thailand" %}
+{% include content/image-gallery.html folder="/assets/photography/2014_10_thailand" %}

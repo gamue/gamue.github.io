@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2011_05_marokko/Marokko_097b.jpg
 ---
 
-{% include custom/image-gallery.html folder="/assets/photography/2011_05_marokko" %}
+{% include content/image-gallery.html folder="/assets/photography/2011_05_marokko" %}

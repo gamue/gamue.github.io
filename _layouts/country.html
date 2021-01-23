@@ -15,9 +15,9 @@ layout: default
     {{ content }}
   </article>
 
-  {% include custom/route.html %}
-  {% include custom/itinerary.html %}
-  {% include custom/posts-with-tag.html %}
+  {% include content/route.html %}
+  {% include content/itinerary.html %}
+  {% include content/posts-with-tag.html %}
 
   {% if jekyll.environment == 'production' and page.comments %}
     <div class="mt-8 py-8 border-t border-gray-100">

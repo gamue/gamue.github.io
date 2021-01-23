@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2017_11_jordanien/Jordanien_307.jpg
 ---
 
-{% include custom/image-gallery.html folder="/assets/photography/2017_11_jordanien" %}
+{% include content/image-gallery.html folder="/assets/photography/2017_11_jordanien" %}
