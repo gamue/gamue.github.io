@@ -1,8 +1,0 @@
-{%- assign tags_sorted = page.tags | sort_natural -%}
-{%- for tag_word in tags_sorted -%}
-  <a href="{{ tag_word | slugify | prepend: 'tag/' | append: '/' | relative_url }}"
-     class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Unterkategorie {{ tag_word }}">
-    {{ tag_word }}
-  </a>
-  {% unless forloop.last %}<span class="hidden">, </span>{% endunless %}
-{%- endfor -%}

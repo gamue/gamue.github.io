@@ -1,13 +1,27 @@
 {% if (site.autopages.tags.enabled and page.tags[0]) or (site.autopages.categories.enabled and page.categories[0]) %}
 <footer class="container prose prose-sm md:prose lg:prose-lg mt-8">
   <div class="my-4">
-  {% if site.autopages.categories.enabled and page.categories[0] %}
-    {% include category-list.html %}
-  {% endif %}
+  {%- if site.autopages.categories.enabled and page.categories[0] -%}
+    {%- assign categories_sorted = page.categories | sort_natural -%}
+    {%- for category in categories_sorted -%}
+    <a href="{{ category | slugify | prepend: 'category/' | append: '/' | relative_url }}"
+       class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Kategorie {{ category }}" >
+      {{ category }}
+    </a>
+    {% unless forloop.last %}<span class="hidden">, </span>{% endunless %}
+    {%- endfor -%}
+  {%- endif -%}
 
-  {% if site.autopages.tags.enabled and page.tags[0] %}
-    {% include tag-list.html %}
-  {% endif %}
+  {%- if site.autopages.tags.enabled and page.tags[0] -%}
+    {%- assign tags_sorted = page.tags | sort_natural -%}
+    {%- for tag_word in tags_sorted -%}
+    <a href="{{ tag_word | slugify | prepend: 'tag/' | append: '/' | relative_url }}"
+       class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Unterkategorie {{ tag_word }}">
+      {{ tag_word }}
+    </a>
+    {% unless forloop.last %}<span class="hidden">, </span>{% endunless %}
+    {%- endfor -%}
+  {%- endif -%}
   </div>
 </footer>
 {% endif %}

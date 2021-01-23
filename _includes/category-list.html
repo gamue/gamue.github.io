@@ -1,8 +1,0 @@
-{%- assign categories_sorted = page.categories | sort_natural -%}
-{%- for category in categories_sorted -%}
-  <a href="{{ category | slugify | prepend: 'category/' | append: '/' | relative_url }}"
-     class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Kategorie {{ category }}" >
-    {{ category }}
-  </a>
-  {% unless forloop.last %}<span class="hidden">, </span>{% endunless %}
-{%- endfor -%}
