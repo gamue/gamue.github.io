@@ -82,7 +82,7 @@
       @apply block;
     }
     .dropdown-content{
-      @apply hidden md:absolute z-20 bg-white md:shadow-lg rounded-md;
+      @apply md:hidden md:absolute z-20 bg-white md:shadow-lg rounded-md;
       min-width: 150px;
     }
     .dropdown-content a{
