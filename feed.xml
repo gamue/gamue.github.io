@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-25T18:19:16+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Neue RAWs in alter Software: Adobe DNG Konverter</title><link href="https://gamue.de/adobe-dng-konverter/" rel="alternate" type="text/html" title="Neue RAWs in alter Software: Adobe DNG Konverter" /><published>2021-01-20T00:00:00+01:00</published><updated>2021-01-20T00:00:00+01:00</updated><id>https://gamue.de/adobe-dng-converter</id><content type="html" xml:base="https://gamue.de/adobe-dng-konverter/">&lt;p&gt;Eine Möglichkeit, die ich bei meiner Suche nach einem neuen RAW-Konverter nicht aufgezählt habe, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-27T21:11:04+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Darktable, der kostenlose RAW-Konverter</title><link href="https://gamue.de/darktable-der-kostenlose-raw-konverter/" rel="alternate" type="text/html" title="Darktable, der kostenlose RAW-Konverter" /><published>2021-01-27T00:00:00+01:00</published><updated>2021-01-27T00:00:00+01:00</updated><id>https://gamue.de/darktable</id><content type="html" xml:base="https://gamue.de/darktable-der-kostenlose-raw-konverter/">&lt;p&gt;Im Gegensatz zu den meisten RAW-Konvertern ist &lt;a href=&quot;https://www.darktable.org/&quot;&gt;Darktable&lt;/a&gt; ein Open Source Programm und somit kostenlos für Mac, Linux und Windows erhältlich. 
+Hinter dem Programm steht keine Firma, sondern es wird von mehreren Entwicklern in deren Freizeit gepflegt und weiterentwickelt.&lt;/p&gt;
+
+&lt;p&gt;Ich finde Open Source Software sehr gut, jedoch sollte man dabei im Hinterkopf behalten, dass die Entwickler, 
+die daran mitarbeiten das Meiste in erster Linie “für sich” programmieren, heißt, die Ersteller der Software sind auch gleichzeitig die Nutzer davon. 
+Das muss nicht immer schlecht sein, aber kann Aufschluss darauf geben, für wen die Software geeignet ist.&lt;/p&gt;
+
+&lt;p&gt;Laut der Homepage wird es von Fotografen für Fotografen entwickelt, zudem würde ich sagen, dass sich die Benutzer der Software auch sehr gut mit Technik auskennen müssen. 
+Denn die Lernkurve davon ist sehr steil und die Bedienung ziemlich komplex, aber dazu mehr in diesem Artikel.&lt;/p&gt;
+
+&lt;h1 id=&quot;erster-eindruck&quot;&gt;Erster Eindruck&lt;/h1&gt;
+
+&lt;p&gt;Der Download und die Installation gestalteten sich sehr einfach, es ist sogar in etlichen Paketmanagern vorhanden 
+und kann daher über einen einfachen Befehl in der Kommandozeile heruntergeladen und installiert werden.&lt;/p&gt;
+
+&lt;p&gt;Einer der ersten Schritte, der gemacht werden muss, ist Bilder in das Programm zu importieren. 
+Das ist übrigens in jedem aktuellen RAW-Konverter, der auf einer Datenbank basiert, 
+so und in diesem Schritt werden die Metadaten der Bilder eingelesen, sodass beispielsweise leicht darauf gefiltert werden kann.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-27-darktable/darktable_error.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-27-darktable/darktable_error.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-27-darktable/darktable_error.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_621/https://gamue.de/assets/2021-01-27-darktable/darktable_error.jpg 621w&quot; sizes=&quot;100vw&quot; alt=&quot;Eine Fehlermeldung beim Absturz von Darktable.&quot; width=&quot;621&quot; height=&quot;308&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Import hat aus meiner Sicht schon ein paar Tücken, so ist mir das Programm dabei einmal abgestürzt und hat grundlos neue SideCar-Dateien erstellt. 
+Das hat zur Folge, dass ziemlich viel Datenmüll entsteht, denn neben den bereits existierenden RAW-Dateien (z.B. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bild01.nef&lt;/code&gt;) und meinen bisherigen Sidecar-/xmp-Dateien (z.B. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bild01.xmp&lt;/code&gt;), 
+werden neue SideCar-Dateien mit dem Namen &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bild01.nef.xmp&lt;/code&gt; erstellt. 
+Ich verstehe, dass der Dateiname eine eindeutige Zuordnung zur RAW-Datei bietet, aber das Programm könnte die bestehende Datei auch weiterverwenden oder im Nachgang aufräumen, 
+denn manuell will ich das bei zig tausend Dateien nicht machen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-27-darktable/darktable_ranking.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-27-darktable/darktable_ranking.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-27-darktable/darktable_ranking.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-27-darktable/darktable_ranking.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-27-darktable/darktable_ranking.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-27-darktable/darktable_ranking.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Die Bewertungen und Markierungen wurden übernommen.&quot; width=&quot;1500&quot; height=&quot;823&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Meine bisherigen Farbmarkierungen und Bildbewertungen mit Sternen wurden problemlos übernommen. 
+Die Bearbeitungsinformationen jedoch leider nicht, aber das hatte ich mir schon gedacht, da es programmspezifische Daten aus meiner alten Anwendung sind. 
+Zusätzlich wird die &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.psd&lt;/code&gt;-Datei (Adobe Photoshop) nicht erkannt und angezeigt. Das ist etwas ärgerlich, denn falls ich größere Bildbearbeitungen vornehme, 
+mache ich das häufig über genau solche Dateien, die ich dann nicht mehr betrachten kann.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-entwickeln&quot;&gt;RAW entwickeln&lt;/h1&gt;
+
+&lt;p&gt;Der wichtigste Test für jedes der Programme, die ich mir genauer anschaue, ist natürlich die Entwicklung von einem oder mehrerer RAWs. 
+Und wenn ich ehrlich bin, habe ich hin und her überlegt, ob ich den Test mit Darktable überhaupt durchführen soll, denn in den ersten 30min, 
+in denen ich mir das Programm genauer angeschaut habe, ist es mehrfach abgestürzt.&lt;/p&gt;
+
+&lt;p&gt;Das weckt natürlich kein großes Vertrauen in die Software, auch wenn die Entwickler schnell auf &lt;a href=&quot;https://github.com/darktable-org/darktable/issues/7627&quot;&gt;meinen Fehlerbericht&lt;/a&gt; reagiert 
+und innerhalb von einer Woche die Ursache behoben hatten.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-27-darktable/darktable_entwicklung.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-27-darktable/darktable_entwicklung.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-27-darktable/darktable_entwicklung.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-27-darktable/darktable_entwicklung.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-27-darktable/darktable_entwicklung.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-27-darktable/darktable_entwicklung.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Der Entwicklungsmodus von Darktable&quot; width=&quot;1500&quot; height=&quot;823&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Im RAW-Entwicklungsmodus gibt es eine Vielzahl von Einstellungen und Optionen, die teilweise ungewöhnliche Bezeichnungen tragen, 
+sodass ich dort erst einmal erschlagen wurde. Damit hatte ich aber schon gerechnet, denn das ist einer der Kritikpunkte auf den ich bei meinen initialen Recherchen immer wieder gestoßen bin 
+und die Oberfläche sah in den Lernvideos, die ich zuvor angeschaut hatte, auch nicht sehr intuitiv aus.&lt;/p&gt;
+
+&lt;p&gt;Falls du Darktable mal in Aktion sehen oder mehr darüber erfahren willst, kann ich ein &lt;a href=&quot;https://www.youtube.com/watch?v=xi4x2qQkG8c&quot;&gt;Youtube-Video von Rico Richardson&lt;/a&gt; (auf Englisch) dazu empfehlen. 
+Von allen Videos, die ich mir über das Programm angeschaut habe, war das bei weitem das Beste!&lt;/p&gt;
+
+&lt;p&gt;Insgesamt hat die Bearbeitung des RAW-Bildes gut funktioniert, ich hatte aber immer das Gefühl, dass es noch ein sehr langer Weg sein wird, das Programm wirklich zu verstehen und zu beherrschen.&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.darktable.org/&quot;&gt;Darktable&lt;/a&gt; ist definitiv ein sehr komplexes Programm und nicht für Anwender gedacht, die “nur ein paar Schieberegler” haben oder schnell einen Filter verwenden wollen.&lt;/p&gt;
+
+&lt;p&gt;Wie geschrieben, hatte ich oft mit Programmabstürzen zu kämpfen, was für mich ein No-Go ist, und weswegen ich Darktable von meiner Liste gestrichen habe. 
+Da es aber offensichtlich bei vielen anderen reibungslos funktioniert, wollte ich es trotzdem “durchtesten” und hier vorstellen, 
+die Stabilität kann auf einem anderen System mit einer anderen Version ganz anders aussehen und man darf nicht vergessen, 
+dass es eine kostenlose Anwendung ist, die von einigen Programmierern in deren Freizeit entwickelt wird.&lt;/p&gt;
+
+&lt;p&gt;Solltest du also auf der Suche nach einem kostenlosen Programm sein und dich nicht vor dem, doch recht hohen, Einarbeitungsaufwand scheuen, denke ich, dass Darktable eine gute Lösung sein kann.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Im Gegensatz zu den meisten RAW-Konvertern ist Darktable ein Open Source Programm und somit kostenlos für Mac, Linux und Windows erhältlich. Hinter dem Programm steht keine Firma, sondern es wird von mehreren Entwicklern in deren Freizeit gepflegt und weiterentwickelt.</summary></entry><entry><title type="html">Neue RAWs in alter Software: Adobe DNG Konverter</title><link href="https://gamue.de/adobe-dng-konverter/" rel="alternate" type="text/html" title="Neue RAWs in alter Software: Adobe DNG Konverter" /><published>2021-01-20T00:00:00+01:00</published><updated>2021-01-20T00:00:00+01:00</updated><id>https://gamue.de/adobe-dng-converter</id><content type="html" xml:base="https://gamue.de/adobe-dng-konverter/">&lt;p&gt;Eine Möglichkeit, die ich bei meiner Suche nach einem neuen RAW-Konverter nicht aufgezählt habe, 
 ist die Variante die RAW-Dateien in das DNG-Format umzuwandeln und alles so zu lassen, wie ich es gewohnt bin. 
 Was die Option genau bedeutet, und warum ich es nicht in die engere Auswahl genommen habe, will ich in diesem Artikel erklären.&lt;/p&gt;
 
@@ -138,6 +201,7 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;/adobe-dng-konverter/&quot;&gt;Bisherige Programme weiternutzen mit dem Adobe DNG Konverter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/darktable-der-kostenlose-raw-konverter/&quot;&gt;Darktable, die kostenlose Variante&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
 
@@ -894,46 +958,4 @@ war ich zufrieden und es war in etwas so wie ich es mir vorgestellt hatte.&lt;/p
 &lt;p&gt;Ein wirkliches Fazit in Sachen Komfort und Nutzen kann ich zwar erst nach ein paar längeren Reisen und Wanderungen ziehen, 
 bin jedoch sehr positiv gestimmt, dass er meine Erwartungen erfüllt.&lt;/p&gt;
 
-&lt;p&gt;Lass mich gern wissen, wenn du auch den Clip nutzt und welche Erfahrungen du damit gemacht hast.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, damit ich vor dem Fotografieren nicht erst ewig im Rucksack kramen muss und mir so kein Bild entgeht. Bisher habe ich dafür einen Kameragurt verwendet, den ich über die Schulter trage. Ein Nachteil, der mich unterwegs immer wieder gestört hat, ist das die Kamera bei Bewegungen am Gurt hin und her baumelt und gegen meinen Körper schlägt, was ziemlich nervig und bestimmt nicht so gut für die Kamera sein kann. Aus dem Grund habe ich mir angewöhnt meist eine Hand an der Kamera zu haben, was auf Dauer nicht sehr bequem ist.</summary></entry><entry><title type="html">Review: Lens-Aid Einschlagtuch</title><link href="https://gamue.de/lens-aid-einschlagtuch/" rel="alternate" type="text/html" title="Review: Lens-Aid Einschlagtuch" /><published>2020-10-21T00:00:00+02:00</published><updated>2020-10-21T00:00:00+02:00</updated><id>https://gamue.de/lens-aid-einschlagtuch</id><content type="html" xml:base="https://gamue.de/lens-aid-einschlagtuch/">&lt;p&gt;Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, 
-wodurch alles sehr gut geschützt ist. Der Nachteil davon ist jedoch, dass das Inlay recht groß ist und daher viel Platz im Rucksack einnimmt.&lt;/p&gt;
-
-&lt;p&gt;Da meine &lt;a href=&quot;/neue-kamera-sony-a6400/&quot;&gt;neue Kamera&lt;/a&gt; deutlich kleiner ist und ich noch keine zusätzlichen Objektive habe, ist mir aufgefallen, 
-wie viel Platz das Inlay einnimmt und habe mich daher auf die Suche nach einer platzsparenden Lösung gemacht, 
-um die Kamera relativ sicher im Rucksack zu verstauen. Dabei bin ich auf sogenannte Einschlagtücher gestoßen, 
-was aus meiner Sicht eine ziemlich schlechte Bezeichnung ist, denn unter einem Tuch stelle ich mir normalerweise etwas Dünnes vor. 
-Von der Art her erinnern mich die Einschlagtücher an eine Picknick-Decke, den zwischen zwei Stoffen ist eine Polsterung eingenäht.&lt;/p&gt;
-
-&lt;p&gt;Nach etwas Recherche habe ich das &lt;strong&gt;Lens-Aid Einschlagtuch in der Größe M&lt;/strong&gt; bestellt und möchte es daher hier vorstellen.&lt;/p&gt;
-
-&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Das Produkt habe ich selbst gekauft und stehe in keiner Geschäftsbeziehung zum Hersteller. 
-Ich habe für diesen Post keine Gegenleistung bekommen, noch bin ich in irgendeiner Art verpflichtet etwas zu schreiben, das nicht meiner eigenen Meinung entspricht.&lt;/p&gt;
-
-&lt;h1 id=&quot;lieferumfang&quot;&gt;Lieferumfang&lt;/h1&gt;
-
-&lt;p&gt;Wenig überraschend nur das Einschlagtuch in der Größe M, was in etwa 37 x 37 cm entspricht. 
-Eine Seite ist aus weichem Fleece und die andere aus wasserabweisendem Nylongewebe. 
-Der Beschreibung nach, kann man es beidseitig verwenden, aber ich werde die Kamera immer in die Fleece-Seite wickeln.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Lieferumfang&quot; width=&quot;1400&quot; height=&quot;1050&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In der Mitte ist eine Fläche von ca. 16 x 16 cm eingenäht, sodass man weiß, wo die Kamera am besten platziert werden soll. 
-Prinzipiell ziemlich nützlich, ich hätte mir nur mehr Sorgfalt bei den Maßen gewünscht, 
-denn jede der vier Seiten ist unterschiedlich lang und es sieht daher, bei genauerem Blick, etwas schief aus. 
-An den restlichen Nähten passt, soweit ich das beurteilen kann, aber soweit alles.&lt;/p&gt;
-
-&lt;p&gt;An drei der Ecken ist jeweils ein Klettverschluss-Widerhaken-Stück angenäht, 
-die auf dem Fleecestoff halten und das Tuch somit in eingewickeltem Zustand nicht aufgeht.&lt;/p&gt;
-
-&lt;h1 id=&quot;anwendung&quot;&gt;Anwendung&lt;/h1&gt;
-&lt;p&gt;Kamera im mittleren Rechteck platzieren, anschließend die Seiten nacheinander zuklappen, wobei die ohne Klettverschluss zuletzt kommt, und fertig.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Kamera einwickeln&quot; width=&quot;1500&quot; height=&quot;1125&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Das “Päckchen” kann danach einfach im Rucksack oder einer anderen Tasche verstaut werden und bietet der Kamera und dem Objektiv Schutz.&lt;/p&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-&lt;p&gt;Ich hatte es jetzt schon auf einigen Tagesausflügen dabei und die Investition von 12,90 Euro haben sich für mich gelohnt. 
-Sicherlich ist der Schutz nicht so gut, wie in einem Inlay, leichte Stöße federt es aber gut ab und durch das Fleece entstehen keine Kratzer an Kamera oder Objektiv.&lt;/p&gt;
-
-&lt;p&gt;Aus meiner Sicht ist das Einschlagtuch eine gute Variante die Kamera zu transportieren, wenn man Platz sparen, 
-aber trotzdem etwas Sicherheit haben möchte. Ich kann es in jedem Fall weiterempfehlen.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Wenn ich nur mit Handgepäck unterwegs oder auf einem Tagesausflug bin, verstaue ich meine Kamera und das Zubehör meist in einem Rucksack-Inlay, wodurch alles sehr gut geschützt ist. Der Nachteil davon ist jedoch, dass das Inlay recht groß ist und daher viel Platz im Rucksack einnimmt.</summary></entry></feed>
+&lt;p&gt;Lass mich gern wissen, wenn du auch den Clip nutzt und welche Erfahrungen du damit gemacht hast.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, damit ich vor dem Fotografieren nicht erst ewig im Rucksack kramen muss und mir so kein Bild entgeht. Bisher habe ich dafür einen Kameragurt verwendet, den ich über die Schulter trage. Ein Nachteil, der mich unterwegs immer wieder gestört hat, ist das die Kamera bei Bewegungen am Gurt hin und her baumelt und gegen meinen Körper schlägt, was ziemlich nervig und bestimmt nicht so gut für die Kamera sein kann. Aus dem Grund habe ich mir angewöhnt meist eine Hand an der Kamera zu haben, was auf Dauer nicht sehr bequem ist.</summary></entry></feed>
