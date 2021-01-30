@@ -1,4 +1,156 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-27T21:11:04+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Darktable, der kostenlose RAW-Konverter</title><link href="https://gamue.de/darktable-der-kostenlose-raw-konverter/" rel="alternate" type="text/html" title="Darktable, der kostenlose RAW-Konverter" /><published>2021-01-27T00:00:00+01:00</published><updated>2021-01-27T00:00:00+01:00</updated><id>https://gamue.de/darktable</id><content type="html" xml:base="https://gamue.de/darktable-der-kostenlose-raw-konverter/">&lt;p&gt;Im Gegensatz zu den meisten RAW-Konvertern ist &lt;a href=&quot;https://www.darktable.org/&quot;&gt;Darktable&lt;/a&gt; ein Open Source Programm und somit kostenlos für Mac, Linux und Windows erhältlich. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-30T13:43:22+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Skylum Luminar, RAW-Konvertierung mit KI</title><link href="https://gamue.de/skylum-luminar-bilbearbeitung-mit-ki/" rel="alternate" type="text/html" title="Skylum Luminar, RAW-Konvertierung mit KI" /><published>2021-01-30T00:00:00+01:00</published><updated>2021-01-30T00:00:00+01:00</updated><id>https://gamue.de/skylum-luminar</id><content type="html" xml:base="https://gamue.de/skylum-luminar-bilbearbeitung-mit-ki/">&lt;p&gt;&lt;a href=&quot;https://skylum.com/de/&quot;&gt;Luminar von Skylum&lt;/a&gt; ist der Neuling unter den RAW-Konvertern und hat besonders durch die Verwendung von Künstlicher Intelligenz von sich Reden gemacht. 
+Mit wenigen Klicks lassen sich damit Bildbearbeitungen vornehmen, die zuvor zeitintensiv gewesen wären, 
+wie beispielsweise der Austausch des kompletten Himmels und das in einer sehr guten Qualität.&lt;/p&gt;
+
+&lt;p&gt;Hinzukommt, dass es preislich ziemlich attraktiv ist und daher schnell eine große Verbreitung gefunden hat. 
+Bei meiner &lt;a href=&quot;/neuer-raw-konverter-gesucht/&quot;&gt;Umfrage in der Fotografie-Facebook-Gruppe&lt;/a&gt; war das Programm, mit großem Abstand zu den hinteren Plätzen, auf dem 2. Rang.&lt;/p&gt;
+
+&lt;p&gt;Da das schon einmal gute Voraussetzungen sind, habe ich mir das Programm genauer angeschaut und fasse in diesem Artikel meine Erfahrungen mit dem Programm und meine Meinung darüber zusammen.&lt;/p&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Ethik-Hinweis&lt;/strong&gt;: Ich habe das Programm aus Eigeninteresse getestet und die nachfolgenden Punkte entsprechen meiner eigenen Meinung und Erfahrung. 
+Ich habe keine Geschäftsbeziehung zum Hersteller, noch habe ich irgendeine Gegenleistung bekommen.&lt;/p&gt;
+
+&lt;h1 id=&quot;lizenzmodell-und-preis&quot;&gt;Lizenzmodell und Preis&lt;/h1&gt;
+
+&lt;p&gt;Bei Luminar handelt es sich um eine Kaufversion, heißt du zahlst einen einmaligen Preis und besitzt im Anschluss die Software. 
+Zudem bekommst du vom Hersteller kostenlos Updates für diese Version zur Verfügung gestellt, 
+das sind meistens kleinere Verbesserungen an den Funktionen, der Stabilität oder die Behebung von Problemen.&lt;/p&gt;
+
+&lt;p&gt;Wenn eine neue Version der Software erscheint und du diese haben willst, musst du diese wieder kaufen. 
+Meistens gibt es ab diesem Zeitpunkt dann auch keine Updates für ältere Versionen mehr.&lt;/p&gt;
+
+&lt;p&gt;In den letzten drei Jahren kam jedes Jahr eine neue Version von Luminar heraus, gehörst du also zu denjenigen, die immer die neuste Version haben wollen, 
+hättest du also auch jährlich in die Brieftasche greifen müssen. Das ist bei Kaufsoftware aber prinzipiell normal und jeder muss selbst entscheiden, 
+ob die Neuerungen das Geld wert sind oder er bei seiner bisherigen Version bleibt.&lt;/p&gt;
+
+&lt;p&gt;Das 2018 erschienene Luminar 3 gab es die letzten Monate häufiger kostenlos, wird sonst aber online nicht mehr vertrieben. 
+Luminar 4, aus 2019, kostet aktuell 67€ für ein Gerät bzw. 89€ wenn du es auf zwei Geräten nutzen möchtest. 
+Ende 2020 kam dann der Nachfolger Luminar AI heraus, der mit &lt;strong&gt;79€ für ein Gerät bzw. 99€ für zwei Geräte&lt;/strong&gt; nur etwas teurer ist, 
+sodass ich nicht wirklich den Grund sehe, warum man sich jetzt noch Luminar 4 kaufen sollte.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bestellprozess mit Geschenk&quot; width=&quot;1500&quot; height=&quot;1153&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Solltest du mit dem Gedanken spielen, dir Luminar kaufen zu wollen, dann habe ich noch zwei Tipps für dich:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Schnapp dir einen Rabattcode, den es bei so ziemlich jedem Influencer oder Youtuber gibt, denn der Hersteller setzt stark auf Influencer-Marketing.&lt;/li&gt;
+  &lt;li&gt;Warte auf der Warenkorb-Seite ein paar Sekunden bevor du die Software kaufst, 
+ denn zum weiteren Anreiz kommt dann noch ein kleines Geschenk (“Bezaubernde Abenddämmerung Himmels-Paket”) dazu.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;installation-und-erster-eindruck&quot;&gt;Installation und Erster Eindruck&lt;/h1&gt;
+
+&lt;p&gt;Was ich schade finde, ist das es von Luminar AI keine kostenlose Testversion mehr gibt, zumindest habe ich dazu keine gefunden. 
+Stattdessen gibt es beim Kauf eine 30-Tage-Geld-Zurück-Garantie, sodass du diese in Anspruch nehmen müsstest, solltest du es nur ausprobieren wollen. 
+Mir war das zu aufwändig bzw. wollte ich dem Geld nicht hinterherrennen und verwende für meinen Test daher Luminar 4, wobei ich an die Testversion auch nur über einige Google-Umwege gekommen bin.&lt;/p&gt;
+
+&lt;p&gt;Die Installation war schnell und einfach, auch der Import meiner Testbilder ging flott vonstatten, ich habe aber schon gemerkt, dass mein Computer ziemlich beansprucht wurde. 
+Zugegebener Weise ist mein PC schon ein paar Jahre alt und verfügt daher “nur” über einen Intel i5-6500 Prozessor (4x 3.2GHz), 8 GB RAM und eine SSD-Festplatte, 
+aber dass ich bei Luminar 4 nach jedem Klick ein paar Sekunden warten muss, hätte ich nicht erwartet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildverwaltung in Luminar&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Beim Import wurden weder meine bisherigen Farbmarkierungen, noch die Bildbewertungen übernommen, 
+bei einem Umstieg würde ich daher die ganze Organisation meiner Bilder verlieren, was ich sehr schlecht finde. 
+In den anderen Programmen, die ich getestet habe, hat das hingegen problemlos funktioniert. 
+Vielleicht ist das ja noch ein Feature, dass in einer zukünftigen Version hinzukommt, wirklich komplex sollte das eigentlich nicht sein.&lt;/p&gt;
+
+&lt;p&gt;Der Vollständigkeithalber will ich auch noch erwähnen, dass meine bisherigen Entwicklungseinstellungen aus Adobe Camera Raw ebenfalls nicht übernommen worden sind, aber das hatte ich bereits erwartet.&lt;/p&gt;
+
+&lt;p&gt;Auch fehlt in der Bibliothek-Ansicht die &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;psd&lt;/code&gt;-Datei aus meinen Testdaten, sodass tatsächlich nur RAW- und andere “simple” Bilddateien, wie JPGs, dort angezeigt werden.&lt;/p&gt;
+
+&lt;p&gt;Abgesehen davon macht Luminar auf mich einen soliden ersten Eindruck, alles sehr intuitiv aufgebaut und die Bibliothek liefert einen schnellen Blick auf alle Bilder im Katalog oder einer gefilterten Ansicht davon. 
+Wenn ich mir hier etwas wünschen könnte, so wäre es eine Filmrollen-Ansicht, das heißt, dass in der Mitte das ausgewählte Bild groß und im unteren Bereich alle anderen Bilder als kleine Vorschau angezeigt werden. 
+Persönlich finde ich das sehr angenehm um schnell Fotos sichten und bewerten zu können.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-entwickeln&quot;&gt;RAW entwickeln&lt;/h1&gt;
+
+&lt;p&gt;In der &lt;em&gt;Bearbeiten&lt;/em&gt;-Ansicht gibt es zwar die Filmrollen-Darstellung, jedoch nur mit den Bildern an der Seite anstatt am unteren Rand. 
+Eine Einstellung das anzupassen habe ich leider nicht gefunden. Wegen der hohen Wartezeit an meinem PC, wenn ich ein anderes Bild anklicke, 
+eignet sich Luminar 4 für mich aber sowieso nicht zur schnellen Sichtung von Bildern.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bearbeitungs-Ansicht in Luminar&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Was in der Ansicht gleich auffällt, ist die im unteren Bereich recht prominent positionierte Option vordefinierte Bild-Looks zu verwenden. 
+Einige der Vorschläge führen dabei zu “extremen” Bildänderungen, auch wenn sich der Effekt über einen Schieberegler anpassen lässt, 
+so erinnert mich das Ganze an die Filterauswahl in so mancher Handy-App.&lt;/p&gt;
+
+&lt;p&gt;Die Detaileinstellungen auf der rechten Seite empfinde ich als sehr übersichtlich und leicht zu verstehen. 
+Jeder Menüpunkt lässt sich einzeln aktivieren bzw. deaktivieren und über die farbliche Hervorhebung (weiße Schrift) lässt sich einfach erkennen, 
+in welchen Punkten bereits Anpassungen vorgenommen worden sind.&lt;/p&gt;
+
+&lt;p&gt;Jede Option hat meistens einen oder mehrere Schieberegler, sodass die Bearbeitung recht schnell vorgenommen werden kann. 
+Bei der Bedienung über die Tastatur hatte ich jedoch etliche Probleme, denn in anderen Programmen nutze ich oft die Pfeiltasten, um Werte feiner einzustellen, 
+bin dadurch jedoch zum nächsten Bild gekommen, was mich etlichen Sekunden gekostet hat, um wieder zum eigentlichen Bild zurückzukommen. Ich denke, das ist aber Gewöhnungssache.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_sky.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_sky.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_sky.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_sky.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_sky.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_sky.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Himmel ersetzen in Luminar&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Abgesehen davon ging die Bearbeitung des RAW-Bildes angenehm zügig, musste mich jedoch etwas zurückhalten, 
+denn die Optionen haben mich schon dazu eingeladen das Bild stark zu ändern, was ich eigentlich nicht mache und mag. 
+Gerade die Möglichkeit den Himmel zu verändern oder durch einen Klick komplett auszutauschen finde ich schon sehr beeindruckend und wollte ich mir daher genauer anschauen.&lt;/p&gt;
+
+&lt;p&gt;Der Export des Bildes, also die Speicherung des RAW-Bildes mit den gewählten Anpassungen als JPG-Datei, hat vergleichsweise lange gedauert. 
+Auch wieder ein Signal, dass meine aktuelle Hardware vermutlich nicht so sehr für Luminar geeignet ist.&lt;/p&gt;
+
+&lt;h1 id=&quot;bildmanipulation&quot;&gt;Bildmanipulation&lt;/h1&gt;
+
+&lt;p&gt;In den letzten Jahren habe ich meine Bilder immer weniger bearbeitet, trotzdem kommt es manchmal noch vor, 
+dass ich den ein oder anderen störenden Gegenstand aus einem Bild entfernen möchte. 
+Dafür habe ich bisher eine alte Photoshop Version verwendet, was mit dem Nachteil kommt, dass es wieder ein weiteres Programm mit anderem Dateiformat (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.psd&lt;/code&gt;) ist.&lt;/p&gt;
+
+&lt;p&gt;Luminar hat bereits Retusche-Möglichkeiten eingebaut, sodass (kleinere) Bildmanipulationen direkt im Programm durchgeführt werden können 
+und du so nicht auf weitere Software angewiesen bist. Im unteren Beispiel habe ich den Kran aus dem Foto entfernt, was prinzipiell gut funktioniert hat, aber schau einfach selbst, ob es dir auffallen würde ;)&lt;/p&gt;
+
+&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
+  
+      &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+      &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+  
+    &lt;figcaption&gt;Bildmanipulation in Skylum Luminar
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;script&gt;
+    new SimpleLightbox({elements: '.image-gallery a'});
+&lt;/script&gt;
+
+&lt;p&gt;Im Gegensatz zu anderen Programmen, wird die Bildmanipulation jedoch nicht beim Loslassen der Maus bzw. direkt nach dem Aufmalen des roten Auswahlbereiches durchgeführt, 
+sondern muss manuell über den Button “Radieren” angestoßen werden. Da am unteren Bildrand “Bild wird verarbeitet …” angezeigt wurde, 
+dachte ich mein Rechner ist wieder zu langsam und habe 20min gewartet, bevor ich dann den Knopf gefunden habe :D&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+
+&lt;p&gt;Aus meiner Sicht richtet sich Luminar besonders an Anwender, die sich nicht viel mit der RAW-Entwicklung und Bildbearbeitung beschäftigen wollen. 
+Die simplen Einstellungsmöglichkeiten erlauben es Anfängern schnell ein schönes Bild zu kreieren. Ich schreibe hier bewusst “kreieren”, 
+denn für mich ist es kein Foto mehr, wenn es zu stark verändert ist. Bei meinem oberen Testbild siehst du wie stark der bearbeitete Himmel von der Realität abweicht, 
+hat natürlich auch etwas, aber ist eben für mich kein Foto mehr. Was jedoch nicht heißt, dass jedes Bild, 
+dass mit Luminar bearbeitet wird, so extrem abweichen muss, du kannst die Bearbeitungen schließlich auch dezent vornehmen.&lt;/p&gt;
+
+&lt;p&gt;Viele der Looks und Möglichkeiten in Luminar empfinde ich als Spielerei und würde etliche vermutlich nie verwenden, 
+das ist aber komplett Geschmackssache und sieht jeder ein bisschen anders. Es ist jedoch in jedem Fall beeindruckend was alles mit einem Klick möglich ist.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt war die Bedienung, aus meiner Sicht, einfach und intuitiv und ich könnte mir Luminar für die RAW-Entwicklung und Bildbearbeitung grundlegend vorstellen. 
+Habe aber meine Bedenken bei der Eignung als Bildverwaltung, auch weil es scheinbar nicht 100% kompatibel mit anderen Programmen ist, was die Übernahme der Bewertungen und Farbmarkierungen betrifft.&lt;/p&gt;
+
+&lt;p&gt;Ein weiterer Negativpunkt sind die Anforderungen an die Hardware. Auf meinem Computer hat die Nutzung durch die längeren Wartezeiten keinen Spaß gemacht, 
+auch wenn es nach jedem Klick nur jeweils ein paar Sekunden waren, so hat sich die Bildbearbeitung doch sehr abgehakt und ineffizient angefühlt.&lt;/p&gt;
+
+&lt;p&gt;Aus dem Grund werde ich mir die Vollversion von Luminar nicht kaufen, denke jedoch, dass es für alle mit einem leistungsstärkeren Computer 
+oder mehr Geduld bei den Klicks eine gute Lösung sein kann, auch weil es meiner Meinung nach ein gutes Preis-Leistungs-Verhältnis hat.&lt;/p&gt;
+
+&lt;p&gt;Solltest du selbst Erfahrungen mit Luminar haben, gerade was die längere Nutzung angeht, lass gerne ein Kommentar da, das würde mich sehr interessieren. 
+Ansonsten hoffe ich, dass ich dir einen guten Überblick über Luminar geben konnte.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Luminar von Skylum ist der Neuling unter den RAW-Konvertern und hat besonders durch die Verwendung von Künstlicher Intelligenz von sich Reden gemacht. Mit wenigen Klicks lassen sich damit Bildbearbeitungen vornehmen, die zuvor zeitintensiv gewesen wären, wie beispielsweise der Austausch des kompletten Himmels und das in einer sehr guten Qualität.</summary></entry><entry><title type="html">Darktable, der kostenlose RAW-Konverter</title><link href="https://gamue.de/darktable-der-kostenlose-raw-konverter/" rel="alternate" type="text/html" title="Darktable, der kostenlose RAW-Konverter" /><published>2021-01-27T00:00:00+01:00</published><updated>2021-01-27T00:00:00+01:00</updated><id>https://gamue.de/darktable</id><content type="html" xml:base="https://gamue.de/darktable-der-kostenlose-raw-konverter/">&lt;p&gt;Im Gegensatz zu den meisten RAW-Konvertern ist &lt;a href=&quot;https://www.darktable.org/&quot;&gt;Darktable&lt;/a&gt; ein Open Source Programm und somit kostenlos für Mac, Linux und Windows erhältlich. 
 Hinter dem Programm steht keine Firma, sondern es wird von mehreren Entwicklern in deren Freizeit gepflegt und weiterentwickelt.&lt;/p&gt;
 
 &lt;p&gt;Ich finde Open Source Software sehr gut, jedoch sollte man dabei im Hinterkopf behalten, dass die Entwickler, 
@@ -197,11 +349,13 @@ was die Mitglieder dort für ein Programm einsetzen.&lt;/p&gt;
 &lt;p&gt;Zufälligerweise haben sich die Programme auf den ersten 5 Plätzen mit meiner eigenen Recherche überschnitten, sodass diese auf meiner Testliste gelandet sind. 
 Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen kostenlosen Optionen ist.&lt;/p&gt;
 
-&lt;p&gt;Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen…&lt;/p&gt;
+&lt;p&gt;Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;/adobe-dng-konverter/&quot;&gt;Bisherige Programme weiternutzen mit dem Adobe DNG Konverter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/darktable-der-kostenlose-raw-konverter/&quot;&gt;Darktable, die kostenlose Variante&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/skylum-luminar-bilbearbeitung-mit-ki/&quot;&gt;Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;weitere Artikel folgen.&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
 
@@ -856,106 +1010,4 @@ Nur eben etwas, auf dass ich achten muss, falls ich doch mal beides schnell “i
 &lt;p&gt;Den ein oder anderen könnte es auch nerven, dass die Anker klackern, wenn der Gurt nicht angebracht ist. 
 Gerade bei Videoaufnahmen kann das zu störenden Geräuschen führen, falls diese vom Wind oder durch Bewegung gegen das Kameragehäuse geschlagen werden.&lt;/p&gt;
 
-&lt;p&gt;Alles in allem bekommt der Peak Design Slide Lite von mir einen Daumen hoch und ich kann insgesamt Kameragurte nur jedem Fotografen empfehlen!&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. Mein bisheriger Kameragurt ist prinzipiell noch gut in Schuss und könnte ich weiterverwenden, wirkt aber an der kleineren Kamera ziemlich überproportioniert. Zudem wird der am ¼-Zoll-Gewinde befestigt, weswegen ich mir nicht sicher bin, ob er mit dem Peak Design Capture v3 zusammenpasst. Aus dem Grund habe ich mich auf der Suche nach einem neuen, etwas kleineren Gurt begeben.</summary></entry><entry><title type="html">Review: Peak Design Capture v3</title><link href="https://gamue.de/review-peak-design-capture-v3/" rel="alternate" type="text/html" title="Review: Peak Design Capture v3" /><published>2020-10-27T00:00:00+01:00</published><updated>2020-10-27T00:00:00+01:00</updated><id>https://gamue.de/peak-design-capture-v3</id><content type="html" xml:base="https://gamue.de/review-peak-design-capture-v3/">&lt;p&gt;Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, 
-damit ich vor dem Fotografieren nicht erst ewig im Rucksack kramen muss und mir so kein Bild entgeht. 
-Bisher habe ich dafür einen Kameragurt verwendet, den ich über die Schulter trage. 
-Ein Nachteil, der mich unterwegs immer wieder gestört hat, ist das die Kamera bei Bewegungen am Gurt hin und her baumelt 
-und gegen meinen Körper schlägt, was ziemlich nervig und bestimmt nicht so gut für die Kamera sein kann. 
-Aus dem Grund habe ich mir angewöhnt meist eine Hand an der Kamera zu haben, was auf Dauer nicht sehr bequem ist.&lt;/p&gt;
-
-&lt;p&gt;Vor einer Weile bin ich auf einen Trageclip gestoßen, der sich einfach am Rucksack befestigen lässt 
-und die Möglichkeit bietet die Kamera auf Brusthöhe zu verstauen, was sich für Wanderungen deutlich angenehmer anhört als meine vorherige Kameragurt-Lösung. 
-In diesem Post geht es daher um den &lt;strong&gt;Peak Design Capture v3&lt;/strong&gt; und meine ersten Erfahrungen damit.&lt;/p&gt;
-
-&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Das Produkt habe ich selbst gekauft und stehe in keiner Geschäftsbeziehung zum Hersteller. 
-Ich habe für diesen Post keine Gegenleistung bekommen, noch bin ich in irgendeiner Art verpflichtet etwas zu schreiben, das nicht meiner eigenen Meinung entspricht.&lt;/p&gt;
-
-&lt;h1 id=&quot;varianten--lieferumfang&quot;&gt;Varianten &amp;amp; Lieferumfang&lt;/h1&gt;
-
-&lt;p&gt;Neben den Farbvarianten schwarz und silber, gibt es den Clip wahlweise mit oder ohne Standardplatte.&lt;/p&gt;
-
-&lt;p&gt;Die Standardplatte ist auf allen vier Seiten Arca-Swiss-kompatibel, sodass man diese problemlos in passende Stativköpfe einsetzen kann. 
-Da ich jedoch ein Manfrotto-Stativ besitze und dieses nicht Arca-Swiss-kompatibel ist, 
-habe ich mich stattdessen für die “Dual Plate” entschlossen, die sowohl in Arca-Swiss- als auch in Manfrotto-Verschlüssen befestigt werden kann. 
-Der Nachteil der Platte ist, dass sie nicht mehr in jeder Richtung in den Clip eingesetzt werden kann. 
-Ich kann den Clip daher nur horizontal verwenden und nicht beispielsweise vertikal an einem Gürtel befestigen, 
-zumindest nicht ohne weiteres Zubehör. Was mich aber nicht stört, da ich das nicht vorhatte.&lt;/p&gt;
-
-&lt;p&gt;Ich habe den Clip und Platte als Bundle bestellt, jedoch beides als Einzelteile bekommen. 
-In den Packungen war Folgendes:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Lieferumfang&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Peak Design Capture v3&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Capture v3 mit Handschrauben&lt;/li&gt;
-  &lt;li&gt;Inbusschlüssel&lt;/li&gt;
-  &lt;li&gt;2x Inbus-Schrauben (als Alternative zu den montierten Handschrauben)&lt;/li&gt;
-  &lt;li&gt;graue Tasche&lt;/li&gt;
-  &lt;li&gt;Sticker&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Peak Design Dual Plate&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dual Plate&lt;/li&gt;
-  &lt;li&gt;Inbusschlüssel&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Insgesamt macht alles einen sehr wertigen und stabilen Eindruck und ich habe keine Angst davor meine Ausrüstung daran bzw. damit zu befestigen.&lt;/p&gt;
-
-&lt;h1 id=&quot;anwendung&quot;&gt;Anwendung&lt;/h1&gt;
-
-&lt;p&gt;Die Platte wird, wie jede andere Schnellverschluss-Platte, mithilfe des Inbusschlüssels in das 1/4-Zoll-Gewinde der Kamera geschraubt. 
-Die Schraube kann dabei auf der Platte etwas nach vorn oder hinten geschoben werden, 
-um beispielsweise ein klappbares Display nicht mit zu fixieren.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Dual Plate an Kamera&quot; width=&quot;1000&quot; height=&quot;725&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Am Clip sind standardmäßig zwei Schrauben, die mit der Hand geöffnet und geschlossen werden können. 
-Alternativ können diese gegen die mitgelieferten Inbusschrauben getauscht werden, sodass sich der Clip ohne Werkzeug nicht entfernen lässt. 
-Wenn du ihn nur an einer Stelle nutzen willst, ergibt das beispielsweise als Diebstahlsicherung Sinn. 
-Zudem sind die Inbusschrauben etwas länger, sodass der Clip auch an dicker gepolsterten Schulterriemen passt. 
-Ich denke, ich werde mittelfristig die Inbusschrauben nutzen, für meine Tests aber erstmal die Handschrauben verwenden.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Clip am Rucksack&quot; width=&quot;1000&quot; height=&quot;517&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ich habe mich am Anfang schwergetan den Clip zu befestigen, da die Schultergurte meines Rucksacks ziemlich gut gepolstert sind 
-und die Handschrauben fast komplett herausgedreht werden mussten, damit ich den Clip einklemmen kann. 
-Mit etwas Drücken hat es dann aber funktioniert und sobald die Schrauben eingedreht sind, bewegt sich der Clip nicht mehr vom Fleck.&lt;/p&gt;
-
-&lt;p&gt;Die Kamera lässt sich anschließend einfach in den Clip gleiten und rastet ein, sobald die Platte komplett eingeschoben ist. 
-Solltest du den Clip vertikal nutzen wollen, ist das besonders wichtig. Bei der horizontalen Nutzung, wie beim Rucksack, 
-rutscht die Kamera zwar nicht so leicht heraus, bei Sprüngen etc. kann das aber durchaus vorkommen, 
-sodass die Verschlussautomatik auch hier seinen Sinn hat. Der Verschluss lässt sich mit einem Metallknopf an der Seite, 
-der während der Kameraentnahme gedrückt gehalten werden muss, lösen. 
-In meinen Augen ist das sehr intuitiv und bekommt man mit etwas Übung sogar einhändig hin.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Capture im Einsatz&quot; width=&quot;1000&quot; height=&quot;675&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Der Metallknopf lässt sich außerdem drehen, wodurch der Verschluss verriegelt wird und der Knopf nicht mehr eingedrückt werden kann. 
-Das bietet nochmal mehr Schutz vor einem unbeabsichtigten Herausrutschen der Kamera bzw. Drücken des Knopfes.&lt;/p&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-
-&lt;p&gt;Der Clip kostet je nach Variante etwa 45 Euro (Nur Clip), 65 Euro (Clip mit Standardplatte) 
-oder 75 Euro (Clip mit Dual Plate) und ist damit sicherlich nicht günstig. 
-Die Verarbeitung und Qualität sind jedoch top und ich denke daher, dass es angemessen ist. 
-Sicherlich findet man die ein oder andere, billigere Kopie von dem Produkt im Internet. 
-Persönlich habe ich aber darin weniger Vertrauen und das ist für mich wichtig, 
-besonders wenn ein Produktfehler dafür verantwortlich sein kann, dass die Kameraausrüstung herunterfällt. 
-Schließlich sprechen wir da von mehreren Hunderten oder Tausenden Euros.&lt;/p&gt;
-
-&lt;p&gt;Bisher habe ich den Clip lediglich bei kleineren Wanderungen eingesetzt, 
-dort hat er auf mich aber einen sehr guten und nützlichen Eindruck gemacht. 
-Zugegeben, zu Beginn war es ungewohnt, die Kamera am Schultergurt zu tragen, 
-auch weil die einseitige Belastung die Trageposition des Rucksacks negativ beeinflusst 
-und ich mit der Position des Clips sowie den Gurt-Einstellungen spielen musste. 
-Als ich dann aber eine gute Einstellung gefunden, die Kamera verstaut und die Hände dadurch freihatte, 
-war ich zufrieden und es war in etwas so wie ich es mir vorgestellt hatte.&lt;/p&gt;
-
-&lt;p&gt;Ein wirkliches Fazit in Sachen Komfort und Nutzen kann ich zwar erst nach ein paar längeren Reisen und Wanderungen ziehen, 
-bin jedoch sehr positiv gestimmt, dass er meine Erwartungen erfüllt.&lt;/p&gt;
-
-&lt;p&gt;Lass mich gern wissen, wenn du auch den Clip nutzt und welche Erfahrungen du damit gemacht hast.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Auf Tagestouren oder Wanderungen will ich die Kamera meistens schnell zur Hand haben, damit ich vor dem Fotografieren nicht erst ewig im Rucksack kramen muss und mir so kein Bild entgeht. Bisher habe ich dafür einen Kameragurt verwendet, den ich über die Schulter trage. Ein Nachteil, der mich unterwegs immer wieder gestört hat, ist das die Kamera bei Bewegungen am Gurt hin und her baumelt und gegen meinen Körper schlägt, was ziemlich nervig und bestimmt nicht so gut für die Kamera sein kann. Aus dem Grund habe ich mir angewöhnt meist eine Hand an der Kamera zu haben, was auf Dauer nicht sehr bequem ist.</summary></entry></feed>
+&lt;p&gt;Alles in allem bekommt der Peak Design Slide Lite von mir einen Daumen hoch und ich kann insgesamt Kameragurte nur jedem Fotografen empfehlen!&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. Mein bisheriger Kameragurt ist prinzipiell noch gut in Schuss und könnte ich weiterverwenden, wirkt aber an der kleineren Kamera ziemlich überproportioniert. Zudem wird der am ¼-Zoll-Gewinde befestigt, weswegen ich mir nicht sicher bin, ob er mit dem Peak Design Capture v3 zusammenpasst. Aus dem Grund habe ich mich auf der Suche nach einem neuen, etwas kleineren Gurt begeben.</summary></entry></feed>
