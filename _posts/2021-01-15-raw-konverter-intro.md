@@ -79,13 +79,16 @@ Insgesamt haben 166 Personen an der Umfrage teilgenommen und das Ergebnis sah fo
 Zufälligerweise haben sich die Programme auf den ersten 5 Plätzen mit meiner eigenen Recherche überschnitten, sodass diese auf meiner Testliste gelandet sind. 
 Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen kostenlosen Optionen ist.
 
-Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen...
+Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlossen habe, in den nächsten Blogbeiträgen:
 
 1. [Bisherige Programme weiternutzen mit dem Adobe DNG Konverter][4]
 2. [Darktable, die kostenlose Variante][5]
+3. [Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz][6]
+4. weitere Artikel folgen.
 
 [1]: {% post_url 2021-01-03-raw-oder-jpeg %}
 [2]: {% post_url 2020-10-03-sony-a6400 %}
 [3]: {% post_url 2020-04-05-workflow-fotos %}
 [4]: {% post_url 2021-01-20-adobe-dng-converter %}
 [5]: {% post_url 2021-01-27-darktable %}
+[6]: {% post_url 2021-01-30-skylum-luminar %}
