@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-01-30T13:43:22+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Skylum Luminar, RAW-Konvertierung mit KI</title><link href="https://gamue.de/skylum-luminar-bilbearbeitung-mit-ki/" rel="alternate" type="text/html" title="Skylum Luminar, RAW-Konvertierung mit KI" /><published>2021-01-30T00:00:00+01:00</published><updated>2021-01-30T00:00:00+01:00</updated><id>https://gamue.de/skylum-luminar</id><content type="html" xml:base="https://gamue.de/skylum-luminar-bilbearbeitung-mit-ki/">&lt;p&gt;&lt;a href=&quot;https://skylum.com/de/&quot;&gt;Luminar von Skylum&lt;/a&gt; ist der Neuling unter den RAW-Konvertern und hat besonders durch die Verwendung von Künstlicher Intelligenz von sich Reden gemacht. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-05T21:23:13+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">ACDSee Photo Studio, Bildverwaltung und RAW-Konverter</title><link href="https://gamue.de/acdsee-photo-studio-bildverwaltung-und-raw-konverter/" rel="alternate" type="text/html" title="ACDSee Photo Studio, Bildverwaltung und RAW-Konverter" /><published>2021-02-05T00:00:00+01:00</published><updated>2021-02-05T00:00:00+01:00</updated><id>https://gamue.de/acdsee-photo-studio</id><content type="html" xml:base="https://gamue.de/acdsee-photo-studio-bildverwaltung-und-raw-konverter/">&lt;p&gt;Im Gegensatz zu den anderen Programmen in meinem Test ist der Fokus von &lt;a href=&quot;https://www.acdsee.com/de/products/photo-studio-ultimate/&quot;&gt;ACDSee Photo Studio&lt;/a&gt; die Bildbetrachtung und -organisation. 
+Die Funktionalität des RAW-Konverters ist somit eher ein Zusatz und eigentlich nicht der Kernfokus der Produktreihe. 
+Ich hab mir das Programm trotzdem in Detail angeschaut und meine Erfahrung und Meinung darüber, findest du in diesem Artikel.&lt;/p&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Ethik-Hinweis&lt;/strong&gt;: Ich habe das Programm aus Eigeninteresse getestet und die nachfolgenden Punkte entsprechen meiner eigenen Meinung und Erfahrung.
+Ich habe keine Geschäftsbeziehung zum Hersteller, noch habe ich irgendeine Gegenleistung bekommen.&lt;/p&gt;
+
+&lt;h1 id=&quot;versionen-und-preise&quot;&gt;Versionen und Preise&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.acdsee.com/de/products/photo-studio-ultimate/&quot;&gt;ACDSee Photo Studio&lt;/a&gt; gibt es in den Versionen Home, Professional und Ultimate, wobei nur die beiden oberen Varianten RAWs entwickeln können und daher für mich interessant sind. 
+Die Ultimate-Version verfügt außerdem über die Möglichkeit mit Ebenen zu arbeiten, was gerade bei der Bearbeitung hilfreich ist. 
+Einen detaillierten Vergleich zwischen den Versionen findest du &lt;a href=&quot;https://www.acdsee.com/de/product-comparison/&quot;&gt;auf der Hersteller-Seite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Das Programm kann entweder gekauft oder gemietet werden. Beim Kauf besitzt du die Version, 
+erhältst danach kostenlos kleinere Updates (z.B. kleinere Funktionsverbesserungen oder Sicherheitsupdates), 
+aber falls eine neue “große” Version von ACDSee Studio erscheint, die du haben möchtest, musst du kostenpflichtig upgraden bzw. die neue Version nochmal kaufen. 
+Bei der Mietvariante zahlst du monatlich einen Betrag und hast immer die aktuellste Version des Programmes.&lt;/p&gt;
+
+&lt;p&gt;Was sich für dich mehr lohnt, musst du selbst entscheiden. 
+Ich bin persönlich eher ein Freund davon Software zu kaufen und danach zu besitzen, denn zum einen ist das oft günstiger, 
+zumindest wenn du nicht jedes Jahr neu kaufst, und zum anderen kannst du dann selbst entscheiden, ob die Neuerungen das Geld wert sind. 
+Da Fotografie für mich ein Hobby ist, nutze ich die Software recht unregelmäßig und monatlich für etwas zu bezahlen, dass ich nicht benutze, finde ich nicht so gut ;)&lt;/p&gt;
+
+&lt;p&gt;Nun aber zu den konkreten Preisen: Die &lt;strong&gt;Professional-Variante kostet einmalig 91,95€, die Ultimate-Version 125,95€&lt;/strong&gt;. 
+Wobei auf der Homepage beide Zahlen mit erheblichem Rabatt markiert sind, was aber jedes Mal der Fall war, als ich nachgeschaut habe, 
+sodass ich davon ausgehe, dass das einfach nur Marketing ist und es sich um die “normalen Preise” handelt.&lt;/p&gt;
+
+&lt;p&gt;Das Abomodell hört auf den Namen &lt;a href=&quot;https://www.365.acdsee.com/de/index&quot;&gt;ACDSee 365&lt;/a&gt; und beinhaltet neben ACDSee Photo Studio noch andere Programme des Herstellers sowie Cloud-Speicherplatz. 
+Hier gibt es keine unterschiedlichen Varianten und es handelt sich immer um die Ultimate-Version. 
+Die Kosten für das Abo belaufen sich auf &lt;strong&gt;monatlich 9,90€ bzw. 97€ bei jährlicher Zahlung&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;erster-eindruck&quot;&gt;Erster Eindruck&lt;/h1&gt;
+&lt;p&gt;Nach der Installation von ACDSee Photo Studio Ultimate 2021 musste ich erst einmal ein Benutzerkonto erstellen und das Programm wollte die Standard-Bildbetrachtungssoftware werden, 
+was auch ein Hinweis darauf ist, dass es sich in erster Linie als Bildbetrachtungs- und Verwaltungssoftware versteht.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildverwaltung in ACDSee&quot; width=&quot;1500&quot; height=&quot;951&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Im Vergleich zu den anderen Programmen müssen beim ACDSee Photo Studio keine Bilder importiert werden, 
+sondern es funktioniert wie ein Dateiexplorer und du navigierst einfach durch die Verzeichnisse auf der Festplatte. 
+Im Hintergrund baut die Anwendung trotzdem eine Datenbank auf, um Dateien schneller finden und filtern zu können.&lt;/p&gt;
+
+&lt;p&gt;Die Bildverwaltung funktioniert problemlos, denn alle Testbilder, inklusive der &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;psd&lt;/code&gt;-Datei, sowie die Farbmarkierungen und Bewertungen werden korrekt angezeigt. 
+Im Gegensatz zu den anderen Programmen wird die Bewertung über einen Zahlenwert angegeben, was ich persönlich schlechter lesbar finde als Sterne.&lt;/p&gt;
+
+&lt;p&gt;Meine bisherigen Bearbeitungsinformationen aus Adobe Camera Raw wurden leider nicht übernommen, aber das ist bei den anderen Programmen ebenfalls so.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildbetrachter in ACDSee&quot; width=&quot;1500&quot; height=&quot;951&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neben der Verwaltungsansicht gibt es noch einen Bildbetrachter, bei dem ein Bild deutlich größer angezeigt wird. 
+Leider gehen hier die Bewertungen und Farblabels unter, sodass ich es schwierig finde diese Ansicht für die initiale Sichtung der Bilder einer Fotosession zu nutzen.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-entwickeln&quot;&gt;RAW entwickeln&lt;/h1&gt;
+&lt;p&gt;Die Bearbeitungsansicht von ACDSee bietet viele Möglichkeiten und der RAW-Konverter kommt mir auf den ersten Blick definitiv nicht wie ein Zusatzfeature zur Bildverwaltung vor. 
+Die Optionen sind gut strukturiert und lassen sich einzeln aktivieren bzw. deaktivieren. 
+Auch lässt sich über einen blauen Punkt einfach sehen, in welcher Einstellung Änderungen vorgenommen worden sind.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg 320w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg 490w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg 660w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg 830w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildverwaltung in ACDSee&quot; width=&quot;1500&quot; height=&quot;951&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Bild mit angewandten Voreinstellungen, zugegeben etwas wild, aber auch nur ein Beispiel ;)&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Was mir nicht so gefallen hat, ist das es bei Voreinstellungen (Presets/Vorlagen) keine einfache Vorschau gibt, 
+sondern ich diese erst anwenden musste um zu sehen, was sie bewirken. Gerade wenn diese kryptische Namen wie “New York” haben, ist das ein Problem. 
+Hier spielt auch mit rein, dass mehrere Vorlagen auf ein Bild angewandt werden können, was aus meiner Sicht schnell zu einem Durcheinander führt. 
+Sollte dir eine Voreinstellung nicht gefallen, so musst du diese über den Verlauf wieder rückgängig machen und erst danach kannst du die nächste Voreinstellung ausprobieren.&lt;/p&gt;
+
+&lt;p&gt;Die weitere RAW-Entwicklung ging recht problemlos und vergleichbar mit den anderen Konvertern. 
+Die Begriffe waren für mich in den meisten Fällen selbsterklärend, wobei es auch ein paar gab, die ich nicht sofort verstanden habe. 
+So hätte ich die Objektivkorrektur und Ausrichtung nie mit der Überschrift “Geometrie” in Verbindung gebracht. 
+Aber gut, jedes Programm ist anders und daran wird man sich schnell gewöhnen können.&lt;/p&gt;
+
+&lt;p&gt;Negativ ist mir jedoch aufgefallen, dass ein falsches Objektivprofil für die Verzerrungskorrektur verwendet wurde, obwohl der richtige Objektivnamen in den EXIF-Daten vorhanden ist. 
+Auch musste mein Computer wieder sehr viel rechnen, sodass es zu einigen Wartezeiten kam, zwar nicht so extrem wie bei &lt;a href=&quot;/skylum-luminar-bilbearbeitung-mit-ki/&quot;&gt;Skylum Luminar&lt;/a&gt;, aber eben nicht optimal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;RAW-Entwicklung mit ACDSee Photo Studio&quot; width=&quot;1500&quot; height=&quot;951&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Darstellung der Optionen hat für mich immer Sinn gemacht, besonders das Farbenrad um genauer zu wählen welcher Farbton verändert werden soll, fand ich gelungen. 
+Über die Verlaufsliste war es zudem sehr einfach zu einem früheren Bearbeitungsschritt zurückzuspringen oder einen Vorher-Nachher-Vergleich anzuschauen.&lt;/p&gt;
+
+&lt;p&gt;Was ich nicht verstanden habe, ist dass ich nach dem Export das JPG sowohl im gleichen Verzeichnis wie die RAW-Datei, als auch in einem neuen Unterverzeichnis gefunden habe. 
+Vermutlich habe ich hier eine Einstellung übersehen, aber das hat mich doch schon sehr gewundert.&lt;/p&gt;
+
+&lt;h1 id=&quot;bildmanipulation&quot;&gt;Bildmanipulation&lt;/h1&gt;
+&lt;p&gt;ACDSee ist in der Lage Bildmanipulationen durchzuführen, wie &lt;a href=&quot;/skylum-luminar-bilbearbeitung-mit-ki/&quot;&gt;beim Test von Luminar&lt;/a&gt;, habe ich versucht den Kran auf dem vorherigen Bild zu entfernen, was dir eventuell schon aufgefallen ist ;)&lt;/p&gt;
+
+&lt;p&gt;Das Ergebnis fand ich persönlich nicht ganz so gut, vermutlich wäre es mit etwas Übung sauberer gewesen, 
+aber bei gleicher Durchführung wie bei Luminar hatte ich etliche schwarze Flecken. 
+Ich muss aber auch sagen, dass der Kran recht groß ist und so etwas dann doch lieber mit einem richtigen Bildbearbeitungstool gemacht werden sollte, 
+für kleinere Sachen wie herumliegender Müll oder Hautunreinheiten, sollte die Funktion ausreichen.&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;Ich muss sagen, ich bin positiv vom ACDSee Photo Studio angetan. Hatte ich zu Beginn die Meinung, 
+dass es “nur” eine Bildverwaltung mit einigen RAW-Konvertierungsmöglichkeiten ist, hat sich das gewandelt, denn die Optionen sind weitreichend und durchdacht.&lt;/p&gt;
+
+&lt;p&gt;Ich finde es zudem gut, dass der Hersteller neben einer &lt;a href=&quot;https://www.acdsee.com/de/free-trials/&quot;&gt;30-tägigen Testversion&lt;/a&gt;, 
+auch eine 30-Tage-Geld-Zurück-Garantie anbietet, sodass sich jeder einen risikofreien Eindruck von der Software machen kann. 
+Dazu will ich auch sagen, dass sich der Kundensupport nach ein paar Tagen bei mir gemeldet hat und nachfragte, 
+ob alles gut ist oder ob ich Unterstützung bei etwas benötige. Der Service scheint bei ACDSee also sehr gut zu sein.&lt;/p&gt;
+
+&lt;p&gt;Die Bearbeitung eines Bildes ging recht flott und die gemachten Änderungen liesen sich einfach auf andere Bilder übertragen. 
+Beim Export ist mir jedoch aufgefallen, dass die Bilder nicht ganz so scharf wie z.B. bei Skylum Luminar waren. 
+Ich gehe zwar davon aus, dass es einfach eine andere Voreinstellung beim Schärfewert in den Programmen ist und sich das daher leicht über die Bearbeitung lösen lässt, aber möchte es trotzdem erwähnen.&lt;/p&gt;
+
+&lt;p&gt;Die Bildverwaltung finde ich gelungen, aber das hatte ich auch erwartet, denn es ist schließlich der Hauptfokus des Produkts.&lt;/p&gt;
+
+&lt;p&gt;Den Preis der Kaufversion finde ich in Ordnung, beim Abo würde ich mir wünschen, dass es auch eine Variante ohne die anderen Programme und den Cloud-Speicher gibt, die dann entsprechend günstiger wäre.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Im Gegensatz zu den anderen Programmen in meinem Test ist der Fokus von ACDSee Photo Studio die Bildbetrachtung und -organisation. Die Funktionalität des RAW-Konverters ist somit eher ein Zusatz und eigentlich nicht der Kernfokus der Produktreihe. Ich hab mir das Programm trotzdem in Detail angeschaut und meine Erfahrung und Meinung darüber, findest du in diesem Artikel.</summary></entry><entry><title type="html">Skylum Luminar, RAW-Konvertierung mit KI</title><link href="https://gamue.de/skylum-luminar-bilbearbeitung-mit-ki/" rel="alternate" type="text/html" title="Skylum Luminar, RAW-Konvertierung mit KI" /><published>2021-01-30T00:00:00+01:00</published><updated>2021-01-30T00:00:00+01:00</updated><id>https://gamue.de/skylum-luminar</id><content type="html" xml:base="https://gamue.de/skylum-luminar-bilbearbeitung-mit-ki/">&lt;p&gt;&lt;a href=&quot;https://skylum.com/de/&quot;&gt;Luminar von Skylum&lt;/a&gt; ist der Neuling unter den RAW-Konvertern und hat besonders durch die Verwendung von Künstlicher Intelligenz von sich Reden gemacht. 
 Mit wenigen Klicks lassen sich damit Bildbearbeitungen vornehmen, die zuvor zeitintensiv gewesen wären, 
 wie beispielsweise der Austausch des kompletten Himmels und das in einer sehr guten Qualität.&lt;/p&gt;
 
@@ -355,6 +464,7 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
   &lt;li&gt;&lt;a href=&quot;/adobe-dng-konverter/&quot;&gt;Bisherige Programme weiternutzen mit dem Adobe DNG Konverter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/darktable-der-kostenlose-raw-konverter/&quot;&gt;Darktable, die kostenlose Variante&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/skylum-luminar-bilbearbeitung-mit-ki/&quot;&gt;Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/acdsee-photo-studio-bildverwaltung-und-raw-konverter/&quot;&gt;ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;weitere Artikel folgen.&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
@@ -909,105 +1019,4 @@ nehme ich im Normalfall immer auf Reisen mit. Solltest du eine größere Kamera 
 Alternativ gibt es mit dem BYOB 7 und dem BYOB 13 natürlich auch noch eine kleinere und größere Ausführung, 
 solltest du doch viel mehr oder eben nur die Kamera transportieren wollen.&lt;/p&gt;
 
-&lt;p&gt;Ich hoffe, der Artikel war hilfreich und lass mich gerne wissen, wie du deine Ausrüstung transportierst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. Gerade wenn ich nur mit Handgepäck reise, ist Platz ein kostbares Gut.</summary></entry><entry><title type="html">Review: Peak Design Slide Lite</title><link href="https://gamue.de/review-peak-design-slide-lite/" rel="alternate" type="text/html" title="Review: Peak Design Slide Lite" /><published>2020-11-07T00:00:00+01:00</published><updated>2020-11-07T00:00:00+01:00</updated><id>https://gamue.de/peak-design-slide-lite</id><content type="html" xml:base="https://gamue.de/review-peak-design-slide-lite/">&lt;p&gt;Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. 
-Mein bisheriger Kameragurt ist prinzipiell noch gut in Schuss und könnte ich weiterverwenden, 
-wirkt aber an der kleineren Kamera ziemlich überproportioniert. Zudem wird der am ¼-Zoll-Gewinde befestigt, 
-weswegen ich mir nicht sicher bin, ob er mit dem &lt;a href=&quot;/review-peak-design-capture-v3/&quot;&gt;Peak Design Capture v3&lt;/a&gt; zusammenpasst. 
-Aus dem Grund habe ich mich auf der Suche nach einem neuen, etwas kleineren Gurt begeben.&lt;/p&gt;
-
-&lt;p&gt;Dabei bin ich immer wieder auf die Gurte von Peak Design gestoßen. 
-Deren Möglichkeit den Gurt einfach und schnell zu entfernen fand ich sehr interessant, 
-sodass ich mir dann den &lt;strong&gt;Peak Design Slide Lite&lt;/strong&gt; bestellt habe.&lt;/p&gt;
-
-&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Das Produkt habe ich selbst gekauft und stehe in keiner Geschäftsbeziehung zum Hersteller. 
-Ich habe für diesen Post keine Gegenleistung bekommen, noch bin ich in irgendeiner Art verpflichtet etwas zu schreiben, das nicht meiner eigenen Meinung entspricht.&lt;/p&gt;
-
-&lt;h1 id=&quot;varianten-und-lieferumfang&quot;&gt;Varianten und Lieferumfang&lt;/h1&gt;
-
-&lt;p&gt;Der Slide Lite ist die “mittlere Größe” der Gurte von Peak Design und für Spiegellose Systemkameras oder kleinere DSLRs gedacht. 
-Die größere Variante hört auf den Namen Slide und die kleinere auf Leash. 
-Als Farbkombinationen gibt es jeweils schwarz oder grau, wobei ich mich für schwarz entschieden habe.&lt;/p&gt;
-
-&lt;p&gt;Folgendes befindet sich in der Packung:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Lieferumfang&quot; width=&quot;1500&quot; height=&quot;1125&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Peak Design Slide Lite Kameragurt&lt;/li&gt;
-  &lt;li&gt;4 Befestigungsanker&lt;/li&gt;
-  &lt;li&gt;Metallplatte zur Montage am ¼ Zoll-Gewinde&lt;/li&gt;
-  &lt;li&gt;Inbusschlüssel&lt;/li&gt;
-  &lt;li&gt;Aufbewahrungstasche in grau&lt;/li&gt;
-  &lt;li&gt;Sticker&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Die Länge des Gurts lässt sich mithilfe der beiden Metallbügel vollständig variabel zwischen 146 cm und 83 cm einstellen. 
-Wobei die Minimalgröße offiziell mit 99 cm angegeben ist, was zugegebenermaßen auch mehr Sinn macht, 
-denn der Gurt besitzt in der Mitte einen ca. 26 cm langen, gummierten Bereich, der sonst verloren gehen würde.&lt;/p&gt;
-
-&lt;p&gt;Die Breite des Gurtes beträgt 3,2 cm. Die Metallbügel sind in etwa 4,5 cm breit.&lt;/p&gt;
-
-&lt;p&gt;Das Nylongewebe erinnert an einen Autogurt und fühlt sich, aus meiner Sicht, weich und angenehm an, sodass längeres Tragen nicht stören sollte.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Gurt in Nahaufnahme&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Die Befestigungsanker sind prinzipiell kleine Plastikscheiben an einer Schlaufe, 
-wobei es sich dabei nicht um eine einfache Schnur handelt, sondern um eine spezielle Konstruktion, 
-die mehr als 90 kg aushalten soll, was ich jetzt aber nicht getestet habe und dem Hersteller glaube. 
-Mit Abnutzung der Schnur soll zudem zuerst eine gelbe Faserschicht und anschließend eine Rote erscheinen. Auch das lasse ich einmal unüberprüft ;)&lt;/p&gt;
-
-&lt;h1 id=&quot;anwendung&quot;&gt;Anwendung&lt;/h1&gt;
-
-&lt;p&gt;Die Befestigungsanker lassen sich rechts und links durch die Metallösen an der Kamera ziehen. 
-Zusätzlich besteht die Möglichkeit die mitgelieferte Metallplatte in dem ¼ Zoll-Gewinde der Kamera zu befestigen und dadurch eine weitere Halteposition zu haben. 
-Falls du, wie ich, dort schon eine Schnellwechselplatte von Peak Design montiert hast, 
-also die Standard- oder Dual-Plate, geht das auch problemlos, da an deren Ecken Aussparungen sind, durch die die Anker gefädelt werden können.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Anker an der Kamera&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Nachdem du die Anker angebracht hast, müssen nur noch die beiden Enden des Gurts eingeclipst werden und schon ist er einsatzbereit. 
-Welche Befestigungspunkte du an der Kamera verwendest, ist dabei prinzipiell Geschmackssache. 
-Wobei die beiden Seiten sich anbieten, wenn du die Kamera um den Hals oder über die Schulter tragen möchtest. 
-Für meine präferierte Trageposition, quer über den Körper, empfinde ich den Anker an der Platte und an einer Seite am Besten, 
-da die Kamera und das Objektiv so nah am Körper bleiben. 
-Meine Empfehlung dafür ist den Anker auf der “Nicht-Griff”-Seite zu nutzen und bei der Platte den Anker ebenfalls durch das Loch auf der Seite zu fädeln.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Gurt eingeclipst&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Über Ziehen an den Metallbügel lässt sich die Länge des Gurts anpassen, damit auch alles an seinem Platz sitzt. 
-Gerade wenn du den Gurt in verschiedenen Tragepositionen nutzen willst, ist das häufiger notwendig.&lt;/p&gt;
-
-&lt;p&gt;So einfach der Gurt an die Anker geclipst wird, wird er auch wieder entfernt, 
-denn dafür müssen die Anker nur etwas hineingedrückt und nach oben geschoben werden. 
-Gerade wenn du die Kamera zum Transport, beispielsweise in &lt;a href=&quot;/lens-aid-einschlagtuch/&quot;&gt;einem Einschlagtuch&lt;/a&gt;, 
-verstauen oder auf einem Stativ nutzen möchtest ist das sehr angenehm und geht flink vonstatten.&lt;/p&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-
-&lt;p&gt;Mit einem Preis von ca. 45 Euro ist der Gurt sicherlich bei den Premiumprodukten einzuordnen, 
-was man aber auch an der Qualität merkt, denn die Verarbeitung ist aus meiner Sicht hervorragend und das System sehr durchdacht. 
-Mein bisheriger Kameragurt, ein Blackrapid RS-4, war in einem ähnlichen Preissegment und auch andere Markenmodelle, 
-auf die ich bei meiner Recherche gestoßen bin, liegen preislich ähnlich.&lt;/p&gt;
-
-&lt;p&gt;Sicherlich bekommt man einen Kameragurt deutlich günstiger, aber wie schon beim Clip erwähnt, ist es mir wichtig, 
-mich auf die Tragesysteme verlassen zu können und nicht Angst zu haben, dass die teure Kameraausrüstung auf den Boden stürzt. 
-Von daher orientiere ich mich persönlich an den Topmodellen und gebe dann gern etwas mehr aus.&lt;/p&gt;
-
-&lt;p&gt;Wie auch den &lt;a href=&quot;/review-peak-design-capture-v3/&quot;&gt;Capture v3&lt;/a&gt;, konnte ich den Slide Lite aufgrund der aktuellen Lage leider noch nicht auf einer längeren Reise ausgiebig testen, 
-sodass ich ihn bisher nur auf kleineren Ausflügen verwendet habe. 
-Mein bisheriger Eindruck war dabei durchweg positiv und der Tragekomfort ist sogar angenehmer als beim Blackrapid, 
-da die Kamera durch die zwei Befestigungspunkte weniger hin und her schwingt. 
-Der Blackrapid hat im Vergleich nur einen Befestigungspunkt am ¼ Zoll-Gewinde.&lt;/p&gt;
-
-&lt;p&gt;Das Nylongewebe empfinde ich auf der Haut als recht angenehm. 
-Sommerliche Touren, bei dem der Slide Lite häufiger Hautkontakt hat, sollten somit kein Problem sein.&lt;/p&gt;
-
-&lt;p&gt;Ein Punkt, der mir etwas negativ aufgefallen ist und bei dem aufgepasst werden muss, ist das die Metallbügel ziemlich hervorstehen. 
-Kamera und Gurt einfach so in die Tasche zu werfen, kann daher zu unschönen Kratzern führen. 
-Im Normalfall verstaue ich beides aber getrennt voneinander, sodass es für mich nicht schlimm ist. 
-Nur eben etwas, auf dass ich achten muss, falls ich doch mal beides schnell “in die Tasche werfe”.&lt;/p&gt;
-
-&lt;p&gt;Den ein oder anderen könnte es auch nerven, dass die Anker klackern, wenn der Gurt nicht angebracht ist. 
-Gerade bei Videoaufnahmen kann das zu störenden Geräuschen führen, falls diese vom Wind oder durch Bewegung gegen das Kameragehäuse geschlagen werden.&lt;/p&gt;
-
-&lt;p&gt;Alles in allem bekommt der Peak Design Slide Lite von mir einen Daumen hoch und ich kann insgesamt Kameragurte nur jedem Fotografen empfehlen!&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Eine der besten Anschaffungen für meine alte Kamera war ein guter Kameragurt und daher darf sowas auch für die neue Kamera nicht fehlen. Mein bisheriger Kameragurt ist prinzipiell noch gut in Schuss und könnte ich weiterverwenden, wirkt aber an der kleineren Kamera ziemlich überproportioniert. Zudem wird der am ¼-Zoll-Gewinde befestigt, weswegen ich mir nicht sicher bin, ob er mit dem Peak Design Capture v3 zusammenpasst. Aus dem Grund habe ich mich auf der Suche nach einem neuen, etwas kleineren Gurt begeben.</summary></entry></feed>
+&lt;p&gt;Ich hoffe, der Artikel war hilfreich und lass mich gerne wissen, wie du deine Ausrüstung transportierst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. Gerade wenn ich nur mit Handgepäck reise, ist Platz ein kostbares Gut.</summary></entry></feed>
