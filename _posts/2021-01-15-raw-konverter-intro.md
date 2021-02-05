@@ -84,7 +84,8 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 1. [Bisherige Programme weiternutzen mit dem Adobe DNG Konverter][4]
 2. [Darktable, die kostenlose Variante][5]
 3. [Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz][6]
-4. weitere Artikel folgen.
+4. [ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter][7]
+5. weitere Artikel folgen.
 
 [1]: {% post_url 2021-01-03-raw-oder-jpeg %}
 [2]: {% post_url 2020-10-03-sony-a6400 %}
@@ -92,3 +93,4 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 [4]: {% post_url 2021-01-20-adobe-dng-converter %}
 [5]: {% post_url 2021-01-27-darktable %}
 [6]: {% post_url 2021-01-30-skylum-luminar %}
+[7]: {% post_url 2021-02-05-acdsee-photo-studio %}
