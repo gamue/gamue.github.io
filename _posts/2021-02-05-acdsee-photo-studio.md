@@ -1,5 +1,5 @@
 ---
-title: "ACDSee Photo Studio, Bildverwaltung und RAW-Konverter"
+title: "ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter"
 description: Der Fokus von ACDSee Photo Studio liegt auf der Bildverwaltung und -organisation, einige Versionen verfügen aber auch über einen RAW-Konverter. Was dieser kann und ob das gut genug ist, schau ich mir in diesem Artikel an.
 permalink: /acdsee-photo-studio-bildverwaltung-und-raw-konverter/
 header:
