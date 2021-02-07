@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-05T21:23:13+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">ACDSee Photo Studio, Bildverwaltung und RAW-Konverter</title><link href="https://gamue.de/acdsee-photo-studio-bildverwaltung-und-raw-konverter/" rel="alternate" type="text/html" title="ACDSee Photo Studio, Bildverwaltung und RAW-Konverter" /><published>2021-02-05T00:00:00+01:00</published><updated>2021-02-05T00:00:00+01:00</updated><id>https://gamue.de/acdsee-photo-studio</id><content type="html" xml:base="https://gamue.de/acdsee-photo-studio-bildverwaltung-und-raw-konverter/">&lt;p&gt;Im Gegensatz zu den anderen Programmen in meinem Test ist der Fokus von &lt;a href=&quot;https://www.acdsee.com/de/products/photo-studio-ultimate/&quot;&gt;ACDSee Photo Studio&lt;/a&gt; die Bildbetrachtung und -organisation. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-07T16:05:06+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Adobe Lightroom, der Platzhirsch unter den RAW-Konvertern</title><link href="https://gamue.de/adobe-lightroom-der-platzhirsch-der-raw-konverter/" rel="alternate" type="text/html" title="Adobe Lightroom, der Platzhirsch unter den RAW-Konvertern" /><published>2021-02-07T00:00:00+01:00</published><updated>2021-02-07T00:00:00+01:00</updated><id>https://gamue.de/adobe-lightroom</id><content type="html" xml:base="https://gamue.de/adobe-lightroom-der-platzhirsch-der-raw-konverter/">&lt;p&gt;Wenn du nach einem RAW-Konverter suchst, wirst du schnell auf &lt;a href=&quot;https://www.adobe.com/de/products/photoshop-lightroom.html&quot;&gt;Adobe Lightroom&lt;/a&gt; stoßen, denn das Programm wird von vielen, wenn nicht sogar den meisten Profi- und Hobbyfotografen eingesetzt. 
+Bei &lt;a href=&quot;/neuer-raw-konverter-gesucht/&quot;&gt;meiner Umfrage in der Fotografie-Facebook-Gruppe&lt;/a&gt; war Lightroom ebenfalls die Nummer 1 und damit die vermeintlich offensichtlichste Wahl für die Entwicklung von RAW-Dateien.&lt;/p&gt;
+
+&lt;p&gt;Weil Lightroom so verbreitet ist, wirst du dafür sehr viele Tipps &amp;amp; Tricks, Anleitungen oder auch kommerzielle Angebote, wie Presets (=Vorlagen oder auch Filter) finden. 
+Gerade wenn du viel auf Youtube oder Instagram unterwegs bist, hast du sicher schon auf den ein oder anderen Influencer gesehen, der dort seine Presets bewirbt.&lt;/p&gt;
+
+&lt;p&gt;Was &lt;a href=&quot;https://www.adobe.com/de/products/photoshop-lightroom.html&quot;&gt;Adobe Lightroom&lt;/a&gt; kann und wie es sich aus meiner Sicht im Vergleich zu den anderen Programmen schlägt, verrate ich dir in diesem Artikel.&lt;/p&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Ethik-Hinweis&lt;/strong&gt;: Ich habe das Programm aus Eigeninteresse getestet und die nachfolgenden Punkte entsprechen meiner eigenen Meinung und Erfahrung.
+Ich habe keine Geschäftsbeziehung zum Hersteller, noch habe ich irgendeine Gegenleistung bekommen.&lt;/p&gt;
+
+&lt;h1 id=&quot;varianten-und-preis&quot;&gt;Varianten und Preis&lt;/h1&gt;
+&lt;p&gt;Kommen wir zu Beginn gleich mal auf den am stärksten kritisierten Punkt zu sprechen: Adobe Lightroom gibt es nur als Mietversion, 
+sodass du monatlich dafür bezahlen musst, dafür natürlich aber auch laufend mit Updates und neuen Features versorgt wirst.&lt;/p&gt;
+
+&lt;p&gt;Bis 2017 gab es zwar eine Kaufversion, diese wurde aber eingestellt, da Adobe beschlossen hat seine Produkte nur noch im Abomodell anzubieten. 
+Neben Lightroom hat das auch viele andere Programme betroffen, die seit dem ausschließlich über die sogenannte Adobe Creative Cloud, kurz CC, bezogen werden können.&lt;/p&gt;
+
+&lt;p&gt;Beim Abo kannst du aktuell zwischen drei verschiedenen Varianten wählen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adobe Lightroom mit 1 TB Cloud-Speicher für &lt;strong&gt;monatlich 11,89€&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Adobe Lightroom, Adobe Photoshop und 20 GB Cloud-Speicher für &lt;strong&gt;monatlich 11,89€.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Adobe Lightroom, Adobe Photoshop und 1 TB Cloud-Speicher für &lt;strong&gt;monatlich 23,79€&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zusätzlich gibt es für alle Varianten &lt;strong&gt;Prepaid-Karten&lt;/strong&gt; zu kaufen, die öfter mal im Angebot sind und wodurch das Jahresabo dann entsprechend günstiger wird. 
+Beim Black Friday 2020 gab es beispielsweise die Jahresgebühr für die Kombination aus Lightroom, Photoshop und 20 GB Cloud-Speicher, was vermutlich die populärste Variante ist, für 90-100€.&lt;/p&gt;
+
+&lt;p&gt;Der Cloud-Speicher ist übrigens dafür da, um dort deine Bilder zu speichern, sodass diese von verschiedenen Geräten aufruf- und bearbeitbar sind. 
+Gerade, wenn du zwischen Computer und Tablet hin und her wechselst ist das nützlich. Hast du mehr Bilder als die 20 GB bzw. 1 TB, musst du entscheiden, welche Bilder dort liegen sollen. 
+Der Rest liegt dann ausschließlich auf dem Speicher deines Gerätes.&lt;/p&gt;
+
+&lt;p&gt;Es ist außerdem wichtig zu wissen, dass es zwei unterschiedliche Versionen von Lightroom gibt: Lightroom und Lightroom Classic. 
+Im Abo sind übrigens beide enthalten, du musst “nur” entscheiden welche Version du verwenden willst, 
+die Unterschiede findest du &lt;a href=&quot;https://www.adobe.com/de/products/photoshop-lightroom-classic/lightroom-cc-vs-lightroom-classic.html&quot;&gt;auf der Herstellerseite&lt;/a&gt;. 
+Meine Zusammenfassung der Unterschiede lautet, dass Lightroom dafür da ist auf mehreren unterschiedlichen Geräten (z.B. Computer, Tablet, Smartphone) zu arbeiten 
+und die Daten in der Cloud speichert, Lightroom Classic hingegen ist nur für den Desktop-Computer ausgelegt, besitzt dafür aber mehr Funktionen.&lt;/p&gt;
+
+&lt;p&gt;Weil ich meine Bilder nur auf dem Desktop-Computer bearbeite, habe ich mir für diesen Artikel Adobe Lightroom Classic angeschaut. 
+Also, auch wenn ich im nachfolgenden Teil, der Einfachheit wegen, nur “Lightroom” schreibe, meine ich in Wirklichkeit “Lightroom Classic”.&lt;/p&gt;
+
+&lt;h1 id=&quot;erster-eindruck&quot;&gt;Erster Eindruck&lt;/h1&gt;
+&lt;p&gt;Adobe Lightroom lässt sich &lt;a href=&quot;https://www.adobe.com/de/products/photoshop-lightroom/free-trial-download.html&quot;&gt;7 Tage kostenlos testen&lt;/a&gt;, aber Achtung, denn wenn du nicht kündigst, landest du direkt im Abo! 
+Abgesehen davon gibt es bei der Installation nur zu beachten, ob du Lightroom oder Lightroom Classic installieren willst.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildverwaltung in Lightroom&quot; width=&quot;1500&quot; height=&quot;823&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Oberfläche von Lightroom ist für mich sehr vertraut, zum einen habe ich ja selbst jahrelang mit Adobe-Produkten gearbeitet 
+und zum anderen ist es jetzt der Dritte RAW-Konverter, den ich mir innerhalb von kurzer Zeit im Detail anschaue ;)&lt;/p&gt;
+
+&lt;p&gt;Beim Import der Bilder wurden die Bewertungen und auch die Bearbeitungsinformationen aus meinem alten “Adobe Camera RAW”-Programm korrekt importiert. 
+Das die Bearbeitungen erhalten bleiben ist sicherlich ein großer Plus-Punkt für Lightroom und liegt daran, dass beide Programme von Adobe kommen. 
+Alle anderen RAW-Konverter in meinem Test haben nur die Bewertungen und andere Meta-Daten importiert, nicht aber die Bildbearbeitungen.&lt;/p&gt;
+
+&lt;p&gt;Im Gegensatz zu den anderen Programmen haben jedoch die Farblabels an den Bildern gefehlt. 
+Hier habe ich nicht weiter recherchiert, gehe jedoch davon aus, dass sich das Problem recht einfach lösen lässt. 
+Eventuell müsste ich die Bezeichnung der Labels noch anpassen, bevor ich die Bilder importiere, denn leider gibt es für diese keinen einheitlichen Standard.&lt;/p&gt;
+
+&lt;p&gt;Die Bildverwaltung bzw. -übersicht lässt sich einfach anpassen und auch eine Filmstreifen-Ansicht zur schnellen Beurteilung von Bildern ist vorhanden.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-entwicklung&quot;&gt;RAW-Entwicklung&lt;/h1&gt;
+&lt;p&gt;Die Entwicklung eines RAW-Bildes ist sehr geradlinig. Wie Eingangs erwähnt gibt es eine Vielzahl von Vorlagen (Presets) für Lightroom, mit denen der Look des Bildes schnell angepasst werden kann. 
+Die Vorschau dazu wird recht flüssig angezeigt und so fand ich es ziemlich einfach zu wählen, ob denn eine solche Voreinstellung angewandt werden soll oder eben nicht.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;RAW-Entwicklung in Lightroom&quot; width=&quot;1500&quot; height=&quot;823&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Auf der rechten Seite befinden sich dann alle Entwicklungsoptionen, die mir auch schon aus Camera RAW und den anderen Programmen bekannt sind. 
+Natürlich gibt es bei der Bezeichnung und Funktionsweise immer einige Unterschiede, grundsätzlich habe ich mich aber schnell zurechtgefunden und fand alles einfach zu bedienen.&lt;/p&gt;
+
+&lt;p&gt;Das Ergebnis einer Bearbeitungs-Aktion wird schnell angezeigt, die einzelnen Blöcke lassen sich an- und ausschalten oder einzelne Schritte rückgängig machen. 
+Persönlich habe ich daher keine Funktion vermisst, jedoch musste mein Mauszeiger häufig zwischen den Einstellungen hin und her springen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Vorher-Nachher-Ansicht&quot; width=&quot;1500&quot; height=&quot;823&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Was mir sehr gefällt, ist die Möglichkeit sich eine Vorher-Nachher-Ansicht anzeigen zu lassen, sodass das Ergebnis der RAW-Entwicklung deutlich sichtbar wird.&lt;/p&gt;
+
+&lt;h1 id=&quot;bildmanipulation&quot;&gt;Bildmanipulation&lt;/h1&gt;
+&lt;p&gt;Kleinere Bildmanipulationen, wie das Entfernen von Hautunreinheiten oder kleinen, störenden Gegenständen lassen sich einfach in Lightroom umsetzen. 
+Wenn es um größere Anpassungen bzw. Bildbereiche geht, wie beispielsweise die Entfernung des Krans auf dem oberen Bild, solltest du zu Adobe Photoshop wechseln, das ja ebenfalls im Abo enthalten ist.&lt;/p&gt;
+
+&lt;p&gt;Was die Bildbearbeitung und -manipulation angeht, hast du mit dem Abo von Adobe in jedem Fall sehr viele Möglichkeiten. 
+Ich würde sogar sagen, das sind die einzigen beiden Programme, die du für eine ganzheitliche Bildbearbeitung benötigst.&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;Wenig überraschend ist Adobe Lightroom ein exzellentes Programm für die RAW-Entwicklung und zusammen mit Photoshop bleiben keine Wünsche offen. 
+Natürlich mit der Ausnahme, das es beides nur im Abo gibt.&lt;/p&gt;
+
+&lt;p&gt;Ein großes Plus ist für mich, dass die Bearbeitungsinformationen meiner bisherigen Bilder aus Adobe Bridge &amp;amp; Camera RAW übernommen werden können, 
+sodass ich diese problemlos in der Lightroom nochmal anpassen könnte, wenn ich mir diese nochmal vornehmen möchte.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wenn du nach einem RAW-Konverter suchst, wirst du schnell auf Adobe Lightroom stoßen, denn das Programm wird von vielen, wenn nicht sogar den meisten Profi- und Hobbyfotografen eingesetzt. Bei meiner Umfrage in der Fotografie-Facebook-Gruppe war Lightroom ebenfalls die Nummer 1 und damit die vermeintlich offensichtlichste Wahl für die Entwicklung von RAW-Dateien.</summary></entry><entry><title type="html">ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter</title><link href="https://gamue.de/acdsee-photo-studio-bildverwaltung-und-raw-konverter/" rel="alternate" type="text/html" title="ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter" /><published>2021-02-05T00:00:00+01:00</published><updated>2021-02-05T00:00:00+01:00</updated><id>https://gamue.de/acdsee-photo-studio</id><content type="html" xml:base="https://gamue.de/acdsee-photo-studio-bildverwaltung-und-raw-konverter/">&lt;p&gt;Im Gegensatz zu den anderen Programmen in meinem Test ist der Fokus von &lt;a href=&quot;https://www.acdsee.com/de/products/photo-studio-ultimate/&quot;&gt;ACDSee Photo Studio&lt;/a&gt; die Bildbetrachtung und -organisation. 
 Die Funktionalität des RAW-Konverters ist somit eher ein Zusatz und eigentlich nicht der Kernfokus der Produktreihe. 
 Ich hab mir das Programm trotzdem in Detail angeschaut und meine Erfahrung und Meinung darüber, findest du in diesem Artikel.&lt;/p&gt;
 
@@ -465,6 +554,7 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
   &lt;li&gt;&lt;a href=&quot;/darktable-der-kostenlose-raw-konverter/&quot;&gt;Darktable, die kostenlose Variante&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/skylum-luminar-bilbearbeitung-mit-ki/&quot;&gt;Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/acdsee-photo-studio-bildverwaltung-und-raw-konverter/&quot;&gt;ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/adobe-lightroom-der-platzhirsch-der-raw-konverter/&quot;&gt;Adobe Lightroom, der Marktführer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;weitere Artikel folgen.&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Technik" /><category term="Tools" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
@@ -865,158 +955,4 @@ wäre daher vermutlich ein neuer Anlauf wert, aber schauen wir mal, welche Prior
 
 &lt;p&gt;Ansonsten stehen noch weitere Designänderungen an, bei der TailwindCSS-Migration habe ich mich recht nah am vorherigen Stand orientiert, 
 habe aber schon die ein oder andere Stelle im Auge, die ich noch etwas ändern möchte. 
-Aber wie gesagt, eigentlich wollte ich erst viele andere Dinge fertig machen, bevor ich mich an die ganzen Änderungen gesetzt habe :D&lt;/p&gt;</content><author><name></name></author><category term="Technik" /><category term="Homepage" /><summary type="html">In den letzten Wochen und Monaten habe ich mal wieder an der Technik der Homepage geschraubt. Wie es meistens so ist, ist das meiste davon nicht sichtbar und man könnte darüber diskutieren, ob es notwendig war, aber ich habe wieder etliches gelernt und das ist mit ein Grund warum ich das mache ;)</summary></entry><entry><title type="html">Review: Tenba Tools BYOB 9 und 10</title><link href="https://gamue.de/review-tenba-tools-byob-9-und-10/" rel="alternate" type="text/html" title="Review: Tenba Tools BYOB 9 und 10" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://gamue.de/tenba-tools-byob</id><content type="html" xml:base="https://gamue.de/review-tenba-tools-byob-9-und-10/">&lt;p&gt;Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, 
-wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. 
-Gerade wenn ich nur mit Handgepäck reise, ist Platz ein kostbares Gut.&lt;/p&gt;
-
-&lt;p&gt;Eine extra Fototasche war mir nach ein paar Trips zu umständlich und zu groß, 
-im Verhältnis zu der Fotoausrüstung die ich mitgenommen hatte. 
-Ein paar Male hatte ich die Kamera auch einfach in ein Handtuch oder Kleidung eingewickelt, was rückblickend sicherlich nicht das sicherste war :D&lt;/p&gt;
-
-&lt;p&gt;Anfang letzten Jahres, als ich meine Ausrüstung um ein weiteres Objektiv vergrößerte, 
-habe ich mich nochmal etwas genauer mit dem Thema beschäftigt und mir ein Tenba Tools BYOB 10 Tascheneinsatz zugelegt. 
-BYOB steht für “&lt;strong&gt;B&lt;/strong&gt;ring &lt;strong&gt;Y&lt;/strong&gt;our &lt;strong&gt;O&lt;/strong&gt;wn &lt;strong&gt;B&lt;/strong&gt;ag” und passt für mich optimal, denn je nach Art und Länge der Reise habe ich nicht “das eine” Gepäckstück, 
-sondern wechsle zwischen Trolley und Rucksäcken in diversesten Größen. 
-Das war für mich auch ein Argument gegen einen Kamerarucksack, denn für eine dreiwöchige Backpack-Tour durch Asien nehme ich andere Dinge mit 
-als für einen Wochenendtrip nach Stockholm. Zudem hatte ich nur Rucksäcke gefunden, bei denen außer dem Kameraequipment nicht mehr viel anderes hineinpasste.&lt;/p&gt;
-
-&lt;p&gt;Um es Vorweg zu nehmen, ich denke immer noch, dass das die Lösung ist, 
-die am besten zu mir passt und habe mir deswegen vor Kurzem den &lt;strong&gt;Tenba Tools BYOB 9&lt;/strong&gt; zugelegt, 
-den ich dir in diesem Artikel vorstellen und mit dem BYOB 10 vergleichen will.&lt;/p&gt;
-
-&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Hinweis:&lt;/strong&gt; Die Produkte habe ich selbst gekauft und stehe in keiner Geschäftsbeziehung zum Hersteller. 
-Ich habe für diesen Post keine Gegenleistung bekommen, noch bin ich in irgendeiner Art verpflichtet etwas zu schreiben, das nicht meiner eigenen Meinung entspricht.&lt;/p&gt;
-
-&lt;h1 id=&quot;varianten&quot;&gt;Varianten&lt;/h1&gt;
-
-&lt;p&gt;Die volle Bezeichnung des Taschen-/Rucksack-Einsatzes lautet &lt;strong&gt;Tenba Tools BYOB Camera Insert&lt;/strong&gt; und es gibt ihn in vier verschiedenen Größen, 
-die durch die Nummern 7, 9, 10 und 13 unterschieden werden, welche für die ungefähre Länge in Inch/Zoll stehen.&lt;/p&gt;
-
-&lt;p&gt;Farblich findet man das Produkt bei Händlern vorwiegend in Grau, es gibt jedoch auch andere Farbvarianten (Camouflage &amp;amp; Pflaume). 
-Wirklich häufig habe ich davon jedoch keine gesehen, war mit dem Grau aber auch zufrieden, 
-sodass ich keinen Aufwand betrieben habe genauer nach den anderen Farben zu recherchieren. 
-Am Ende ist die Tasche eh im Rucksack verborgen.&lt;/p&gt;
-
-&lt;p&gt;Alternativ zur “Camera Insert” Variante gibt es noch eine “Backpack Insert” Variante, bei der der Reißverschluss anstelle von oben, 
-über die Frontseite verläuft und dadurch der komplette Inhalt auf einmal sichtbar zu zugreifbar ist. 
-Gerade bei den kleineren Größen sehe ich da nicht wirklich einen Unterschied und ist vermutlich reine Geschmackssache, was einem besser zusagt.&lt;/p&gt;
-
-&lt;h1 id=&quot;lieferumfang&quot;&gt;Lieferumfang&lt;/h1&gt;
-
-&lt;p&gt;Neben der Tasche selbst werden noch einige Trennelemente mitgeliefert, 
-sodass der Innenraum entsprechend der Ausrüstung angepasst werden kann, das war es dann aber schon. 
-Mehr braucht es aber auch nicht, geht ja schließlich um die Tasche.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Lieferumfang BYOB 10&quot; width=&quot;1000&quot; height=&quot;677&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Lieferumfang BYOB 10&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Der BYOB 10 kommt mit 2 großen, 3 kleinen Trennelementen und misst außen ca. 27 x 11 x 20 cm (Länge x Breite x Höhe). 
-Innen sind es ca. 25 x 10 x 19 cm und bietet somit reichlich Platz für Kamera und Objektive.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Lieferumfang BYOB 9&quot; width=&quot;1000&quot; height=&quot;750&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Lieferumfang BYOB 9&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Beim BYOB 9 sind 2 große und 2 kleine Trennelemente dabei, wobei die kleinen hier nur auf einer Seite einen Klettstreifen haben und somit Klappen sind. 
-Bei den Außenmaßen kommt die Tasche auf etwa 23 x 10 x 17 cm (LxBxH). Innen sind es dann noch 22 x 9 x 15 cm.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Vergleich BYOB 9 und BYOB 10&quot; width=&quot;1000&quot; height=&quot;615&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;BYOB 9 (links) und BYOB 10 (rechts) im Größenvergleich&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Der Größenunterschied zwischen beiden empfinde ich als relativ deutlich. Abgesehen davon sind beide identisch. 
-Das Außengewebe ist ein wasserabweisendes Nylon und innen befindet sich weicher Kunstfaserstoff, 
-sodass die Ausrüstung gut geschützt ist. Insgesamt machen die Taschen auf mich einen sehr gut verarbeiteten und wertigen Eindruck.&lt;/p&gt;
-
-&lt;h1 id=&quot;anwendung&quot;&gt;Anwendung&lt;/h1&gt;
-
-&lt;p&gt;Auf der Vorderseite haben die BYOBs zwei Taschen und einen D-Ring um beispielsweise einen Karabiner oder Schlüssel zu befestigen. 
-Auf der Rückseite geht eine Tasche über die komplette Länge, in der entweder weiteres Zubehör verstaut oder der Deckel eingeklemmt werden kann. 
-In dem Fall wäre die Tasche dauerhaft offen, solltest du in kurzer Zeit mal öfter an den Inhalt müssen. 
-Zusätzlich befindet sich an beiden Seiten noch jeweils eine Mesh-Tasche für allerlei Kleinkram.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;BYOB von vorne und hinten&quot; width=&quot;1000&quot; height=&quot;357&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Auf der Innenseite des Deckels befindet sich eine Tasche mit Reißverschluss, in der etliche Kleinigkeiten verstaut werden können. 
-Gerade dünne Utensilien wie Mikrofasertücher, Speicherkarten oder Kabel lassen sich hier gut verstauen. 
-Bei dickeren oder harten Gegenständen sollte darauf geachtet werden, dass diese nicht den Schutz der Kamera gefährden. 
-Gerade wenn du, wie ich, das Display der Kamera nach oben hast, könnte es zu Kratzern oder Schlimmerem kommen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Deckelfach&quot; width=&quot;1000&quot; height=&quot;727&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bei den Taschen geht es aber sicherlich primär um das Innenfach und wie viel Equipment dort untergebracht werden kann. 
-Das kommt natürlich stark auf die Ausrüstung an, Kameras und Objektive kommen ja schließlich in den unterschiedlichsten Größen.&lt;/p&gt;
-
-&lt;p&gt;Im BYOB 10 hatte ich problemlos meine Nikon D7000 mit angeschlossenem 18-200er Objektiv, dem 11-16 Tokina Weitwinkel, 
-zwei Filter in Aufbewahrungsboxen und etliches Zubehör wie Blasebalg, SD-Kartenetui, sonstiges Reinigungsmaterial und den Kameragurt verstaut. 
-Mehr hatte ich auf den meisten Reisen auch nicht dabei und war für mich daher die optimale Lösung.&lt;/p&gt;
-
-&lt;p&gt;Mit &lt;a href=&quot;/neue-kamera-sony-a6400/&quot;&gt;dem Umstieg auf ein spiegelloses System&lt;/a&gt; ist die Tasche aus meiner Sicht zu groß geworden. 
-Sollte ich doch mal wieder eine größere Kamera oder deutlich mehr Objektive haben, wäre sie jedoch wieder eine Option.&lt;/p&gt;
-
-&lt;p&gt;In die BYOB 9 bekomme ich, mit meiner aktuellen Unterteilung, neben der Sony a6400 mit aufgesetztem 18-135er Objektiv, 
-ein zusätzliches Objektiv (z.B. Sigma 30) und das nötige Zubehör wie Gegenlichtblende, Ladegerät und Ersatzakkus. 
-Das Ganze hat zudem noch Luft, sodass die ein oder andere Kleinigkeit sicherlich noch gut reinpassen würde.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;BYOB 9 mit Inhalt&quot; width=&quot;1000&quot; height=&quot;750&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Mein Inhalt des BYOB 9&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Der BYOB 10 Tascheneinsatz hat in meinen Tagesrucksack gepasst, als wäre er dafür gemacht gewesen. 
-Der BYOB 9 ist etwas kleiner, was mir dann aber natürlich mehr Platz für das restliche Reisegepäck lässt. 
-In den meisten Fällen bekomme ich die Tasche so verstaut, dass ich schnell darauf Zugriff habe und letztendlich kann ich damit jeden Rucksack als einen Kamerarucksack ausrüsten.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;BYOB 10 im Tagesrucksack&quot; width=&quot;1000&quot; height=&quot;750&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Tenba BYOB 10 im Tagesrucksack&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-
-&lt;p&gt;Wie Anfangs erwähnt, denke ich, dass die Tenba Tools BYOB Rucksack-/Taschen-Einsätze für meine Art zu reisen optimal sind. 
-Gerade größere Trekkingrucksäcke haben aus meiner Sicht ein deutlich besseres Tragesystem als spezielle Kamerarucksäcke, 
-sodass ich dann angenehmer unterwegs bin und die Kameraausrüstung trotzdem sicher verstaut ist. 
-Auch kann ich den Einsatz bequem zwischen meinen verschiedenen Rucksäcken hin und her wechseln.&lt;/p&gt;
-
-&lt;p&gt;Einziger Nachteil, der mich ab und an gestört hat, ist das der Einsatz schwer zu erreichen ist, wenn er sich unten im Rucksack befindet. 
-Das ist aber vermutlich eher ein Packproblem als eines vom BYOB.&lt;/p&gt;
-
-&lt;p&gt;Preislich liegt der BYOB 9 bei ungefähr 25 Euro, der BYOB 10 bei ca. 30 Euro. Aus meiner Sicht sehr angemessen, 
-vergleichbare Produkte sind preislich ähnlich, wenn nicht sogar etwas teurer.&lt;/p&gt;
-
-&lt;p&gt;Den BYOB 9 finde ich von der Größe her ideal für die Sony a6400, denn ein zusätzliches Objektiv, ob es jetzt ein Tele oder ein Weitwinkel ist, 
-nehme ich im Normalfall immer auf Reisen mit. Solltest du eine größere Kamera oder mehr Objektive haben, wäre der BYOB 10 vermutlich besser. 
-Alternativ gibt es mit dem BYOB 7 und dem BYOB 13 natürlich auch noch eine kleinere und größere Ausführung, 
-solltest du doch viel mehr oder eben nur die Kamera transportieren wollen.&lt;/p&gt;
-
-&lt;p&gt;Ich hoffe, der Artikel war hilfreich und lass mich gerne wissen, wie du deine Ausrüstung transportierst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Ausrüstung" /><summary type="html">Auf meinen Reisen habe ich meistens viel Technik dabei und daher habe ich mir über die Jahre etliche Gedanken darüber gemacht, wie ich diese am Optimalsten verstaue. Denn zum einen soll es sicher sein, zum anderen darf es auch nicht viel Platz wegnehmen. Gerade wenn ich nur mit Handgepäck reise, ist Platz ein kostbares Gut.</summary></entry></feed>
+Aber wie gesagt, eigentlich wollte ich erst viele andere Dinge fertig machen, bevor ich mich an die ganzen Änderungen gesetzt habe :D&lt;/p&gt;</content><author><name></name></author><category term="Technik" /><category term="Homepage" /><summary type="html">In den letzten Wochen und Monaten habe ich mal wieder an der Technik der Homepage geschraubt. Wie es meistens so ist, ist das meiste davon nicht sichtbar und man könnte darüber diskutieren, ob es notwendig war, aber ich habe wieder etliches gelernt und das ist mit ein Grund warum ich das mache ;)</summary></entry></feed>
