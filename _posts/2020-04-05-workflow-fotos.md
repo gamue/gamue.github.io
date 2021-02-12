@@ -15,9 +15,8 @@ synctoy:
 toc: true
 categories:
   - Fotografie
-  - Technik
 tags:
-  - Tools
+  - Software
 ---
 
 Durch die digitale Fotografie ist die Anzahl der Bilder, die auf Reisen entstehen massiv gestiegen und 

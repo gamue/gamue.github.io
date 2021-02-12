@@ -50,6 +50,7 @@ Die Seite ist aktuell so strukturiert:
 - Fotografie
   - Ausrüstung
   - Fotowissen
+  - Software
 - Technik
   - Tools
   - Homepage

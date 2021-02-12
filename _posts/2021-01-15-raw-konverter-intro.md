@@ -7,9 +7,8 @@ header:
     overlay_image: assets/2021-01-15-raw-konverter-intro/markus-spiske-nfwBWcaFAYg-unsplash.jpg
 categories:
     - Fotografie
-    - Technik 
 tags:
-    - Tools
+    - Software
 ---
 
 Wer im [RAW-Format fotografiert][1], wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. 

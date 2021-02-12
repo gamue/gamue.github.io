@@ -7,9 +7,8 @@ header:
     overlay_image: assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg
 categories:
     - Fotografie
-    - Technik 
 tags:
-    - Tools
+    - Software
 ---
 
 Im Gegensatz zu den anderen Programmen in meinem Test ist der Fokus von [ACDSee Photo Studio][1] die Bildbetrachtung und -organisation. 

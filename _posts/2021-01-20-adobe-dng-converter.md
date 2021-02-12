@@ -11,9 +11,8 @@ gallery:
     - image_path: assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg
 categories:
     - Fotografie
-    - Technik 
 tags:
-    - Tools
+    - Software
 ---
 
 Eine Möglichkeit, die ich bei meiner Suche nach einem neuen RAW-Konverter nicht aufgezählt habe, 

@@ -7,9 +7,8 @@ header:
     overlay_image: assets/2021-01-27-darktable/darktable_entwicklung.jpg
 categories:
     - Fotografie
-    - Technik 
 tags:
-    - Tools
+    - Software
 ---
 
 Im Gegensatz zu den meisten RAW-Konvertern ist [Darktable][1] ein Open Source Programm und somit kostenlos für Mac, Linux und Windows erhältlich. 

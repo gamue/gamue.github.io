@@ -7,9 +7,8 @@ header:
     overlay_image: assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg
 categories:
     - Fotografie
-    - Technik 
 tags:
-    - Tools
+    - Software
 ---
 
 Wenn du nach einem RAW-Konverter suchst, wirst du schnell auf [Adobe Lightroom][2] stoßen, denn das Programm wird von vielen, wenn nicht sogar den meisten Profi- und Hobbyfotografen eingesetzt. 

@@ -10,9 +10,8 @@ gallery:
     - image_path: assets/2021-01-30-skylum-luminar/luminar_heal2.jpg
 categories:
     - Fotografie
-    - Technik 
 tags:
-    - Tools
+    - Software
 ---
 
 [Luminar von Skylum][1] ist der Neuling unter den RAW-Konvertern und hat besonders durch die Verwendung von Künstlicher Intelligenz von sich Reden gemacht. 
