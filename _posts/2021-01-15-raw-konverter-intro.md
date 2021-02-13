@@ -85,6 +85,7 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 3. [Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz][6]
 4. [ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter][7]
 5. [Adobe Lightroom, der Marktführer][8]
+6. [Capture One, Profianwendung ohne Abozwang][9]
 6. weitere Artikel folgen.
 
 [1]: {% post_url 2021-01-03-raw-oder-jpeg %}
@@ -95,3 +96,4 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 [6]: {% post_url 2021-01-30-skylum-luminar %}
 [7]: {% post_url 2021-02-05-acdsee-photo-studio %}
 [8]: {% post_url 2021-02-07-adobe-lightroom %}
+[9]: {% post_url 2021-02-13-capture-one %}
