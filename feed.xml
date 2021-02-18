@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-13T21:03:23+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Capture One, Profianwendung ohne Abozwang</title><link href="https://gamue.de/capture-one-profianwendung-ohne-abozwang/" rel="alternate" type="text/html" title="Capture One, Profianwendung ohne Abozwang" /><published>2021-02-13T00:00:00+01:00</published><updated>2021-02-13T00:00:00+01:00</updated><id>https://gamue.de/capture-one</id><content type="html" xml:base="https://gamue.de/capture-one-profianwendung-ohne-abozwang/">&lt;p&gt;&lt;a href=&quot;https://www.captureone.com/de&quot;&gt;Capture One&lt;/a&gt; richtet sich in erster Linie an Profifotografen und stellt sich selbst als High-End-Lösung dar. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-18T19:29:35+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Affinity Photo, Bildbearbeiter mit RAW-Konverter</title><link href="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/" rel="alternate" type="text/html" title="Affinity Photo, Bildbearbeiter mit RAW-Konverter" /><published>2021-02-18T00:00:00+01:00</published><updated>2021-02-18T00:00:00+01:00</updated><id>https://gamue.de/serif-affinity-photo</id><content type="html" xml:base="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/">&lt;p&gt;&lt;a href=&quot;https://affinity.serif.com/de/photo/&quot;&gt;Affinity Photo von der Firma Serif&lt;/a&gt; ist in erster Linie ein Bildbearbeitungsprogramm, mit dem sich komplexe Bildmanipulationen vornehmen lassen können. 
+Die Anwendung verfügt zudem aber auch über die Möglichkeit der RAW-Konvertierung und genau diese habe ich mir detaillierter angeschaut.&lt;/p&gt;
+
+&lt;p&gt;Meine Meinung dazu und ob die Funktion, in meinen Augen, mit den anderen RAW-Konvertern mithalten kann, findest du in diesem Artikel.&lt;/p&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Ethik-Hinweis&lt;/strong&gt;: Ich habe das Programm aus Eigeninteresse getestet und die nachfolgenden Punkte entsprechen meiner eigenen Meinung und Erfahrung.
+Ich habe vom Hersteller weder beauftragt noch habe ich eine Gegenleistung bekommen.&lt;/p&gt;
+
+&lt;h1 id=&quot;varianten-und-preis&quot;&gt;Varianten und Preis&lt;/h1&gt;
+&lt;p&gt;Affinity Photo gibt es ausschließlich zu kaufen und kostet in den Varianten für &lt;strong&gt;Windows und Mac jeweils 54,99€&lt;/strong&gt;, zudem ist auch noch eine spezielle &lt;strong&gt;iPad-Variante für 21,99€&lt;/strong&gt; erhältlich.&lt;/p&gt;
+
+&lt;p&gt;Im Gegensatz zu vielen anderen Programmen, kommt von Affinity Photo nicht jährlich ein neues, kostenpflichtiges Update heraus, sondern der Hersteller geht damit sehr kundenfreundlich um. 
+Mitte 2015 kam die Version 1.3.1 für MacOS und im Dezember 2016 mit der Version 1.5.1 die erste Version für Windows heraus, vor kurzem, also im Februar 2021, 
+ist die Version 1.9 erschienen und alle bisherigen Updates wurden Bestandskunden kostenlos zur Verfügung gestellt. 
+Diese Updates haben viele größere Neuerungen enthalten, für die manch ein anderer Hersteller sicherlich nochmal Geld verlangt hätte.&lt;/p&gt;
+
+&lt;p&gt;Ich gehe jedoch davon aus, dass das Update von 1.9 zu 2.0 kostenpflichtig sein wird, finde das im Angesicht des sehr langen Supportzeitraums aber sehr fair 
+und prinzipiell wird ja niemand gezwungen das neue Update zu kaufen, wenn er für sich beschließt, dass die verwendete Version ausreicht.&lt;/p&gt;
+
+&lt;p&gt;Für meinen Test habe ich die 30tägige Testversion für Windows verwendet.&lt;/p&gt;
+
+&lt;h1 id=&quot;erster-eindruck&quot;&gt;Erster Eindruck&lt;/h1&gt;
+&lt;p&gt;Im Gegensatz zu den anderen Programmen im Test hat Affinity Photo keine Bildverwaltung, sodass du die Bilder entweder über den Dateiexplorer oder direkt aus der Anwendung heraus öffnen musst. 
+Ich kann daher nicht sagen, ob es meine bisherigen Bildbewertungen oder Farbmarkierungen übernimmt bzw. korrekt anzeigt. Die bisherigen Bearbeitungsinformationen sind jedenfalls, wie auch bei den anderen Programmen, nicht vorhanden.&lt;/p&gt;
+
+&lt;p&gt;Im Vergleich zu den anderen Anwendungen im Test sind die Entwicklungsoptionen auf der rechten Seite ziemlich eingeschränkt 
+und ich vermisse etliche Optionen, wie beispielsweise die Möglichkeit einzelne Farben bzw. Farbbereiche einzeln anpassen zu können. 
+Die Basisfunktionalitäten, wie beispielsweise Farbtemperatur, Belichtung und Kontrast sind jedoch alle vorhanden, daher ist die RAW-Entwicklung aber grundsätzlich möglich.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-entwickeln&quot;&gt;RAW entwickeln&lt;/h1&gt;
+&lt;p&gt;Die Optionen, die vorhanden sind, funktionieren ganz gut, in jedem der verfügbaren Reiter sind insgesamt wenig Entwicklungseinstellungen, 
+sodass ich die Aufteilung nicht sonderlich gut finde und mir gewünscht hätte, dass die Optionen besser zusammengelegt worden wären, um die Anzahl der Wechsel zwischen den Tabs zu reduzieren.&lt;/p&gt;
+
+&lt;p&gt;Jeder Einstellungs-Block lässt sich einzeln aktivieren bzw. deaktivieren, womit du einfach dessen Auswirkungen sehen kannst. 
+Zusätzlich gibt es noch eine spezielle Ansicht, in der du einen Vorher-Nachher-Vergleich des kompletten Bildes sehen kannst, diese gefällt mir sehr gut.&lt;/p&gt;
+
+&lt;p&gt;Abgesehen davon muss ich jedoch sagen, dass mir die Einstellungsmöglichkeiten von Affinity Photo nicht ausreichen. 
+Die RAW-Entwicklung ist zwar möglich, jedoch vermisse ich zu viele Optionen, die ich in meinem bisherigen Arbeitsablauf sonst häufig verwende.&lt;/p&gt;
+
+&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
+  
+      &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;822&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+      &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 100w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 250w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;821&quot; crossorigin=&quot;anonymous&quot; /&gt;
+      &lt;/a&gt;
+  
+  
+&lt;/figure&gt;
+
+&lt;script&gt;
+    new SimpleLightbox({elements: '.image-gallery a'});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;In meinen Augen taugt Affinity Photo nur bedingt als RAW-Konverter, sodass ich es hierfür nicht empfehlen kann.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt hat mir das Programm aber sehr gut gefallen und gerade die Möglichkeiten der Bildmanipulation sind denen, in den RAW-Konvertern, überlegen. 
+Ich sehe es daher eher als Alternative zu Adobe Photoshop. Falls du nicht über das Adobe Abo verfügst und einmal größere Anpassungen an einem Foto durchführen willst, ist Affinity Photo meiner Meinung nach eine sehr gute Wahl.&lt;/p&gt;
+
+&lt;p&gt;Zudem empfinde ich die Preisgestaltung als sehr fair, wodurch ich nicht wirklich lange überlegen musste, als es im Angebot war und mir das Programm zugelegt habe.&lt;/p&gt;
+
+&lt;p&gt;Ich werde es zwar nicht für die RAW-Konvertierung nutzen, aber ich habe doch öfter mal den Anwendungsfall Bilder zuzuschneiden oder anzupassen. 
+Beispielsweise die ganzen Bilder und Thumbnails für die Homepage-Artikel ;)&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Affinity Photo von der Firma Serif ist in erster Linie ein Bildbearbeitungsprogramm, mit dem sich komplexe Bildmanipulationen vornehmen lassen können. Die Anwendung verfügt zudem aber auch über die Möglichkeit der RAW-Konvertierung und genau diese habe ich mir detaillierter angeschaut.</summary></entry><entry><title type="html">Capture One, Profianwendung ohne Abozwang</title><link href="https://gamue.de/capture-one-profianwendung-ohne-abozwang/" rel="alternate" type="text/html" title="Capture One, Profianwendung ohne Abozwang" /><published>2021-02-13T00:00:00+01:00</published><updated>2021-02-13T00:00:00+01:00</updated><id>https://gamue.de/capture-one</id><content type="html" xml:base="https://gamue.de/capture-one-profianwendung-ohne-abozwang/">&lt;p&gt;&lt;a href=&quot;https://www.captureone.com/de&quot;&gt;Capture One&lt;/a&gt; richtet sich in erster Linie an Profifotografen und stellt sich selbst als High-End-Lösung dar. 
 Das wird auch beim Preis sichtbar, denn es ist mit Abstand der teuerste RAW-Konverter in meinem Test. 
 Durch vergünstigte Varianten für einige Kamerahersteller oder sogar kostenlose, abgespeckte Versionen für Sony- und Fuji-Kameras ist es für Hobbyfotografen dennoch ein Blick wert.&lt;/p&gt;
 
@@ -658,6 +727,7 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
   &lt;li&gt;&lt;a href=&quot;/acdsee-photo-studio-bildverwaltung-und-raw-konverter/&quot;&gt;ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/adobe-lightroom-der-platzhirsch-der-raw-konverter/&quot;&gt;Adobe Lightroom, der Marktführer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/capture-one-profianwendung-ohne-abozwang/&quot;&gt;Capture One, Profianwendung ohne Abozwang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/affinity-photo-bildbearbeitung-mit-raw-konverter/&quot;&gt;Affinity Photo, Bildbearbeitungsprogramm mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;weitere Artikel folgen.&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
@@ -917,76 +987,4 @@ Falls du daher Lust auf eine gemeinsame Fototour oder ein Shooting hast, gib Bes
 oder besser gesagt nur über Umwege, und ich mag keine umständlichen Arbeitsabläufe :D&lt;/p&gt;
 
 &lt;p&gt;Ich drück uns in jedem Fall allen die Daumen, dass 2021 normaler, vorhersehbarer und planbarer wird. 
-Dass die stark gebeutelten Branchen sich erholen können und dass jeder das Jahr genießen kann.&lt;/p&gt;</content><author><name></name></author><category term="Allgemein" /><summary type="html">Das Jahr 2020 ist nun Geschichte und ich glaube so ziemlich jeder ist froh darum. Was für ein herausforderndes und unerwartetes Jahr. Hätte man mir zu Beginn des Jahres erzählt, was sich alles verändert, ich hätte denjenigen als verrückt abgetan.</summary></entry><entry><title type="html">Vietnam Galerie online</title><link href="https://gamue.de/reisebilder-vietnam-online/" rel="alternate" type="text/html" title="Vietnam Galerie online" /><published>2020-12-30T00:00:00+01:00</published><updated>2020-12-30T00:00:00+01:00</updated><id>https://gamue.de/vietnam-bilder</id><content type="html" xml:base="https://gamue.de/reisebilder-vietnam-online/">&lt;p&gt;Es ist knapp geworden, aber mit dem heutigen Upload der Vietnam-Reisegalerie, 
-habe ich mein diesjähriges Ziel erreicht und alle Reisebilder der letzten Jahre verarbeitet. Ich kann es irgendwie selbst noch nicht glauben, bin aber sehr froh, 
-dass ich das geschafft habe und freue mich die Bilder nun endlich mit allen teilen zu können.&lt;/p&gt;
-
-&lt;p&gt;Gerade in diesem Jahr, in dem das Reisen in andere Länder so stark eingeschränkt bzw. gar nicht möglich war, hat es mich glücklich gemacht, 
-mich an die verschiedenen Orte und Erlebnisse zurückzuerinnern.&lt;/p&gt;
-
-&lt;p&gt;Viele der Bilder, die ich dieses Jahr hochgeladen habe, waren gefühlte Ewigkeiten auf meinen Festplatten und ich konnte mich all die Zeit nicht aufraffen diese durchzugehen, 
-zu selektieren und zu entwickeln. Zugegeben, das hat sich teilweise nicht groß geändert und ich musste mich zwischendurch öfter mal motivieren weiter zu machen, 
-bin mit dem jetzigen Ergebnis aber mehr als zufrieden, denn bei jeder Reise gibt es mindestens ein Bild, dass mir sehr gut gefällt und allein dafür hat es sich gelohnt.&lt;/p&gt;
-
-&lt;p&gt;Ich hoffe, ich kann dir mit den Bildern auch eine Freude bereiten und dich an den Reisen teilhaben lassen 
-oder dich sogar dazu inspirieren auch einmal in eines der Länder zu reisen. Falls es so ist, dann lasse es mich bitte wissen, das freut mich immer am meisten!&lt;/p&gt;
-
-&lt;p&gt;Die Bilder der Vietnam-Reise, die über den Jahreswechsel 2017/2018 war, hatte ich immer nach hinten geschoben, 
-da dort das Wetter nicht so mitgespielt hatte und viele Bilder daher ziemlich grau und neblig sind. Abgesehen davon, 
-waren es jedoch sehr schöne und erlebnisreiche Wochen, an die ich mich gerne erinnere. 
-Gerade die Touren zu den Cu-Chi-Tunneln, dem schwimmenden Markt in Can Tho, der Halong-Bucht und den Höhlen im Phong Nha Ke Bang Nationalpark, 
-sowie das Schnorcheln am Neujahrstag auf Phu Quoc waren echte Highlights, deren Erinnerung ein Grinsen in mein Gesicht zaubern.&lt;/p&gt;
-
-&lt;p&gt;Falls dich die Route und Stationen der Reise interessieren, findest du mehr Informationen auf der &lt;a href=&quot;/vietnam/&quot;&gt;Länderseite&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hier eine kleine Vorschau der Bilder:&lt;/p&gt;
-
-&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0049.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0049.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0049.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0049.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0049.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0181.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0181.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0181.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0181.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0181.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0211.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0315.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0315.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0315.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0315.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0315.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0721b.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0721b.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0721b.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0721b.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0721b.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0651.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0651.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0651.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0651.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0651.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-  
-&lt;/figure&gt;
-
-&lt;script&gt;
-    new SimpleLightbox({elements: '.image-gallery a'});
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;/photography/vietnam-2018/&quot; class=&quot;btn&quot;&gt;Zur kompletten Bildergalerie&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Schau dir bei Gelegenheit auch gerne die anderen Reisebilder an, die ich dieses Jahr hochgeladen habe. 
-Neben &lt;a href=&quot;/photography/paris-2019/&quot;&gt;Paris&lt;/a&gt; und &lt;a href=&quot;/photography/deutschland-2020/&quot;&gt;Deutschland&lt;/a&gt; aus diesem Jahr, sind das die Bilder aus &lt;a href=&quot;/photography/japan-2017/&quot;&gt;Japan&lt;/a&gt; und &lt;a href=&quot;/photography/jordanien-2017/&quot;&gt;Jordanien 2017&lt;/a&gt;, &lt;a href=&quot;/photography/georgien-2018/&quot;&gt;Georgien 2018&lt;/a&gt; und &lt;a href=&quot;/photography/belize-2019/&quot;&gt;Belize 2019&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Reisen" /><category term="Fotografie" /><category term="Vietnam" /><summary type="html">Es ist knapp geworden, aber mit dem heutigen Upload der Vietnam-Reisegalerie, habe ich mein diesjähriges Ziel erreicht und alle Reisebilder der letzten Jahre verarbeitet. Ich kann es irgendwie selbst noch nicht glauben, bin aber sehr froh, dass ich das geschafft habe und freue mich die Bilder nun endlich mit allen teilen zu können.</summary></entry></feed>
+Dass die stark gebeutelten Branchen sich erholen können und dass jeder das Jahr genießen kann.&lt;/p&gt;</content><author><name></name></author><category term="Allgemein" /><summary type="html">Das Jahr 2020 ist nun Geschichte und ich glaube so ziemlich jeder ist froh darum. Was für ein herausforderndes und unerwartetes Jahr. Hätte man mir zu Beginn des Jahres erzählt, was sich alles verändert, ich hätte denjenigen als verrückt abgetan.</summary></entry></feed>
