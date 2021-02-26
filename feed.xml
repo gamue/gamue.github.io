@@ -1,4 +1,161 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-18T19:29:35+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Affinity Photo, Bildbearbeiter mit RAW-Konverter</title><link href="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/" rel="alternate" type="text/html" title="Affinity Photo, Bildbearbeiter mit RAW-Konverter" /><published>2021-02-18T00:00:00+01:00</published><updated>2021-02-18T00:00:00+01:00</updated><id>https://gamue.de/serif-affinity-photo</id><content type="html" xml:base="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/">&lt;p&gt;&lt;a href=&quot;https://affinity.serif.com/de/photo/&quot;&gt;Affinity Photo von der Firma Serif&lt;/a&gt; ist in erster Linie ein Bildbearbeitungsprogramm, mit dem sich komplexe Bildmanipulationen vornehmen lassen können. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-02-26T21:38:17+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Was ist der beste RAW-Konverter?</title><link href="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/" rel="alternate" type="text/html" title="Was ist der beste RAW-Konverter?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-fazit</id><content type="html" xml:base="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/">&lt;p&gt;Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet.
+Zwar würde ich prinzipiell jedem empfehlen, auch alle möglichen Programme auszuprobieren um festzustellen, was einem zusagt und was nicht. 
+Kann aber durchaus verstehen, wenn du das nicht machen willst und nach einer Abkürzung in Form von Erfahrungsberichten und Empfehlungen suchst.&lt;/p&gt;
+
+&lt;p&gt;In dem Fall bist du bei diesem Artikel genau richtig, denn ich will hier nochmal meine Erkenntnisse und Erfahrungen aus den letzten Blogartikeln zusammenfassen und zum Schluss meine Empfehlungen aus Sicht eines Hobbyfotografen geben.
+Würde dir jedoch trotzdem empfehlen, das ein oder andere Program selbst zu testen. Es müssen ja nicht gleich 6 sein ;)&lt;/p&gt;
+
+&lt;p&gt;In folgenden Artikeln findest du mehr Details zu den Programmen im Test:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/darktable-der-kostenlose-raw-konverter/&quot;&gt;Darktable, die kostenlose Variante&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/skylum-luminar-bilbearbeitung-mit-ki/&quot;&gt;Skylum Luminar, RAW-Konvertierung mit künstlicher Intelligenz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/acdsee-photo-studio-bildverwaltung-und-raw-konverter/&quot;&gt;ACDSee Photo Studio, Bildverwaltung mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/adobe-lightroom-der-platzhirsch-der-raw-konverter/&quot;&gt;Adobe Lightroom, der Marktführer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/capture-one-profianwendung-ohne-abozwang/&quot;&gt;Capture One, Profianwendung ohne Abozwang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/affinity-photo-bildbearbeitung-mit-raw-konverter/&quot;&gt;Affinity Photo, Bildbearbeitungsprogramm mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Ethik-Hinweis&lt;/strong&gt;: Ich habe alle Programme aus Eigeninteresse getestet und die genannten Punkte entsprechen meiner eigenen Meinung und Erfahrung.
+Ich habe für den Test keine Gegenleistung irgendeines Herstellers bekommen.&lt;/p&gt;
+
+&lt;h1 id=&quot;raw-konvertierung&quot;&gt;RAW-Konvertierung&lt;/h1&gt;
+&lt;p&gt;Ein RAW-Konverter ist in der Linie dafür da die digitalen Negative zu entwickeln und anschließend in Bildformate umzuwandeln, die sich einfacher teilen lassen. 
+Daher will ich auch erst auf diesen Bereich eingehen.&lt;/p&gt;
+
+&lt;h2 id=&quot;bedienung&quot;&gt;Bedienung&lt;/h2&gt;
+&lt;p&gt;Auch wenn es die Hersteller vermutlich nicht gerne hören, so fand ich, dass sich die Programme sehr ähnlich bedienen lassen 
+und sich bei einigen Punkten lediglich über die Bezeichnungen und Kategorisierungen unterscheiden.&lt;/p&gt;
+
+&lt;p&gt;Darktable und Luminar stellen für mich dabei jedoch eine Besonderheit dar. 
+&lt;strong&gt;Darktable beinhaltet unzählige Einstellungen&lt;/strong&gt; und bietet daher sehr viele Möglichkeiten, die von der Darstellung her auch &lt;strong&gt;sehr komplex&lt;/strong&gt; wirken. 
+Ohne tieferes technisches Verständnis oder intensive Einarbeitung sehe ich nicht, wie man in dem Programm zurechtkommen soll.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Luminar ist das genaue Gegenteil davon und reduziert vieles auf einfache Schieberegler&lt;/strong&gt;. 
+Du aktivierst in den meisten Fällen nur eine Einstellung und sagst wie stark der entsprechende Effekt angewandt werden soll, 
+der Rest macht die vom Hersteller viel beworbene Künstliche Intelligenz. Mit wenigen Klicks lässt sich dadurch ein ansehliches Bild gestalten, 
+wobei das Risiko hoch ist, es mit der Bearbeitung bzw. Bildmanipulation auch mal zu übertreiben. 
+Geschmäcker sind jedoch verschieden und daher muss jeder selbst entscheiden, ob ihm ein solches Bild gefällt oder nicht.&lt;/p&gt;
+
+&lt;h2 id=&quot;performance&quot;&gt;Performance&lt;/h2&gt;
+&lt;p&gt;Beim Thema Performance lagen die meisten Programme dicht zusammen und auch wenn mein Computer nicht die aktuellste Hardware besitzt (Intel i5-6500 Prozessor (4x 3.2GHz), 8 GB RAM, SSD-Festplatte) ging die Entwicklung eines RAW-Bildes angenehm flott vonstatten. 
+Negative Ausnahme ist hier jedoch Luminar, bei dem ich ziemlich lange Wartezeiten hatte und es dadurch als RAW-Konverter der Wahl für mich rausgefallen ist. 
+In der Kategorie &lt;strong&gt;hat sich CaptureOne am besten geschlagen&lt;/strong&gt;, denn dort habe ich so gut wie keine Wartezeiten gemerkt.&lt;/p&gt;
+
+&lt;h2 id=&quot;funktionsumfang&quot;&gt;Funktionsumfang&lt;/h2&gt;
+&lt;p&gt;Der Funktionsumfang und die Sonderleistungen sind vermutlich der Punkt in dem sich die Programme am meisten unterscheiden und der am schlechtesten allgemein zu bewerten ist, denn jeder wird hier andere Anforderungen haben.&lt;/p&gt;
+
+&lt;p&gt;Luminar, ACDSee Photo Studio und die kostenpflichtigen CaptureOne-Versionen bieten jeweils einfache Bildbearbeitungs- und Retuschefunktionen an, 
+mit denen sich kleinere Objekte oder Hautunreinheiten aus dem Bild entfernen lassen können. 
+Das Adobe Lightroom Abo, liefert mit Adobe Photoshop ein sehr starkes Bildbearbeitungsprogramm, mit dem auch komplexere Bildbearbeitungen möglich sind.&lt;/p&gt;
+
+&lt;p&gt;ACDSee Photo Studio richtet sich primär an Windows-User, zwar gibt es auch eine Version für Mac, aber diese wird auf der Homepage als eigenes Produkt gelistet 
+und weicht daher sehr wahrscheinlich von der mir angeschauten Ultimate-Variante ab. Genau kann ich das jedoch nicht sagen, da ich beide nicht verglichen habe.&lt;/p&gt;
+
+&lt;p&gt;Adobe Lightroom bietet als einziges Programm eine iPad App an, solltest du also auf mehreren Geräten gleichzeitig oder primär auf dem Tablet arbeiten wollen, 
+wäre das vermutlich die erste Wahl. Dabei handelt es sich dann jedoch um Lightroom CC und nicht um Lightroom Classic, welches über einen anderen Umfang verfügt und von meinem Test abweicht.&lt;/p&gt;
+
+&lt;p&gt;Bei CaptureOne hängt der Funktionsumfang stark von der gewählten Variante ab, denn die kostenlose Express-Variante besitzt einige Einschränkungen, 
+ebenso wie die Kamera-spezifischen Varianten nur die Bearbeitung von RAW-Dateien eines einzigen Kamera-Herstellers erlauben.&lt;/p&gt;
+
+&lt;p&gt;Du siehst jedes Programm kommt mit seinen ganz eigenen Vor- und Nachteilen, weswegen es schwer ist eine allgemeine Aussage zu treffen. 
+Zum Glück gibt es aber auch noch den Kostenpunkt und da unterscheiden sich die Programme ebenso stark.&lt;/p&gt;
+
+&lt;h1 id=&quot;kosten&quot;&gt;Kosten&lt;/h1&gt;
+&lt;p&gt;Die Preispanne der Produkte war ziemlich groß, neben kostenlosen Anwendungen, habe ich mir auch welche für mehrere hundert Euro angeschaut. 
+Dabei gibt es aber auch ganz grundsätzliche Unterschiede in den Preismodellen der Programme.&lt;/p&gt;
+
+&lt;h2 id=&quot;abo--mietversion&quot;&gt;Abo / Mietversion&lt;/h2&gt;
+&lt;p&gt;Beim Abomodell, bezahlst du monatlich einen festen Betrag und kannst die Software so lange nutzen, bis du das Abo kündigst. 
+Ich denke, das Modell kennt jeder von diversen Streaminganbietern.&lt;/p&gt;
+
+&lt;p&gt;Wie auch beim Streaming wirst du während der Laufzeit regelmäßig mit Neuerungen versorgt und besitzt damit immer die aktuellste Version des Programmes. 
+Bei RAW-Konvertern sind das beispielsweise neue Bildbearbeitungsfunktionen, Verbesserungen an der Bedienung und die Unterstützung von neuen Kameramodellen.&lt;/p&gt;
+
+&lt;p&gt;Solltest du irgendwann beschließen das Abo zu kündigen, kannst du das Programm nicht mehr verwenden. 
+Da RAW-Konverter die Bearbeitungsinformationen meist in einem eigenen Dateiformat oder einer Datenbank speichern, 
+geht dir somit auch der Zugriff darauf verloren und du solltest in jedem Fall davor die Bilder als JPGs exportiert haben.&lt;/p&gt;
+
+&lt;h2 id=&quot;kaufversion&quot;&gt;Kaufversion&lt;/h2&gt;
+&lt;p&gt;Das Gegenteil zum Mieten einer Software ist der Kauf. Hier bezahlst du einmalig einen Betrag und im Anschluss gehört dir die gekaufte Version, sodass du diese unbegrenzt lange verwenden kannst.&lt;/p&gt;
+
+&lt;p&gt;Der wichtigste Punkt, den es hier zu verstehen gilt, ist, dass du eben genau diese Version kaufst und für eben diese gegebenenfalls noch kleinere Aktualisierungen oder Verbesserungen bekommst. 
+Falls eine neue Hauptversion erscheint, hast du keinen Anspruch darauf. Kannst in den meisten Fällen aber für einen Vorzugspreis auf die neue Version aktualisieren.&lt;/p&gt;
+
+&lt;p&gt;Von den meisten RAW-Konvertern, die ich mir angeschaut habe, ist in den letzten Jahren übrigens jeweils jährlich eine neue Hauptversion erschienen. 
+Solltest du also immer die top aktuellste Version des Programmes haben wollen, hättest du daher jährlich bezahlen müssen.&lt;/p&gt;
+
+&lt;p&gt;Ich denke, dass Lizenzmodell wird auch jeder von anderer Software kennen. Beispielsweise von Sportsimulationen, 
+von denen auch jedes Jahr eine neue Version herauskommt und du dann vor der Wahl stehst, 
+ob die Neuerungen es wert sind nochmal in den Geldbeutel zu greifen oder die bisherige Version “gut genug” ist und du eventuell auf die nächste Version wartest.&lt;/p&gt;
+
+&lt;h2 id=&quot;mieten-oder-kaufen&quot;&gt;Mieten oder Kaufen?&lt;/h2&gt;
+&lt;p&gt;Welches Lizenzmodell für dich am meisten Sinn ergibt, kann ich dir nicht beantworten, kann jedoch für mich sagen, dass ich eine Kaufversion einem Abo vorziehe und das hat vor allem folgende Gründe:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ich habe den Test gemacht um herauszufinden, welcher RAW-Konverter mir aktuell am besten zusagt, sprich &lt;strong&gt;die jetzige Version des RAW-Konverters erfüllt bereits meine Anforderungen&lt;/strong&gt;. 
+  Sicherlich wären neue Funktionen schön, aber eben nicht notwendig und da ich nicht weiß an was der Hersteller arbeitet oder das beeinflussen kann, 
+  kann ich auch nicht sagen, ob die kommenden Neuerungen für mich und meine Arbeitsweise überhaupt Auswirkungen haben. 
+  Für diese Ungewissheit monatlich Geld zu bezahlen erscheint mir daher als nicht sonderlich sinnvoll.&lt;/li&gt;
+  &lt;li&gt;In den letzten Jahren gab es Monate, da habe ich gar nicht fotografiert oder einen RAW-Konverter verwendet. 
+  Bei einem Abo würde ich in diesem Fall trotzdem die monatliche Abbuchung von meinem Konto sehen und mich &lt;strong&gt;ärgern für etwas zu bezahlen, dass ich nicht verwende&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Wie ich im ersten Blogpost der Serie erwähnt habe, habe ich bisher mit einer ca. 10 Jahre alten Version von Adobe Bridge und Adobe Camera Raw gearbeitet und das hat mir gereicht. 
+  Der neue RAW-Konverter ist in erster Linie nur notwendig, da ich mir eine neue Kamera gekauft habe und die alte Software nun nicht mehr kompatibel ist. 
+  Für mich ein Zeichen, dass &lt;strong&gt;ich nicht immer die aktuellste Version benötige&lt;/strong&gt; und meistens rechnet sich der Kauf im Vergleich zur Mietversion bereits nach ca. 13 Monaten.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vergleich-der-kosten&quot;&gt;Vergleich der Kosten&lt;/h2&gt;
+&lt;p&gt;In folgendem Diagramm habe ich die Kosten der kostenpflichtigen Programme über einen Zeitraum von 24 Monaten dargestellt. 
+Die kostenlosen Programme Darktable und CaptureOne Express Sony (bzw. Fuji) fehlen, wären aber natürlich eine durchgängige Linie auf der 0 Euro-Markierung ;)&lt;/p&gt;
+
+&lt;p&gt;Zudem fehlt Affinity Photo, da ich das zwar als gutes Programm ansehe aber eben nicht als RAW-Konverter. Mehr dazu findest du &lt;a href=&quot;/affinity-photo-bildbearbeitung-mit-raw-konverter/&quot;&gt;im Artikel über Affinity Photo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ebenfalls nehme ich bei dem Diagram an, dass du bei der gekauften Version für den Zeitraum bleibst und nicht kostenpflichtig aktualisierst, sobald eine neue Version davon erscheint.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Kostenvergleich der RAW-Konverter im Test (Stand 20.Februar 2021)&quot; width=&quot;1500&quot; height=&quot;876&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wie schon &lt;a href=&quot;/capture-one-profianwendung-ohne-abozwang/&quot;&gt;im Artikel über CaptureOne&lt;/a&gt; erwähnt, halte ich die Mietversion von CaptureOne Pro für Hobbyfotografen als zu teuer und auch die Miete von “CaptureOne for Sony” ist fragwürdig, 
+gerade wenn du es nicht jeden Monat verwendest, ist es schon eine relativ hohe Ausgabe.&lt;/p&gt;
+
+&lt;p&gt;Bei einigen Programmen gibt es die Version entweder zu kaufen oder zu Mieten und bei denen kannst du im Diagramm ganz gut sehen, ab wann sich die Kaufversion kostenmäßig lohnt. 
+Bei CaptureOne for Sony und ACDSee Ultimate kreuzen sich die Linien bei ca. 12,5 Monaten und bei CaptureOne Pro etwa im 14. Monat. 
+Willst du immer die aktuellste Version haben, fährst du mit dem Abo günstiger. Solltest du jedoch einmal eine Version auslassen oder reicht es dir sogar bei der gekauften Version zu bleiben, bietet sich der Kauf an.&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;Ein abschließendes Fazit beim RAW-Konverter-Test zu ziehen ist gar nicht so einfach, da sich die Programme im Umfang und den Kosten schon sehr stark unterscheiden und es daher auf den Anwendungsfall und die Anforderungen ankommt. 
+Generell lassen sich aber mit jedem Programm gute Ergebnisse erzielen.&lt;/p&gt;
+
+&lt;p&gt;Solltest du zudem von einem Programm auf ein anderes Umsteigen wollen, oder gar mehrere gleichzeitig einsetzen wollen, so gibt es außerdem noch einige Dinge zu beachten und davor eventuelle Migrationsschritte durchzuführen. 
+Grundsätzlich lässt sich sagen, dass im Normalfall die Bildbewertungen und die Farblabels zwischen den Programmen übernommen werden können, die Bildbearbeitungsinformationen jedoch nicht.&lt;/p&gt;
+
+&lt;h2 id=&quot;empfehlung-für-sparfüchse&quot;&gt;Empfehlung für Sparfüchse&lt;/h2&gt;
+&lt;p&gt;Solltest du kein Geld ausgeben wollen und eine Kamera von Sony oder Fuji besitzen würde ich dir &lt;strong&gt;CaptureOne Express&lt;/strong&gt; nahe legen. 
+Ich fand die Bedienung sehr intuitiv und der Umfang ist mehr als ausreichend um RAW-Bilder zu entwickeln.&lt;/p&gt;
+
+&lt;p&gt;Sicherlich ist die Version dafür gedacht, damit die Nutzer irgendwann einmal auf die kostenpflichtigen Versionen umzusteigen, aber das musst du ja nicht und wenn doch, dann weißt du was du bekommst.&lt;/p&gt;
+
+&lt;h2 id=&quot;empfehlung-für-ungeduldige&quot;&gt;Empfehlung für Ungeduldige&lt;/h2&gt;
+&lt;p&gt;Solltest du kein großes Interesse haben, dich tiefergehend mit der Bildbearbeitung zu beschäftigen und es immer sehr schnell gehen muss, würde ich dir zu &lt;strong&gt;Luminar von Skylum&lt;/strong&gt; raten. 
+Jedoch nur, wenn du einen aktuellen, leistungsstarken PC besitzt.&lt;/p&gt;
+
+&lt;p&gt;Luminar nimmt dir sehr viel ab und mit wenigen Klicks kannst du einiges aus den Rohdaten des Fotos holen. 
+Sogar so viel, dass du vom Ausgangsmaterial kaum noch etwas erkennst, was man natürlich mögen muss, aber Geschmäcker sind bekanntlich verschieden ;)&lt;/p&gt;
+
+&lt;h2 id=&quot;meine-wahl&quot;&gt;Meine Wahl&lt;/h2&gt;
+&lt;p&gt;Nach etlichen Überlegungen habe ich mich für eine Kombination aus &lt;strong&gt;CaptureOne for Sony und Affinity Photo&lt;/strong&gt; entschieden, setze das seit etlichen Wochen ein und bin sehr zufrieden mit beiden Programmen.&lt;/p&gt;
+
+&lt;p&gt;Der einzige Wermutstropfen den ich habe, ist dass ich meine bisherigen Bilder damit nicht nochmal bearbeiten kann, weil ich diese mit einer Nikon-Kamera aufgenommen habe. 
+Da ich aber alle alten Bilder schon bearbeitet und dafür schließlich meine “Uralt-Software” weiternutzen kann, 
+ist es für mich ok und die Möglichkeit war mir der hohe Preisunterschied zwischen der “for Sony” und der “Pro”-Variante nicht wert.&lt;/p&gt;
+
+&lt;p&gt;Dazu muss ich sagen, dass CaptureOne Mitte Januar 2021 die Preise stark erhöht hat und ich noch davor zuschlagen konnte, wodurch ich etwa 85 Euro gespart habe. 
+Preislich lagen damals zwischen der “For Sony” und der “Pro”-Variante etwa 200 Euro, also mehr als die “for Sony”-Version gekostet hat. 
+Klar wäre es schön die Möglichkeit zu haben, irgendwann nochmal die alten Bilder zu bearbeiten, aber nicht für den Preis.&lt;/p&gt;
+
+&lt;p&gt;Auch bei Affinity Photo habe ich mit dem Preis Glück gehabt und ein Schnäppchen gelandet. 
+Denn um die, durch die Corona-Pandemie angeschlagene Kreativszene zu unterstützen, hat der Hersteller seine Software mit 50% Rabatt verkauft, und für 27,99€ musste ich nicht lange überlegen ;)&lt;/p&gt;
+
+&lt;p&gt;Ich hoffe, die Blogserie hat dir geholfen einen besseren Überblick über die vorgestellten RAW-Konverter zu bekommen. 
+Lass mich gerne in den Kommentaren wissen was dein Favorit unter den Programmen ist und was du daran so magst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet. Zwar würde ich prinzipiell jedem empfehlen, auch alle möglichen Programme auszuprobieren um festzustellen, was einem zusagt und was nicht. Kann aber durchaus verstehen, wenn du das nicht machen willst und nach einer Abkürzung in Form von Erfahrungsberichten und Empfehlungen suchst.</summary></entry><entry><title type="html">Affinity Photo, Bildbearbeiter mit RAW-Konverter</title><link href="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/" rel="alternate" type="text/html" title="Affinity Photo, Bildbearbeiter mit RAW-Konverter" /><published>2021-02-18T00:00:00+01:00</published><updated>2021-02-18T00:00:00+01:00</updated><id>https://gamue.de/serif-affinity-photo</id><content type="html" xml:base="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/">&lt;p&gt;&lt;a href=&quot;https://affinity.serif.com/de/photo/&quot;&gt;Affinity Photo von der Firma Serif&lt;/a&gt; ist in erster Linie ein Bildbearbeitungsprogramm, mit dem sich komplexe Bildmanipulationen vornehmen lassen können. 
 Die Anwendung verfügt zudem aber auch über die Möglichkeit der RAW-Konvertierung und genau diese habe ich mir detaillierter angeschaut.&lt;/p&gt;
 
 &lt;p&gt;Meine Meinung dazu und ob die Funktion, in meinen Augen, mit den anderen RAW-Konvertern mithalten kann, findest du in diesem Artikel.&lt;/p&gt;
@@ -728,7 +885,7 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
   &lt;li&gt;&lt;a href=&quot;/adobe-lightroom-der-platzhirsch-der-raw-konverter/&quot;&gt;Adobe Lightroom, der Marktführer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/capture-one-profianwendung-ohne-abozwang/&quot;&gt;Capture One, Profianwendung ohne Abozwang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/affinity-photo-bildbearbeitung-mit-raw-konverter/&quot;&gt;Affinity Photo, Bildbearbeitungsprogramm mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;weitere Artikel folgen.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/das-grosse-fazit-beim-raw-konverter-test/&quot;&gt;Mein Fazit&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
 Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
 
@@ -819,172 +976,4 @@ Lass dich nicht von Leuten beeinflussen, die sagen man muss immer in RAW fotogra
 Beispiele dafür sind Familienaufnahmen, wenn ich mal etwas auf Internetportalen verkaufen möchte oder Infotexte und Karten auf irgendwelchen Touren.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ich hoffe, ich konnte dir das Thema genauer erklären und würde mich über Feedback freuen. Lass mich auch gerne wissen, in welchem Format du fotografierst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Fotowissen" /><summary type="html">Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.</summary></entry><entry><title type="html">Mein Jahresrückblick 2020</title><link href="https://gamue.de/mein-jahresrueckblick-2020/" rel="alternate" type="text/html" title="Mein Jahresrückblick 2020" /><published>2021-01-01T00:00:00+01:00</published><updated>2021-01-01T00:00:00+01:00</updated><id>https://gamue.de/jahresrueckblick-2020</id><content type="html" xml:base="https://gamue.de/mein-jahresrueckblick-2020/">&lt;p&gt;Das Jahr 2020 ist nun Geschichte und ich glaube so ziemlich jeder ist froh darum. Was für ein herausforderndes und unerwartetes Jahr. 
-Hätte man mir zu Beginn des Jahres erzählt, was sich alles verändert, ich hätte denjenigen als verrückt abgetan.&lt;/p&gt;
-
-&lt;p&gt;Denn Jahresanfang, inklusive Jahreswechsel 2019/2020, habe ich in Paris verbracht, 
-war im Januar mit hunderten Menschen auf einem Konzert und habe euphorisch die nächsten Reisen nach Bali und Slowenien geplant… bis Mitte März die Corona-Pandemie kam, die alles auf den Kopf gestellt hat. 
-Grenzen wurden dicht gemacht, sowohl zu anderen Staaten als teilweise auch innerhalb Deutschlands, was zu einer sehr undurchsichtigen Lage geführt hat. 
-Relativ schnell wurde klar, dass die geplanten Reisen so nicht stattfinden können und wir haben schweren Herzens eine nach der anderen stornieren müssen.&lt;/p&gt;
-
-&lt;h1 id=&quot;hochzeitsfeier-während-einer-pandemie&quot;&gt;Hochzeitsfeier während einer Pandemie&lt;/h1&gt;
-
-&lt;p&gt;Ein besonderes Thema, dass dieses Jahr für uns im Fokus war, war unsere Hochzeit im Juli. 
-Der Termin war schon letztes Jahr angesetzt, Einladungen verschickt und dann kommt eine Pandemie daher, in der Kontaktbeschränkungen und Auflagen für Feiern und die Gastronomie auf einmal den Alltag bestimmen. 
-Auch wenn wir “nur” mit ca. 50 Personen geplant hatten zu feiern, macht man sich schon Gedanken, ob es verantwortlich ist, 
-am Termin festzuhalten und bangt bei jeder Sitzung des Bundestags oder Berliner Senats, bei der neue Restriktionen oder Lockerungen auf der Agenda stehen. 
-Am Ende ist alles gut gelaufen und ich hatte den schönsten Tag in meinem Leben.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Hochzeitsbild&quot; width=&quot;1200&quot; height=&quot;800&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Bild von Marc Leppin Hochzeitsfotografie&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Zwar gab es einige Einschränkungen und Auflagen, die wir einhalten mussten, aber für uns waren alle tragbar und es hat sich trotzdem noch nach Hochzeit angefühlt. 
-Wir konnten im Standesamt unsere Familien bei uns haben und am nächsten Tag mit den meisten unserer Freunde feiern, 
-da waren Dinge wie maskierte Kellner oder größerer Abstand zwischen den Tischen nebensächlich. 
-Im Nachhinein betrachtet bin ich auch sehr froh, dass wir die Feier nicht verschoben haben, 
-denn gegen Spätsommer wurden die Restriktionen wieder deutlich verschärft und sowohl Gäste beim Standesamt, als auch eine solche Feier dann nicht mehr erlaubt.&lt;/p&gt;
-
-&lt;p&gt;In die Flitterwochen ging es anstatt mit dem Flieger nach Bali, mit dem Mietwagen durch Deutschland. 
-Definitiv etwas anderes, aber sicherlich auch nicht schlecht, denn Deutschland hat echt sehr viele schöne Ecken, 
-besonders das Berchtesgadener Land und Allgäu sind aus meiner Sicht immer eine Reise wert. 
-Aber auch entspannte Tage im Moseltal bei gutem Essen und Wein, kann man sich mal gönnen.&lt;/p&gt;
-
-&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
-  
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0468.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0697.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0697.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0697.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0697.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0697.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0868.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0868.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0868.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0868.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0868.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2020_07_deutschland/Deutschland_0962.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0962.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0962.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0962.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2020_07_deutschland/Deutschland_0962.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;750&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-  
-&lt;/figure&gt;
-
-&lt;script&gt;
-    new SimpleLightbox({elements: '.image-gallery a'});
-&lt;/script&gt;
-
-&lt;p&gt;Die kompletten Bilder zur Reise findest du übrigens &lt;a href=&quot;/photography/deutschland-2020/&quot;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;in-den-eigenen-vier-wänden&quot;&gt;In den eigenen vier Wänden&lt;/h1&gt;
-
-&lt;p&gt;Was auch nicht zu verachten war, war mal für mehrere Wochen aus den eigenen vier Wänden herauszukommen, 
-denn wir beide haben seit Mitte März von zu Hause aus gearbeitet, was sich, meiner Meinung nach, auch nicht bis Mitte 2021 ändern wird. 
-Sich daran zu gewöhnen, hat eine ganze Weile gedauert und ist in einer 2-Zimmer-Wohnung sicherlich immer noch nicht optimal, 
-ich komme aber deutlich besser damit zurecht, als ich bisher dachte. Zuerst hatte ich nicht gedacht, dass es eine Dauerlösung ist, 
-nachdem die Homeoffice-Dauer jedoch immer wieder verlängert worden ist, habe ich dann doch in einen ordentlichen Schreibtischstuhl 
-und bei der nächsten Verlängerung in einen höhenverstellbaren Schreibtisch investiert. Beides definitiv unter meinen besten Anschaffungen dieses Jahres :D&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Homeoffice&quot; width=&quot;1200&quot; height=&quot;900&quot; /&gt;
-&lt;figcaption&gt;&lt;p&gt;Mein neuer Schreibtisch und Stuhl&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Die ganzen Kontaktbeschränkungen, geschlossenen Läden und Verbote haben dazu geführt, dass 2020 auch sonst ein richtiges Stubenhocker-Jahr geworden ist. 
-Neben den stark gestiegenen Stunden, die ich mit dem Schauen von Serien oder Spielen von Konsolenspielen verbracht habe, konnte ich aber auch einige private Projekte vorantreiben.&lt;/p&gt;
-
-&lt;p&gt;Die Homepage hat mehrere größere Änderungen erfahren und ich hab so viele Artikel geschrieben, wie lange nicht mehr. 
-Das hat zudem auch dazu geführt, dass ich mich mit etlichen neuen Technologien, wie beispielsweise React, TailwindCSS oder GitHub Actions beschäftigt habe 
-und sogar zu einigen Open-Source-Projekten etwas beitragen konnte.&lt;/p&gt;
-
-&lt;p&gt;Nach etlichen Jahren bin ich nun mit den Reisebildern auf einem aktuellen Stand und habe keine unverarbeiteten Fotos mehr auf meinen Festplatten. 
-Das war ein echtes Mammutprojekt, denn im Laufe der Jahre haben sich mehrere tausend Dateien angesammelt. 
-Jetzt, nachdem die Bilder der Trips nach &lt;a href=&quot;/photography/&quot;&gt;Paris, Belize, Japan, Jordanien, Georgien, Vietnam und durch Deutschland&lt;/a&gt; online sind, bin ich echt froh, 
-es endlich geschafft zu haben und hab etliches über Bildbearbeitung gelernt bzw. mein Wissen aufgefrischt und Arbeitsschritte optimiert.&lt;/p&gt;
-
-&lt;figure class=&quot;flex flex-wrap galleryReisen&quot;&gt;
-  
-      &lt;a href=&quot;/assets/photography/2019_12_paris/Paris_207b.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2019_12_paris/Paris_207b.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2019_12_paris/Paris_207b.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2019_12_paris/Paris_207b.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2019_12_paris/Paris_207b.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2019_04_belize/Belize_0317.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2019_04_belize/Belize_0317.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2019_04_belize/Belize_0317.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2019_04_belize/Belize_0317.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2019_04_belize/Belize_0317.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2017_04_japan/Japan_0501.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_04_japan/Japan_0501.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_04_japan/Japan_0501.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2017_04_japan/Japan_0501.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_04_japan/Japan_0501.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2017_11_jordanien/Jordanien_680b.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2017_11_jordanien/Jordanien_680b.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2017_11_jordanien/Jordanien_680b.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2017_11_jordanien/Jordanien_680b.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2017_11_jordanien/Jordanien_680b.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_06_georgien/Georgien_0424b.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_06_georgien/Georgien_0424b.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_06_georgien/Georgien_0424b.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_06_georgien/Georgien_0424b.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_06_georgien/Georgien_0424b.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/photography/2018_01_vietnam/Vietnam_0211.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg 100w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/photography/2018_01_vietnam/Vietnam_0211.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
-      &lt;/a&gt;
-  
-  
-&lt;/figure&gt;
-
-&lt;script&gt;
-    new SimpleLightbox({elements: '.galleryReisen a'});
-&lt;/script&gt;
-
-&lt;p&gt;Dabei habe ich gemerkt, dass es mir mehr Spaß macht, mich mit aktuelleren Bildern zu beschäftigen, weil ich daraus am meisten für meine Fotografie lernen kann. 
-Beim Durchschauen der älteren Bilder sind mir teilweise technische oder künstlerische Probleme, wie stark überbelichtete Bereiche oder ungünstige Blendeneinstellungen aufgefallen. 
-Dinge, bei denen ich mittlerweile weiß, wie ich diese verhindern bzw. ihnen entgegenwirken kann. 
-Auch sonst habe ich mich wieder mehr mit der Fotografie beschäftigt und mir sogar eine neue Ausrüstung zugelegt, 
-mit der ich mich in der nächsten Zeit intensiver auseinandersetzen möchte.&lt;/p&gt;
-
-&lt;h1 id=&quot;hoffnung-auf-ein-normaleres-2021&quot;&gt;Hoffnung auf ein normaleres 2021&lt;/h1&gt;
-
-&lt;p&gt;Die meisten meiner Vorsätze und Ziele für dieses Jahr drehen sich um diese Projekte, auch weil das ein Bereich ist, den ich selbst beeinflussen kann. 
-Wer weiß, wie sich die weltweite Situation durch die Impfstoffe und Mutationen verändert und wie lange es dauert, bis sich der Alltag wieder normalisiert. 
-Gerne würde ich wieder mehr unterwegs sein, gehe jedoch leider nicht davon aus, dass Fernreisen schon möglich sein werden, 
-wäre jedoch bereits glücklich, falls der europäische Kontinent eine Option ist.&lt;/p&gt;
-
-&lt;p&gt;Bis es wieder auf Achse geht, habe ich in jedem Fall geplant, mehr in Berlin zu fotografieren, gibt hier ja schließlich etliche Sehenswürdigkeiten und Fotomotive. 
-Falls du daher Lust auf eine gemeinsame Fototour oder ein Shooting hast, gib Bescheid und dann können wir mal schauen, ob sich was ergibt ;)&lt;/p&gt;
-
-&lt;p&gt;Davor muss ich mich aber erstmal um ein neues Bildbearbeitungsprogramm kümmern, denn mein Bisheriges passt leider nicht mit der neuen Kamera zusammen, 
-oder besser gesagt nur über Umwege, und ich mag keine umständlichen Arbeitsabläufe :D&lt;/p&gt;
-
-&lt;p&gt;Ich drück uns in jedem Fall allen die Daumen, dass 2021 normaler, vorhersehbarer und planbarer wird. 
-Dass die stark gebeutelten Branchen sich erholen können und dass jeder das Jahr genießen kann.&lt;/p&gt;</content><author><name></name></author><category term="Allgemein" /><summary type="html">Das Jahr 2020 ist nun Geschichte und ich glaube so ziemlich jeder ist froh darum. Was für ein herausforderndes und unerwartetes Jahr. Hätte man mir zu Beginn des Jahres erzählt, was sich alles verändert, ich hätte denjenigen als verrückt abgetan.</summary></entry></feed>
+&lt;p&gt;Ich hoffe, ich konnte dir das Thema genauer erklären und würde mich über Feedback freuen. Lass mich auch gerne wissen, in welchem Format du fotografierst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Fotowissen" /><summary type="html">Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.</summary></entry></feed>
