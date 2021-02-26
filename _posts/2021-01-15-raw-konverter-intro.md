@@ -87,7 +87,7 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 5. [Adobe Lightroom, der Marktführer][8]
 6. [Capture One, Profianwendung ohne Abozwang][9]
 7. [Affinity Photo, Bildbearbeitungsprogramm mit RAW-Konverter][10]
-6. weitere Artikel folgen.
+8. [Mein Fazit][11]
 
 [1]: {% post_url 2021-01-03-raw-oder-jpeg %}
 [2]: {% post_url 2020-10-03-sony-a6400 %}
@@ -99,3 +99,4 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 [8]: {% post_url 2021-02-07-adobe-lightroom %}
 [9]: {% post_url 2021-02-13-capture-one %}
 [10]: {% post_url 2021-02-18-serif-affinity-photo %}
+[11]: {% post_url 2021-02-26-raw-konverter-fazit %}
