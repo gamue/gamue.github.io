@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% if page.pagination.enabled %}
+
+  {%- if page.pagination.category -%}
+    {%- assign currentPostsHeadline = 'Aktuelle ' | append: page.pagination.category | append: '-Artikel im Blog' -%}
+    {%- assign allPostsLabel = 'Alle ' | append: page.pagination.category | append: '-Artikel' -%}
+    {%- assign allPostsUrl = page.pagination.category | slugify | prepend: 'category/' | append: '/' | relative_url -%}
+  {%- else -%}
+    {%- assign currentPostsHeadline = 'Aktuelle Artikel im Blog' -%}
+    {%- assign allPostsLabel = 'Alle Artikel' -%}
+    {%- assign allPostsUrl = '/blog/' -%}
+  {%- endif -%}
+
+  <section class="container text-gray-700">
+    <h2 class="mt-12 mb-6 px-4">{{currentPostsHeadline}}</h2>
+    <div class="flex flex-wrap">
+      {% for post in paginator.posts %}
+        {% include post-summary-grid-view.html %}
+      {% endfor %}
+    </div>
+    <div class="flex justify-center mt-8">
+      <a href="{{allPostsUrl}}" class="btn">{{allPostsLabel}}</a>
+    </div>
+  </section>
+{% endif %}
