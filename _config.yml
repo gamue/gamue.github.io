@@ -101,11 +101,6 @@ autopages:
   collections:
     enabled: false
 
-category_archive:
-  type: liquid
-  path: /categories/
-
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -135,3 +130,6 @@ cloudinary:
 
 analytics:
   google_tracking_id: "UA-177618947-1"
+
+accounts:
+  instagram: "https://www.instagram.com/gamue16/"

@@ -41,7 +41,7 @@ Und ja, der Eiffelturm ist sehr oft vertreten...ist aber auch schön :D
 Zusätzlich habe ich die Bilder in der ["Here, There and Everywhere"-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}) chronologisch absteigend sortiert, 
 so dass man neue Bilder einfacher sehen würde. Ich denke aber nicht, dass ich dort welche hinzufüge, solange ich bei den längeren Reisen nicht fertig bin.
 
-Wer mir auf [Instagram](https://www.instagram.com/gamue16/) folgt hat zudem gemerkt, dass ich dort regelmässiger gepostet hab. Wollte ich eigentlich letztes Jahr schon machen, aber nun eben jetzt :D 
+Wer mir auf [Instagram]({{site.accounts.instagram}}) folgt hat zudem gemerkt, dass ich dort regelmässiger gepostet hab. Wollte ich eigentlich letztes Jahr schon machen, aber nun eben jetzt :D 
 Und falls ihr mir noch nicht folgt: Ich würde mich natürlich über ein Abo freuen. Über die Stories könnt ihr auf dem Laufenden bleiben, denn dort poste ich nicht so zeitversetzt.
 
 Im März wird es vermutlich keinen Post geben, da ich viel unterwegs sein werde. Inklusive einem etwas längerem Trip nach Slowenien, 

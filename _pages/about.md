@@ -123,7 +123,7 @@ Hi, ich bin Johannes. Weltenbummler, Hobbyfotograf und Technikfreak.
 Auf dieser privaten Homepage möchte ich dir Bilder von meinen Reisen zeigen, sowie über Fotografie, 
 Technologie, Gadgets und natürlich meine Abenteuer schreiben.
 
-Folge mir auch gerne auf [Instagram](https://www.instagram.com/gamue16/), um auf dem Laufenden zu bleiben. 
+Folge mir auch gerne auf [Instagram]({{site.accounts.instagram}}), um auf dem Laufenden zu bleiben. 
 Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich die Homepage entsprechend aktualisiere.
 
 <div class="clear-both"></div>
