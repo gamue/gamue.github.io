@@ -33,7 +33,7 @@ Nach dem anschließenden Handgemenge, fand ich mich vor der Tür wieder, ehe ich
 
 Im Juli hatte es mich auch schon in die Nordmetropole gezogen, damals für einen Junggesellenabschied. 
 Eigentlich waren wir davon ausgegangen, dass der künftige Bräutigam in einem komplett rosa Fussballer-Outfit auffällt, 
-jedoch sind wir dann in den <a href="http://www.schlagermove.de/" target="_blank">Schlagermove</a> geraten und waren 
+jedoch sind wir dann in den [Schlagermove](https://schlagermove.de/) geraten und waren 
 umgeben von tausenden Hippies in Neon-Klamotten und Blümchenketten, um dort aufzufallen hätten wir wohl was anderes gebraucht.
 
 Mit dem Vorangegangenen als Vergleich war dieses Mal deutlich ruhiger 😀
@@ -41,10 +41,10 @@ Mit dem Vorangegangenen als Vergleich war dieses Mal deutlich ruhiger 😀
 Freitags genossen wir auf der Hafenmauer einen Weißwein und wunderten uns über die vielen Leute in Lederhose und 
 Dirndl (Mal ehrlich: Muss wirklich jeder Ort sein eigenes Oktoberfest machen?), ehe es samstags nach einer Diskussion 
 über Musik (in der mein Geschmack ziemlich durchgefallen ist, was ich als bedenklich ansehe, 
-denn ich bin nicht derjenige bei dem sich das <a href="https://www.youtube.com/watch?v=9M3njkjzxy0" target="_blank">„Total Eclipse of the Heart“-Cover aus „Glee“</a> in der Playlist findet^^) auf Bartour ging.
+denn ich bin nicht derjenige bei dem sich das [„Total Eclipse of the Heart“-Cover aus „Glee“](https://www.youtube.com/watch?v=9M3njkjzxy0) in der Playlist findet^^) auf Bartour ging.
 
-Beim Revue passieren lassen des Abends am nächsten Morgen hatte ich mich teilweise gefragt ob wir wirklich zusammen weg waren, 
+Beim Revue passieren lassen des Abends am nächsten Morgen hatte ich mich teilweise gefragt, ob wir wirklich zusammen weg waren, 
 denn von White Russians, Schnapsrunden oder der ein oder anderen Bar taucht in meiner Version nichts auf…
-na ja ich verbuch das einfach mal wieder unter einem gewöhnlich skurrilen Hamburg-Trip 😛
+na ja ich verbuche das einfach mal wieder unter einem gewöhnlich skurrilen Hamburg-Trip 😛
 
 Apropos Trips und Reisen: Mein Rucksack steht schon gepackt neben mir und in ein paar Stunden geht’s auf ins nächste Abenteuer \*yeah\*

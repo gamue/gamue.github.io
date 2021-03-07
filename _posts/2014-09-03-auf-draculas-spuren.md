@@ -42,7 +42,7 @@ Auf jeden Fall auch eine gemütliche Stadt, mit einem markanten „Wahrzeichen�
 woher die Idee stammt? Hmm schwierig…es war aber nicht die einzige Stadt im Umkreis die ihren Namen auf einen Berg geschrieben hat. 
 Auf unserem Ausflug am folgenden Tag haben wir das noch mal gesehen und andere Orte im Umkreis haben es anscheinend auch noch…solche Spinner ^^
 
-Der Ausflug war zum Schloss Bran, dem so genannten Draculaschloss, 
+Der Ausflug war zum Schloss Bran, dem sogenannten Draculaschloss, 
 da es angeblich als Inspiration für [Bram Stokers Buch Pate](http://de.wikipedia.org/wiki/Bram_Stoker) statt. 
 Der echte Dracula, hat es hingegen vermutlich nie betreten. Also die Touristenfalle schlecht hin, was einem spätestens dann klar werden muss, 
 wenn man den Weg nach oben gehen will, den man muss erst durch eine Vielzahl von Souvenirbuden, 
@@ -51,4 +51,4 @@ was auch auf Tourifalle hinweist.
 
 Das Schloss an sich ist recht klein und ein netter Tagesausflug, mehr aber auch nicht. Hätte mir definitiv mehr erhofft 🙁
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

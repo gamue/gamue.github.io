@@ -34,7 +34,7 @@ Bernhardinern das Fass klauen oder an „Weinseminaren“ teilnehmen. Nach über
 der ersten Schneeballschlacht des Winters, ist dann aber auch mal gut man muss es ja nicht übertreiben.
 
 Am nächsten Tag sind wir noch durch die herbstlichen Weinberge in der Nähe gefahren, was eine beeindruckende Landschaft war. 
-In Vevey (selbst für französische Maßstäbe ein komischer Name), hat irgendein Künstler gemeint er muss eine 
+In Vevey (selbst für französische Maßstäbe ein komischer Name), hat irgendein Künstler gemeint, er muss eine 
 riesige Gabel in den Genfer See stecken…dass Ihn niemand davon abgehalten hat. Aber vielleicht hat’s ja eine größere Bedeutung 😉
 
-{% include gallery.html %}
+{% include gallery.html layout="half" %}

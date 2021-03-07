@@ -57,8 +57,8 @@ davor auf der [Homepage](http://www.neweuropetours.eu/) zu erkundigen ob es daf�
   
 Aber zurück: Amsterdam wird immer als Drogenhochburg dargestellt, ich muss aber sagen, 
 dass mir weniger Leute „psst…psst…Dope, Ecstasy, Weed…wanna buy?“ andrehen wollten als in Barcelona. 
-Was aber nicht heißt, dass die Gestalten in den dunklen Gassen es nicht sehr oft versucht hätten.  
+Was aber nicht heißt, dass die Gestalten in den dunklen Gassen es nicht sehr oft versucht hätten.
 Amsterdam war auch meine letzte Station bevor es wieder über die deutsche Grenze in Richtung Bremen und direkt in 
 einen kleinen Stau ging…typisch deutsche Autobahnen.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

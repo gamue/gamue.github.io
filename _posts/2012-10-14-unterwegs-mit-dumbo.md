@@ -38,4 +38,4 @@ Feldern rund um den Nationalpark gesucht, auch wenn mir mal wieder jeder davor g
 
 Einige Stunden später saß ich dann zum Abschied quicklebendig bei Kerzenschein im Hotelrestaurant, es war mal wieder Stromausfall 😛
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

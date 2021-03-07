@@ -24,8 +24,8 @@ Wieder einmal per Zug ging es in das ca. 120km entfernte Sighisoara, was ledigli
 Klingt fast nach einem neuen Geschwindigkeitsrekord in der rumänischen Zugfahrtsgeschichte. ^^
 
 [Sighisoara](http://de.wikipedia.org/wiki/Sighi%C8%99oara) wurde uns von mehreren Leuten auf der Reise empfohlen 
-und sollte eine schöne mittelalterliche Stadt sein, wenn man aus dem Bahnhof aussteigt sieht man davon erstmal gar nichts 
-und eigentlich möchte man auch gleich den Fahrplan anschauen um zu prüfen wie man dort wieder weg kommt. 
+und sollte eine schöne mittelalterliche Stadt sein, wenn man aus dem Bahnhof aussteigt, sieht man davon erstmal gar nichts 
+und eigentlich möchte man auch gleich den Fahrplan anschauen um zu prüfen wie man dort wieder wegkommt. 
 Aber dann würde man der Stadt Unrecht tun, denn das kleine Zentrum auf dem Berg inklusive Zitadelle, hat schon Flair.
 
 Nach dem Abladen unseres Gepäcks in der Unterkunft ging es auf Erkundungstour, 
@@ -34,13 +34,13 @@ wirklich umwerfend war es aber nicht. Vor dem Hintergrund, dass es uns oft empfo
 [Rothenburg ob der Tauber](http://de.wikipedia.org/wiki/Rothenburg_ob_der_Tauber) ist auf jeden Fall deutlich schöner 😉
 
 In Sighisoara findet man wieder Haufenweise Straßenschilder und Erklärungen an Statuen auf Deutsch, 
-eine Tatsache die mich immer wieder irritiert hatte. An den vielen Dracula- und Vampirmemoralien, 
-die überall verkauft wurden, konnte man aber doch noch erkennen dass man in Transsilvanien war. 
+eine Tatsache, die mich immer wieder irritiert hatte. An den vielen Dracula- und Vampirmemoralien, 
+die überall verkauft wurden, konnte man aber doch noch erkennen, dass man in Transsilvanien war. 
 Wobei die Souvenirhändler auch vieles im Programm hatten, bei dem mir der Zusammenhang unerschlossen blieb. 
 Aber vielleicht bin ich auch der Einzige, der Venezianische Karnevalsmasken, Cowboy- und Piraten-Hüte nicht mit Rumänien oder Transsilvanien verbindet?!
 
-Eine der Attraktionen des Ortes ist das Geburtshaus von Dracula, dort konnte man, natürlich gegen teueren Eintritt, 
-das Zimmer bestaunen in dem er geboren wurde und wie er die ersten Jahre gelebt hat. 
+Eine der Attraktionen des Ortes ist das Geburtshaus von Dracula, dort konnte man, natürlich gegen teuren Eintritt, 
+das Zimmer bestaunen, in dem er geboren wurde und wie er die ersten Jahre gelebt hat. 
 Fanden wir jetzt nicht wirklich spannend, weswegen wir es uns nicht angeschaut hatten. 
 Dieser ganze, gekünstelte Vampir- und Draculakult macht meiner Meinung nach soviel kaputt. 
 Hoffentlich nimmt das wieder ab und man fokussiert sich auf Geschichte und Kultur anstatt zu versuchen den Touristen allen möglichen Quatsch anzudrehen.
@@ -53,4 +53,4 @@ In Petrosani hatten wir zum Beispiel für Essen und Trinken 11 Euro gezahlt, zus
 In so Touristenhochburgen, wie Sighisoara ist es natürlich etwas teurer, aber immer noch vergleichsweise billig. 
 Mit vollen Magen und guter Laune hat einem auch das Wetter nicht viel ausgemacht, das sich nun dauerhaft trübe und regnerisch gab.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

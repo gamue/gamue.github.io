@@ -22,15 +22,15 @@ tags:
 
 Wie schon erwähnt hatten wir den Plan der Inselumrundung aufgegeben, doch was sollte man mit den restlichen Tagen auf der Insel machen? 
 Wir sind erst einmal wieder Richtung Reykjavik gefahren, weil von dort alle Busse losfahren und man zu Orten, 
-die auf der einen Busroute liegen, schlecht zu einem anderen Ort kommt der nicht auf der selben Buslinie liegt, 
+die auf der einen Busroute liegen, schlecht zu einem anderen Ort kommt, der nicht auf derselben Buslinie liegt, 
 und mögen es nur ein paar Kilometer sein…Da gehört echt mal ein gescheites Busnetz hin 🙁
 
 Auf der Rückfahrt hat unser Bus bei fast jedem unserer bisherigen Stopps halt gemacht,
- so dass man die letzten Tage noch mal Revue passieren lassen konnte.
+sodass man die letzten Tage noch mal Revue passieren lassen konnte.
 
 Nach einem kurzen Stopp auf dem Campingplatz in Islands Hauptstadt ging es dann am nächsten Tag auf den Golden Circle. 
-Der „Golden Circle“ ist DIE Touri-Reiseroute in Island, also eigentlich eher nicht das was ich normalerweise mache, 
-aber es wäre auch ganz schön blöd wenn man sich das entgehen lässt und wenn dann der 08/15-Touri fragen zu Island stellt, 
+Der „Golden Circle“ ist DIE Touri-Reiseroute in Island, also eigentlich eher nicht das, was ich normalerweise mache, 
+aber es wäre auch ganz schön blöd, wenn man sich das entgehen lässt und wenn dann der 08/15-Touri fragen zu Island stellt, 
 kann ich sagen „ja, war ich auch, geh da hin“…dann verkommt der Rest vom Land wenigstens nicht zum Massenmagnet \*hehe\*
 
 Die Route geht von Reykjavik nach Thingvellir über Geysir zum Gulfoss. Es gibt manche Busunternehmen die machen alles innerhalb von einem Tag, 
@@ -52,7 +52,7 @@ man nur aufstehen muss…Wald, haha xD
 Auf dem nahe gelegenen Zeltplatz war so gut wie gar nichts los, aber warum auch, es gab ja nicht wirklich was zu sehen und 
 eigentlich wären wir auch gerne wieder weiter gezogen. Zu allem Überfluss fing es auch noch an zu regnen. 
 Normalerweise ändert sich das Wetter in Island alle 5 Minuten, dieses Mal war es aber langer Regen. 
-Was die Stimmung bisschen in den Eimer fallen ließ, da konnte ich dann nichts weiter machen als den Regentropfen zuzuhören, 
+Was die Stimmung bisschen in den Eimer fallen ließ, da konnte ich dann nichts weiter machen, als den Regentropfen zuzuhören, 
 wie sie auf mein Zelt tropfen und auf den nächsten Morgen warten.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

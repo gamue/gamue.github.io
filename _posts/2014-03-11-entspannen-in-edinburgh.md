@@ -27,13 +27,13 @@ das Leben und auch einige Anekdoten erfährt.
 So gibt es scheinbar immer noch einen Neuigkeiten-Schreier der 3 Tage, nach dem in London oder dem Britischen Königreich etwas passiert ist, 
 es auf dem Marktplatz ausruft. Die 3 Tage Wartezeit kommen daher, da das früher die Zeit war, die ein Postreiter gebraucht hat&#8230;
 Das es in der heutigen Zeit dann schon jeder weiß, ist egal, hauptsache Tradition^^. 
-So eine Free City Tour ist jedenfalls was Feines wenn man eine Städtereise macht, kann ich nur empfehlen!
+So eine Free City Tour ist jedenfalls was Feines, wenn man eine Städtereise macht, kann ich nur empfehlen!
 
-Neben der Altstadt bietet Edinburgh auch ein paar Hügel im Umkreis von der man einen sehr guten Blick über die Dächer der Stadt hat. 
-Leider war das Schloss gerade für ein Konzert eingerüstet, so dass ich davon keine besonders tollen Bilder machen konnte. 
-Aber es gab ja auch noch andere schöne Flecken an denen man sich Ausruhen konnte, sei es auf dem Calton Hill, 
+Neben der Altstadt bietet Edinburgh auch ein paar Hügel im Umkreis, von denen man einen sehr guten Blick über die Dächer der Stadt hat. 
+Leider war das Schloss gerade für ein Konzert eingerüstet, sodass ich davon keine besonders tollen Bilder machen konnte. 
+Aber es gab ja auch noch andere schöne Flecken, an denen man sich Ausruhen konnte, sei es auf dem Calton Hill, 
 in einem Park oder einfach im [gemütlichen Hostel](http://www.royalmilebackpackers.com). 
 Gerade richtig um den, doch teilweise anstrengenden aber sehr schönen Urlaub gemächlich ausklingen zu lassen, 
 bevor ich mir erneut ein paar Stunden die easyJet-Werbeshow über den Wolken reinziehen musste ehe ich wieder Berliner Boden unter meinen Füßen spürte.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

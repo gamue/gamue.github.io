@@ -32,7 +32,7 @@ An erholsamen Schlaf war aber auch nicht mehr wirklich zu denken.
 
 Am nächsten Morgen erst einmal das Offensichtlichste geklärt: 
 Der Schwarzwaldausflug fällt aus und mein Bruder kommt mit seiner Frau und Tochter nicht. 
-Abgesehen davon dass sie eine Risikogruppe sind, arbeiten beide im Gesundheitssektor und da muss man jetzt nichts riskieren.
+Abgesehen davon, dass sie eine Risikogruppe sind, arbeiten beide im Gesundheitssektor und da muss man jetzt nichts riskieren.
 Meine Oma, die ich eine gefühlte Ewigkeit nicht mehr gesehen habe, hätte ich an dem Wochenende auch sehr gerne besucht, 
 aber abgesehen davon, dass das Altenheim nun ein 4-wöchiges Besuchsverbot hat, hätte ich es angesichts der Lage aber auch nicht gemacht. 
 Denn selbst, wenn ich zu dem Zeitpunkt die Maßnahmen eher belächelt habe, 
@@ -53,7 +53,7 @@ dass sich die Lage so extrem zuspitzt, wären wir wohl erst gar nicht geflogen.
 Da wir es aber sind, kann man dann nur das Beste aus der Lage zu machen und immerhin konnte ich wieder Zeit mit meinen Eltern verbringen 
 ...und wenn wir mal ehrlich sind, gibt es schlimmere Orte für eine Quarantäne als bei den Eltern mit leckerem Essen im Überfluss :P
 
-{% include gallery.html %}
+{% include gallery.html layout="half" %}
 
 Weil wir bei der Hotline niemanden erreicht hatten und uns an die Vorschriften halten wollten, 
 hatten wir also keine andere Wahl als unser Wochenendtrip um 5 Tage zu verlängern und die kommende Woche vom Süden Deutschlands aus zu arbeiten. 

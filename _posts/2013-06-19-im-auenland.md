@@ -51,4 +51,4 @@ Am Anfang war die Umgebung eher karg und lebensfeindlich, mit den Schneefeldern 
 je weiter wir aber kamen hat sich das Bild verändert und am Ende waren wir in einer blühenden Umgebung angelangt.
 Wodurch wir den Laugavegur geschafft hatten, das erhabene Glücksgefühl konnte auch der wiedergekehrte Nieselregen nicht nehmen 🙂
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

@@ -54,4 +54,4 @@ Erdnussbutter und Fladenbrot in Olivenöl gegessen.
 
 P.S.: Und an alle die sich wundern, ja mir ist bewusst, dass Apfel normalerweise nicht auf meinem Speiseplan steht ^^
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

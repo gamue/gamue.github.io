@@ -36,19 +36,19 @@ Zufälligerweise hatte ich noch Tomatensoße aus Oslo im Gepäck^^
 
 Sibiu war richtig erholsam, mittags bei praller Sonne ein Softeis, von einem der Dutzend Verkäufer in der Fußgängerzone, 
 und abends ab und an ein Bier oder Radler. Was auch nicht zu verachten ist, war die Tatsache, 
-dass ich eine ganze Weile Chucks anstatt meiner Wanderstiefel an hatte, da fühlt man sich gleich leichter. 
+dass ich eine ganze Weile Chucks anstatt meiner Wanderstiefel anhatte, da fühlt man sich gleich leichter. 
 Als wären die Füße nur mit leichtem Stoff umwickelt&#8230;ok wirklich was anderes ist es ja tatsächlich auch nicht.
 
 Wer die letzten Einträge gelesen hat, der hat vielleicht eine Vorahnung an was es mir wieder mangeln sollte&#8230;genau, Schlaf. 
-Sibiu ist zwar eine größere Stadt, aber es fahren schienbar nur zweimal am Tag Züge in das Retezatgebirge. 
+Sibiu ist zwar eine größere Stadt, aber es fahren scheinbar nur zweimal am Tag Züge in das Retezatgebirge. 
 Einmal morgens um 3:00 und einmal mittags um 3:00, mit letzterem kann man den Tag eigentlich gleich abhaken. 
 Da wir jedoch endlich loswandern wollten, hatten wir uns daher für den ersten entschieden..yuppie yeah.
 
-Und so kam es dass wir an dem Tag davor schon um 22:00Uhr in den Betten lagen, 
+Und so kam es dass wir an dem Tag davor schon um 22:00 Uhr in den Betten lagen, 
 die jugendlichen Gäste des Hostels hatten aber andere Pläne und so war ich dann doch noch länger als erhofft wach. 
-Dafür ging das zusammenpacken morgens um 2:00Uhr auch nicht sonderlich leise von statten…tz tz tz, einmal Respekt vor dem Alter haben xD
+Dafür ging das zusammenpacken morgens um 2:00 Uhr auch nicht sonderlich leise von statten…tz tz tz, einmal Respekt vor dem Alter haben xD
 
 Eine gefühlte Ewigkeit im Zug und an der Umsteigehaltestelle später war es aber dann endlich soweit und die Wanderung im 
 Retezatgebirge konnte beginnen. Also zumindest nachdem uns ein Taxi zum Ausgangspunkt gefahren hatte&#8230;so lauffaul^^
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

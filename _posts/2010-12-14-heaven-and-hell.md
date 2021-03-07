@@ -72,4 +72,4 @@ Nach den ganzen Strapazen des Tages hat ich dann endlich Ruhe und konnte mir die
 Da ist mir klar geworden: Ich mag eigentlich keine Städte, die damit verbundene Hektik und den Lärm. 
 Ich mag die Natur, das Zwitschern der Vögel, den Wind in den Haaren und die Ruhe…das ist Entspannung.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

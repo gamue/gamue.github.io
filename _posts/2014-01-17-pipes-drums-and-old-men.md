@@ -34,14 +34,14 @@ gab es noch einen Grund mehr den Supermarkt zu plündern und sich die Bäuche mi
 Zum krönenden Abschluss des Tages gab es dann noch etwas typisch Schottisches, ein Straßenkonzert der Isle of Skye Pipe Band auf dem Dorfplatz. 
 Weil Dudelsäcke, Trommeln und all die Klimperdinger Marschinstrumente sind, lief die Truppe immer 10m vor, 
 dann wieder zurück und manchmal wurde auch einfach nur auf der Stelle marschiert, 
-Hauptsache der große Zampano konnte seinen Stock hoch und runter bewegen 😀 Aber Spaß bei Seite, die waren schon gut und unterhaltsam.
+Hauptsache der große Zampano konnte seinen Stock hoch und runterbewegen 😀 Aber Spaß bei Seite, die waren schon gut und unterhaltsam.
 
 So ein Ruhetag war schon ganz angenehm, aber man will ja auch noch etwas von der Gegend sehen und so ging es dann am 
 Folgetag per Linienbus zum Old Man of Storr, einer ziemlich einzigartigen Felsformation. Der Weg auf den Berg war recht leicht, aber trotzdem steil. 
 Was mir jedoch immer wieder in Schottland aufgefallen war und auch noch einige Male sollte, war dass sehr viele Bäume abgeholzt wurden, 
-so dass nahezu kein Baum weit und breit mehr stand 🙁
+sodass nahezu kein Baum weit und breit mehr stand 🙁
 
 Oben auf dem Berg, bzw. ein paar Aussichtspunkten auf dem Weg dahin, hatte man den besten Blick auf die Felsnadeln des Old Man of Storr, 
 welche sich faszinierend in der Landschaft erheben. Die kleine Wanderung ist auf jeden Fall zu empfehlen, falls man mal in der Nähe ist 😉
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

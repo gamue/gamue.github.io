@@ -52,4 +52,4 @@ Wenn man eine richtige Stelle erwischt hat war es ganz entspannend,
 an falschen Stellen erfror man entweder vom kalten Bergwasser oder verbrannte am heißen Vulkanwasser, 
 manchmal jedoch auch beides gleichzeitig 😀
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

@@ -26,7 +26,7 @@ tags:
 
 Von Inverness ging mit einer Busfahrt, auf der man aus dem Staunen nicht mehr herauskam, auf die Isle of Skye. 
 Weil Schottlands meist fotografierte Burg, das Eilean Donan Castle, auf der Strecke lag, wurde da ein kurzer Zwischenstopp 
-eingelegt um selbst ein paar Fotos davon zu machen 😉 Auf den meisten Bildern die man im Netz findet wirkt die 
+eingelegt, um selbst ein paar Fotos davon zu machen 😉 Auf den meisten Bildern, die man im Netz findet, wirkt die 
 Sehenswürdigkeit mitten in einem See gelegen, jedoch war gerade Ebbe, weswegen der Anblick schon etwas ernüchternd aber trotzdem noch faszinierend war. 
 Da kann man schon nachvollziehen, warum es schon in so manchen [Filmen als Location](http://www.imdb.com/search/title?locations=Eilean%20Donan%20Castle%2C%20Kyle%20of%20Lochalsh%2C%20Highland%2C%20Scotland%2C%20UK&ref_=ttloc_loc_26) herhalten durfte.
 
@@ -51,4 +51,4 @@ Zusätzlich hat die permanent anhaltende Sonne auch Ihre Spuren hinterlassen, ei
 Körper hatten daher einen ziemlichen Rotstich, was mir viel Häme von den anderen Reisenden in der Unterkunft eingebracht hat…
 aber egal nach einer Weile wird das bei mir sowieso braun, und wer hätte das von einem Schottland-Urlaub gedacht 😀
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

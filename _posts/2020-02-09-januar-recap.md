@@ -27,9 +27,9 @@ Auch wenn die Bilder der letzten Reisen noch etwas auf sich warten lassen, war i
 Sobald die zugehörigen Fotos fertig sind, werden diese zwar noch aufgehübscht, aber die Informationen über die Reisen nach [Belize]({% link _pages/countries/belize.md %}), 
 [Georgien]({% link _pages/countries/georgien.md %}), [Japan]({% link _pages/countries/japan.md %}), 
 [Jordanien]({% link _pages/countries/jordanien.md %}) und [Vietnam]({% link _pages/countries/vietnam.md %}) sind schon vorhanden, 
-so dass man sich da gerne inspirieren lassen kann.
+sodass man sich da gerne inspirieren lassen kann.
 
 Ansonsten ging es im Januar noch auf [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv?si=9G-ZupjGQbCoH5xRqNNiDg) Konzert, 
 die Ausstrahlung der Typen ist einfach grandios und es gab viel zu lachen. Man darf nur die Lieder nicht ganz so ernst nehmen :D
 
-{% include gallery.html %}
+{% include gallery.html layout="half" %}

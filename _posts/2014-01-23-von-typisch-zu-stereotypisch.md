@@ -21,12 +21,12 @@ tags:
 ---
 
 Die Altstadt von Stirling ist sehr überschaubar, aber dennoch schön. Auf einem kleinen Hügel vor den Toren der Stadt steht das Wallace Monument, 
-was an das Leben von <del>Mel Gibson</del> William Wallace und den Sieg bei der „<a href="https://de.wikipedia.org/wiki/Schlacht_von_Stirling_Bridge" target="_blank">Schlacht an der Stirling Brücke</a>“ erinnern soll. 
+was an das Leben von <del>Mel Gibson</del> William Wallace und den Sieg bei der „[Schlacht an der Stirling Brücke](https://de.wikipedia.org/wiki/Schlacht_von_Stirling_Bridge)“ erinnern soll. 
 Auch sonst bietet Stirling geschichtlich einiges, vieles davon war sogar auch interessant 😉
 
 Da ich ja recht planlos nach Stirling gegangen bin, wusste ich nicht wirklich was man alles machen konnte, 
 schlimm war es aber nicht, da ich leicht die Zeit gefüllt bekommen habe. Unweit von Stirling liegt auch eine 
-<a href="https://www.deanstonmalt.com/" target="_blank">Whisky-Destille</a> die man mit dem Linienbus erreichen kann und da 
+[Whisky-Destille](https://www.deanstonmalt.com/) die man mit dem Linienbus erreichen kann und da 
 Whisky zweifelsfrei zu Schottland gehört war ich wohl gezwungen mir die Herstellung dieses Nationalguts näher anzuschauen 😛
 
 Prinzipiell schon interessant wie das ganze abläuft, da ich aber auch schon in Brauereien gesehen habe wie Bier hergestellt wird 
@@ -37,13 +37,13 @@ scheint aber sowieso die Verkostung am Schluss die meiste Aufmerksamkeit der Bes
 
 In meiner Gruppe war unter anderem auch ein asiatisches Pärchen, die Frau hat schon am Anfang den Whisky abgelehnt, 
 der Mann hingegen wollte mal probieren. Als ich dann auch ein kleines Glas vor mir stehen hatte und gerade zum Probieren ansetzte, 
-hörte ich ein starkes Husten aus der Ecke, dem Asiaten war es anscheinend zu stark&#8230;manche Vorurteile bekomm ich wohl nie aus meinem Kopf, 
+hörte ich ein starkes Husten aus der Ecke, dem Asiaten war es anscheinend zu stark&#8230;manche Vorurteile bekomme ich wohl nie aus meinem Kopf, 
 und das mit Asiaten und Alkohol ist eines davon 😀
 
-Am Abend bin ich mit ein paar Reisenden aus dem Hostel noch etwas um den Block gezogen um das schottische Nachtleben zu erkunden. 
+Am Abend bin ich mit ein paar Reisenden aus dem Hostel noch etwas um den Block gezogen, um das schottische Nachtleben zu erkunden. 
 Kaum waren wir aus der Tür hörten wir schon ein paar Schreie, irgendwelches Gegröle und kurze Zeit später wimmelte es von Polizisten und Security, 
-die sich um einen offensichtlich stark angetrunkenen versammelten. Dass er dann auch noch meinte er müsse die Polizisten anschreien 
+die sich um einen offensichtlich stark angetrunkenen versammelten. Dass er dann auch noch meinte, er müsse die Polizisten anschreien 
 und beschimpfen war für ihn nicht sonderlich hilfreich, und so lag er dann kurze Zeit später am Boden und wurde in Handschellen abtransportiert. 
 Super Abend ^^
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

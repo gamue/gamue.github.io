@@ -21,24 +21,24 @@ tags:
   - Reisebericht
 ---
 
-Inverness liegt wenige Fahrminuten vom Loch Ness entfernt, gut das wir im Hostel 2 Hamburger Jungs kennen gelernt hatten, 
+Inverness liegt wenige Fahrminuten vom Loch Ness entfernt, gut das wir im Hostel 2 Hamburger Jungs kennengelernt hatten, 
 die Schottland mit dem Mietauto erkundeten. So ging es dann zusammen mit denen einmal um den sagenumwobenen See, 
-natürlich wurde immer mal wieder in den unzähligen Haltebuchten gestoppt um nach Nessie Ausschau zu halten und die Landschaft auf Bildern festzuhalten.
+natürlich wurde immer mal wieder in den unzähligen Haltebuchten gestoppt, um nach Nessie Ausschau zu halten und die Landschaft auf Bildern festzuhalten.
 
 Neben den ganzen „Monster von Loch Ness“-Merchandising Buden und Museen gibt es eine weitere Attraktion, 
 das Urquhart Castle…oder zumindest das was davon übrig geblieben ist. Weil es vom höher gelegenen Parkplatz jetzt 
 nicht sonderlich spannend aussah und der Eintrittspreis stark nach Wucher roch, gönnten wir uns nur den Blick von außen. 
 Da die Hamburger an dem Tag noch eine größere Strecke vor sich hatten, trennten sich gegen Mittag unsere Wege.
 
-Jetzt gab‘s in der Region, rund um Inverness und Loch Ness nichts besonders spektakuläres, 
+Jetzt gab's in der Region, rund um Inverness und Loch Ness nichts besonders Spektakuläres, 
 es sei denn man trifft auf Nessie, aber damit hatte ich jetzt nicht unbedingt gerechnet. 
 Bisschen was von der Gegend sollte man sich jedoch anschauen, wenn man schon da ist und zufällig verläuft von Loch Ness 
 zurück zu Inverness [eine Etappe des Great Glen Way](http://www.walkhighlands.co.uk/lochness/drumnadrochit-inverness.shtml), 
-die wir dann gewandert sind. Prinzipiell nicht schlecht um etwas die Landschaft kennen zu lernen, 
+die wir dann gewandert sind. Prinzipiell nicht schlecht um etwas die Landschaft kennenzulernen, 
 aber auch nicht wirklich der Hit und die 30km als Auftaktetappe haben an den Füßen schon ein paar Spuren hinterlassen (Sorry Nicole^^). 
 Hätte man das vorher gewusst, hätte man sich das sparen können…aber hätte, wäre, wenn hilft nie weiter.
 
-Am nächsten Tag gab‘s zur Erholung nur eine kleine Besichtigungsrunde rund um Inverness, was eine deutlich besser war. 
+Am nächsten Tag gab's zur Erholung nur eine kleine Besichtigungsrunde rund um Inverness, was eine deutlich besser war. 
 Ist echt eine recht schöne und gemütliche Stadt.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

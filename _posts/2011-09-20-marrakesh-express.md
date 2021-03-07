@@ -48,4 +48,4 @@ und zum anderen haben sich die Straßen geleert, so dass wir uns nicht mehr durc
 Auch außergewöhnlich war meine Schlafgelegenheit, das erste mal seit langem mal wieder eine richtige Matraze unter mir zu spüren&#8230;herrrlich, 
 da hat es sich schon mal etwas besser schlafen lassen. Und als Hintergrundkulisse das nächtliche Plätschern des Regens ^^
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

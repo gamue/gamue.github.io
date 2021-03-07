@@ -26,7 +26,7 @@ soviel schon mal vorab: tagelang Mountain Dew saufen, mach ich auch nicht nochma
 [Meine Unterkunft](http://www.freebornhostel.com/index.html) war auch etwas skurril, 
 nachdem Empfang durch einen Australier, gab es erstmal einen Willkommensschnaps…Noroc!
 
-Alle Angestellten vom Hostel waren zudem ziemlich verplant, so dass es am Ende nicht genug Betten gab und ich daher 
+Alle Angestellten vom Hostel waren zudem ziemlich verplant, sodass es am Ende nicht genug Betten gab und ich daher 
 einfach bei jemand daheim geschlafen hab. Bei der Homepage hätte ich haber schon wissen müssen, dass es etwas unorthodox werden könnte.
 
 Die Stadt an sich war ruhig und hat mir sehr gefallen, vor allem die Innenstadt mit der Kathedrale und der Oper war sehr ansehnlich. 
@@ -39,8 +39,8 @@ Hat sich auch als ziemlich praktikabel, wenn auch nicht ganz stressfrei herausge
 So sollte es auch beim nächsten Streckenabschnitt sein, da die Zugfahrt verhältnismäßig teuer und lange war, 
 hab ich mich für den „Bus“ entschieden. Beim Blick auf die Abfahrtszeiten hatte ich kurz gedacht, 
 dass man mir schon wieder böse mitspielen und meinen Schlaf stehlen will. 
-Hab mich dann aber doch nicht für 5:30Uhr entschieden und die humane Alternative um 10:00Uhr gewählt. 
+Hab mich dann aber doch nicht für 5:30 Uhr entschieden und die humane Alternative um 10:00 Uhr gewählt. 
 So konnte ich mal wieder ein paar Stunden schlafen, ehe ich eingepfercht in einem Sprinter, 
-in dem auch Vögel in einem Karton mittransportiert wurden, die 6 stündige Weiterreise nach Sibiu gestartet habe.
+in dem auch Vögel in einem Karton mittransportiert wurden, die 6-stündige Weiterreise nach Sibiu gestartet habe.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

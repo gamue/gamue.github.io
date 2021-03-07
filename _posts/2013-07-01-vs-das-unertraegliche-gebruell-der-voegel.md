@@ -29,15 +29,15 @@ Hab mich irgendwie an die Fußballwiesen der Dorfvereine in meiner Heimat erinne
 wir hatten darin zwischenzeitlich ordentlich Übung, ging es mal wieder auf einen Berg. Und wieder mal zu einem Wasserfall, dieses Mal zum Svartifoss.
 
 Als ich davor stand, war ich schon etwas enttäuscht, denn im Vergleich zu denen die wir bisher gesehen hatten war der doch schon mickrig. 
-Man muss zwar zu Gute halten, dass es noch recht früh im Sommer war, so dass die Wassermassen erst noch vom Berg kommen, 
+Man muss zwar zugutehalten, dass es noch recht früh im Sommer war, sodass die Wassermassen erst noch vom Berg kommen, 
 aber irgendwie doch schon eine kleine Enttäuschung.
 
-Das besondere am Svartifoss ist das Gestein an den Klippen: Basalt. Es ist schon beeindruckend was für Formen die Natur hervorbringt. 
+Das Besondere am Svartifoss ist das Gestein an den Klippen: Basalt. Es ist schon beeindruckend was für Formen die Natur hervorbringt. 
 Das säulenartige Gebilde hat daher schon etwas entschädigt^^
 
 Der Wasserfall war nicht sehr weit vom Campingplatz entfernt, von daher hatten wir uns gedacht können wir noch ein Stück weiterlaufen, 
 ansonsten rosten wir ja noch ein, bisher saßen wir an dem Tag ja fast nur im Bus. 
-Zufällig gab es einen anschließenden Rundtrip der weiter hoch zum Gletscher führte. Mit der Zeit hat man gespürt, 
+Zufällig gab es einen anschließenden Rundtrip, der weiter hoch zum Gletscher führte. Mit der Zeit hat man gespürt, 
 dass man dem Eis immer näher kam, denn es wurde deutlich kälter. Und irgendwann stand man dann vor einer faszinierenden Kulisse, 
 überall waren Schneezungen, die sich vom Gletscher ins Land gefräst haben.
 
@@ -52,7 +52,7 @@ Die haben vielleicht ein Theater veranstaltet und dann konnten die nicht mal ric
 wie man es vom heimischen Federvieh gewohnt ist. Sondern haben die komischsten Töne, die ich je von Tieren gehört habe, von sich gegeben. 
 Ein paar hatten sich nach einem Handyklingelton angehört, andere hatten etwas von einer quietschenden Schraube und ein Flattermann 
 erinnerte doch stark an einen Raumschifflaser. Und da soll man dann entspannen oder gar schlafen können, 
-immer mit der Vorahnung dass gleich ein Gorn oder sonstige Außerirdische irgendwo landen und man in einen intergalaktischen Konflikt rein gezogen wird…
+immer mit der Vorahnung, dass gleich ein Gorn oder sonstige Außerirdische irgendwo landen und man in einen intergalaktischen Konflikt reingezogen wird…
 ohje, ich brauchte wirklich Schlaf xD
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

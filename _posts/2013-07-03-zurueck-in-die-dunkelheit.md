@@ -22,14 +22,14 @@ tags:
   - Reisebericht
 ---
 
-Zweiter Stopp auf dem Golden Circle ist Geysir, Namensgeber der Geysire. Also so ein Wasserspritzdingens das sich auflädt und dann Wusch macht 😀
+Zweiter Stopp auf dem Golden Circle ist Geysir, Namensgeber der Geysire. Also so ein Wasserspritzdingens, das sich auflädt und dann Wusch macht 😀
 
-Dass hier der Mainstream-Tourismus Fuß gefasst hat merkt man daran, dass es außer dem Feld voller Geysire nur einen riesigen Souvenirladen, 
+Dass hier der Mainstream-Tourismus Fuß gefasst hat, merkt man daran, dass es außer dem Feld voller Geysire nur einen riesigen Souvenirladen, 
 ein Restaurant und ein Hotel in der Nähe gibt. Wenn man es dann noch nicht gerafft hat, 
-fallen einem vielleicht die Schuppen von den Augen wenn man mitten im Gedränge steht, auf den Ausbruch des Geysires wartet 
+fallen einem vielleicht die Schuppen von den Augen, wenn man mitten im Gedränge steht, auf den Ausbruch des Geysires wartet 
 und versucht mal ein Foto ohne komische Menschen zu schießen :/
 
-Wir waren wieder vor der Wahl hier zu bleiben oder weiterzufahren, da wir alle es nicht ganz so spektakulär fanden ging es dann weiter zum Gulfoss, 
+Wir waren wieder vor der Wahl hier zu bleiben oder weiterzufahren, da wir alle es nicht ganz so spektakulär fanden, ging es dann weiter zum Gulfoss, 
 einem gigantischen Wasserfall. Hier das gleiche Bild wie bei den Geysiren. Busse setzen massenweise Touristen ab, 
 die dann auf den dafür vorgesehenen Wegen in Heerscharen zur Attraktion laufen. Da es vorwiegend Mitmenschen eines älteren Semesters waren, 
 ging das sehr schleichend, was ich mal so was von gar nicht ausstehen kann.
@@ -40,8 +40,8 @@ die mit ihren Tablets Fotos machen oder sich irgendwo in einer „voll süßen�
 Bernd und Markus schien es ähnlich zu gehen, waren wir doch nach Island auch wegen der Abgeschiedenheit gekommen. 
 Und so machte sich auf den letzten Tagen ein Tief in unseren Gemütern breit.
 
-Der Golden Circle war, bis auf Thingvellir ziemlich enttäuschend und so sind wir dann auch schnell wieder zurück nach Reykjavik 
-gefahren um dort auf unserem Basis-Campingplatz noch die restliche Zeit zu genießen.
+Der Golden Circle war, bis auf Thingvellir ziemlich enttäuschend und so sind wir dann auch schnell wieder zurück nach Reykjavik gefahren, 
+um dort auf unserem Basis-Campingplatz noch die restliche Zeit zu genießen.
 
 Nach knapp 3 Wochen waren wir alle froh, wenn mal kein Instantzeugs auf der Speisekarte stand und in Islands Hauptstadt 
 hat sich das glücklicherweise einrichten lassen. Durch einen Grillabend, ein All-You-Can-Eat Buffet mit einer menge Fleisch 
@@ -54,11 +54,11 @@ an so was hatte ich schon in mehreren Städten teilgenommen und wurde noch nie e
 
 Irgendwann hieß es dann aber auch das Zelt ein letztes Mal zusammenbauen, zum Flughafen aufbrechen und ab Richtung Deutschland. 
 Der Abflug war irgendwann gegen Mitternacht, aber wir hatten bereits jegliches Zeitgefühl verloren und waren schon gespannt 
-wie es uns bekommt dass wir am nächsten Tag wieder Dunkelheit sehen sollten 😉
+wie es uns bekommt, dass wir am nächsten Tag wieder Dunkelheit sehen sollten 😉
 
 Der Islandtrip war in so vielen Punkten ganz anders als meine vorherigen Touren, aber in einem Punkt war der Urlaub dann doch gleich: 
 Es war ein faszinierendes Abenteuer und etwas das ich nicht vergessen werde!
 
 P.S.: Wen der Trip aus Bernds Sicht interessiert, dem sei hiermit [sein Blog](http://berndhardiner.de/) ans Herz gelegt 😉
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}

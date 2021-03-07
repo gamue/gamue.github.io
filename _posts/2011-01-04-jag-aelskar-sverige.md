@@ -89,6 +89,6 @@ Taiwanesischen Nationalfeiertag eingeladen, die Ehre hab ich mir natürlich nich
   
 Da mein Flug wieder recht früh von Stavska abging, musste ich noch früher aufstehen und mich auf den Weg Richtung Heimat machen. 
 Da natürlich kein Kiosk aufhatte um mir ein Ticket zu holen hab ich den Busfahrer bequatscht, wodurch ich dann einfach so mitfahren durfte…
-selbst Schuld wenn die so eine Quatschregelung haben.
+selbst Schuld, wenn die so eine Quatschregelung haben.
 
-{% include gallery.html %}
+{% include gallery.html layout="third" %}
