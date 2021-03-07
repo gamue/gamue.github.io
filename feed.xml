@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-03-03T21:07:20+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Was ist der beste RAW-Konverter?</title><link href="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/" rel="alternate" type="text/html" title="Was ist der beste RAW-Konverter?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-fazit</id><content type="html" xml:base="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/">&lt;p&gt;Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-03-07T11:27:19+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Was ist der beste RAW-Konverter?</title><link href="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/" rel="alternate" type="text/html" title="Was ist der beste RAW-Konverter?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-fazit</id><content type="html" xml:base="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/">&lt;p&gt;Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet.
 Zwar würde ich prinzipiell jedem empfehlen, auch alle möglichen Programme auszuprobieren um festzustellen, was einem zusagt und was nicht. 
 Kann aber durchaus verstehen, wenn du das nicht machen willst und nach einer Abkürzung in Form von Erfahrungsberichten und Empfehlungen suchst.&lt;/p&gt;
 
@@ -195,17 +195,15 @@ Zusätzlich gibt es noch eine spezielle Ansicht, in der du einen Vorher-Nachher-
 Die RAW-Entwicklung ist zwar möglich, jedoch vermisse ich zu viele Optionen, die ich in meinem bisherigen Arbeitsablauf sonst häufig verwende.&lt;/p&gt;
 
 &lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
-  
-      &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+  &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; class=&quot;flex-none p-1.5 w-full sm:w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;822&quot; crossorigin=&quot;anonymous&quot; /&gt;
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 400w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;822&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+  &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; class=&quot;flex-none p-1.5 w-full sm:w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;821&quot; crossorigin=&quot;anonymous&quot; /&gt;
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 400w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;821&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
   
@@ -628,17 +626,15 @@ Dafür habe ich bisher eine alte Photoshop Version verwendet, was mit dem Nachte
 und du so nicht auf weitere Software angewiesen bist. Im unteren Beispiel habe ich den Kran aus dem Foto entfernt, was prinzipiell gut funktioniert hat, aber schau einfach selbst, ob es dir auffallen würde ;)&lt;/p&gt;
 
 &lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
-  
-      &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+  &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; class=&quot;flex-none p-1.5 w-full sm:w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 400w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+  &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; class=&quot;flex-none p-1.5 w-full sm:w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 400w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
   
@@ -775,17 +771,15 @@ Das ist natürlich sehr ärgerlich und würde bedeuten, dass du nur mit den JPGs
 &lt;p&gt;Nachdem die Dateien umgewandelt worden sind, sollten sie nun problemlos von deinem älteren Programm erkannt werden. Hier ein Beispiel von meinen Bildern als RAW- und als DNG-Dateien.&lt;/p&gt;
 
 &lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
-  
-      &lt;a href=&quot;/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+  &lt;a href=&quot;/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg&quot; class=&quot;flex-none p-1.5 w-full sm:w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;2140&quot; height=&quot;1554&quot; crossorigin=&quot;anonymous&quot; /&gt;
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg 400w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;2140&quot; height=&quot;1554&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
-  
-      &lt;a href=&quot;/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg&quot; class=&quot;flex-none p-1.5 w-1/2&quot;&gt;
+  &lt;a href=&quot;/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg&quot; class=&quot;flex-none p-1.5 w-full sm:w-1/2&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_300/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_100/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 100w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_250/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 250w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 400w&quot; sizes=&quot;100vw&quot; width=&quot;2140&quot; height=&quot;1554&quot; crossorigin=&quot;anonymous&quot; /&gt;
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/https://gamue.de/assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg 400w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;2140&quot; height=&quot;1554&quot; crossorigin=&quot;anonymous&quot; /&gt;
       &lt;/a&gt;
   
   
