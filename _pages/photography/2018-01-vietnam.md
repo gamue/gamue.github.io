@@ -9,4 +9,4 @@ header:
     overlay_filter: rgba(200, 200, 200, 0.6)
 ---
 
-{% include content/image-gallery.html folder="/assets/photography/2018_01_vietnam" %}
+{% include gallery.html folder="/assets/photography/2018_01_vietnam" layout="quarter" equal_height="true" %}

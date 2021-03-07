@@ -12,9 +12,9 @@
 
 <article class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-4">
     {%- if teaser -%}
-    <div class="h-64 mb-2 overflow-hidden rounded-md">
+    <div class="h-64 mb-2 overflow-hidden rounded-md cover-img">
         <a href="{{ post.url | relative_url }}" rel="permalink" title="{{title}}">
-        {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
+        {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="thumbnail" %}
         </a>
     </div>
     {%- endif -%}

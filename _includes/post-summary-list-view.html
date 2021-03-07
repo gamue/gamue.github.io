@@ -23,9 +23,9 @@
 
     <div class="flex">
         {%- if teaser -%}
-        <div class="flex-none h-48 w-full sm:w-48 mr-4 overflow-hidden rounded-md">
+        <div class="flex-none h-48 w-full sm:w-48 mr-4 overflow-hidden rounded-md cover-img">
             <a href="{{ post.url | relative_url }}" rel="permalink" title="{{ title }}">
-            {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="preview-image" %}
+            {% cloudinary thumbnail {{teaser | relative_url }} alt="" class="thumbnail" %}
             </a>
         </div>
         {%- endif -%}

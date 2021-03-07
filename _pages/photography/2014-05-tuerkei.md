@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_690.jpg
 ---
 
-{% include content/image-gallery.html folder="/assets/photography/2014_05_tuerkei" %}
+{% include gallery.html folder="/assets/photography/2014_05_tuerkei" layout="quarter" equal_height="true" %}

@@ -5,10 +5,10 @@ header:
     overlay_image: assets/photography/2020_07_deutschland/Deutschland_0334.jpg
 tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 gallery:
-  - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
-  - image_path: assets/photography/2017_04_japan/Japan_1425.jpg
-  - image_path: assets/photography/2017_04_japan/Japan_0711b.jpg
-  - image_path: assets/photography/2017_04_japan/Japan_1155.jpg 
+    - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
+    - image_path: assets/photography/2017_04_japan/Japan_1425.jpg
+    - image_path: assets/photography/2017_04_japan/Japan_0711b.jpg
+    - image_path: assets/photography/2017_04_japan/Japan_1155.jpg 
 gallery2:
     - image_path: assets/photography/2014_11_laos/Laos_059.jpg
     - image_path: assets/photography/2014_11_laos/Laos_096.jpg
@@ -16,7 +16,7 @@ gallery2:
     - image_path: assets/photography/2014_11_laos/Laos_306.jpg
     - image_path: assets/photography/2014_11_laos/Laos_589.jpg
 gallerySingle:
-  - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
+    - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
 sitemap: false
 published: false
 toc: true
@@ -136,7 +136,11 @@ Item
 
 # Gallery Third
 
-{% include gallery.html id="gallery2" %}
+{% include gallery.html id="gallery2" layout="third" %}
+
+# Gallery Quarter
+
+{% include gallery.html id="gallery2" layout="quarter" %}
 
 # Einzelbild
 

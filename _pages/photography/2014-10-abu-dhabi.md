@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_029.jpg
 ---
 
-{% include content/image-gallery.html folder="/assets/photography/2014_10_abu_dhabi" %}
+{% include gallery.html folder="/assets/photography/2014_10_abu_dhabi" layout="quarter" equal_height="true" %}

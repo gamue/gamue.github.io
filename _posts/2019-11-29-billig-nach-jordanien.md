@@ -57,7 +57,7 @@ denn auf dem Formular waren folgende Kriterien vorhanden:
 
 Warum man das nicht auf offiziellen Seiten findet, weiß ich bisher nicht.
 
-{% include gallery.html caption="Grenzübergang Wadi Araba (links) und Visadokument (rechts" %}
+{% include gallery.html caption="Grenzübergang Wadi Araba (links) und Visadokument (rechts)" %}
 
 
 ## Alternativen über Aqaba & Amman

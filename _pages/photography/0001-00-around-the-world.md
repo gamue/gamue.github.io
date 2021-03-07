@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg
 ---
 
-{% include content/image-gallery.html folder="/assets/photography/0000_misc" reverse="true" %}
+{% include gallery.html folder="/assets/photography/0000_misc" reverse="true" layout="quarter" equal_height="true" %}

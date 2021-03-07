@@ -7,4 +7,4 @@ header:
     overlay_image: assets/photography/2018_06_georgien/Georgien_0408.jpg
 ---
 
-{% include content/image-gallery.html folder="/assets/photography/2018_06_georgien" %}
+{% include gallery.html folder="/assets/photography/2018_06_georgien" layout="quarter" equal_height="true" %}

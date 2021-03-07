@@ -41,12 +41,11 @@
       @apply bg-gray-600 no-underline !important;
     }
 
-    .prose img{
-      @apply shadow-lg rounded-md mx-auto transform hover:scale-105 transition duration-300 ease-out;
+    .prose img, img.thumbnail{
+      @apply shadow-lg rounded-md mx-auto transform hover:scale-105 transition duration-500 ease-out;
     }
-
-    .preview-image{
-      @apply w-full h-full object-cover shadow-lg transform hover:scale-110 transition duration-500 ease-out;
+    .cover-img img{
+      @apply w-full h-full object-cover;
     }
 
     .filter-blur-1{
