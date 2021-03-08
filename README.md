@@ -7,6 +7,7 @@ Source code of my [private homepage](https://gamue.de).
 - Icons from [IcoMoon Free bundle](https://icomoon.io/app/#/select)
 - Table of Content by [jekyll-toc](ttps://github.com/allejo/jekyll-toc)
 - Using [SimpleLightbox](https://github.com/dbrekalo/simpleLightbox) for gallery overlays
+- Using [Masonry Library](https://masonry.desandro.com/) for (optional) gallery styling
 
 ## Frontmatter Optionen
 Folgende Optionen stehen im Frontmatter zur Verfügung:
@@ -31,7 +32,8 @@ Folgende Optionen stehen im Frontmatter zur Verfügung:
 - `toc`: `true` falls eine Inhaltsangabe oberhalb des Artikels angezeigt werden soll.
 - `full_width`: `true` falls die Seite über die vollständige Breite des `container`-Elements dargestellt werden soll.
 - `typography`: `false` falls das Tailwind-Typography Plugin für den Content der Seite nicht angewendet werden soll.
-- `lightbox`: `true` falls das SimpleLightbox-Skript in der Seite verfügbar sein soll. Jedoch nicht notwendig, wenn `gallery` gesetzt ist.   
+- `lightbox`: `true` falls das SimpleLightbox-Skript in der Seite verfügbar sein soll. Jedoch nicht notwendig, wenn `gallery` gesetzt ist.
+- `masonry`: `true` falls das Masonry-Skript in der Seite verfügbar sein soll.
 - `show_meta_data`: `true` falls Veröffentlichungsdatum und Lesezeit beim Artikel angezeigt werden soll.
 - `sitemap`: `false` falls die Seite oder der Artikel nicht in der Sitemap berücksichtigt werden soll.
 - `comments`: `true` falls auf der Seite die Kommentarfunktion angezeigt werden soll.

@@ -27,10 +27,16 @@
   {%- assign element_class = element_class | append: ' h-64 cover-img' -%}
 {%- endif -%}
 
+{%- if include.double_padding -%}
+  {%- assign element_class = element_class | append: ' p-3' -%}
+{%- else -%}
+  {%- assign element_class = element_class | append: ' p-1.5' -%}
+{%- endif -%}
+
 <figure class="flex flex-wrap {{galleryName}}">
   {% for img in gallery %}
       {%- assign file_path = img.image_path | default: img.path | relative_url -%}
-      <a href="{{ file_path }}" class="flex-none p-1.5 {{ element_class }}">
+      <a href="{{ file_path }}" class="flex-none {{ element_class }}">
         {% cloudinary thumbnail {{ file_path }} class="thumbnail" %}
       </a>
   {% endfor %}
@@ -41,4 +47,7 @@
 
 <script>
     new SimpleLightbox({elements: '.{{galleryName}} a'});
+{%- if include.masonry -%}
+    new Masonry( '.{{galleryName}}', { });
+{%- endif -%}
 </script>
