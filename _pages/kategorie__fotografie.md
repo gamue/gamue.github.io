@@ -23,8 +23,11 @@ pagination:
     Besonders auf Reisen ist die Kamera ein fester Bestandteil meines Gepäcks geworden, 
     sodass ich andere an den bewegenden Momenten und beeindruckenden Landschaften teilhaben lassen kann.
     </p>
+    <p class="mb-4">
+    Eine Auswahl meiner besten Bildern findest du auf der Portfolio-Seite.
+    </p>
     <p>
-        <a href="/photography/" class="btn">Zu meinen Reise- und Landschaftsbildern</a>
+        <a href="/portfolio-landscape/" class="btn">Reise- und Landschaftsbilder</a>
     </p>
     <h2 class="mb-6 mt-12">Du hast Lust gemeinsam Bilder zu machen?</h2>
     <p class="mb-4">
