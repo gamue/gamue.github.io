@@ -1,4 +1,156 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-03-08T17:17:28+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Was ist der beste RAW-Konverter?</title><link href="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/" rel="alternate" type="text/html" title="Was ist der beste RAW-Konverter?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-fazit</id><content type="html" xml:base="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/">&lt;p&gt;Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-03-12T20:42:47+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Bildergalerie im Masonry-Stil</title><link href="https://gamue.de/bildergalerie-im-masonry-stil/" rel="alternate" type="text/html" title="Bildergalerie im Masonry-Stil" /><published>2021-03-12T00:00:00+01:00</published><updated>2021-03-12T00:00:00+01:00</updated><id>https://gamue.de/masonry-layout</id><content type="html" xml:base="https://gamue.de/bildergalerie-im-masonry-stil/">&lt;p&gt;Die letzten Tage habe ich an der Darstellung der Bilder auf der Homepage gearbeitet und bin dabei teilweise verzweifelt, daher dachte ich, ich schreibe meine Erfahrungen in einen Blogpost. 
+Eventuell hilft es dir Zeit und Nerven zu sparen oder du kannst mir zeigen, was ich falsch gemacht habe.&lt;/p&gt;
+
+&lt;h1 id=&quot;ausgangslage&quot;&gt;Ausgangslage&lt;/h1&gt;
+&lt;p&gt;Auf der Seite habe ich bereits einige Varianten mehrere Bilder bzw. Galerien darzustellen:&lt;/p&gt;
+
+&lt;p&gt;Innerhalb eines Blogeintrags werden die Bilder in verkleinerter Form dargestellt, wobei ich deren Seitenverhältnis beibehalte und nur die Breite begrenze. 
+Das führt dazu, dass Bilder im Hochkant-Format deutlich größer angezeigt werden, als welche im Querformat. 
+Eigentlich nicht schlimm, aber das wirklich nervige daran ist, dass wenn ein Hochkant-Bild neben einem Querformat-Bild angezeigt wird, ein ziemlich größer Abstand zur nächsten Zeile entsteht.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg 320w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg 490w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg 660w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg 830w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildergalerie mit zu viel Whitespace&quot; width=&quot;1500&quot; height=&quot;1333&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Bildergalerie in einem Blogbeitrag mit zu viel Whitespace&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In den Reisegalerien werden die einzelnen Bilder in einer einheitlichen Querformat-Größe angezeigt, sodass dort, gerade bei Hochkant-Bildern, nur ein Ausschnitt sichtbar ist. 
+Der Vorteil davon ist, dass die Zeilen alle gleich hoch sind und man so schneller einen Überblick bekommt.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg 320w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg 490w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg 660w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg 830w,
+https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bildergalerie mit einheitlicher Bildgröße&quot; width=&quot;1500&quot; height=&quot;952&quot; /&gt;
+&lt;figcaption&gt;&lt;p&gt;Bildergalerie mit einheitlicher Größe der Vorschaubilder.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In beiden Fällen kann, mit Klick auf das jeweilige Bild, eine Vollbild-Ansicht erreicht werden, wofür ich die Bibliothek &lt;a href=&quot;https://github.com/dbrekalo/simpleLightbox&quot;&gt;SimpleLightbox&lt;/a&gt; nutze. 
+Das find ich sehr angenehm und will ich auch so beibehalten.&lt;/p&gt;
+
+&lt;h1 id=&quot;ziel&quot;&gt;Ziel&lt;/h1&gt;
+&lt;p&gt;Die Nachteile meiner bisherigen Varianten sind also entweder zu viel leere Fläche oder ein falsches Bildformat. 
+Das Bildformat hat mich bisher nicht sonderlich gestört. Da ich jetzt aber eine Portfolio-Seite, 
+mit den aus meiner Sicht besten Bildern erstellen wollte, und der Bildschnitt für die Wirkung oft sehr wichtig ist, 
+lege ich für den Anwendungsfall wert darauf, dass das Seitenverhältnis der einzelnen Bilder korrekt dargestellt wird.&lt;/p&gt;
+
+&lt;p&gt;Viel leere Fläche, besonders sehr unregelmäßige, wirkt aber auch nicht schön und daher war mein Ziel das Layout im Masonry-Stil zu erstellen. 
+“Masonry” bedeutet Mauerwerk und die vermutlich bekannteste Seite, die das einsetzt, ist Pinterest, weswegen es auch häufiger als Pinterest-Stil bezeichnet wird.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-layout.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-layout.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-layout.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-layout.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-layout.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_837/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-layout.jpg 837w&quot; sizes=&quot;100vw&quot; alt=&quot;Masonry-Layout&quot; width=&quot;837&quot; height=&quot;677&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bei der Darstellungsform werden die einzelnen Bilder, wie Steine in einem Gemäuer möglichst passend zusammengesetzt. 
+Hochkant-Bilder sind dadurch zwar immer noch deutlich größer als Bilder im Querformat, aber die Bildwirkung geht bei der Vorschau nicht verloren.&lt;/p&gt;
+
+&lt;h1 id=&quot;technische-umsetzung&quot;&gt;Technische Umsetzung&lt;/h1&gt;
+&lt;p&gt;Mein Ziel war es das Layout nur mit HTML und CSS hinzubekommen und ich will vorab schon sagen, dass es leider nicht funktioniert hat. 
+Ich habe etliche Stunden herumprobiert, aber irgendetwas hat immer nicht so gewollt, wie ich es wollte.&lt;/p&gt;
+
+&lt;p&gt;Aber vielleicht klappt das irgendwann in der Zukunft, denn aktuell gibt es &lt;a href=&quot;https://drafts.csswg.org/css-grid-3/&quot;&gt;einen Entwurf der W3C&lt;/a&gt; diesen Stil in den CSS-Standard aufzunehmen, 
+sodass künftige Browser dies im Standard unterstützen. 
+Der Nightly-Build von Firefox kann das anscheinend schon, aber da den so gut wie niemand verwendet, zählt das bisher leider nicht.&lt;/p&gt;
+
+&lt;h2 id=&quot;knapp-daneben-mit-css-columns&quot;&gt;Knapp daneben mit CSS-Columns&lt;/h2&gt;
+&lt;p&gt;Die CSS-only Variante, die meinem Ziel am nächsten gekommen ist, war die Nutzung von CSS-Columns.&lt;/p&gt;
+
+&lt;p&gt;Mein HTML-Code sieht folgendermaßen aus, wobei das &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;container&lt;/code&gt;-Element nicht zwingend nötig ist, sondern nur für eine begrenzte Seitenbreite sorgen soll.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;container&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;grid&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/600x200&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/500&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/400x600&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/800x600&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/800x600&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/600x600&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/600x600&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/500x600&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://via.placeholder.com/500x300&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Die zugehörigen CSS-Definitionen für die Variante sehen dann wie folgt aus:&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1000px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.grid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;columns&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+    &lt;span class=&quot;nl&quot;&gt;column-gap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1.5rem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.grid&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inline-block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;padding-bottom&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1.5rem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.grid&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Hier das Ergebnis davon:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-columns.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-columns.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-columns.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-columns.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-columns.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-columns.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Masonry mit CSS-Columns&quot; width=&quot;1538&quot; height=&quot;1457&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sieht nach dem gewünschten Mauerwerk aus, oder?&lt;/p&gt;
+
+&lt;p&gt;Leider nur fast, denn wenn du dir einmal genau die Reihenfolge der Elemente im HTML und auf dem Bild anschaust wirst du feststellen, dass diese vertikal und nicht horizontal angeordnet sind. 
+Für den ein oder anderen würde das sicherlich reichen, aber so habe ich leider keinen Einfluss darauf welche Bilder nebeneinander angezeigt werden. 
+Besonders weil ich nicht steuern kann, wann eine Zeile umbricht, können unpassende Bilder nebeneinander angezeigt werden. 
+Bei einer chronologischen Anordnung der Bilder ergibt sich so zudem eine komische Betrachtungsreihenfolge, die ich mit mir nicht vereinbaren kann ;)&lt;/p&gt;
+
+&lt;p&gt;Von diesem Stand aus habe ich Dutzende Varianten ausprobiert und Anleitungen im Internet getestet, jedoch leider ohne Erfolg. 
+Nach zig Stunden habe ich dann aufgegeben und den Beiträgen im Netz geglaubt, die geschrieben haben, dass es ohne etwas JavaScript nicht geht und eine entsprechende Bibliothek eingebunden.&lt;/p&gt;
+
+&lt;h2 id=&quot;masonry-von-david-desandro&quot;&gt;Masonry von David DeSandro&lt;/h2&gt;
+&lt;p&gt;Ich muss zugeben, dass ich nach den vielen Tests und Fehlschlägen ziemlich genervt war und mich daher für die JavaScript Bibliothek entschieden habe, 
+auf die ich am häufigsten gestoßen bin und das war die &lt;a href=&quot;https://masonry.desandro.com/&quot;&gt;Masonry-Bibliothek von David DeSandro&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Die HTML-Struktur ist die Gleiche wie bei der oberen Variante, jedoch hat sich das CSS etwas verändert:&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1000px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.grid&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;30%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1rem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.grid&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Die Nutzung des Masonry-Skripts ist recht einfach, Skript einbinden und folgenden Code aufrufen &lt;strong&gt;nachdem&lt;/strong&gt; alle Elemente der Seite geladen worden sind. 
+Das ist besonders wichtig, da sonst die Höhe der Elemente nicht korrekt berechnet werden kann und es dann zu Darstellungsfehlern kommt.&lt;/p&gt;
+
+&lt;div class=&quot;language-jsx highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Masonry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.grid&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Natürlich gibt es noch viele Optionen für die Bibliothek, aber mir reicht der minimalistische Constructor und ich war froh, als die Anzeige endlich so war wie ich es wollte.&lt;/p&gt;
+
+&lt;p&gt;Hier noch ein Screenshot vom Ergebnis des Beispielcodes, mit der Reihenfolge schön von links nach rechts (bis das Auffüllen auf der Linken Seite am Ende):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-script.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-script.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-script.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-script.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-script.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-12-masonry-layout/masonry-script.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Masonry mit der JS-Bibliothek&quot; width=&quot;1526&quot; height=&quot;1510&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;Am Ende hat es mich weit mehr Zeit gekostet als gedacht und musste letztendlich doch eine JavaScript-Library einsetzen, was ich gerne vermieden hätte. 
+Aber wer weiß, eventuell kommt das ja demnächst in den CSS-Standard und dann ist es nur eine Frage der Zeit bis es die Browser implementiert und eine entsprechende Marktverbreitung haben, damit ich auf den nativen Weg umsteigen kann.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt macht die Lösung aber genau das, was ich wollte und bin daher zufrieden. 
+Du kannst das Ergebnis übrigens auf den &lt;a href=&quot;/portfolio-landscape/&quot;&gt;Portfolio-Seiten&lt;/a&gt; in Aktion betrachten ;)&lt;/p&gt;
+
+&lt;p&gt;Die Masonry-Bibliothek ist ziemlich einfach zu verwenden, aber ich finde sie mit knapp 24kb recht groß für meinen Anwendungsfall, 
+vermutlich würde auch eine simplere Lösung ausreichen, sodass ich eventuell nochmal nach einer kleineren Bibliothek Ausschau halten werden. 
+Aber bis dahin funktioniert es und meine Nerven können sich wieder beruhigen 😆&lt;/p&gt;
+
+&lt;p&gt;Solltest du einen einfacheren Weg gefunden haben, lass es mich wissen oder auch sonst bin ich immer an Verbesserungsvorschlägen interessiert.&lt;/p&gt;</content><author><name></name></author><category term="Technik" /><category term="Homepage" /><summary type="html">Die letzten Tage habe ich an der Darstellung der Bilder auf der Homepage gearbeitet und bin dabei teilweise verzweifelt, daher dachte ich, ich schreibe meine Erfahrungen in einen Blogpost. Eventuell hilft es dir Zeit und Nerven zu sparen oder du kannst mir zeigen, was ich falsch gemacht habe.</summary></entry><entry><title type="html">Was ist der beste RAW-Konverter?</title><link href="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/" rel="alternate" type="text/html" title="Was ist der beste RAW-Konverter?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://gamue.de/raw-konverter-fazit</id><content type="html" xml:base="https://gamue.de/das-grosse-fazit-beim-raw-konverter-test/">&lt;p&gt;Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet.
 Zwar würde ich prinzipiell jedem empfehlen, auch alle möglichen Programme auszuprobieren um festzustellen, was einem zusagt und was nicht. 
 Kann aber durchaus verstehen, wenn du das nicht machen willst und nach einer Abkürzung in Form von Erfahrungsberichten und Empfehlungen suchst.&lt;/p&gt;
 
@@ -877,94 +1029,4 @@ Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen ko
   &lt;li&gt;&lt;a href=&quot;/capture-one-profianwendung-ohne-abozwang/&quot;&gt;Capture One, Profianwendung ohne Abozwang&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/affinity-photo-bildbearbeitung-mit-raw-konverter/&quot;&gt;Affinity Photo, Bildbearbeitungsprogramm mit RAW-Konverter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/das-grosse-fazit-beim-raw-konverter-test/&quot;&gt;Mein Fazit&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry><entry><title type="html">RAW oder JPEG zum Fotografieren?</title><link href="https://gamue.de/raw-oder-jpeg/" rel="alternate" type="text/html" title="RAW oder JPEG zum Fotografieren?" /><published>2021-01-03T00:00:00+01:00</published><updated>2021-01-03T00:00:00+01:00</updated><id>https://gamue.de/raw-oder-jpeg</id><content type="html" xml:base="https://gamue.de/raw-oder-jpeg/">&lt;p&gt;Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. 
-Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.&lt;/p&gt;
-
-&lt;p&gt;JPEG, oder auch JPG, ist dir vermutlich bereits ein Begriff, denn sehr viele Bilddateien sind in diesem Format und können von jedem Bildbetrachtungsprogramm 
-oder auch vielen anderen Anwendungen wie z.B. Browsern angezeigt werden, weil es ein definierter Standard ist. 
-Im JPEG-Format führt deine Kamera die eingestellten Bildanpassungen (z.B. Kontrast, Schärfe, Schwarz/Weiß) durch und liefert dir das fertige Ergebnis aus.&lt;/p&gt;
-
-&lt;p&gt;RAW-Dateien auf der anderen Seite haben keinen festen Standard und so ziemlich jeder Kamerahersteller hat seine eigene Dateiendung. 
-Bei Nikon sind es beispielsweise &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.NEF&lt;/code&gt;-Dateien, bei Sony enden die Dateien mit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.ARW&lt;/code&gt;, bei Canon sind es &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.CRW&lt;/code&gt; und Fuji speichert die RAW-Dateien im &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.RAF&lt;/code&gt;-Format. 
-Auch entwickeln die Hersteller ihr eigenes Format ständig weiter, was dazu führt, dass die RAW-Dateien eines Herstellers unterschiedlich sind. 
-Kannst du zum Beispiel RAW-Dateien einer Kamera mit einem Programm öffnen, so kann es sein, dass du RAW-Dateien aus einer neueren Kamera des gleichen Herstellers mit dem gleichen Programm nicht mehr öffnen kannst.&lt;/p&gt;
-
-&lt;p&gt;Grundsätzlich enthält eine RAW-Datei, die oft auch als digitales Negativ bezeichnet wird, das Bild in roher, unbearbeiteter Form. 
-Ohne irgendwelche Anpassungen ist das Bild ziemlich unschön und es muss daher bearbeitet bzw. entwickelt werden. 
-Die RAW-Dateien ignorieren sogar die Bearbeitungseinstellungen deiner Kamera, selbst wenn du “Aufnahme in Schwarz/Weiß” gewählt hast, sind im RAW alle Farbinformationen vorhanden, lediglich das integrierte Vorschaubild ist dann in Schwarz/Weiß.&lt;/p&gt;
-
-&lt;h1 id=&quot;warum-im-raw-format-fotografieren&quot;&gt;Warum im RAW-Format fotografieren?&lt;/h1&gt;
-
-&lt;p&gt;Ein entscheidender Vorteil von RAW-Dateien ist, dass in diesen deutlich mehr Bildinformationen enthalten sind. 
-Das führt dazu, dass du in im Nachhinein beispielsweise Belichtungs- oder Farbkorrekturen in einem größeren Umfang durchführen kannst, als dass das bei JPEG-Dateien der Fall ist.&lt;/p&gt;
-
-&lt;h2 id=&quot;belichtung-korrigieren&quot;&gt;Belichtung korrigieren&lt;/h2&gt;
-
-&lt;p&gt;Gerade bei unter- oder überbelichteten Bereichen im Bild enthalten RAW-Dateien noch Bildinformationen. 
-Bei JPEGs wären diese Bereiche dann entweder komplett Schwarz oder komplett Weiß, du hättest keine Chance diese in der Nachbearbeitung zu retten.&lt;/p&gt;
-
-&lt;p&gt;Um das besser erklären zu können, hier ein Beispielfoto:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Unterbelichtetes Bild&quot; width=&quot;1000&quot; height=&quot;662&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bei einem JPEG-Bild wären die schwarzen Bereiche einfach Schwarz, das Bild wäre somit ziemlich unbrauchbar, da auf ihm außer der Dunkelheit nicht viel anderes zu sehen ist.&lt;/p&gt;
-
-&lt;p&gt;Bei RAWs lässt sich im Nachhinein noch einiges an der Belichtung und Helligkeit drehen, sodass folgendes Bild dabei rauskommen könnte:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Aufgehelltes Bild&quot; width=&quot;1000&quot; height=&quot;635&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ich denke hier kannst du gut sehen, dass Stellen, die davor Schwarz waren trotzdem noch Bildinformationen beinhalten und durch die Entwicklung des RAW-Bildes sichtbar gemacht werden können. 
-Natürlich geht das nur in einem gewissen Rahmen und nicht wie in mancher Fernsehsendung, aber die Möglichkeiten sind doch recht groß. 
-Mit einem JPEG-Bild wäre das definitiv nicht möglich.&lt;/p&gt;
-
-&lt;h2 id=&quot;weißabgleich-anpassen&quot;&gt;Weißabgleich anpassen&lt;/h2&gt;
-
-&lt;p&gt;Ein weiterer großer Vorteil ist die einfache Anpassung des Weißabgleichs. 
-Im Normalfall nehmen Kameras und Smartphones Bilder mit automatischem Weißabgleich auf, das heißt, dass die Kamera die Farbtemperatur misst, um die Farben im Bild möglichst naturgetreu wiederzugeben. 
-Für gewöhnlich funktioniert das sehr gut, aber gerade bei Dämmerung, im Schnee oder im Kunstlicht kann es öfter zu “Fehleinschätzungen” kommen und die Farben im Bild haben dann einen Stich.&lt;/p&gt;
-
-&lt;p&gt;Hier siehst du ein Bild, das ich mit automatischem Weißabgleich aufgenommen habe und bei dem die Kamera ziemlich daneben lag. 
-Besonders der Weg und die Haut des Nashorns entsprechen nicht dem, wie es tatsächlich war.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bild mit automatischem Weißabgleich&quot; width=&quot;1000&quot; height=&quot;667&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In einem RAW-Entwicklungsprogramm lässt sich der Weißabgleich danach leicht anpassen, sodass die Farben dann wieder realitätsnäher sind. 
-Das Ganze kann anschließend beispielsweise wie in folgendem Bild aussehen, hier sind die Farben deutlich näher an der Wirklichkeit als im vorherigen Bild.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Bild mit manuellem Weißabgleich&quot; width=&quot;1000&quot; height=&quot;635&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Willst du den Weißabgleich übrigens nahezu perfekt hinbekommen, solltest du den manuellen Weißabgleich in deiner Kamera einstellen und eine sogenannte Graukarte verwenden. 
-Durch den manuellen Weißabgleich haben alle Bilder der Serie die gleiche Farbstimmung, was bei der Bearbeitung hilft, und durch die Graukarte lässt sich die Farbtemperatur bestimmen. 
-Sollte dich das interessieren, recherchiere am besten wie das genau gemacht wird, denn dabei gibt es noch einiges anderes zu beachten. 
-Für mich persönlich reicht es, wenn die Farben “in etwa” stimmen.&lt;/p&gt;
-
-&lt;h1 id=&quot;warum-im-jpeg-format-fotografieren&quot;&gt;Warum im JPEG-Format fotografieren?&lt;/h1&gt;
-
-&lt;p&gt;Bei allen Vorteilen kommen RAW-Bilder aber auch mit einigen Nachteilen und das Fotografieren im JPEG-Format kann Sinn ergeben.&lt;/p&gt;
-
-&lt;p&gt;Die zusätzlichen Bildinformationen in den RAWs führen natürlich auch zu einer größeren Dateigröße und bei Bildermassen ist das nicht unerheblich. 
-Eine RAW-Datei aus meiner Sony a6400 hat ca. 24 MB, die JPEG-Variante davon nur ca. 8 MB, also in etwa einem Drittel. 
-Solltest du die RAWs daher nicht brauchen, kannst du &lt;strong&gt;etliches an Festplattenplatz sparen&lt;/strong&gt;. 
-Zwar ist Speicherplatz mittlerweile nicht sehr teuer, aber trotzdem kommt dadurch schnell einiges zusammen. 
-Für den Fall, dass du Backups erstellst, was ich dir in jedem Fall dringend empfehle, multipliziert sich der Speicherplatz zudem entsprechend.&lt;/p&gt;
-
-&lt;p&gt;Aber auch in der Kamera hat die größere Datenmenge Auswirkungen, denn diese muss erst verarbeitet werden, bevor das Bild auf der Speicherkarte landet. 
-Die Kamera ist aus diesem Grund in der Lage &lt;strong&gt;mehr Serienbilder&lt;/strong&gt;, also Bilder pro Sekunde, im JPEG- als im RAW-Format zu erstellen.&lt;/p&gt;
-
-&lt;p&gt;Der, aus meiner Sicht, größte Vorteil von JPEGs ist, dass diese &lt;strong&gt;bereits eine sehr brauchbare “Standard-Bearbeitung”&lt;/strong&gt; von der Kamera erhalten. 
-Solltest du deine Bilder nicht nachbearbeiten wollen, oder handelt es sich um Schnappschüsse, kann das JPEG-Format eine gute Lösung sein, um die Bilder direkt zu verwenden und weitergeben zu können. 
-Denn RAW-Dateien musst du in jedem Fall noch entwickeln, bevor du sie verwenden kannst. Was auch der Grund ist, warum ich immer so lange an meinen Bildern sitze :D&lt;/p&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-
-&lt;p&gt;Wie du siehst, hat beides seine Vor- und Nachteile und ob du in JPEG oder RAW fotografierst, ist letztendlich deine Entscheidung. 
-Lass dich nicht von Leuten beeinflussen, die sagen man muss immer in RAW fotografieren, das ist genauso falsch, wie man immer im manuellen Modus fotografieren muss.&lt;/p&gt;
-
-&lt;p&gt;Mein Ansatz ist folgender:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Wenn ich die Bilder noch nachbearbeiten will, nutze ich RAWs. Das ist vor allem auf Reisen oder bei Shootings der Fall.&lt;/li&gt;
-  &lt;li&gt;Sind die Fotos nur für mich oder will ich mal schnell etwas fotografieren, nutze ich JPEGs. 
-Beispiele dafür sind Familienaufnahmen, wenn ich mal etwas auf Internetportalen verkaufen möchte oder Infotexte und Karten auf irgendwelchen Touren.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ich hoffe, ich konnte dir das Thema genauer erklären und würde mich über Feedback freuen. Lass mich auch gerne wissen, in welchem Format du fotografierst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Fotowissen" /><summary type="html">Bei vielen Kameras gibt es die Option die aufgenommenen Bilder als JPEG oder RAW-Dateien zu speichern. Weil das sehr verwirrend sein kann und viele nicht wissen, was das genau heißt, will ich dir das in diesem Artikel erklären und helfen, die für dich richtige Einstellung zu finden.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Wer im RAW-Format fotografiert, wird seine Bilder irgendwann entwickeln wollen und genau dann kommen sogenannte RAW-Konverter zum Einsatz. Da ich wegen meiner neuen Kamera, meine bisherige Software nicht mehr nutzen konnte, war es für mich an der Zeit eine neue Lösung zu suchen und möchte in dieser Artikelserie die Vor- und Nachteile der Programme zusammenfassen, die ich mir genauer angeschaut habe. Eventuell steckst du ja in einer ähnlichen Situation.</summary></entry></feed>
