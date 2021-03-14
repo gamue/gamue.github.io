@@ -2,10 +2,14 @@
 title: Reise- und Landschaftsfotografie
 description: Auf meinen Reisen habe ich sehr viele Bilder gemacht. Die meiner Meinung nach besten, findest du hier.
 permalink: /portfolio-landscape/
+header:
+    teaser: assets/photography/2020_07_deutschland/Deutschland_0535.jpg
 full_width: true
 typography: false
 masonry: true
 gallery:
+    - image_path: assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg
+    - image_path: assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg
     - image_path: assets/photography/2020_07_deutschland/Deutschland_0319.jpg
     - image_path: assets/photography/2020_07_deutschland/Deutschland_0535.jpg
     - image_path: assets/photography/2020_07_deutschland/Deutschland_0697.jpg
@@ -33,7 +37,6 @@ gallery:
     - image_path: assets/photography/2014_11_laos/Laos_175.jpg
     - image_path: assets/photography/2014_11_laos/Laos_188.jpg
     - image_path: assets/photography/2014_11_laos/Laos_643.jpg
-    - image_path: assets/photography/2014_10_thailand/Thailand_0886.jpg
     - image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_050.jpg
     - image_path: assets/photography/2014_10_abu_dhabi/Abu_Dhabi_111.jpg
     - image_path: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
