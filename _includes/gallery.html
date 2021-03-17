@@ -13,14 +13,17 @@
   {%- assign gallery = gallery | reverse -%}
 {%- endif -%}
 
+{%- assign cloudinary_size = 'thumbnail' -%}
 {%- if include.layout == 'half' -%}
   {%- assign element_class = 'w-full sm:w-1/2' -%}
+  {%- assign cloudinary_size = 'default' -%}
 {%- elsif include.layout == 'third' -%}
   {%- assign element_class = 'w-full sm:w-1/2 md:w-1/3' -%}
 {%- elsif include.layout == 'quarter' -%}
   {%- assign element_class = 'w-full sm:w-1/2 md:w-1/3 lg:w-1/4' -%}
 {%- else -%}
   {%- assign element_class = 'w-full' -%}
+  {%- assign cloudinary_size = 'default' -%}
 {%- endif -%}
 
 {%- if include.equal_height -%}
@@ -33,11 +36,15 @@
   {%- assign element_class = element_class | append: ' p-1.5' -%}
 {%- endif -%}
 
+{%- if include.masonry -%}
+  {%- assign cloudinary_size = 'default' -%}
+{%- endif -%}
+
 <figure class="flex flex-wrap {{galleryName}}">
   {% for img in gallery %}
       {%- assign file_path = img.image_path | default: img.path | relative_url -%}
       <a href="{{ file_path }}" class="flex-none {{ element_class }}">
-        {% cloudinary thumbnail {{ file_path }} class="thumbnail" %}
+        {% cloudinary {{ cloudinary_size }} {{ file_path }} class="thumbnail" %}
       </a>
   {% endfor %}
   {% if include.caption %}
