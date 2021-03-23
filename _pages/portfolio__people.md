@@ -17,7 +17,7 @@ gallery:
 {% include gallery.html layout="third" double_padding="true" masonry="true" %}
 
 <div class="container prose prose-sm md:prose lg:prose-lg mt-8">
-    <h2>Lust auf ein Shooting?</h2>
-    <p>Aktuell beschäftige ich mich wieder stark mit der Fotografie von Menschen und möchte meine Erfahrungen in diesem Bereich weiter ausbauen.</p>
-    <p>Solltest du daher Interesse an einem gemeinsamen Shooting haben, würde ich mich über eine Nachricht (zB. über <a href="{{site.accounts.instagram}}">Instagram</a>) von dir sehr freuen!</p>
+    <h2>Lust auf ein TfP-Shooting?</h2>
+    <p>Solltest du Interesse an einem <a href="/tfp-shooting/">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!</p>
+    <p><a href="/tfp-shooting/">Mehr Details findest du hier.</a></p>
 </div>
