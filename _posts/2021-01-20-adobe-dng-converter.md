@@ -5,7 +5,7 @@ permalink: /adobe-dng-konverter/
 header:
     teaser: assets/2021-01-20-adobe-dng-converter/dng-konverter-thumb.jpg
     overlay_image: assets/2021-01-20-adobe-dng-converter/dng-hero.jpg
-    overlay_filter: rgba(200, 200, 200, 0.6)
+    overlay_filter: rgba(100, 100, 100, 0.2)
 gallery:
     - image_path: assets/2021-01-20-adobe-dng-converter/bridge-raws.jpg
     - image_path: assets/2021-01-20-adobe-dng-converter/bridge-dngs.jpg
