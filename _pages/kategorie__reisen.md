@@ -5,11 +5,9 @@ description: Nach dem Ende meiner Ausbildung hat mich das Reisefieber gepackt un
 permalink: /reisen/
 header:
     overlay_image: assets/photography/2019_04_belize/Belize_0317.jpg
-pagination:
+preview:
     enabled: true
     category: 'Reisen'
-    per_page: 4
-    limit: 1
 ---
 
 <div class="p-4 bg-gray-100 text-gray-700">

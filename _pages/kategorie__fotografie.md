@@ -5,11 +5,9 @@ description: Fotografie ist meine Leidenschaft und besonders die Reise- und Land
 permalink: /fotografie/
 header:
     overlay_image: assets/2021-01-15-raw-konverter-intro/markus-spiske-nfwBWcaFAYg-unsplash.jpg
-pagination:
+preview:
     enabled: true
     category: 'Fotografie'
-    per_page: 4
-    limit: 1
 ---
 
 <div class="p-4 bg-gray-100 text-gray-700">
