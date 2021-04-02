@@ -21,13 +21,13 @@ preview:
     Dort findest du auch immer die zugehörigen Blogartikel, egal ob Reisebericht oder allgemeine Tipps zum Land.
     </p>
     <p>
-        <a href="/laender/" class="btn">Zu den Destinationen</a>
+        <a href="{% link _pages/countries.md %}" class="btn">Zu den Destinationen</a>
     </p>
     <p class="mb-4 mt-12">
     Auf meinen Reisen durfte natürlich die Kameraausrüstung nicht fehlen und so gibt es von jedem Trip etliche Fotos, die du in den Reisegalerien betrachten kannst.
     </p>
     <p>
-        <a href="/photography/" class="btn">Zu den Reisegalerien</a>
+        <a href="{% link _pages/gallery.md %}" class="btn">Zu den Reisegalerien</a>
     </p>
   </div>
 </div>

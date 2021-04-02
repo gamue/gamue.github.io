@@ -20,20 +20,20 @@
   <div id="navbarMenu" class="w-full md:w-auto flex-grow hidden md:flex md:items-center block border border-gray-400 text-xl md:border-0 rounded-lg mt-4 md:mt-0">
       <ul class="md:flex justify-end flex-1 items-center">
         <li class="navbarItem">
-          <a href="{{ '/reisen/' | relative_url }}">Reisen</a>
+          <a href="{% link _pages/kategorie__reisen.md %}">Reisen</a>
           <div class="navToggle"></div>
           <div class="dropdownContent">
-            <a href="{{ '/laender/' | relative_url }}">Destinationen</a>
-            <a href="{{ '/photography/' | relative_url }}">Reisegalerien</a>
+            <a href="{% link _pages/countries.md %}">Destinationen</a>
+            <a href="{% link _pages/gallery.md %}">Reisegalerien</a>
           </div>
         </li>
         <li class="navbarItem">
-          <a href="{{ '/fotografie/' | relative_url }}">Fotografie</a>
+          <a href="{% link _pages/kategorie__fotografie.md %}">Fotografie</a>
           <div class="navToggle"></div>
           <div class="dropdownContent">
-            <a href="{{ '/portfolio-landscape/' | relative_url }}">Portfolio - Reise/Landschaft</a>
-            <a href="{{ '/portfolio-people/' | relative_url }}">Portfolio - People</a>
-            <a href="{{ '/tfp-shooting/' | relative_url }}">TfP-Shooting</a>
+            <a href="{% link _pages/portfolio__landschaft.md %}">Portfolio - Reise/Landschaft</a>
+            <a href="{% link _pages/portfolio__people.md %}">Portfolio - People</a>
+            <a href="{% link _pages/tfp-shooting.md %}">TfP-Shooting</a>
           </div>
         </li>
         <li class="navbarItem">
@@ -47,7 +47,7 @@
           </div>
         </li>
         <li class="navbarItem">
-          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{% link _pages/about.md %}">About</a>
         </li>
       </ul>
   </div>

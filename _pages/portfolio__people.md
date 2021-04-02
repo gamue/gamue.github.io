@@ -18,6 +18,6 @@ gallery:
 
 <div class="container prose prose-sm md:prose lg:prose-lg mt-8">
     <h2>Lust auf ein TfP-Shooting?</h2>
-    <p>Solltest du Interesse an einem <a href="/tfp-shooting/">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!</p>
-    <p><a href="/tfp-shooting/">Mehr Details findest du hier.</a></p>
+    <p>Solltest du Interesse an einem <a href="{% link _pages/tfp-shooting.md %}">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!</p>
+    <p><a href="{% link _pages/tfp-shooting.md %}">Mehr Details findest du hier.</a></p>
 </div>

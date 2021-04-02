@@ -24,13 +24,13 @@ preview:
     <p class="mb-4">
     Eine Auswahl meiner besten Bildern findest du auf den Portfolio-Seiten.
     </p>
-    <p class="mb-4"><a href="/portfolio-landscape/" class="btn">Reise- und Landschaftsbilder</a></p>
-    <p><a href="/portfolio-people/" class="btn">People</a></p>
+    <p class="mb-4"><a href="{% link _pages/portfolio__landschaft.md %}" class="btn">Reise- und Landschaftsbilder</a></p>
+    <p><a href="{% link _pages/portfolio__people.md %}" class="btn">People</a></p>
     <h2 class="mb-6 mt-12">Du hast Lust mit mir zu fotografieren?</h2>
     <p class="mb-4">
     Aktuell beschäftige ich mich viel mit der Fotografie von Menschen und möchte meine Erfahrungen in diesem Bereich weiter ausbauen. 
-    Solltest du daher Interesse an einem <a href="/tfp-shooting/" class="text-red-900">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!
-    <a href="/tfp-shooting/" class="text-red-900">Mehr Details dazu findest du hier.</a>
+    Solltest du daher Interesse an einem <a href="{% link _pages/tfp-shooting.md %}" class="text-red-900">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!
+    <a href="{% link _pages/tfp-shooting.md %}" class="text-red-900">Mehr Details dazu findest du hier.</a>
     </p>
     <p>
     Ich bin jedoch auch dafür zu haben, bei einem Fotowalk die Berliner Bezirke abzulichten und freue mich immer über den Austausch mit Gleichgesinnten. 
