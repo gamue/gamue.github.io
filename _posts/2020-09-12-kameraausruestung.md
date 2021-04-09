@@ -21,6 +21,10 @@ habe zu keinem der Hersteller oder Marken eine Geschäftsbeziehung oder bin in i
 das nicht meiner eigenen Meinung entspricht.
 
 ## Kamera
+Ich bin mittlerweile auf eine andere Kamera umgestiegen, eine Liste meiner aktuellen Ausrüstung findest du [hier][2].
+Die Nikon D7000 war aber eine tolle Kamera und hat mir treue Dienste geleistet.
+{: .notice--info}
+
 {% cloudinary /assets/2020-09-12-kameraausruestung/equip_dslr.jpg alt="DSLR Ausrüstung" %}
 
 Nikon D7000
@@ -108,3 +112,4 @@ wenn das Gerät bei der Ein- oder Ausreise beschlagnahmt werden würde oder man 
 {: .notice--warning}
 
 [1]: {% post_url 2015-01-02-nam-song-dilemma %}
+[2]: {% post_url 2021-04-09-kameraausruestung %}
