@@ -12,6 +12,9 @@ gallery:
     - image_path: assets/photography/people/DSC_6526.jpg
     - image_path: assets/photography/people/DSC00596.jpg
     - image_path: assets/photography/people/20210306_Valentin_140b.jpg
+    - image_path: assets/photography/people/20210411_Marcel_049.jpg
+    - image_path: assets/photography/people/20210411_Marcel_360.jpg
+    - image_path: assets/photography/people/20210411_Marcel_512.jpg
 ---
 
 {% include gallery.html layout="third" double_padding="true" masonry="true" %}
