@@ -20,6 +20,18 @@ gallery:
       caption: Marcel (@thor_odinson_47)
     - image_path: assets/photography/people/20210411_Marcel_512.jpg
       caption: Marcel (@thor_odinson_47)
+    - image_path: assets/photography/people/20210424_Suzie_146.jpg
+      caption: Suzie (@suziefleur)    
+    - image_path: assets/photography/people/20210424_Suzie_016.jpg
+      caption: Suzie (@suziefleur)
+    - image_path: assets/photography/people/20210424_Suzie_020.jpg
+      caption: Suzie (@suziefleur)
+    - image_path: assets/photography/people/20210429_JayJay_021.jpg
+      caption: JayJay (@pinkloveliness)
+    - image_path: assets/photography/people/20210429_JayJay_026.jpg
+      caption: JayJay (@pinkloveliness)
+    - image_path: assets/photography/people/20210429_JayJay_224.jpg
+      caption: JayJay (@pinkloveliness)
 ---
 
 {% include gallery.html layout="third" double_padding="true" masonry="true" %}
