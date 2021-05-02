@@ -11,10 +11,15 @@ gallery:
     - image_path: assets/photography/people/DSC_3113a.jpg
     - image_path: assets/photography/people/DSC_6526.jpg
     - image_path: assets/photography/people/DSC00596.jpg
+      caption: Selbstportrait (@gamue16)
     - image_path: assets/photography/people/20210306_Valentin_140b.jpg
+      caption: Valentin (@valentinduceac)
     - image_path: assets/photography/people/20210411_Marcel_049.jpg
+      caption: Marcel (@thor_odinson_47)
     - image_path: assets/photography/people/20210411_Marcel_360.jpg
+      caption: Marcel (@thor_odinson_47)
     - image_path: assets/photography/people/20210411_Marcel_512.jpg
+      caption: Marcel (@thor_odinson_47)
 ---
 
 {% include gallery.html layout="third" double_padding="true" masonry="true" %}

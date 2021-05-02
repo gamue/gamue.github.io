@@ -6,7 +6,9 @@ header:
 tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 gallery:
     - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
+      caption: Godzilla
     - image_path: assets/photography/2017_04_japan/Japan_1425.jpg
+      caption: Rehe in Nara
     - image_path: assets/photography/2017_04_japan/Japan_0711b.jpg
     - image_path: assets/photography/2017_04_japan/Japan_1155.jpg 
 gallery2:
