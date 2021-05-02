@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-04-20T23:14:31+02:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Meine Kameraausrüstung 2021</title><link href="https://gamue.de/meine-kameraausruestung-2021/" rel="alternate" type="text/html" title="Meine Kameraausrüstung 2021" /><published>2021-04-09T00:00:00+02:00</published><updated>2021-04-09T00:00:00+02:00</updated><id>https://gamue.de/kameraausruestung</id><content type="html" xml:base="https://gamue.de/meine-kameraausruestung-2021/">&lt;p&gt;Bei meiner Kameraausrüstung gab es im letzten halben Jahr sehr viele Änderungen, weswegen ich dachte, ich gebe dazu mal ein Update.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2021-05-02T12:54:15+02:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Meine Kameraausrüstung 2021</title><link href="https://gamue.de/meine-kameraausruestung-2021/" rel="alternate" type="text/html" title="Meine Kameraausrüstung 2021" /><published>2021-04-09T00:00:00+02:00</published><updated>2021-04-09T00:00:00+02:00</updated><id>https://gamue.de/kameraausruestung</id><content type="html" xml:base="https://gamue.de/meine-kameraausruestung-2021/">&lt;p&gt;Bei meiner Kameraausrüstung gab es im letzten halben Jahr sehr viele Änderungen, weswegen ich dachte, ich gebe dazu mal ein Update.&lt;/p&gt;
 
 &lt;p&gt;Hierbei sei aber gesagt, auch wenn es mir Spaß macht über die Technik zu reden oder zu fachsimpeln, die Ausrüstung ist nicht das ausschlaggebende für gute Fotos. 
 Mit einer teuren Ausrüstung kann man nämlich auch ziemlich schlechte Bilder fabrizieren :D&lt;/p&gt;
@@ -263,13 +263,14 @@ Ich freue mich jedenfalls immer über Begleitung und den Austausch.&lt;/p&gt;
 &lt;p&gt;Am nördlichen Spreeufer hast du in etwa von der Fernsehwerft bis zur Elsenbrücke einen guten Blick auf das Kunstwerk. 
 Wobei kurz vor der Elsenbrücke fleißig gebaut wird und so etliche Baustellen und Absperrungen den direkten Weg zur Brücke versperren.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryMoleculeNord&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryMoleculeNord&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00352.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00352.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00352.jpg 320w,
@@ -277,6 +278,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00352.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00352.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00352.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -291,13 +293,14 @@ Bei den Bildern war es zwar kurz vor Sonnenuntergang, aber ich musste trotzdem n
 &lt;h2 id=&quot;sicht-von-der-elsenbrücke&quot;&gt;Sicht von der Elsenbrücke&lt;/h2&gt;
 &lt;p&gt;Die Ansicht von der Elsenbrücke ist vermutlich die bekannteste und neben dem Molecule Man kannst du noch die Oberbaumbrücke, den Fernsehturm, die Kuppel des Berliner Doms und eventuell sogar das Rote Rathaus auf das Bild bekommen.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryMoleculeElsenbruecke&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryMoleculeElsenbruecke&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00520.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00520.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00520.jpg 320w,
@@ -305,6 +308,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00520.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00520.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00520.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00521.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00521.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00521.jpg 320w,
@@ -312,6 +316,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00521.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00521.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00521.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -333,13 +338,14 @@ Die Elsenbrücke wird zum Beispiel bis ca. 2028 umgebaut, sodass sich hier in de
 &lt;p&gt;Am südlichen Ende der Elsenbrücke führt eine Treppe zu einem kleinen Pfad der am Spreeufer entlang führt. 
 Wenn du diesem etwas folgst, kannst du durch den Molecule Man auf den Fernsehturm blicken, was ich ein schönes Motiv finde.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryMoleculeSued&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryMoleculeSued&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1200&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -353,13 +359,14 @@ Durch Bauarbeiten war dieser jedoch bei meinen Besuchen nicht erreichbar und so 
 In meinem Archiv habe ich aber glücklicherweise noch ein Bild gefunden, welches von dort aus aufgenommen worden ist. 
 Da du auf dem Ausleger sehr nahe an der Statue bist, empfehle ich von dort aus auch ein &lt;strong&gt;Weitwinkelobjektiv&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryMoleculeAusleger&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryMoleculeAusleger&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_993/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 993w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;993&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -373,13 +380,14 @@ kommst du zum Wrack eines Ausflugsdampfers und zum Gelände der Arena Berlin an 
 Von hier aus lassen sich Bilder in die andere Richtung, also mit der Elsenbrücke als Hintergrund, aufnehmen. 
 Wie zuvor geschrieben, wird hier gerade einiges gebaut oder saniert, sodass es nicht die beste Aussicht ist, aber wollte es nicht unerwähnt lassen.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryMoleculeSuedAndereRichtung&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryMoleculeSuedAndereRichtung&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -398,13 +406,14 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https:
 &lt;p&gt;Zwischen den beiden Türmen der Oberbaumbrücke kannst du das Rote Rathaus sehen und auch der Fernsehturm ist prominent im Bild vorhanden. 
 Ebenso wie etliche Baukräne, die seit Jahren zum Stadtbild Berlins gehören.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryOberbaumSued&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryOberbaumSued&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00162.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00162.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00162.jpg 320w,
@@ -412,6 +421,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00162.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00162.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00162.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -431,13 +441,14 @@ Für Streetfotografie oder Portraits kann beides aber ziemlich interessant sein.
 &lt;p&gt;Wieder auf der Nordseite angekommen, gibt es zwischen der Brücke und dem Pirates Club, eine kleine Einbuchtung, von der du aus die Brücke gut im Blick hast und ich die folgenden Bilder aufgenommen habe. 
 Hier bietet sich eine &lt;strong&gt;Weitwinkel- oder Standardbrennweite&lt;/strong&gt; an, um die Brücke komplett ins Bild zubekommen.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryOberbaumNord&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryOberbaumNord&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg 320w,
@@ -445,6 +456,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00357.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -461,13 +473,14 @@ Die Bahnstrecke ist jedoch bis April 2021 wegen Bauarbeiten gesperrt und erst da
 
 &lt;p&gt;Ein paar Meter weiter, an den Ausflugsschiffen vorbei und dem Uferweg entlang bietet sich nochmal ein guter Blick auf die Brücke, für den wieder ein &lt;strong&gt;Teleobjektiv&lt;/strong&gt; hilfreich ist.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap galleryOberbaumEastSide&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery galleryOberbaumEastSide&quot;&gt;
   &lt;a href=&quot;/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1000&quot; height=&quot;1500&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -842,13 +855,14 @@ Zusätzlich gibt es noch eine spezielle Ansicht, in der du einen Vorher-Nachher-
 &lt;p&gt;Abgesehen davon muss ich jedoch sagen, dass mir die Einstellungsmöglichkeiten von Affinity Photo nicht ausreichen. 
 Die RAW-Entwicklung ist zwar möglich, jedoch vermisse ich zu viele Optionen, die ich in meinem bisherigen Arbeitsablauf sonst häufig verwende.&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery image-gallery&quot;&gt;
   &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;822&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 320w,
@@ -856,6 +870,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;821&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
@@ -1276,13 +1291,14 @@ Dafür habe ich bisher eine alte Photoshop Version verwendet, was mit dem Nachte
 &lt;p&gt;Luminar hat bereits Retusche-Möglichkeiten eingebaut, sodass (kleinere) Bildmanipulationen direkt im Programm durchgeführt werden können 
 und du so nicht auf weitere Software angewiesen bist. Im unteren Beispiel habe ich den Kran aus dem Foto entfernt, was prinzipiell gut funktioniert hat, aber schau einfach selbst, ob es dir auffallen würde ;)&lt;/p&gt;
 
-&lt;figure class=&quot;flex flex-wrap image-gallery&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery image-gallery&quot;&gt;
   &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 320w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 490w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal1.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   &lt;a href=&quot;/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
         &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 320w,
@@ -1290,6 +1306,7 @@ https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https:/
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 660w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 830w,
 https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-01-30-skylum-luminar/luminar_heal2.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;994&quot; crossorigin=&quot;anonymous&quot; /&gt;
+        
       &lt;/a&gt;
   
   
