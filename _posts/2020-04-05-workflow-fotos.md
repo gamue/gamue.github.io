@@ -12,6 +12,7 @@ bildbetrachter:
     - image_path: assets/2020-04-05-workflow-fotos/xnviewmp-ranking.jpg
 synctoy:
     - image_path: assets/2020-04-05-workflow-fotos/synctoy-run.jpg
+lightbox: true
 toc: true
 categories:
   - Fotografie
@@ -104,7 +105,7 @@ denn wirklich mehr als 3 Sterne vergebe ich im Normalfall nicht, was mir aber vo
 In Durchgang zwei gehe ich dann nur noch die mit Sternen bewerteten Bilder durch und verpasse ihnen eine gelbe Farbmarkierung, 
 wenn ich diese bearbeiten oder auf die Homepage stellen möchte.
 
-{% include gallery.html id="bildbetrachter" caption="So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild." %}
+{% include gallery.html layout="half" id="bildbetrachter" caption="So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild." %}
 
 Beide Schritte führe ich recht grob durch und nehme in die Auswahlen auch Bilder mit auf bei denen ich mir nicht sicher bin 
 oder die unterschiedliche Varianten eines Motivs sind. Meist ändere ich die Bewertung oder Markierung im Nachgang nicht noch einmal, 
