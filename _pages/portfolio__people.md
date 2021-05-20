@@ -32,6 +32,12 @@ gallery:
       caption: JayJay (@pinkloveliness)
     - image_path: assets/photography/people/20210429_JayJay_224.jpg
       caption: JayJay (@pinkloveliness)
+    - image_path: assets/photography/people/20210501_Daniel_303.jpg
+      caption: Daniel (@danielhauser_)
+    - image_path: assets/photography/people/20210515_Lydia_177.jpg
+      caption: Lydia (@fischi_onstage)
+    - image_path: assets/photography/people/20210515_Lydia_249.jpg
+      caption: Lydia (@fischi_onstage)
 ---
 
 {% include gallery.html layout="third" double_padding="true" masonry="true" %}
