@@ -4,6 +4,8 @@ permalink: /about/
 visitedCountries:
     - name: Ägypten
       code: EG
+    - name: Albanien
+      code: AL
     - name: Belize
       code: BZ
       link: /belize/
@@ -66,11 +68,12 @@ visitedCountries:
     - name: Marokko
       code: MA
       link: /marokko/
-    - name: Mazedonien
-      code: MK
     - name: Nepal
       code: NP
       link: /nepal/
+    - name: Nordmazedonien
+      code: MK
+      link: /photography/suedosteuropa-2013/
     - name: Norwegen
       code: "NO"
       link: /photography/suedosteuropa-2013/
