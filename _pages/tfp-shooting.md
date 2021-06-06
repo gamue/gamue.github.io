@@ -4,7 +4,7 @@ description: Du hast Interesse an einem TfP Shooting? Dann erfährst du hier all
 comments: false
 permalink: /tfp-shooting/
 header:
-    overlay_image: assets/photography/people/DSC_6526.jpg
+    overlay_image: assets/photography/people/20210515_Lydia_170.jpg
     overlay_filter: rgba(200, 200, 200, 0.6)
 tagline: Du hast Interesse an einem TfP Shooting? Dann erfährst du hier alles, was du darüber wissen musst.
 ---

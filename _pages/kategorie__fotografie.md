@@ -28,7 +28,7 @@ preview:
         {% capture url_landschaft %}{% link _pages/portfolio__landschaft.md %}{% endcapture %}
         {% include content/teaser-gallery-item.html title='Reise- und Landschaftsbilder' permalink=url_landschaft image='/assets/photography/2020_07_deutschland/Deutschland_0535.jpg' layout='half' %}
         {% capture url_people %}{% link _pages/portfolio__people.md %}{% endcapture %}
-        {% include content/teaser-gallery-item.html title='People' permalink=url_people image='/assets/photography/people/DSC_6526.jpg' layout='half' %}
+        {% include content/teaser-gallery-item.html title='People' permalink=url_people image='/assets/photography/people/20210515_Lydia_170.jpg' layout='half' %}
     </div>
     <h2 class="mb-6 mt-12">Du hast Lust mit mir zu fotografieren?</h2>
     <p class="mb-4">
