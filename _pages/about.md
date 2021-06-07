@@ -6,6 +6,7 @@ visitedCountries:
       code: EG
     - name: Albanien
       code: AL
+      link: /albanien/
     - name: Belize
       code: BZ
       link: /belize/
