@@ -3,8 +3,8 @@ title: Albanien
 description: Im Mai 2021 zog es mich wieder in die Welt hinaus, dieses Mal in die Albanischen Alpen. Meine Route und Tipps rund um das kleine Land auf dem Balkan findest du hier. 
 permalink: /albanien/
 header:
-    teaser: assets/countries/Albanien_305_tmp.jpg
-    overlay_image: assets/countries/Albanien_305_tmp.jpg 
+    teaser: assets/2021-06-11-auszeit-in-albanien/Albanien_305_tmp.jpg
+    overlay_image: assets/2021-06-11-auszeit-in-albanien/Albanien_305_tmp.jpg
 itinerary:
     - name: Shkodra
       description: Die kleine Stadt im Norden ist Ausgangspunkt für Trips nach Valbona und Theth. Solltest du die Wanderung zwischen den zwei Tälern machen, kommst du normalerweise am Ende auch hier wieder an. Shkodra (oder Shkodër) selbst, hat mir gut gefallen und ich hätte hier sicherlich 1-2 Tage mehr verweilen können, um die Gegend mit dem Fahrrad zu erkunden, weil ich aber zügig in den Norden wollte, war ich nur einen halben Tag da.
