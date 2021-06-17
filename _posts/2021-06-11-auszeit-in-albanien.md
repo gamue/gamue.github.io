@@ -10,7 +10,9 @@ gallery:
     - image_path: assets/photography/2017_11_jordanien/Jordanien_646b.jpg
 categories:
   - Allgemein
-  - Reisen
+  - Reisen 
+tags:
+  - Albanien
 ---
 
 Der letzte Blogpost ist etwas länger her, was nicht daran liegt, dass ich nichts zu posten hätte, sondern daran, dass ich gerade mit vielen anderen Dingen beschäftigt bin. 

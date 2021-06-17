@@ -15,6 +15,7 @@ itinerary:
     - name: Berat
       description: Die zahlreichen Altstadtgebäude sind an Hängen gebaut, sodass es viele Aussichtspunkte in der Stadt gibt. Berat zählt als UNESCO-Weltkulturerbe und ist definitiv eine sehenswerte, wenn auch sehr kleine Stadt. Die Hauptsehenswürdigkeiten sind daher zwar schnell erkundet, jedoch fand ich den Charme der Stadt sehr entspannend, weswegen sich auch einige Tage hier verbringen lassen würden.
 map_id: 1w18Fzmgd29_KHGgxRN75bFrbKCK6XaDy
+country_tag: Albanien
 ---
 
 Diese Seite befindet sich noch im Aufbau und werde ich mit Bildern von der Reise ergänzen, sobald ich diese fertig habe. 
