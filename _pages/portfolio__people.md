@@ -11,7 +11,7 @@ gallery:
     - image_path: assets/photography/people/DSC_3113a.jpg
     - image_path: assets/photography/people/DSC_6526.jpg
     - image_path: assets/photography/people/DSC00596.jpg
-      caption: Selbstportrait (@gamue16)
+      caption: Selbstportrait (@johannes.ganzenmueller)
     - image_path: assets/photography/people/20210306_Valentin_140b.jpg
       caption: Valentin (@valentinduceac)
     - image_path: assets/photography/people/20210411_Marcel_049.jpg
