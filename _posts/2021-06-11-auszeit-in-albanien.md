@@ -3,8 +3,8 @@ title: Auszeit in Albanien
 description: "Nach über 15 Monaten Homeoffice 'musste' ich wieder raus in die große, weite Welt. Ziel dieses Mal war Albanien und es hat alle erfüllt, was ich mir gewünscht habe." 
 permalink: /auszeit-in-albanien/
 header:
-    teaser: assets/2021-06-11-auszeit-in-albanien/Albanien_305_tmp.jpg
-    overlay_image: assets/2021-06-11-auszeit-in-albanien/Albanien_305_tmp.jpg
+    teaser: assets/photography/2021_05_albanien/Albanien_304.jpg
+    overlay_image: assets/photography/2021_05_albanien/Albanien_304.jpg
 gallery:
     - image_path: assets/photography/2012_06_island/2012-06-21_island_291.jpg
     - image_path: assets/photography/2017_11_jordanien/Jordanien_646b.jpg
@@ -40,7 +40,7 @@ Auch wenn ich insgesamt nur etwa eine Woche in Albanien war, hat mir die Zeit do
 Trotz das ich aktuell in der vielleicht schlechtesten körperlichen Form meines Lebens bin, habe ich einige Wanderungen in den Albanischen Alpen unternommen und etwa 140.000 Schritte zurückgelegt. 
 So viel wie in den letzten Monaten zusammengerechnet nicht ^^
 
-{% cloudinary /assets/2021-06-11-auszeit-in-albanien/Albanien_305_tmp.jpg alt="Albanische Alpen" caption="Ein kleiner Schnappschuss mit dem Smartphone als Vorschau" %}
+{% cloudinary /assets/photography/2021_05_albanien/Albanien_304.jpg alt="Albanische Alpen" caption="Ein kleiner Schnappschuss mit dem Smartphone als Vorschau" %}
 
 Falls dich meine Reiseroute interessiert, findest du diese zusammen mit kurzen Beschreibungen der einzelnen Stationen [auf der Länderseite][3]. 
 Die Bilder kommen in ein paar Wochen, abhängig davon wie schlecht das Wetter in der nächsten Zeit ist ;) 
