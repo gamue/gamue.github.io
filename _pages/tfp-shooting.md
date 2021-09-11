@@ -12,7 +12,7 @@ tagline: Du hast Interesse an einem TfP Shooting? Dann erfährst du hier alles, 
 Gerade bei der People-Fotografie geht nichts ohne eine Person, die sich gerne ablichten lässt und daher freut es mich, 
 wenn du Interesse and einem Fotoshooting auf TfP-Basis mit mir hast.
 
-Schreib mich dazu einfach [über Instagram]({{site.accounts.instagram}}) oder [per Mail](mailto:tfp@gamue.de) an und wir klären alle Details.
+Schreib mich dazu einfach [über Instagram]({{site.accounts.instagram_people}}) oder [per Mail](mailto:tfp@gamue.de) an und wir klären alle Details.
 
 # Was bedeutet TfP?
 
