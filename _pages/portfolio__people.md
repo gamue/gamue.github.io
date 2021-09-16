@@ -9,39 +9,34 @@ typography: false
 masonry: true
 gallery:
     - image_path: assets/photography/people/DSC_3113a.jpg
-    - image_path: assets/photography/people/DSC_6526.jpg
-    - image_path: assets/photography/people/DSC00596.jpg
-      caption: Selbstportrait (@johannes.ganzenmueller)
+    - image_path: assets/photography/people/20210424_Suzie_020.jpg
+      caption: Suzie (@suziefleur)
+    - image_path: assets/photography/people/20210821_Anastasiya_118.jpg
+      caption: Anastasiya (@kopfkino.az)
+    - image_path: assets/photography/people/20210729_Anita_354.jpg
+      caption: Anita (@kozlowska.anita)
     - image_path: assets/photography/people/20210306_Valentin_140b.jpg
       caption: Valentin (@valentinduceac)
-    - image_path: assets/photography/people/20210411_Marcel_049.jpg
-      caption: Marcel (@thor_odinson_47)
-    - image_path: assets/photography/people/20210411_Marcel_360.jpg
-      caption: Marcel (@thor_odinson_47)
+    - image_path: assets/photography/people/20210429_JayJay_224.jpg
+      caption: JayJay (@pinkloveliness)
     - image_path: assets/photography/people/20210411_Marcel_512.jpg
       caption: Marcel (@thor_odinson_47)
     - image_path: assets/photography/people/20210424_Suzie_146.jpg
-      caption: Suzie (@suziefleur)    
-    - image_path: assets/photography/people/20210424_Suzie_016.jpg
       caption: Suzie (@suziefleur)
-    - image_path: assets/photography/people/20210424_Suzie_020.jpg
-      caption: Suzie (@suziefleur)
-    - image_path: assets/photography/people/20210429_JayJay_021.jpg
-      caption: JayJay (@pinkloveliness)
-    - image_path: assets/photography/people/20210429_JayJay_026.jpg
-      caption: JayJay (@pinkloveliness)
-    - image_path: assets/photography/people/20210429_JayJay_224.jpg
-      caption: JayJay (@pinkloveliness)
-    - image_path: assets/photography/people/20210501_Daniel_303.jpg
-      caption: Daniel (@danielhauser_)
+    - image_path: assets/photography/people/20210729_Anita_432.jpg
+      caption: Anita (@kozlowska.anita)
+    - image_path: assets/photography/people/20210411_Marcel_360.jpg
+      caption: Marcel (@thor_odinson_47)
     - image_path: assets/photography/people/20210515_Lydia_170.jpg
       caption: Lydia (@fischi_onstage)
-    - image_path: assets/photography/people/20210515_Lydia_177.jpg
-      caption: Lydia (@fischi_onstage)
-    - image_path: assets/photography/people/20210515_Lydia_249.jpg
-      caption: Lydia (@fischi_onstage)
-    - image_path: assets/photography/people/20210603_Kata_121.jpg
-      caption: Kata
+    - image_path: assets/photography/people/20210821_Anastasiya_255.jpg
+      caption: Anastasiya (@kopfkino.az)
+    - image_path: assets/photography/people/20210729_Anita_310.jpg
+      caption: Anita (@kozlowska.anita)
+    - image_path: assets/photography/people/20210501_Daniel_303.jpg
+      caption: Daniel (@danielhauser_)
+    - image_path: assets/photography/people/20210718_Svenja_150.jpg
+      caption: Svenja (@funkengeflunker)
 ---
 
 {% include gallery.html layout="third" double_padding="true" masonry="true" %}
