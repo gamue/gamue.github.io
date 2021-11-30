@@ -55,6 +55,9 @@ visitedCountries:
     - name: Jordanien
       code: JO
       link: /jordanien/
+    - name: Kenia
+      code: KE
+      link: /kenia/    
     - name: Kosovo
       code: XK
       link: /photography/suedosteuropa-2013/
