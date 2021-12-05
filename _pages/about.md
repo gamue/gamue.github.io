@@ -153,8 +153,8 @@ Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich
 
 ## Kontakt
 
-Wenn du Fragen zu meinen Reisen oder einem Beitrag hast, schreib gerne einen Kommentar auf der jeweiligen Seite, 
-kontaktiere mich über Social Media.
+Wenn du Fragen zu meinen Reisen oder einem Beitrag hast, schreib gerne einen Kommentar auf der jeweiligen Seite oder 
+kontaktiere mich über Social Media (z.B. [Instagram]({{site.accounts.instagram}})).
 
 ## Die längere Version
 
