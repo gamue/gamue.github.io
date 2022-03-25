@@ -23,6 +23,7 @@ itinerary:
     - name: Lamu
       description: Im Vergleich zu den anderen Küstenstädten ist Lamu sehr muslimisch geprägt und beherbergt etliche Moscheen, sodass ich mich teilweise in den Nahen Osten versetzt gefühlt hatte. Abgesehen davon ist die Stadt ein Labyrinth von schmalen Gassen und überall trifft man auf Esel ;)
 map_id: 1KzShknNbrsdRXpC14EK0X_z_f56lQB3R
+country_tag: Kenia
 ---
 
 Diese Seite befindet sich noch im Aufbau und werde ich mit Bildern von der Reise ergänzen, sobald ich diese fertig habe.
