@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2022-03-25T20:46:56+01:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">Mein Reisegepäck</title><link href="https://gamue.de/mein-reisegepaeck/" rel="alternate" type="text/html" title="Mein Reisegepäck" /><published>2022-03-24T00:00:00+01:00</published><updated>2022-03-24T00:00:00+01:00</updated><id>https://gamue.de/reisegepaeck-kenia</id><content type="html" xml:base="https://gamue.de/mein-reisegepaeck/">&lt;p&gt;Im November 2021 ging es für mich nach längerer Zeit wieder einmal mit dem Rucksack hinaus in die große, weite Welt. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://gamue.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gamue.de/" rel="alternate" type="text/html" /><updated>2022-03-27T09:58:53+02:00</updated><id>https://gamue.de/feed.xml</id><title type="html">gamue.de: Blog von Johannes Ganzenmüller</title><subtitle>Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.</subtitle><entry><title type="html">m-pesa: Einfach bezahlen in Kenia</title><link href="https://gamue.de/mpesa-das-bezahlungsmittel-in-kenia/" rel="alternate" type="text/html" title="m-pesa: Einfach bezahlen in Kenia" /><published>2022-03-27T00:00:00+01:00</published><updated>2022-03-27T00:00:00+01:00</updated><id>https://gamue.de/mpesa</id><content type="html" xml:base="https://gamue.de/mpesa-das-bezahlungsmittel-in-kenia/">&lt;p&gt;Als ich mich näher mit den Bezahlmethoden für meine Kenia-Reise beschäftigt habe, 
+bin ich schnell auf m-pesa gestoßen und dass das von vielen Shops und Einheimischen bevorzugt wird. 
+Was ich aber nur kaum gefunden habe, war die Information wie ich einen m-pesa Account bekomme oder gar wie es genau funktioniert. 
+Damit du mit mehr Wissen in deinen Kenia-Trip startest und entscheiden kannst ob du auch m-pesa nutzen möchtest, 
+möchte ich genau das in diesem Blogartikel zusammenfassen.&lt;/p&gt;
+
+&lt;h1 id=&quot;was-ist-m-pesa&quot;&gt;Was ist m-pesa?&lt;/h1&gt;
+&lt;p&gt;m-pesa wird häufig als Bank im Mobiltelefon bezeichnet, denn du kannst Geld auf dein m-pesa Konto einzahlen, 
+es überweisen und dir auch wieder auszahlen lassen.&lt;/p&gt;
+
+&lt;p&gt;Das Ganze wird von safaricom, Afrikas grösstem Mobilfunkanbieter, betrieben und ein Clou daran ist, 
+dass die Nutzer dafür kein Bankkonto, sondern nur ein Mobiltelefon benötigen. 
+Es muss auch kein Smartphone sein, sondern ein einfaches Handy reicht vollkommen aus.&lt;/p&gt;
+
+&lt;p&gt;Als Europäer lässt es ich vermutlich am einfachsten mit PayPal vergleichen, nur eben mit dem Unterschied, 
+dass keine Kreditkarte oder Konto verknüpft ist und das es über das Telefonnetz anstatt dem Internet funktioniert.&lt;/p&gt;
+
+&lt;h1 id=&quot;warum-sollte-ich-m-pesa-nutzen&quot;&gt;Warum sollte ich m-pesa nutzen?&lt;/h1&gt;
+&lt;p&gt;m-pesa ist in Kenia sehr weit verbreitet und war auf meiner Reise in Läden oder Restaurants immer eine sehr willkommene Bezahlungsmethode. 
+Im Vergleich fiel für Kreditkartenzahlungen meist eine Extra-Gebühr in Höhe von bis zu 5% an.&lt;/p&gt;
+
+&lt;p&gt;Auch das Bezahlen mit Bargeld war nicht immer einfach. Geldautomaten haben beispielsweise ein tägliches Limit von 40.000 KSh (ca. 320 Euro), 
+was sich erst einmal nach nicht wenig anhört, aber wenn du am ersten oder zweiten Tag eine Safari machen willst ist das recht schnell verplant und Geldautomaten finden sich auch oft nur in grösseren Städten.&lt;/p&gt;
+
+&lt;p&gt;Davon abgesehen war es für mich teilweise schwer eine Bank zu finden, bei der ich kostenlos Geld abheben konnte. 
+Oft war das mit Gebühren in Höhe von um die 5 Euro je Abhebung verknüpft und am Ende hatte man eine Handvoll 1000 KSh-Scheine, 
+die von vielen nur sehr widerwillig akzeptiert werden.&lt;/p&gt;
+
+&lt;p&gt;Ich bin beispielsweise einmal mit einem Motorrad-Taxi gefahren, was 150 KSh gekostet hat. Als ich dann mit einem 1000 KSh-Schein (ca. 8 Euro) bezahlen wollte,
+ist der Fahrer in Lachen ausgebrochen und meinte, er hat kein Wechselgeld. Das war eine der Situationen bei der ich glücklich war, 
+das schnell mit m-pesa regeln zu können. Bei einem anderen Taxifahrer war es ähnlich, selbst wenn ich 550 KSh zahlen musste, 
+die 1000 KSh-Scheine will einfach so gut wie niemand annehmen.&lt;/p&gt;
+
+&lt;h1 id=&quot;wie-nutze-ich-m-pesa&quot;&gt;Wie nutze ich m-pesa?&lt;/h1&gt;
+&lt;h2 id=&quot;voraussetzungen&quot;&gt;Voraussetzungen&lt;/h2&gt;
+&lt;p&gt;Die Voraussetzungen um an ein m-pesa Konto zu gelangen sind relativ simpel: 
+Du brauchst ein Mobiltelefon, wie erwähnt muss das kein Smartphone sein, und du brauchst eine SIM-Karte von safaricom.&lt;/p&gt;
+
+&lt;p&gt;Das erstmalige Einrichten von m-pesa kann nur in einem offiziellen Shop gemacht werden und du musst dort deinen Reisepass vorzeigen. 
+Solche Shops gibt es in jeder grösseren Stadt und beispielsweise auch an den Flughäfen, ich hatte das direkt nach der Landung in Nairobi erledigt.&lt;/p&gt;
+
+&lt;p&gt;Während der Einrichtung, die der safaricom-Mitarbeiter für dich übernimmt, vergibst du zudem noch eine 4-stellige Geheimzahl, die du bei jeder Transaktion eingeben musst. 
+Am Ende siehst du dann ein safaricom-Icon auf deinem Telefon, worüber unter anderem m-pesa verwaltet wird.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2022-03-27-mpesa/safaricom.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2022-03-27-mpesa/safaricom.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2022-03-27-mpesa/safaricom.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2022-03-27-mpesa/safaricom.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2022-03-27-mpesa/safaricom.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_915/https://gamue.de/assets/2022-03-27-mpesa/safaricom.jpg 915w&quot; sizes=&quot;100vw&quot; alt=&quot;Safaricom-Icon im Smartphone&quot; width=&quot;915&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zu einer lokalen SIM-Karte würde ich dir, gerade wenn du etwas länger in einem Land und nicht nur an einem einzigen Ort bist, in jedem Fall raten. 
+Safaricom ist im Vergleich zwar der teuerste Anbieter in Kenia, bietet aber die beste Netzabdeckung. 
+Ich hatte, wenn ich mich richtig erinnere, für eine SIM-Karte inklusive 5 GB Datenvolumen ca. 10-15 Euro bezahlt, also keine Unsumme. 
+Das Datennetz hat in Kenia super funktioniert, selbst mitten in der Masai Mara hatte ich LTE-Empfang. 
+Einer aus der Gruppe hat dort sogar eine Videotelefonie mit seiner Familie gestartet :D&lt;/p&gt;
+
+&lt;h2 id=&quot;geld-aufladen&quot;&gt;Geld aufladen&lt;/h2&gt;
+&lt;p&gt;Im Normalfall wird der erste Schritt bei einem neuen m-pesa Konto das Überweisen von Geld darauf sein. 
+Hierfür hast du prinzipiell zwei Möglichkeiten:&lt;/p&gt;
+
+&lt;p&gt;Die erste Option ist Bargeld einzuzahlen, was jedoch voraussetzt, dass du bereits einheimische Währung besitzt, 
+beispielsweise weil du es davor vom Geldautomaten abgehoben hast. Eine Einzahlung kannst du in jedem safaricom-Shop oder bei jedem safaricom-Partner vornehmen. 
+Bei den safaricom-Partnern handelt es sich meist um einen Kiosk und die gibt es in Kenia an jeder Ecke. 
+Im Gegensatz zu den offiziellen Shops, haben diese aber ein recht niedriges Einzahlungslimit. 
+Grundsätzlich aber eine ziemlich einfache Möglichkeit Geld auf sein m-pesa Konto zu laden.&lt;/p&gt;
+
+&lt;p&gt;Die zweite Variante funktioniert über Online-Zahlungsdienstleister wie beispielsweise Wise, Remitly oder WorldRemit. 
+Das ist auch der Weg, den ich genutzt habe, da ich so Geld direkt von meiner Kreditkarte auf das m-pesa Konto überweisen und das Geldautomaten-Limit umgehen konnte. 
+Natürlich nehmen diese Dienste eine Gebühr für die Überweisung und jeder Dienst hat unterschiedliche Wechselkurse, 
+sodass du diese im Vorfeld vergleichen solltest, bevor du dich für einen Dienst entscheidest. 
+Auch will ich hier keine detaillierte Anleitung geben, wie so eine Überweisung geht, dazu findest du aber leicht über Google Hilfeseiten der jeweiligen Anbieter. 
+Für eine Überweisung benötigst du jedenfalls nur deinen Namen, wie er bei der Registrierung angegeben wurde und deine kenianische Telefonnummer.&lt;/p&gt;
+
+&lt;h2 id=&quot;geld-senden&quot;&gt;Geld senden&lt;/h2&gt;
+&lt;p&gt;Kommen wir nun zum meist genutzten Anwendungsfall: Dem Senden von Geld, beziehungsweise dem Bezahlen von Waren oder Leistungen, 
+was grundsätzlich zwei unterschiedliche Punkte sind. Letzteres findest du hauptsächlich in Läden oder Restaurants und ist gebührenfrei, 
+das Senden von Geld hingegen kostet dich eine kleine Gebühr und wird für alles andere verwendet, beispielsweise dem Bezahlen eines Taxifahrers.&lt;/p&gt;
+
+&lt;p&gt;Die Höhe der Gebühr ist abhängig von dem Betrag, den du senden möchtest und bewegt sich zwischen 6 - 105 KSh (ca. 0,05 - 0,83 Euro). 
+Genaueres findest du bei &lt;a href=&quot;https://www.safaricom.co.ke/personal/m-pesa/m-pesa-rates&quot;&gt;Safaricom&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Für den Sende-Prozess musst du auf das Safaricom-Icon in deinem Telefon klicken, wodurch sich ein Auswahlmenü öffnet. 
+Nach der Wahl von “M-PESA” sind die wichtigen Punkte entweder “Send Money” (=Geld senden) oder “Lipa na M_Pesa” (=Bezahlen). 
+Bei “Lipa na M-PESA” musst du danach noch zwischen “Pay Bill” oder “Buy Goods and Services” wählen, 
+das Richtige sagt dir dann entweder der Shop oder es steht dort dick auf einem Poster. 
+Soweit ich mich erinnere, habe ich immer “Buy Goods and Services” gewählt.&lt;/p&gt;
+
+&lt;p&gt;Im Anschluss darauf gibst du entweder die Telefonnummer der Person, der du das Geld schicken möchtest, 
+oder wenn du etwas bezahlst die Shopnummer ein, die im Normalfall prominent auf einem Poster steht. 
+Im Zweifel hilft dir dein Gegenüber sicherlich gern weiter, um an sein Geld zu kommen ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2022-03-27-mpesa/mpesa_flow.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2022-03-27-mpesa/mpesa_flow.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2022-03-27-mpesa/mpesa_flow.jpg 490w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2022-03-27-mpesa/mpesa_flow.jpg 660w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2022-03-27-mpesa/mpesa_flow.jpg 830w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2022-03-27-mpesa/mpesa_flow.jpg 1000w&quot; sizes=&quot;100vw&quot; alt=&quot;Ablauf in mpesa&quot; width=&quot;1500&quot; height=&quot;806&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Im letzten Schritt musst du die Zahlung mit deiner 4-stelligen Geheimzahl freigeben und ein paar Sekunden später sollte das Geld auch schon angekommen sein. 
+Als Bestätigung bekommst du eine SMS, in der auch die Information über die bezahlten Gebühren und deinen neuen Kontostand enthalten ist.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2022-03-27-mpesa/mpesa_confirm.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2022-03-27-mpesa/mpesa_confirm.jpg 320w, https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_462/https://gamue.de/assets/2022-03-27-mpesa/mpesa_confirm.jpg 462w&quot; sizes=&quot;100vw&quot; alt=&quot;Bestätigungs-SMS&quot; width=&quot;462&quot; height=&quot;1000&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;geld-abheben&quot;&gt;Geld abheben&lt;/h2&gt;
+&lt;p&gt;Solltest du Geld abheben wollen, weil du beispielsweise gegen Ende des Urlaubs noch etwas auf deinem m-pesa Account hast, 
+kannst du das ganz einfach bei einem safaricom-Shop oder -Partner machen. 
+Jedoch hier auch wieder der Hinweis, dass die kleinen Partnerläden nur begrenzt Geld auszahlen werden und dafür ebenfalls &lt;a href=&quot;https://www.safaricom.co.ke/personal/m-pesa/m-pesa-rates&quot;&gt;eine Gebühr&lt;/a&gt; anfällt.&lt;/p&gt;
+
+&lt;p&gt;Vor deiner Rückreise solltest du in jedem Fall prüfen, dass dein m-pesa Konto leer ist, 
+denn falls du die SIM-Karte einige Monate nicht nutzt, wird diese automatisch deaktiviert und das dortige Geld wäre weg.&lt;/p&gt;
+
+&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;Insgesamt finde ich m-pesa sehr einfach zu nutzen und es hat mir während der Kenia Reise ein paar Mal sehr geholfen. 
+Solltest du also mit dem Rucksack das Land erkunden, würde ich dir empfehlen es dir zumindest anzuschauen. 
+Besonders in ländlichen Gegenden oder bei kleinen Beträgen ist es sehr hilfreich und eine echte Alternative zu Bargeld.&lt;/p&gt;
+
+&lt;p&gt;Ob es am Ende günstiger als die Kreditkarten-Nutzung war, kann ich tatsächlich nicht sagen, gehe jedoch stark davon aus. 
+Auch wenn es neben dem Telefon und der SIM-Karte nichts weiter braucht, ist es jedoch nicht komplett umsonst, denn die Gebühren, 
+auch wenn sie oft sehr gering sind, summieren sich durch die Nutzung schnell, “Kleinvieh macht eben auch Mist” wie man so schön sagt ;)&lt;/p&gt;</content><author><name></name></author><category term="Reisen" /><category term="Kenia" /><summary type="html">Als ich mich näher mit den Bezahlmethoden für meine Kenia-Reise beschäftigt habe, bin ich schnell auf m-pesa gestoßen und dass das von vielen Shops und Einheimischen bevorzugt wird. Was ich aber nur kaum gefunden habe, war die Information wie ich einen m-pesa Account bekomme oder gar wie es genau funktioniert. Damit du mit mehr Wissen in deinen Kenia-Trip startest und entscheiden kannst ob du auch m-pesa nutzen möchtest, möchte ich genau das in diesem Blogartikel zusammenfassen.</summary></entry><entry><title type="html">Mein Reisegepäck</title><link href="https://gamue.de/mein-reisegepaeck/" rel="alternate" type="text/html" title="Mein Reisegepäck" /><published>2022-03-24T00:00:00+01:00</published><updated>2022-03-24T00:00:00+01:00</updated><id>https://gamue.de/reisegepaeck-kenia</id><content type="html" xml:base="https://gamue.de/mein-reisegepaeck/">&lt;p&gt;Im November 2021 ging es für mich nach längerer Zeit wieder einmal mit dem Rucksack hinaus in die große, weite Welt. 
 Genau genommen für 3 Wochen quer durch Kenia und da ich in einem der letzten Blogposts &lt;a href=&quot;/meine-kameraausruestung-2021/&quot;&gt;meine Fotoausrüstung&lt;/a&gt; vorstellt habe, 
 dachte ich, ich mach das gleiche einmal mit meinem Reisegepäck.&lt;/p&gt;
 
@@ -1297,76 +1406,4 @@ Klar wäre es schön die Möglichkeit zu haben, irgendwann nochmal die alten Bil
 Denn um die, durch die Corona-Pandemie angeschlagene Kreativszene zu unterstützen, hat der Hersteller seine Software mit 50% Rabatt verkauft, und für 27,99€ musste ich nicht lange überlegen ;)&lt;/p&gt;
 
 &lt;p&gt;Ich hoffe, die Blogserie hat dir geholfen einen besseren Überblick über die vorgestellten RAW-Konverter zu bekommen. 
-Lass mich gerne in den Kommentaren wissen was dein Favorit unter den Programmen ist und was du daran so magst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet. Zwar würde ich prinzipiell jedem empfehlen, auch alle möglichen Programme auszuprobieren um festzustellen, was einem zusagt und was nicht. Kann aber durchaus verstehen, wenn du das nicht machen willst und nach einer Abkürzung in Form von Erfahrungsberichten und Empfehlungen suchst.</summary></entry><entry><title type="html">Affinity Photo, Bildbearbeiter mit RAW-Konverter</title><link href="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/" rel="alternate" type="text/html" title="Affinity Photo, Bildbearbeiter mit RAW-Konverter" /><published>2021-02-18T00:00:00+01:00</published><updated>2021-02-18T00:00:00+01:00</updated><id>https://gamue.de/serif-affinity-photo</id><content type="html" xml:base="https://gamue.de/affinity-photo-bildbearbeitung-mit-raw-konverter/">&lt;p&gt;&lt;a href=&quot;https://affinity.serif.com/de/photo/&quot;&gt;Affinity Photo von der Firma Serif&lt;/a&gt; ist in erster Linie ein Bildbearbeitungsprogramm, mit dem sich komplexe Bildmanipulationen vornehmen lassen können. 
-Die Anwendung verfügt zudem aber auch über die Möglichkeit der RAW-Konvertierung und genau diese habe ich mir detaillierter angeschaut.&lt;/p&gt;
-
-&lt;p&gt;Meine Meinung dazu und ob die Funktion, in meinen Augen, mit den anderen RAW-Konvertern mithalten kann, findest du in diesem Artikel.&lt;/p&gt;
-
-&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Ethik-Hinweis&lt;/strong&gt;: Ich habe das Programm aus Eigeninteresse getestet und die nachfolgenden Punkte entsprechen meiner eigenen Meinung und Erfahrung.
-Ich habe vom Hersteller weder beauftragt noch habe ich eine Gegenleistung bekommen.&lt;/p&gt;
-
-&lt;h1 id=&quot;varianten-und-preis&quot;&gt;Varianten und Preis&lt;/h1&gt;
-&lt;p&gt;Affinity Photo gibt es ausschließlich zu kaufen und kostet in den Varianten für &lt;strong&gt;Windows und Mac jeweils 54,99€&lt;/strong&gt;, zudem ist auch noch eine spezielle &lt;strong&gt;iPad-Variante für 21,99€&lt;/strong&gt; erhältlich.&lt;/p&gt;
-
-&lt;p&gt;Im Gegensatz zu vielen anderen Programmen, kommt von Affinity Photo nicht jährlich ein neues, kostenpflichtiges Update heraus, sondern der Hersteller geht damit sehr kundenfreundlich um. 
-Mitte 2015 kam die Version 1.3.1 für MacOS und im Dezember 2016 mit der Version 1.5.1 die erste Version für Windows heraus, vor kurzem, also im Februar 2021, 
-ist die Version 1.9 erschienen und alle bisherigen Updates wurden Bestandskunden kostenlos zur Verfügung gestellt. 
-Diese Updates haben viele größere Neuerungen enthalten, für die manch ein anderer Hersteller sicherlich nochmal Geld verlangt hätte.&lt;/p&gt;
-
-&lt;p&gt;Ich gehe jedoch davon aus, dass das Update von 1.9 zu 2.0 kostenpflichtig sein wird, finde das im Angesicht des sehr langen Supportzeitraums aber sehr fair 
-und prinzipiell wird ja niemand gezwungen das neue Update zu kaufen, wenn er für sich beschließt, dass die verwendete Version ausreicht.&lt;/p&gt;
-
-&lt;p&gt;Für meinen Test habe ich die 30tägige Testversion für Windows verwendet.&lt;/p&gt;
-
-&lt;h1 id=&quot;erster-eindruck&quot;&gt;Erster Eindruck&lt;/h1&gt;
-&lt;p&gt;Im Gegensatz zu den anderen Programmen im Test hat Affinity Photo keine Bildverwaltung, sodass du die Bilder entweder über den Dateiexplorer oder direkt aus der Anwendung heraus öffnen musst. 
-Ich kann daher nicht sagen, ob es meine bisherigen Bildbewertungen oder Farbmarkierungen übernimmt bzw. korrekt anzeigt. Die bisherigen Bearbeitungsinformationen sind jedenfalls, wie auch bei den anderen Programmen, nicht vorhanden.&lt;/p&gt;
-
-&lt;p&gt;Im Vergleich zu den anderen Anwendungen im Test sind die Entwicklungsoptionen auf der rechten Seite ziemlich eingeschränkt 
-und ich vermisse etliche Optionen, wie beispielsweise die Möglichkeit einzelne Farben bzw. Farbbereiche einzeln anpassen zu können. 
-Die Basisfunktionalitäten, wie beispielsweise Farbtemperatur, Belichtung und Kontrast sind jedoch alle vorhanden, daher ist die RAW-Entwicklung aber grundsätzlich möglich.&lt;/p&gt;
-
-&lt;h1 id=&quot;raw-entwickeln&quot;&gt;RAW entwickeln&lt;/h1&gt;
-&lt;p&gt;Die Optionen, die vorhanden sind, funktionieren ganz gut, in jedem der verfügbaren Reiter sind insgesamt wenig Entwicklungseinstellungen, 
-sodass ich die Aufteilung nicht sonderlich gut finde und mir gewünscht hätte, dass die Optionen besser zusammengelegt worden wären, um die Anzahl der Wechsel zwischen den Tabs zu reduzieren.&lt;/p&gt;
-
-&lt;p&gt;Jeder Einstellungs-Block lässt sich einzeln aktivieren bzw. deaktivieren, womit du einfach dessen Auswirkungen sehen kannst. 
-Zusätzlich gibt es noch eine spezielle Ansicht, in der du einen Vorher-Nachher-Vergleich des kompletten Bildes sehen kannst, diese gefällt mir sehr gut.&lt;/p&gt;
-
-&lt;p&gt;Abgesehen davon muss ich jedoch sagen, dass mir die Einstellungsmöglichkeiten von Affinity Photo nicht ausreichen. 
-Die RAW-Entwicklung ist zwar möglich, jedoch vermisse ich zu viele Optionen, die ich in meinem bisherigen Arbeitsablauf sonst häufig verwende.&lt;/p&gt;
-
-&lt;figure class=&quot;flex flex-wrap gallery image-gallery&quot;&gt;
-  &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_raw.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;822&quot; crossorigin=&quot;anonymous&quot; /&gt;
-        
-      &lt;/a&gt;
-  &lt;a href=&quot;/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
-        &lt;img src=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_800/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_320/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 320w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_490/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 490w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_660/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 660w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_830/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 830w,
-https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/https://gamue.de/assets/2021-02-18-serif-affinity-photo/affinity_vergleich.jpg 1000w&quot; sizes=&quot;100vw&quot; class=&quot;thumbnail&quot; width=&quot;1500&quot; height=&quot;821&quot; crossorigin=&quot;anonymous&quot; /&gt;
-        
-      &lt;/a&gt;
-  
-  
-&lt;/figure&gt;
-
-&lt;script&gt;
-    new SimpleLightbox({elements: '.image-gallery a'});&lt;/script&gt;
-
-&lt;h1 id=&quot;fazit&quot;&gt;Fazit&lt;/h1&gt;
-&lt;p&gt;In meinen Augen taugt Affinity Photo nur bedingt als RAW-Konverter, sodass ich es hierfür nicht empfehlen kann.&lt;/p&gt;
-
-&lt;p&gt;Insgesamt hat mir das Programm aber sehr gut gefallen und gerade die Möglichkeiten der Bildmanipulation sind denen, in den RAW-Konvertern, überlegen. 
-Ich sehe es daher eher als Alternative zu Adobe Photoshop. Falls du nicht über das Adobe Abo verfügst und einmal größere Anpassungen an einem Foto durchführen willst, ist Affinity Photo meiner Meinung nach eine sehr gute Wahl.&lt;/p&gt;
-
-&lt;p&gt;Zudem empfinde ich die Preisgestaltung als sehr fair, wodurch ich nicht wirklich lange überlegen musste, als es im Angebot war und mir das Programm zugelegt habe.&lt;/p&gt;
-
-&lt;p&gt;Ich werde es zwar nicht für die RAW-Konvertierung nutzen, aber ich habe doch öfter mal den Anwendungsfall Bilder zuzuschneiden oder anzupassen. 
-Beispielsweise die ganzen Bilder und Thumbnails für die Homepage-Artikel ;)&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Affinity Photo von der Firma Serif ist in erster Linie ein Bildbearbeitungsprogramm, mit dem sich komplexe Bildmanipulationen vornehmen lassen können. Die Anwendung verfügt zudem aber auch über die Möglichkeit der RAW-Konvertierung und genau diese habe ich mir detaillierter angeschaut.</summary></entry></feed>
+Lass mich gerne in den Kommentaren wissen was dein Favorit unter den Programmen ist und was du daran so magst.&lt;/p&gt;</content><author><name></name></author><category term="Fotografie" /><category term="Software" /><summary type="html">Die Suche nach dem besten RAW-Konverter war nicht einfach und hat mich etliche Stunden gekostet. Zwar würde ich prinzipiell jedem empfehlen, auch alle möglichen Programme auszuprobieren um festzustellen, was einem zusagt und was nicht. Kann aber durchaus verstehen, wenn du das nicht machen willst und nach einer Abkürzung in Form von Erfahrungsberichten und Empfehlungen suchst.</summary></entry></feed>
