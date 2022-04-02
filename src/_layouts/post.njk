@@ -11,11 +11,11 @@ layout: base.njk
     </header>
   {% endif %}
 
-  {%- if page.toc -%}
+  {%- if toc -%}
   <aside>
     <nav class="toc">
       <header><h4>Auf dieser Seite</h4></header>
-      {#% include toc.html sanitize=true html=content h_min=1 h_max=3 %#}
+      {{ content | toc | safe }}
     </nav>
   </aside>
   {%- endif -%}

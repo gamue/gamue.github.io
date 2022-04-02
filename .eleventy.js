@@ -1,10 +1,17 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const markdownItAnchor = require('markdown-it-anchor');
+const pluginTOC = require('eleventy-plugin-toc');
 const postUrls = require("./src/_11ty/post_url.js");
 const dateFilters = require("./src/_11ty/date_filters.js");
 const readTime = require("./src/_11ty/read_time.js");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginTOC, {
+      tags: ['h1', 'h2', 'h3'],
+      wrapper: '',
+      ul: true
+    });
 
   let markdownIt = require("markdown-it");
   var markdownItAttrs = require('markdown-it-attrs');
@@ -13,7 +20,7 @@ module.exports = function(eleventyConfig) {
     breaks: false,
     linkify: true
   };
-  let markdownLib = markdownIt(options).use(markdownItAttrs);
+  let markdownLib = markdownIt(options).use(markdownItAttrs).use(markdownItAnchor);
   eleventyConfig.setLibrary("md", markdownLib);
 
   eleventyConfig.addPassthroughCopy("src/assets");

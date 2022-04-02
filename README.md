@@ -2,10 +2,9 @@
 
 Source code of my [private homepage](https://gamue.de).
 
-- Build with Static Site Generator [Jekyll](https://jekyllrb.com/)
+- Build with Static Site Generator [Eleventy](https://www.11ty.dev/)
 - CSS created with [TailwindCSS](https://tailwindcss.com/) and the [Typography Plugin](https://github.com/tailwindlabs/tailwindcss-typography)
 - Icons from [IcoMoon Free bundle](https://icomoon.io/app/#/select)
-- Table of Content by [jekyll-toc](ttps://github.com/allejo/jekyll-toc)
 - Using [SimpleLightbox](https://github.com/dbrekalo/simpleLightbox) for gallery overlays
 - Using [Masonry Library](https://masonry.desandro.com/) for (optional) gallery styling
 
@@ -61,5 +60,5 @@ Die Seite ist aktuell so strukturiert:
 ## Styling
 
 Um den Überblick über alle verwendeten Elemente und Styles zu behalten, 
-sind alle auf [einer Seite](http://localhost:4000/style/) vorhanden. Um diese sehen zu können, 
+sind alle auf [einer Seite](http://localhost:8080/style/) vorhanden. Um diese sehen zu können, 
 muss Jekyll mit dem Parameter `--unpublished` lokal gestartet werden.
