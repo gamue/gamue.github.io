@@ -14,6 +14,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownLib);
 
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/favicon*");
+  eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
 
   eleventyConfig.cloudinaryCloudName = 'gamue';
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280];
