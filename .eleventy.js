@@ -1,4 +1,6 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const postUrls = require("./src/_11ty/post_url.js");
+const dateFilters = require("./src/_11ty/date_filters.js");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -35,32 +37,12 @@ module.exports = function(eleventyConfig) {
     return `<img loading="lazy" src="${src}" srcset="${srcset}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
   });
 
-  eleventyConfig.addFilter("dateToYear", function(date) {
-    return new Date(date).getFullYear();
-  });
+  eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
 
-   // based on https://rusingh.com/implement-jekyll-post-url-tag-11ty-shortcode/
-   eleventyConfig.addShortcode("post_url", (collection, slug) => {
-      try {
-        if (collection.length < 1){ throw "Collection appears to be empty";}
-        if (!Array.isArray(collection)){ throw "Collection is an invalid type - it must be an array!";}
-        if (typeof slug !== "string"){throw "Slug is an invalid type - it must be a string!";}
-
-        const found = collection.find((p) => p.fileSlug.includes(slug));
-        if (found === 0 || found === undefined){
-            throw `${slug} not found in specified collection.`;
-        }else{
-            return found.url;
-        }
-      } catch (e) {
-        console.error(
-          `An error occured while searching for the url to ${slug}. Details:`,
-          e
-        );
-      }
-    });
+  eleventyConfig.addShortcode("post_url", postUrls);
 
   return {
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dir: {
       includes: "_includes",
