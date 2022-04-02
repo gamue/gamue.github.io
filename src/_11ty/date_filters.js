@@ -1,7 +1,13 @@
+const { DateTime } = require("luxon");
+
 const dateYear = (date) => {
-  const jsDate = new Date(date);
-  const fullYear = jsDate.getFullYear();
-  return fullYear;
+  return new Date(date).getFullYear();
 };
 
-module.exports = { dateYear };
+const dateFull = (date, locale = "de") => {
+  const jsDate = new Date(date);
+  const dt = DateTime.fromJSDate(jsDate);
+  return dt.setLocale(locale).toLocaleString(DateTime.DATE_FULL);
+};
+
+module.exports = { dateYear, dateFull };

@@ -1,0 +1,25 @@
+<footer class="container prose prose-sm md:prose lg:prose-lg mt-8">
+  <div class="my-4">
+  {%- if categories -%}
+    {%- set categories_sorted = categories | sort -%}
+    {%- for category in categories_sorted -%}
+    <a href="#"
+       class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Kategorie {{ category }}" >
+      {{ category }}
+    </a>
+    {%- endfor -%}
+  {%- endif -%}
+
+  {%- if tags -%}
+    {%- set tags_sorted = tags | sort -%}
+    {%- for tag_word in tags_sorted -%}
+      {% if tag_word != 'posts' %}
+    <a href="#"
+       class="border border-gray-500 rounded px-2 py-0.5 hover:text-white hover:bg-gray-500 inline-block mr-2 mb-2" rel="tag" title="Unterkategorie {{ tag_word }}">
+      {{ tag_word }}
+    </a>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+  </div>
+</footer>

@@ -1,6 +1,7 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const postUrls = require("./src/_11ty/post_url.js");
 const dateFilters = require("./src/_11ty/date_filters.js");
+const readTime = require("./src/_11ty/read_time.js");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -38,6 +39,8 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
+  eleventyConfig.addFilter("dateFull", dateFilters.dateFull);
+  eleventyConfig.addFilter("readTime", readTime);
 
   eleventyConfig.addShortcode("post_url", postUrls);
 

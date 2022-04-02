@@ -1,0 +1,17 @@
+---
+layout: base.njk
+---
+
+<article class="container p-4">
+
+  {% if not header.overlay_image %}
+    <header class="text-center mb-8">
+      <h1 class="text-3xl sm:text-4xl mb-2">{{ title | safe }}</h1>
+      {% if show_meta_data %}<div class="text-xs sm:text-sm text-gray-500">{% include "page__meta.njk" %}</div>{% endif %}
+    </header>
+  {% endif %}
+
+  <section class="container pt-8{% if not page.typography %} prose prose-sm md:prose lg:prose-lg{% endif %}{% if page.full_width == true %} max-w-none{% endif %}">
+    {{ content | safe }}
+  </section>
+</article>

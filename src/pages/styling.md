@@ -21,7 +21,6 @@ gallerySingle:
     - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
 sitemap: false
 published: false
-toc: true
 ---
 
 # h1 headline
