@@ -1,5 +1,5 @@
 ---
-title: 'You&#8217;re my Hero'
+title: 'You´re my Hero'
 date: 2009-10-15T18:52:31+02:00
 permalink: /youre-my-hero/
 categories:

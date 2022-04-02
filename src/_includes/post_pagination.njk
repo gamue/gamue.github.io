@@ -1,0 +1,25 @@
+{% set currentPost = collections.posts | getCollectionItem(page) %}
+{% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+
+{% if previousPost or nextPost %}
+<nav class="container prose prose-sm md:prose lg:prose-lg mt-8 py-8 border-t border-gray-100 flex justify-between flex-wrap">
+  {% if previousPost %}
+  <div class="w-1/2 pr-2">
+    <div class="text-xs md:text-sm">&laquo;&nbsp;vorheriger Artikel</div>
+    <a href="{{ previousPost.url | url }}" title="{{ previousPost.data.title }}">
+      {{ previousPost.data.title }}
+    </a>
+  </div>
+  {% endif %}
+
+  {% if nextPost %}
+  <div class="w-1/2 pl-2 text-right">
+    <div class="text-xs md:text-sm">nächster Artikel&nbsp;&raquo;</div>
+    <a href="{{ nextPost.url | url }}" title="{{ nextPost.data.title }}">
+      {{nextPost.data.title}}
+    </a>
+  </div>
+  {% endif %}
+</nav>
+{% endif %}
