@@ -93,7 +93,7 @@ Info-Box: Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, 
 
 Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 
-```
+```txt
 ├── /2011-09-05 Köln
 ├── /2019-04 Belize
 ├── /2019-12 Paris
@@ -130,23 +130,23 @@ Item
 
 # Gallery Single
 
-{% include gallery.html id="gallerySingle" caption="Godzilla in Tokio" %}
+{#% include gallery.html id="gallerySingle" caption="Godzilla in Tokio" %#}
 
 # Gallery Half
 
-{% include gallery.html layout="half" %}
+{#% include gallery.html layout="half" %#}
 
 # Gallery Third
 
-{% include gallery.html id="gallery2" layout="third" %}
+{#% include gallery.html id="gallery2" layout="third" %#}
 
 # Gallery Quarter
 
-{% include gallery.html id="gallery2" layout="quarter" %}
+{#% include gallery.html id="gallery2" layout="quarter" %#}
 
 # Einzelbild
 
-{% cloudinary /assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg alt="Clip am Rucksack" %}
+{% cloudinary "/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg", "Clip am Rucksack" %}
 
 Vivamus vestibulum magna vel dui auctor vestibulum. Fusce feugiat bibendum eros, eu egestas turpis sollicitudin a. 
 Etiam porttitor facilisis justo, efficitur tempor sapien commodo a. Suspendisse orci tellus, laoreet in consectetur eget, 

@@ -1,0 +1,30 @@
+---
+layout: base.njk
+---
+
+<article class="container p-4">
+
+  {% if page.header.overlay_image %}
+    <header class="text-center mb-8">
+      <h1 class="text-3xl sm:text-4xl mb-2">{{ page.title }}</h1>
+      {% if page.show_meta_data %}<div class="text-xs sm:text-sm text-gray-500">{% include page__meta.html %}</div>{% endif %}
+    </header>
+  {% endif %}
+
+  {%- if page.toc -%}
+  <aside>
+    <nav class="toc">
+      <header><h4>Auf dieser Seite</h4></header>
+      {#% include toc.html sanitize=true html=content h_min=1 h_max=3 %#}
+    </nav>
+  </aside>
+  {%- endif -%}
+
+  <section class="container pt-8{% if not page.typography %} prose prose-sm md:prose lg:prose-lg{% endif %}{% if page.full_width == true %} max-w-none{% endif %}">
+    {{ content | safe }}
+  </section>
+
+  {#% include page__taxonomy.html %#}
+
+  {#% include post_pagination.html %#}
+</article>
