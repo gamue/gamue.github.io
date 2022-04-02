@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+
+{#% include head__seo.html %#}
+
+<link href="{{ '/feed.xml' | url }}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="{{ '/styles/main.css' | url }}">
+
+{%- if page.gallery or page.lightbox == true -%}
+<script src="{{ '/assets/js/simpleLightbox.min.js' | url }}"></script>
+<link rel="stylesheet" href="{{ '/styles/simpleLightbox.min.css' | url }}">
+{%- endif -%}
+{%- if page.masonry -%}
+<script src="{{ '/assets/js/masonry.pkgd.min.js' | url }}"></script>
+{%- endif -%}

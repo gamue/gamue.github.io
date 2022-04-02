@@ -7,9 +7,7 @@
 */
 
 module.exports = {
-    purge: [
-        '{,!(node_modules|_site)/**/}*.{html,md,js}',
-    ],
+    content: [ '_site/**/*.html' ],
     theme: {
         container: {
             center: true,
