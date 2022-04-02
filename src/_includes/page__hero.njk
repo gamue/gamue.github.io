@@ -1,0 +1,29 @@
+{% if process.env.NODE_ENV === 'production' %}
+  {% set overlay_img_path = 'https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/' + header.overlay_image %}
+{% else %}
+  {% set overlay_img_path = '/' + header.overlay_image %}
+{% endif %}
+
+{% if header.overlay_filter %}
+  {% set overlay_filter = header.overlay_filter %}
+{% endif %}
+
+<div class="py-16 bg-center bg-cover relative"
+  style="{% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+>
+  {% if overlay_img_path %}
+    <div class="container text-white text-center text-shadow-lg text-sm lg:text-base">
+      <h1 id="page-title" class="text-4xl lg:text-5xl font-bold mb-4">
+          {{ title }}
+      </h1>
+
+      {% if tagline %}
+        <p class="text-xl lg:text-2xl mb-4 mx-4">{{ tagline }}</p>
+      {% endif %}
+      {% if show_meta_data %}{#% include page__meta.html %#}{% endif %}
+    </div>
+  {% endif %}
+  {% if header.caption %}
+    <div class="absolute right-0 bottom-0 text-sm px-4 py-0.5 bg-gray-800 text-white opacity-50 rounded-tl">{{ header.caption }}</div>
+  {% endif %}
+</div>

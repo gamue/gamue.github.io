@@ -25,7 +25,7 @@ Eine kommerzielle Nutzung der Bilder ist dabei jedoch meist ausgeschlossen.
 
 - Im Vorfeld besprechen wir welche **Art von Aufnahmen** wir machen wollen, sowie den **Ort und die Zeit**. 
     Solltest du schon eine konkrete Bildidee oder Location haben, umso besser ;)
-- Erfahrungsgemäß plane ich ein Shooting mit **ca. 2 Stunden** ein und bin normalerweise flexibel was die Dauer angeht. 
+- Erfahrungsgemäß plane ich ein Shooting mit **ca. 1-2 Stunden** ein und bin normalerweise flexibel was die Dauer angeht. 
     Wir können daher meistens so lange fotografieren, wie wir möchten oder uns die Ideen ausgehen.
 - Zum Shooting kannst du selbstverständlich eine Begleitperson mitbringen, solange diese nicht ablenkt oder stört.
 - Mit einem **TfP-Vertrag** regeln wir unter anderem die Nutzungsrechte der Bilder, damit wir beide sicher sein können, die Bilder verwenden zu dürfen. 

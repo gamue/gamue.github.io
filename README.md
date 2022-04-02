@@ -18,7 +18,6 @@ Folgende Optionen stehen im Frontmatter zur Verfügung:
   - `teaser`: Vorschaubild der Seite oder Artikels
   - `overlay_image`: Hero-Bild der Seite
   - `overlay_filter`: Farbanpassung/Überlagerung des Hero-Bildes in rgb, Beispielswert: `rgba(200, 200, 200, 0.6)`
-  - `show_overlay_excerpt`: `true` falls der `excerpt`-Text unterhalb der Seitenüberschrift, ggf. im Hero-Image-Bereich, dargestellt werden soll.
 - `gallery`: Liste von Bildern, die in einer Galerie dargestellt werden sollen. Es kann auch ein anderer Name verwendet werden, und über den `id`-Parameter an den gallery-include übergeben werden.
   - `image_path`: Ein Element der Galerie-Liste, das den Pfad zum Bild angibt.
 - `itinerary`: Liste mit Reisestationen (nur `country`-layout)
