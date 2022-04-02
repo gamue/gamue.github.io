@@ -1,14 +1,14 @@
 {
   "name": "gamue_de",
-  "version": "1.0.0",
-  "description": "everything needed for my private homepage",
+  "version": "2.0.0",
+  "description": "private homepage powered by eleventy",
+  "main": "index.js",
   "scripts": {
-    "preinstall": "npx npm-force-resolutions",
-    "setup": "gem install bundler && bundle install && npm i",
-    "start": "concurrently --kill-others \"npm run css:dev\" \"bundle exec jekyll serve --future --unpublished\"",
-    "build": "npm run css:rel && bundle exec jekyll build",
-    "css:dev": "parcel watch styles/index.css --no-source-maps",
-    "css:rel": "parcel build styles/index.css --no-source-maps"
+    "tailwind:dev": "postcss src/styles/main.css -o _site/styles/main.css --watch",
+    "tailwind:prod": "NODE_ENV=production postcss src/styles/main.css -o _site/styles/main.css",
+    "build": "NODE_ENV=production eleventy --pathprefix 'playground-eleventy' && npm run tailwind:prod",
+    "serve": "eleventy --serve",
+    "start": "concurrently \"yarn run tailwind:dev\" \"yarn run serve\""
   },
   "repository": {
     "type": "git",
@@ -16,14 +16,16 @@
   },
   "author": "Johannes Ganzenmüller",
   "devDependencies": {
-    "@tailwindcss/typography": "^0.3.1",
-    "autoprefixer": "^9.8.6",
-    "concurrently": "^5.3.0",
-    "parcel-bundler": "^1.12.4",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1",
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "autoprefixer": "^10.4.4",
+    "concurrently": "^7.0.0",
+    "markdown-it-attrs": "^4.1.3",
+    "postcss": "^8.4.12",
+    "postcss-cli": "^9.1.0",
+    "postcss-import": "^14.1.0",
+    "tailwindcss": "^3.0.23",
     "tailwindcss-textshadow": "^2.1.3"
-  },
-  "resolutions": {
-    "node-forge": "0.10.0"
   }
 }

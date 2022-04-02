@@ -1,11 +1,7 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="de">
 <head>
-    {% include head.html %}
+    {#% include "head.html" %#}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -13,16 +9,15 @@ layout: compress
 </head>
 
 <body>
-{% include_cached navbar.html %}
+    {#% include "navbar.html" %#}
 
-{% if page.header.overlay_image %}
-    {% include page__hero.html %}
-{% endif %}
+    {% if page.header.overlay_image %}
+        {#% include "page__hero.html" %#}
+    {% endif %}
 
-{{ content }}
+    {{ content | safe}}
 
-{% include_cached footer.html %}
-{% include scripts-end.html %}
-
+    {% include "footer.njk" %}
+    {% include "scripts-end.njk" %}
 </body>
 </html>

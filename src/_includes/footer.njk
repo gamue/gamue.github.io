@@ -20,7 +20,7 @@
         </a>
       </li>
       <li class="inline-block mr-6">
-        <a href="{{ '/feed.xml' | relative_url }}" title="RSS-Feed">
+        <a href="{{ '/feed.xml' | url }}" title="RSS-Feed">
           <svg class="icon mr-0.5 h-6 w-6 hover:text-red-900" viewBox="0 0 16 16">
             <title>RSS-Feed</title>
             <path d="M14.5 0h-13c-0.825 0-1.5 0.675-1.5 1.5v13c0 0.825 0.675 1.5 1.5 1.5h13c0.825 0 1.5-0.675 1.5-1.5v-13c0-0.825-0.675-1.5-1.5-1.5zM4.359 12.988c-0.75 0-1.359-0.603-1.359-1.353 0-0.744 0.609-1.356 1.359-1.356 0.753 0 1.359 0.613 1.359 1.356 0 0.75-0.609 1.353-1.359 1.353zM7.772 13c0-1.278-0.497-2.481-1.397-3.381-0.903-0.903-2.1-1.4-3.375-1.4v-1.956c3.713 0 6.738 3.022 6.738 6.737h-1.966zM11.244 13c0-4.547-3.697-8.25-8.241-8.25v-1.956c5.625 0 10.203 4.581 10.203 10.206h-1.963z"></path>
@@ -29,9 +29,9 @@
       </li>
     </ul>
     <div class="text-sm md:text-base mb-4 md:flex justify-between">
-      <p>&copy; {{ site.time | date: '%Y' }} Johannes Ganzenmüller</p>
-      <p><a href="{{ '/impressum/' | relative_url }}" class="hover:underline">Impressum</a> | <a href="{{ '/datenschutz/' | relative_url }}" class="hover:underline">Datenschutzerklärung</a></p>
+      <p>&copy; {{ page.date | dateToYear }} Johannes Ganzenmüller</p>
+      <p><a href="{{ '/impressum/' | url }}" class="hover:underline">Impressum</a> | <a href="{{ '/datenschutz/' | url }}" class="hover:underline">Datenschutzerklärung</a></p>
     </div>
-    <p class="text-xs md:text-sm">Built with <a href="https://jekyllrb.com" rel="nofollow" class="hover:underline">Jekyll</a> and <a href="https://tailwindcss.com/" rel="nofollow" class="hover:underline">TailwindCSS</a></p>
+    <p class="text-xs md:text-sm">Built with <a href="https://www.11ty.dev/" rel="nofollow" class="hover:underline">Eleventy</a> and <a href="https://tailwindcss.com/" rel="nofollow" class="hover:underline">TailwindCSS</a></p>
   </div>
 </footer>
