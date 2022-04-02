@@ -238,5 +238,5 @@ Mehr Informationen zum Umgang der Daten finden Sie in der [Erklärung von Cloudi
 Quelle: [e-recht24.de][2]
 
 
-[1]: {#% link _pages/impressum.md %#}
+[1]: {% post_url collections.pages, "impressum" %}
 [2]: https://www.e-recht24.de

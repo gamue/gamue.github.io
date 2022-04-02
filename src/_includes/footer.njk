@@ -30,7 +30,7 @@
     </ul>
     <div class="text-sm md:text-base mb-4 md:flex justify-between">
       <p>&copy; {{ page.date | dateToYear }} Johannes Ganzenmüller</p>
-      <p><a href="{{ '/impressum/' | url }}" class="hover:underline">Impressum</a> | <a href="{{ '/datenschutz/' | url }}" class="hover:underline">Datenschutzerklärung</a></p>
+      <p><a href="{% post_url collections.pages, 'impressum' %}" class="hover:underline">Impressum</a> | <a href="{% post_url collections.pages, 'datenschutz' %}" class="hover:underline">Datenschutzerklärung</a></p>
     </div>
     <p class="text-xs md:text-sm">Built with <a href="https://www.11ty.dev/" rel="nofollow" class="hover:underline">Eleventy</a> and <a href="https://tailwindcss.com/" rel="nofollow" class="hover:underline">TailwindCSS</a></p>
   </div>
