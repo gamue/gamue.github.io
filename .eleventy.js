@@ -4,6 +4,7 @@ const pluginTOC = require('eleventy-plugin-toc');
 const postUrls = require("./src/_11ty/post_url.js");
 const dateFilters = require("./src/_11ty/date_filters.js");
 const readTime = require("./src/_11ty/read_time.js");
+const utils = require("./src/_11ty/utils.js");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -49,6 +50,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
   eleventyConfig.addFilter("dateFull", dateFilters.dateFull);
   eleventyConfig.addFilter("readTime", readTime);
+  eleventyConfig.addFilter("addUniqueNumber", utils.addUniqueNumber);
 
   eleventyConfig.addShortcode("post_url", postUrls);
 

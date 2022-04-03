@@ -1,8 +1,7 @@
 {% macro imageGallery(images, caption, layout, reverse=false, equal_height=false, double_padding=false, masonry=false ) %}
 
 {%- set gallery = images -%}
-{# TODO hashcode? eigene id je array #}
-{%- set galleryName = "gallery" -%}
+{%- set galleryName = "gallery" | addUniqueNumber -%}
 
 {%- if reverse -%}
   {%- set gallery = gallery | reverse -%}

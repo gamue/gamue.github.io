@@ -22,7 +22,7 @@ gallerySingle:
 sitemap: false
 published: false
 ---
-
+{%- from "macros/gallery.njk" import imageGallery -%}
 # h1 headline
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed purus a enim placerat consectetur. 
@@ -128,27 +128,21 @@ Item
 : Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 
 # Gallery Single
-{% from "macros/gallery.njk" import imageGallery %}
-
 {{ imageGallery(gallerySingle, "Godzilla in Tokio") }}
 
 # Gallery Half
-
 {{ imageGallery(
     images = gallery, 
     caption = null, 
     layout = "half") }}
 
 # Gallery Third
-
 {{ imageGallery(gallery2, null, "third") }}
 
 # Gallery Quarter
-
 {{ imageGallery(gallery2, null, "quarter") }}
 
 # Einzelbild
-
 {% cloudinary "/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg", "Clip am Rucksack" %}
 
 Vivamus vestibulum magna vel dui auctor vestibulum. Fusce feugiat bibendum eros, eu egestas turpis sollicitudin a. 
