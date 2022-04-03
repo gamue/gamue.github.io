@@ -128,20 +128,24 @@ Item
 : Ut vulputate, est ac fermentum sagittis, sapien justo lacinia lectus, vitae tincidunt justo nulla ut ante.
 
 # Gallery Single
+{% from "macros/gallery.njk" import imageGallery %}
 
-{#% include gallery.html id="gallerySingle" caption="Godzilla in Tokio" %#}
+{{ imageGallery(gallerySingle, "Godzilla in Tokio") }}
 
 # Gallery Half
 
-{#% include gallery.html layout="half" %#}
+{{ imageGallery(
+    images = gallery, 
+    caption = null, 
+    layout = "half") }}
 
 # Gallery Third
 
-{#% include gallery.html id="gallery2" layout="third" %#}
+{{ imageGallery(gallery2, null, "third") }}
 
 # Gallery Quarter
 
-{#% include gallery.html id="gallery2" layout="quarter" %#}
+{{ imageGallery(gallery2, null, "quarter") }}
 
 # Einzelbild
 

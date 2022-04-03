@@ -1,0 +1,61 @@
+{% macro imageGallery(images, caption, layout, reverse=false, equal_height=false, double_padding=false, masonry=false ) %}
+
+{%- set gallery = images -%}
+{# TODO hashcode? eigene id je array #}
+{%- set galleryName = "gallery" -%}
+
+{%- if reverse -%}
+  {%- set gallery = gallery | reverse -%}
+{%- endif -%}
+
+{%- set cloudinary_size = 'thumbnail' -%}
+{%- if layout === 'half' -%}
+  {%- set element_class = 'w-full sm:w-1/2' -%}
+  {%- set cloudinary_size = 'default' -%}
+{%- elif layout == 'third' -%}
+  {%- set element_class = 'w-full sm:w-1/2 md:w-1/3' -%}
+{%- elif layout == 'quarter' -%}
+  {%- set element_class = 'w-full sm:w-1/2 md:w-1/3 lg:w-1/4' -%}
+{%- else -%}
+  {%- set element_class = 'w-full' -%}
+  {%- set cloudinary_size = 'default' -%}
+{%- endif -%}
+
+{%- if equal_height -%}
+  {%- set element_class = element_class + ' h-64 cover-img' -%}
+{%- endif -%}
+
+{%- if double_padding -%}
+  {%- set element_class = element_class + ' p-3' -%}
+{%- else -%}
+  {%- set element_class = element_class + ' p-1.5' -%}
+{%- endif -%}
+
+{%- if masonry -%}
+  {%- set cloudinary_size = 'default' -%}
+{%- endif -%}
+
+<figure class="flex flex-wrap gallery {{galleryName}}">
+{% for img in gallery %}
+{%- set file_path = '/' + img.image_path  -%}
+<a href="{{ file_path }}" class="flex-none {{ element_class }}" {% if img.caption %}title="{{img.caption}}"{% endif %}>
+{# TODO: thumbnail in cloudinary #}
+{% cloudinary file_path, "", "", "thumbnail" %}
+{% if img.caption %}
+<div class="caption absolute -bottom-1 bg-gradient-to-r from-gray-100 w-full p-3 -ml-3 sm:hidden">{{img.caption}}</div>
+{% endif %}
+</a>
+{% endfor %}
+{% if caption %}
+{# TODO markdownify | remove: "<p>" | remove: "</p>" #}
+<figcaption>{{ caption }}</figcaption>
+{% endif %}
+</figure>
+
+<script>
+new SimpleLightbox({elements: '.{{galleryName}} a'});
+{%- if masonry -%}
+new Masonry( '.{{galleryName}}', { });
+{%- endif -%}
+</script>
+{% endmacro %}

@@ -9,10 +9,10 @@
 
 <link rel="stylesheet" href="{{ '/styles/main.css' | url }}">
 
-{%- if page.gallery or page.lightbox == true -%}
+{%- if gallery or lightbox == true -%}
 <script src="{{ '/assets/js/simpleLightbox.min.js' | url }}"></script>
 <link rel="stylesheet" href="{{ '/styles/simpleLightbox.min.css' | url }}">
 {%- endif -%}
-{%- if page.masonry -%}
+{%- if masonry -%}
 <script src="{{ '/assets/js/masonry.pkgd.min.js' | url }}"></script>
 {%- endif -%}
