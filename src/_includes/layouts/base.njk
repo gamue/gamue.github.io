@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="de">
 <head>
-    {% include "head.njk" %}
+    {% include "partials/head.njk" %}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    {% include "navbar.njk" %}
+    {% include "partials/navbar.njk" %}
 
     {% if header.overlay_image %}
         {% include "page__hero.njk" %}
@@ -17,7 +17,7 @@
 
     {% block content %}{% endblock %}
 
-    {% include "footer.njk" %}
-    {% include "scripts-end.njk" %}
+    {% include "partials/footer.njk" %}
+    {% include "partials/scripts-end.njk" %}
 </body>
 </html>

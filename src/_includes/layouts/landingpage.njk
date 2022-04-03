@@ -1,0 +1,30 @@
+{% extends "./base.njk" %}
+{% block content %}
+
+{{ content | safe }}
+
+{%- if page.preview.category -%}
+  {#%- assign currentPostsHeadline = 'Aktuelle ' | append: page.preview.category | append: '-Artikel im Blog' -%#}
+  {#%- assign previewPosts = site.categories[page.preview.category] -%#}
+  {#%- assign allPostsLabel = 'Alle ' | append: page.preview.category | append: '-Artikel' -%#}
+  {#%- assign allPostsUrl = page.preview.category | slugify | prepend: 'category/' | append: '/' | relative_url -%#}
+{%- else -%}
+  {%- set currentPostsHeadline = 'Aktuelle Artikel im Blog' -%}
+  {#%- assign previewPosts = site.posts -%#}
+  {%- set allPostsLabel = 'Alle Artikel' -%}
+  {%- set allPostsUrl = '/blog/' -%}
+{%- endif -%}
+
+<section class="container text-gray-700">
+  <h2 class="mt-12 mb-6 px-4">{{currentPostsHeadline}}</h2>
+  <div class="flex flex-wrap">
+    {% for post in collections.posts %}
+      {% include "partials/post-summary-grid-view.njk" %}
+    {% endfor %}
+  </div>
+  {# TODO button #}
+  <div class="flex justify-center mt-8">
+    <a href="{{allPostsUrl}}" class="btn">{{allPostsLabel}}</a>
+  </div>
+</section>
+{% endblock %}

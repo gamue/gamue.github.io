@@ -5,7 +5,7 @@
   {% if not header.overlay_image %}
     <header class="text-center mb-8">
       <h1 class="text-3xl sm:text-4xl mb-2">{{ title | safe }}</h1>
-      {% if show_meta_data %}<div class="text-xs sm:text-sm text-gray-500">{% include "page__meta.njk" %}</div>{% endif %}
+      {% if show_meta_data %}<div class="text-xs sm:text-sm text-gray-500">{% include "partials/post_meta.njk" %}</div>{% endif %}
     </header>
   {% endif %}
 

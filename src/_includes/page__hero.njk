@@ -20,7 +20,7 @@
       {% if tagline %}
         <p class="text-xl lg:text-2xl mb-4 mx-4">{{ tagline }}</p>
       {% endif %}
-      {% if show_meta_data %}{#% include page__meta.html %#}{% endif %}
+      {% if show_meta_data %}{% include "partials/post_meta.njk" %}{% endif %}
     </div>
   {% endif %}
   {% if header.caption %}

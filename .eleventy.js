@@ -24,6 +24,11 @@ module.exports = function(eleventyConfig) {
   let markdownLib = markdownIt(options).use(markdownItAttrs).use(markdownItAnchor);
   eleventyConfig.setLibrary("md", markdownLib);
 
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    excerpt_separator: '<!-- excerpt -->',
+  });
+
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/favicon*");
   eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
@@ -51,6 +56,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("dateFull", dateFilters.dateFull);
   eleventyConfig.addFilter("readTime", readTime);
   eleventyConfig.addFilter("addUniqueNumber", utils.addUniqueNumber);
+  eleventyConfig.addFilter("excerpt", utils.excerpt);
+  eleventyConfig.addFilter("markdownify", utils.markdownify);
+
 
   eleventyConfig.addShortcode("post_url", postUrls);
 
