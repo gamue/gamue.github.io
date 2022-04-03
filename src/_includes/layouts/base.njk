@@ -15,7 +15,7 @@
         {% include "page__hero.njk" %}
     {% endif %}
 
-    {{ content | safe}}
+    {% block content %}{% endblock %}
 
     {% include "footer.njk" %}
     {% include "scripts-end.njk" %}

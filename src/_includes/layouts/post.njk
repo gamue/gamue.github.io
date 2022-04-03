@@ -1,7 +1,5 @@
----
-layout: base.njk
----
-
+{% extends "./base.njk" %}
+{% block content %}
 <article class="container p-4">
 
   {% if not header.overlay_image %}
@@ -28,3 +26,4 @@ layout: base.njk
 
   {% include "post_pagination.njk" %}
 </article>
+{% endblock %}
