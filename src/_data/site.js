@@ -4,5 +4,9 @@ module.exports = {
   url: "https://gamue.de",
   authorEmail: "johannes@gamue.de",
   buildTime: new Date(),
-  og_image: "assets/images/j_logo.jpg"
+  og_image: "assets/images/j_logo.jpg",
+  accounts:{
+    instagram: "https://www.instagram.com/johannes.ganzenmueller/",
+    instagram_people: "https://www.instagram.com/gamue16/"
+  }
 };

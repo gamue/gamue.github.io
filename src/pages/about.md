@@ -122,7 +122,8 @@ visitedCountries:
       link: /photography/zypern-2015/
 ---
 <p class="float-left mr-2">
-{% cloudinary thumbnail /assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg alt="" %}
+{# TODO auf thumbnail ändern #}
+{% cloudinary "/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg" %}
 </p>
 
 Hi, ich bin Johannes. Weltenbummler, Hobbyfotograf und Technikfreak.
@@ -135,20 +136,14 @@ Denn dort poste ich während meinen Reisen entsprechende Stories, noch bevor ich
 
 <div class="clear-both"></div>
 
-## Folgende {{ page.visitedCountries.size }} Länder habe ich schon bereist:
 
-{% include content/visited-countries.html countries=page.visitedCountries %}
+## Folgende {{ visitedCountries.length }} Länder habe ich schon bereist:
+
+{% from "macros/visited-countries-map.njk" import visitedCountriesMap %}
+{{ visitedCountriesMap (visitedCountries) }}
 
 <div class="text-xs md:text-sm mt-4 flex flex-wrap justify-center">
-{% for country in page.visitedCountries %}
-    <span class="p-1 m-0.5 border border-gray-300 rounded-lg">
-    {% if country.link %}
-    <a href="{{ country.link }}">{{ country.name }}</a>
-    {% else %}
-    {{ country.name }}
-    {% endif %}
-    </span>
-{% endfor %}
+{% for country in visitedCountries %}<span class="p-1 m-0.5 border border-gray-300 rounded-lg">{% if country.link %}<a href="{{ country.link }}">{{ country.name }}</a>{% else %}{{ country.name }}{% endif %}</span>{% endfor %}
 </div>
 
 ## Kontakt
@@ -177,7 +172,7 @@ Zu Beginn habe ich noch häufiger Reiseberichte geschrieben, habe das aber irgen
 die Muse gehabt diese zu verfassen. Solltet ihr aber Fragen zu einer Tour oder einem Reiseland haben, 
 meldet euch einfach bei mir ;). 
 
-Seit der [Umstellung der Seite auf Jekyll]({% post_url 2019-09-01-relaunch %}) gelingt es mir auch wieder regelmäßiger Updates zu posten 
+Seit der [Umstellung der Seite auf Jekyll]({% post_url collections.posts, "2019-09-01-relaunch" %}) gelingt es mir auch wieder regelmäßiger Updates zu posten 
 oder Informationen rund um die Reiserouten und Stationen zu veröffentlichen. 
 Abgesehen von Reiseberichten und -tipps schreibe ich auch über Fotografie- und Technikthemen, 
 an denen ich gerade arbeite oder die mich beschäftigen. Denn in gewisser Weise ist die Homepage auch eine Experimentier- 

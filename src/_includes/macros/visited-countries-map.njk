@@ -1,3 +1,4 @@
+{% macro visitedCountriesMap(visitedCountries) %}
 <script src="https://www.amcharts.com/lib/4/core.js"></script>
 <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
@@ -19,7 +20,7 @@
     polygonTemplate.tooltipText = "{name}";
 
     polygonSeries.data = [
-    {%- for country in include.countries -%}
+    {%- for country in visitedCountries -%}
       {%- if country.code -%}
       {
         "id": "{{ country.code }}",
@@ -32,4 +33,4 @@
 
     polygonTemplate.propertyFields.fill = "fill";
 </script>
-
+{% endmacro %}
