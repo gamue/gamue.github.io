@@ -34,7 +34,7 @@ tags:
     - Berlin
     - Deutschland
 ---
-
+{%- from "macros/gallery.njk" import imageGallery -%}
 Die letzten Wochen und Monate habe ich mich wieder intensiver mit der Fotografie beschäftigt, 
 unzählige Videos angeschaut und eine Vielzahl von Texte gelesen, sogar auch Bücher und ich lese sonst eigentlich nie Bücher ;)
 
@@ -64,7 +64,7 @@ Die [Molecule Man](https://de.wikipedia.org/wiki/Molecule_Man) Statue ist eine c
 Am nördlichen Spreeufer hast du in etwa von der Fernsehwerft bis zur Elsenbrücke einen guten Blick auf das Kunstwerk. 
 Wobei kurz vor der Elsenbrücke fleißig gebaut wird und so etliche Baustellen und Absperrungen den direkten Weg zur Brücke versperren.
 
-{#% include gallery.html id="galleryMoleculeNord" %#}
+{{ imageGallery(galleryMoleculeNord, null, "full") }}
 
 Für die Bilder habe ich ein **Weitwinkelobjektiv** verwendet und das ganze als Langzeitaufnahme erstellt, damit das Wasser und die Wolken weichgezeichnet werden. 
 Bei den Bildern war es zwar kurz vor Sonnenuntergang, aber ich musste trotzdem noch einen ND64-Filter nutzen, um die Belichtungszeiten zu verlängern.
@@ -72,7 +72,7 @@ Bei den Bildern war es zwar kurz vor Sonnenuntergang, aber ich musste trotzdem n
 ## Sicht von der Elsenbrücke
 Die Ansicht von der Elsenbrücke ist vermutlich die bekannteste und neben dem Molecule Man kannst du noch die Oberbaumbrücke, den Fernsehturm, die Kuppel des Berliner Doms und eventuell sogar das Rote Rathaus auf das Bild bekommen.
 
-{#% include gallery.html id="galleryMoleculeElsenbruecke" %#}
+{{ imageGallery(galleryMoleculeElsenbruecke, null, "full") }}
 
 An dem Tag, an dem ich die Bilder aufgenommen habe, war die Spree zum erstem Mal seit etlichen Jahren von Eis bedeckt und an manche Stellen sogar zugefroren. 
 Ansonsten fahren auf dieser Route viele Ausflugsschiffe und gerade Abends können diese, durch ihre bunte Beleuchtung, auch eine schöne Komponente eines Bildes darstellen.
@@ -87,21 +87,21 @@ Die Elsenbrücke wird zum Beispiel bis ca. 2028 umgebaut, sodass sich hier in de
 Am südlichen Ende der Elsenbrücke führt eine Treppe zu einem kleinen Pfad der am Spreeufer entlang führt. 
 Wenn du diesem etwas folgst, kannst du durch den Molecule Man auf den Fernsehturm blicken, was ich ein schönes Motiv finde.
 
-{#% include gallery.html id="galleryMoleculeSued" %#}
+{{ imageGallery(galleryMoleculeSued, null, "full") }}
 
 Etwas weiter auf dem Pfad, gibt es einen kleinen Ausleger, von dem aus auch gute Bilder gemacht werden können. 
 Durch Bauarbeiten war dieser jedoch bei meinen Besuchen nicht erreichbar und so habe ich kein Foto von der Stelle aus machen können. 
 In meinem Archiv habe ich aber glücklicherweise noch ein Bild gefunden, welches von dort aus aufgenommen worden ist. 
 Da du auf dem Ausleger sehr nahe an der Statue bist, empfehle ich von dort aus auch ein **Weitwinkelobjektiv**.
 
-{#% include gallery.html id="galleryMoleculeAusleger" %#}
+{{ imageGallery(galleryMoleculeAusleger, null, "full") }}
 
 Nochmal einige Meter weiter auf dem Weg, beziehungsweise für mich durch die Baustellen komplett außenrum, 
 kommst du zum Wrack eines Ausflugsdampfers und zum Gelände der Arena Berlin an der Ecke Eichenstraße und Fanny-Zobel-Straße. 
 Von hier aus lassen sich Bilder in die andere Richtung, also mit der Elsenbrücke als Hintergrund, aufnehmen. 
 Wie zuvor geschrieben, wird hier gerade einiges gebaut oder saniert, sodass es nicht die beste Aussicht ist, aber wollte es nicht unerwähnt lassen.
 
-{#% include gallery.html id="galleryMoleculeSuedAndereRichtung" %#}
+{{ imageGallery(galleryMoleculeSuedAndereRichtung, null, "full") }}
 
 # Oberbaumbrücke
 Vom Spreeufer an der Ecke Eichenstraße und Fanny-Zobel-Straße hast du auch die nächste Sehenswürdigkeit sehr gut im Blick: Die Oberbaumbrücke.
@@ -113,7 +113,7 @@ Für mich zählt sie zu den schönsten Brücken, die ich kenne und auch historis
 Zwischen den beiden Türmen der Oberbaumbrücke kannst du das Rote Rathaus sehen und auch der Fernsehturm ist prominent im Bild vorhanden. 
 Ebenso wie etliche Baukräne, die seit Jahren zum Stadtbild Berlins gehören.
 
-{#% include gallery.html id="galleryOberbaumSued" %#}
+{{ imageGallery(galleryOberbaumSued, null, "full") }}
 
 Für diese Aufnahmen empfehle ich dir wieder ein **Teleobjektiv** zu verwenden, um die Brücke groß im Bild zu haben und eine Kompression der Sehenswürdigkeiten zu erreichen.
 
@@ -126,7 +126,7 @@ Für Streetfotografie oder Portraits kann beides aber ziemlich interessant sein.
 Wieder auf der Nordseite angekommen, gibt es zwischen der Brücke und dem Pirates Club, eine kleine Einbuchtung, von der du aus die Brücke gut im Blick hast und ich die folgenden Bilder aufgenommen habe. 
 Hier bietet sich eine **Weitwinkel- oder Standardbrennweite** an, um die Brücke komplett ins Bild zubekommen.
 
-{#% include gallery.html id="galleryOberbaumNord" %#}
+{{ imageGallery(galleryOberbaumNord, null, "full") }}
 
 Dadurch, dass die Brücke von Autos befahren wird, lassen sich durch Langzeitbelichtungen entsprechende Lichtstreifen erzielen. 
 Direkt an der Brücke befindet sich übrigens eine Ampel, sodass sich ziemlich gut berechnen lässt, wann sich die Autos in Bewegung setzen.
@@ -136,7 +136,7 @@ Die Bahnstrecke ist jedoch bis April 2021 wegen Bauarbeiten gesperrt und erst da
 
 Ein paar Meter weiter, an den Ausflugsschiffen vorbei und dem Uferweg entlang bietet sich nochmal ein guter Blick auf die Brücke, für den wieder ein **Teleobjektiv** hilfreich ist.
 
-{#% include gallery.html id="galleryOberbaumEastSide" %#}
+{{ imageGallery(galleryOberbaumEastSide, null, "full") }}
 
 # Weitere Fotospots in der Nähe
 
