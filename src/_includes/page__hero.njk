@@ -1,3 +1,4 @@
+{%- from "macros/date-and-readtime.njk" import dateAndReadtime -%}
 {% if process.env.NODE_ENV === 'production' %}
   {% set overlay_img_path = 'https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/' + header.overlay_image %}
 {% else %}
@@ -20,7 +21,7 @@
       {% if tagline %}
         <p class="text-xl lg:text-2xl mb-4 mx-4">{{ tagline }}</p>
       {% endif %}
-      {% if show_meta_data %}{% include "partials/post_meta.njk" %}{% endif %}
+      {% if show_meta_data %}{{ dateAndReadtime(page.date, content) }}{% endif %}
     </div>
   {% endif %}
   {% if header.caption %}
