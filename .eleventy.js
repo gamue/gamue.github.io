@@ -58,7 +58,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("addUniqueNumber", utils.addUniqueNumber);
   eleventyConfig.addFilter("excerpt", utils.excerpt);
   eleventyConfig.addFilter("markdownify", utils.markdownify);
-
+  eleventyConfig.addFilter("head", utils.head);
 
   eleventyConfig.addShortcode("post_url", postUrls);
 

@@ -10,7 +10,7 @@
   {#%- assign allPostsUrl = page.preview.category | slugify | prepend: 'category/' | append: '/' | relative_url -%#}
 {%- else -%}
   {%- set currentPostsHeadline = 'Aktuelle Artikel im Blog' -%}
-  {#%- assign previewPosts = site.posts -%#}
+  {%- set previewPosts = collections.posts -%}
   {%- set allPostsLabel = 'Alle Artikel' -%}
   {%- set allPostsUrl = '/blog/' -%}
 {%- endif -%}
@@ -18,7 +18,7 @@
 <section class="container text-gray-700">
   <h2 class="mt-12 mb-6 px-4">{{currentPostsHeadline}}</h2>
   <div class="flex flex-wrap">
-    {% for post in collections.posts %}
+    {% for post in previewPosts | reverse | head(4) %}
       {% include "partials/post-summary-grid-view.njk" %}
     {% endfor %}
   </div>
