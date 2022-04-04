@@ -40,6 +40,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode('cloudinary', (path, alt, sizes, className) => {
     const isProd = process.env.NODE_ENV === 'production';
     if(!isProd){
+        if(!path.startsWith('/')){
+            path = '/'+path;
+        }
         return `<img loading="lazy" src="${path}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
     }
     const fetchBase = `https://res.cloudinary.com/${eleventyConfig.cloudinaryCloudName}/image/fetch/`;
