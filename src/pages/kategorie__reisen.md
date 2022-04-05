@@ -6,7 +6,6 @@ permalink: /reisen/
 header:
     overlay_image: assets/photography/2019_04_belize/Belize_0317.jpg
 preview:
-    enabled: true
     category: 'Reisen'
 ---
 

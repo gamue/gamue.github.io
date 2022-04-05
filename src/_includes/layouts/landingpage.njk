@@ -3,11 +3,11 @@
 
 {{ content | safe }}
 
-{%- if page.preview.category -%}
-  {#%- assign currentPostsHeadline = 'Aktuelle ' | append: page.preview.category | append: '-Artikel im Blog' -%#}
-  {#%- assign previewPosts = site.categories[page.preview.category] -%#}
-  {#%- assign allPostsLabel = 'Alle ' | append: page.preview.category | append: '-Artikel' -%#}
-  {#%- assign allPostsUrl = page.preview.category | slugify | prepend: 'category/' | append: '/' | relative_url -%#}
+{%- if preview.category -%}
+  {%- set currentPostsHeadline = 'Aktuelle ' + preview.category + '-Artikel im Blog' -%}
+  {%- set previewPosts = collections.posts | includes("data.categories", preview.category) -%}
+  {%- set allPostsLabel = 'Alle ' + preview.category + '-Artikel' -%}
+  {#%- set allPostsUrl = page.preview.category | slugify | prepend: 'category/' | append: '/' | relative_url -%#}
 {%- else -%}
   {%- set currentPostsHeadline = 'Aktuelle Artikel im Blog' -%}
   {%- set previewPosts = collections.posts -%}

@@ -1,5 +1,6 @@
 const markdown = require('markdown-it');
 const markdownItRenderer = new markdown({ html: true });
+const lodash = require("lodash");
 
 var counter = 0;
 const addUniqueNumber = (content) => {
@@ -26,14 +27,20 @@ const excerpt = (article) => {
 };
 
 const head = (array, n) => {
-    if(!Array.isArray(array) || array.length === 0) {
-        return [];
-    }
-    if( n < 0 ) {
-        return array.slice(n);
-    }
+    if(!Array.isArray(array) || array.length === 0) { return []; }
+    if( n < 0 ) { return array.slice(n); }
+
     return array.slice(0, n);
 };
 
+const includes =  (arr, path, value) => {
+  value = lodash.deburr(value).toLowerCase();
+  return arr.filter((item) => {
+    let pathValue = lodash.get(item, path);
+    pathValue = lodash.deburr(pathValue).toLowerCase();
+    return pathValue.includes(value);
+  });
+};
 
-module.exports = { addUniqueNumber, excerpt, head };
+
+module.exports = { addUniqueNumber, excerpt, head, includes };

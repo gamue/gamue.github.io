@@ -6,7 +6,6 @@ permalink: /fotografie/
 header:
     overlay_image: assets/2021-01-15-raw-konverter-intro/markus-spiske-nfwBWcaFAYg-unsplash.jpg
 preview:
-    enabled: true
     category: 'Fotografie'
 ---
 {%- from "macros/teaser-gallery-item.njk" import teaserGalleryItem -%}
