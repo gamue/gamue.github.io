@@ -66,5 +66,13 @@ gallery:
     - image_path: assets/photography/0000_misc/2011-07_london3.jpg
     - image_path: assets/photography/0000_misc/2011-03_neuschwanstein.jpg
 ---
-
-{% include gallery.html layout="third" double_padding="true" masonry="true" %}
+{%- from "macros/gallery.njk" import imageGallery -%}
+{# TODO masonry #}
+{{ imageGallery(
+    images=gallery,
+    caption=null,
+    layout='third',
+    reverse=false,
+    equal_height=false,
+    double_padding=true,
+    masonry=false ) }}

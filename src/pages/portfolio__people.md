@@ -38,12 +38,20 @@ gallery:
     - image_path: assets/photography/people/20210718_Svenja_150.jpg
       caption: Svenja (@funkengeflunker)
 ---
-
-{% include gallery.html layout="third" double_padding="true" masonry="true" %}
+{%- from "macros/gallery.njk" import imageGallery -%}
+{# TODO masonry #}
+{{ imageGallery(
+    images=gallery, 
+    caption=null, 
+    layout='third', 
+    reverse=false, 
+    equal_height=false, 
+    double_padding=true, 
+    masonry=false ) }}
 
 <div class="container prose prose-sm md:prose lg:prose-lg mt-8">
     <p>Auf dieser Seite sind nur einige meiner People-Bilder zu sehen. Mehr findest du auf meinem gesonderten <a href="{{site.accounts.instagram_people}}">Instagram-Account @gamue16</a>.</p>
     <h2>Lust auf ein TfP-Shooting?</h2>
-    <p>Solltest du Interesse an einem <a href="{% link _pages/tfp-shooting.md %}">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!</p>
-    <p><a href="{% link _pages/tfp-shooting.md %}">Mehr Details findest du hier.</a></p>
+    <p>Solltest du Interesse an einem <a href="{% post_url collections.pages, 'tfp-shooting' %}">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!</p>
+    <p><a href="{% post_url collections.pages, 'tfp-shooting' %}">Mehr Details findest du hier.</a></p>
 </div>
