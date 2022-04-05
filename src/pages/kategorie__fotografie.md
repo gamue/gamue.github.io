@@ -9,7 +9,7 @@ preview:
     enabled: true
     category: 'Fotografie'
 ---
-
+{%- from "macros/teaser-gallery-item.njk" import teaserGalleryItem -%}
 <div class="p-4 bg-gray-100 text-gray-700">
   <div class="container p-4 my-4 text-base sm:text-lg md:text-xl">
     <p class="mb-4">
@@ -26,10 +26,10 @@ preview:
     </p>
 
 <div class="flex flex-wrap justify-center">
-{#% capture url_landschaft %}{#% link _pages/portfolio__landschaft.md %#}{#% endcapture %#}
-{#% include content/teaser-gallery-item.html title='Reise- und Landschaftsbilder' permalink=url_landschaft image='/assets/photography/2020_07_deutschland/Deutschland_0535.jpg' layout='half' %#}
-{#% capture url_people %#}{#% link _pages/portfolio__people.md %#}{#% endcapture %#}
-{#% include content/teaser-gallery-item.html title='People' permalink=url_people image='/assets/photography/people/20210515_Lydia_170.jpg' layout='half' %#}
+{% set url_landschaft %}{% post_url collections.pages, 'portfolio__landschaft' %}{% endset %}
+{{ teaserGalleryItem('Reise- und Landschaftsbilder', url_landschaft, '/assets/photography/2020_07_deutschland/Deutschland_0535.jpg', 'half') }}
+{% set url_people %}{% post_url collections.pages, 'portfolio__people' %}{% endset %}
+{{ teaserGalleryItem('People', url_people, '/assets/photography/people/20210515_Lydia_170.jpg', 'half') }}
 </div>
 
 <h2 class="mb-6 mt-12">Du hast Lust mit mir zu fotografieren?</h2>
