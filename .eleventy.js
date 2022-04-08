@@ -1,5 +1,7 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const markdownItAttrs = require('markdown-it-attrs');
 const markdownItAnchor = require('markdown-it-anchor');
+const markdownItDeflist = require('markdown-it-deflist');
 const pluginTOC = require('eleventy-plugin-toc');
 const postUrls = require("./src/_11ty/post_url.js");
 const cloudinary = require("./src/_11ty/cloudinary.js");
@@ -16,13 +18,16 @@ module.exports = function(eleventyConfig) {
     });
 
   let markdownIt = require("markdown-it");
-  var markdownItAttrs = require('markdown-it-attrs');
+
   let options = {
     html: true,
     breaks: false,
     linkify: true
   };
-  let markdownLib = markdownIt(options).use(markdownItAttrs).use(markdownItAnchor);
+  let markdownLib = markdownIt(options)
+    .use(markdownItAttrs)
+    .use(markdownItAnchor)
+    .use(markdownItDeflist);
   eleventyConfig.setLibrary("md", markdownLib);
 
   eleventyConfig.setFrontMatterParsingOptions({
