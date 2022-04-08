@@ -23,7 +23,7 @@ Bei der ActionCam (Yi 4k) und der Drohne (DJI Mavic Mini) hat sich nichts getan,
 Informationen zu beidem, wie auch eine Übersicht meiner alten Ausrüstung, findest du [im vorherigen Blogpost zu dem Thema][1]. 
 Ebenso lasse ich das meiste Zubehör weg, was du aber auch [in einem eigenen Beitrag findest][2].
 
-{% cloudinary /assets/2021-04-09-kameraausruestung/equip_dslm.jpg alt="DSLM Ausrüstung" %}
+{% cloudinary "/assets/2021-04-09-kameraausruestung/equip_dslm.jpg", "DSLM Ausrüstung" %}
 
 Sony a6400
 : Ich hab ziemlich lange überlegt, ob ich mir eine neue Kamera zulege und welche es werden soll, ob Vollformat oder APS-C und welches Herstellersystem. 
@@ -77,5 +77,5 @@ XCSOURCE Step Up Ringe
     Prinzipiell solltest du dich bei Filtern am größten Durchmesser der Objektive orientieren, 
     mithilfe der StepUp-Ringe kannst du dann von kleineren Durchmessern auf die größeren adaptieren und musst nicht für jeden Durchmesser entsprechende Filter kaufen, was Einiges an Geld sparen kann.
 
-[1]: {% post_url 2020-09-12-kameraausruestung %}
-[2]: {% post_url 2021-03-25-kamerazubehoer %}
+[1]: {% post_url collections.posts, '2020-09-12-kameraausruestung' %}
+[2]: {% post_url collections.posts, '2021-03-25-kamerazubehoer' %}

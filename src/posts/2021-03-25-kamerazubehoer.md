@@ -35,8 +35,7 @@ dass ich dir raten würde vor dem Kauf einen Preisvergleich zu machen, bei deine
 Oft ist es dort billiger, für einen ähnlichen Preis zu haben oder wenn man liebt fragt gehen sie teilweise auch mit den Preisen der großen Seiten mit.
 
 # Speicherkarten und Etui
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/sd_karten.jpg alt="SD-Karten" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/sd_karten.jpg", "SD-Karten" %}
 
 Da ohne eine Speicherkarte quasi nichts geht, ist es in der Liste auch die Nummer 1. 
 Wenn du dir Speicherkarten einmal genauer angeschaut hast, sind dir bestimmt die vielen Zahlen und Symbole aufgefallen, 
@@ -60,7 +59,7 @@ Das Preis-/Leistungs-Verhältnis ist gut und ich habe noch nie etwas Negatives �
 
 P.S.: Die Karten sind ein Klassiker bei Rabattschlacht-Aktionen wie dem Black-Friday und daher immer mal wieder als Angebot günstig zu bekommen.
 
-{% cloudinary /assets/2021-03-25-kamerazubehoer/sd_case.jpg alt="SD-Kartenetui" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/sd_case.jpg", "SD-Kartenetui" %}
 
 Gerade wenn du mehrere Karten hast, solltest du diese sicher aufbewahren und nicht einfach so in die Tasche werfen, da sich sonst das Risiko erhöht, dass diese kaputt oder Daten verloren gehen. 
 Aus diesem Grund gehört für mich ein entsprechendes Etui zu jeder Fotoausrüstung dazu.
@@ -70,8 +69,7 @@ Da das wichtigste Kriterium bei einem Etui ist, dass es genug Platz für deine K
 gibt es jedoch für etwa 10-15 € sehr viele gute Alternativen am Markt.
 
 # Displayschutz
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/displayschutz.jpg alt="Displayschutz" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/displayschutz.jpg", "Displayschutz" %}
 
 Bei Spiegellosen Systemkameras, wie den a6x00 Modellen, wird häufig das Display anstatt dem Sucher zum Fotografieren verwendet, 
 weswegen Kratzer oder gar Risse ähnlich nervig wie bei einem Smartphone sind und entsprechender Schutz sehr wichtig ist. 
@@ -82,8 +80,7 @@ Für die a6x00-Modelle finde ich den originalen **Sony Displayschutz PCKLM-17** 
 Solltest du auf Drittanbieter setzen wollen, achte in jedem Fall darauf, dass es eine Glas- oder Plastikscheibe und keine einfache Folie ist.
 
 # Akkus & Ladegerät
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/akku.jpg alt="Akku und Ladegerät" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/akku.jpg", "Akku und Ladegerät" %}
 
 Im Gegensatz zu Spiegelreflexkameras sind Spiegellose echte Stromfresser, sodass du gerade auf Reisen oder längeren Touren für entsprechenden Nachschub sorgen solltest. 
 Filmen zieht hier natürlich mehr Strom als reines Fotografieren, daher kommt es auf deine Gewohnheiten und deinen Anwendungsfall an, wie viel Reserven du einpacken solltest. 
@@ -105,8 +102,7 @@ denn bei den a6x00-Kameras ist keines dabei und sonst müsstest du die Akkus nac
 Gerade vor einer Reise oder einem längeren Shooting kann das ziemlich zeitraubend sein.
 
 # Reinigungsmaterialen
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/cleaning.jpg alt="Reinigungsmaterialien" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/cleaning.jpg", "Reinigungsmaterialien" %}
 
 Vielleicht das Unspektakulärste auf dieser Liste, was aber ebenfalls in keiner Fototasche fehlen darf, sind Reinigungsmaterialien. 
 Besonders ein Blasebalg und Mikrofasertücher sind bei mir immer dabei.
@@ -124,8 +120,7 @@ Das Set scheint jedoch nicht mehr erhältlich zu sein, aber auch hier gibt es et
 Solltest du dir nicht zutrauen den Sensor selbst zu reinigen, sollte der Blasebalg, 1-2 Mikrofasertücher und ein Lens-Pen vollkommen ausreichen, wobei die Sets preislich oft sinnvoller sind.
 
 # Kameragurt
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/gurt.jpg alt="Peak Design Slide Lite" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/gurt.jpg", "Peak Design Slide Lite" %}
 
 Auf meinen Reisen habe ich einen bequemen und angenehmen Kameragurt zu schätzen gelernt, gerade wenn die Kamera stundenlang um meinen Hals hing, war das Material des mitgelieferten Gurtes relativ schnell unangenehm. 
 Ich hab mir den **Peak Design Slide Lite** geholt und kann ihn nur empfehlen, Details und mehr Informationen über den Gurt findest du [im zugehörigen Blogeintrag][1].
@@ -138,8 +133,7 @@ Kein Kameragurt, aber eine weitere Kamerahalterung, die ich nicht mehr missen m�
 Wenn ich mit einem Rucksack unterwegs bin, kann ich die Kamera dort schnell "einhängen" und habe meine Hände frei, ohne dass ich mit einem langen Gurt hantieren muss, der eventuell die Sicht auf das Display blockiert.
 
 # Tasche
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/tasche.jpg alt="Tenba Tools BYOB" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/tasche.jpg", "Tenba Tools BYOB" %}
 
 Egal ob du deine Kameraausrüstung von A nach B transportierst, auf einer Fototour bist oder sie einfach sicher daheim lagern möchtest, um eine Tasche kommst du dabei nicht herum. 
 Was dabei für dich die richtige Lösung ist, hängt mal wieder sehr stark mit deinem Anwendungszweck, deinen Vorlieben und natürlich dem Umfang deiner Ausrüstung zusammen.
@@ -154,8 +148,7 @@ Solltest du auf der Suche nach einer "kleinen Tasche für unterwegs" sein, dann 
 Beide werden häufiger in Facebook-Foto-Gruppen empfohlen, ich kann zu beiden aber leider nicht viel sagen, da ich diese nicht selbst genutzt habe.
 
 # Stativ
-
-{% cloudinary /assets/2021-03-25-kamerazubehoer/stativ.jpg alt="Manfrotto Stative" %}
+{% cloudinary "/assets/2021-03-25-kamerazubehoer/stativ.jpg", "Manfrotto Stative" %}
 
 In der Landschaftsfotografie sind Stative nicht wegzudenken, aber auch bei Langzeitbelichtungen, Timelapse-Aufnahmen, der Astrofotografie oder falls du einfach mal Selbstportraits machen willst, führt kein Weg daran vorbei.
 
@@ -194,7 +187,7 @@ Lass mir gern ein Kommentar da, wenn du weitere Empfehlungen und Tipps hast, ode
 
 Viel Spaß beim Fotografieren!
 
-[1]: {% post_url 2020-11-07-peak-design-slide-lite %}
-[2]: {% post_url 2020-11-22-tenba-tools-byob %}
-[3]: {% post_url 2020-10-21-lens-aid-einschlagtuch %}
-[4]: {% post_url 2020-10-27-peak-design-capture-v3 %}
+[1]: {% post_url collections.posts, '2020-11-07-peak-design-slide-lite' %}
+[2]: {% post_url collections.posts, '2020-11-22-tenba-tools-byob' %}
+[3]: {% post_url collections.posts, '2020-10-21-lens-aid-einschlagtuch' %}
+[4]: {% post_url collections.posts, '2020-10-27-peak-design-capture-v3' %}

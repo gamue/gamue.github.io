@@ -30,7 +30,7 @@ Auch habe ich für den Post keine Gegenleistung bekommen, noch bin ich in irgend
 {: .notice--info}
 
 # Rucksäcke
-{% cloudinary /assets/2022-03-24-reisegepaeck-kenia/gepaeck_rucksaecke.jpg alt="Meine Rucksäcke" %}
+{% cloudinary "/assets/2022-03-24-reisegepaeck-kenia/gepaeck_rucksaecke.jpg", "Meine Rucksäcke" %}
 
 Meine Rucksack- und Taschensammlung ist mittlerweile ziemlich beachtlich und je nach Reisedauer 
 und Fortbewegungsvariante wähle ich aus dieser was am besten passt, in den meisten Fällen fällt die Wahl aber auf die folgenden beiden:
@@ -52,7 +52,7 @@ Anfang 2020 habe ich mir zudem einen **Lowe Alpine Altus 42l** Rucksack gekauft,
 Aufgrund von ausgefallenen Reisen konnte ich ihn jedoch leider noch nicht ausgiebig testen, freue mich aber schon ihn in Zukunft häufiger auf Tour mitzunehmen.
 
 # Kleidung
-{% cloudinary /assets/2022-03-24-reisegepaeck-kenia/gepaeck_kleidung.jpg alt="Kleidung für die Reise" %}
+{% cloudinary "/assets/2022-03-24-reisegepaeck-kenia/gepaeck_kleidung.jpg", "Kleidung für die Reise" %}
 
 Klamotten eben ;)
 
@@ -84,7 +84,7 @@ Für die 2-3mal bei denen ich sie genutzt habe, hätten es vermutlich auch die S
 Ich denke ich werde die zukünftig nur noch auf reine Wandertouren oder eben in kühlere Gefilde mitnehmen.
 
 # Kulturbeutel & Reiseapotheke
-{% cloudinary /assets/2022-03-24-reisegepaeck-kenia/gepaeck_bad.jpg alt="Kulturbeutel und Reiseapotheke" %}
+{% cloudinary "/assets/2022-03-24-reisegepaeck-kenia/gepaeck_bad.jpg", "Kulturbeutel und Reiseapotheke" %}
 
 Ich würde die Gegenstände auf der Packliste zwar als Standard bezeichnen und denke jeder wird wissen, 
 was er für Pflegeutensilien mitnehmen sollte, trotzdem möchte ich auf ein paar der Dinge eingehen, aber erst einmal die Liste:
@@ -126,7 +126,7 @@ Kurze Notiz zum Deo: Das wurde mir am Bahnhof in Nairobi von Sicherheitsbeamten 
 Das traf zwar auch auf den Mückenschutz zu, aber den haben sie mir, nach einer kurzen Diskussion, netterweise gelassen.
 
 # Kameras
-{% cloudinary /assets/2022-03-24-reisegepaeck-kenia/gepaeck_kamera.jpg alt="Kamerausrüstung auf Reisen" %}
+{% cloudinary "/assets/2022-03-24-reisegepaeck-kenia/gepaeck_kamera.jpg", "Kamerausrüstung auf Reisen" %}
 
 Wenn ich schon mal auf Safari fahre, wollte ich auch entsprechend ausgerüstet sein und daher fiel das Kamera-Equipment etwas üppiger als sonst aus. 
 Für die Reise habe ich mir speziell eine (gebrauchte) Sony a6000 gekauft, sodass ich schnell zwischen zwei Kameras wechseln konnte, eine für den Nahbereich und eine für weiter entfernte Motive.
@@ -161,7 +161,7 @@ Für mich das ideale Reise-Zoom, auch wenn ich mit meinem bisherigen Sony 18-135
 Beim Sony 70-350 f4.5-6.3 G OSS hätte ich mir manchmal etwas mehr Lichtstärke und Brennweite gewünscht, aber insgesamt war es ausreichend und ein gutes Gesamtpaket, gerade für unterwegs.
 
 # Sonstiges
-{% cloudinary /assets/2022-03-24-reisegepaeck-kenia/gepaeck_sonstiges.jpg alt="Sonstiges Gepäck" %}
+{% cloudinary "/assets/2022-03-24-reisegepaeck-kenia/gepaeck_sonstiges.jpg", "Sonstiges Gepäck" %}
 
 Bei den “Sonstigen Sachen” sind einige Teile dabei, die ich speziell für Kenia angeschafft bzw. ausgetauscht habe. 
 Komplett neu im Gepäck ist der Hut gelandet, weil ich von vielen gehört habe, dass das auf Safaris und Wandertouren am besten gegen die Sonne schützt...auch wenn es jetzt nicht am elegantesten aussieht 🙂
@@ -196,7 +196,7 @@ Die Stirnlampe habe ich häufig genutzt und kommt definitiv wieder regelmässig 
 Gerade in Gegenden, in denen öfter mal der Strom ausfällt oder abgestellt wird, wie es z.B. in einigen Safaricamps nachts der Fall war, bin ich froh die paar Gramm mitgeschleppt zu haben.
 
 # Bonus: Packhilfen & Organisation
-{% cloudinary /assets/2022-03-24-reisegepaeck-kenia/gepaeck_orga.jpg alt="Organisation auf Reisen" %}
+{% cloudinary "/assets/2022-03-24-reisegepaeck-kenia/gepaeck_orga.jpg", "Organisation auf Reisen" %}
 
 In der Vergangenheit habe ich oft alles einfach in den Rucksack oder Koffer gesteckt, was nach wenigen Tagen zu einem Chaos geführt hat. 
 Daher verwende ich seit einiger Zeit für die Organisation **Vacuum-Beutel**, wodurch die Klamotten „frisch“ bleiben und ich leicht das raussuchen kann, was ich benötige. 
@@ -218,7 +218,7 @@ Gerade das Fach für die benutzte Wäsche, welches eine geruchsstoppende Membran
 Ich hoffe, die Übersicht über mein Reisegepäck war hilfreich. 
 Falls du selbst kleine Helfer hast, auf die du unterwegs nicht verzichten kannst, lass gerne ein Kommentar da oder gib mir Bescheid.
 
-[1]: {% post_url 2021-04-09-kameraausruestung %}
-[2]: {% post_url 2020-11-22-tenba-tools-byob %}
-[3]: {% post_url 2020-11-07-peak-design-slide-lite %}
-[4]: {% post_url 2020-10-27-peak-design-capture-v3 %}
+[1]: {% post_url collections.posts, '2021-04-09-kameraausruestung' %}
+[2]: {% post_url collections.posts, '2020-11-22-tenba-tools-byob' %}
+[3]: {% post_url collections.posts, '2020-11-07-peak-design-slide-lite' %}
+[4]: {% post_url collections.posts, '2020-10-27-peak-design-capture-v3' %}
