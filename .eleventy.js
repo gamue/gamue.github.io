@@ -30,6 +30,20 @@ module.exports = function(eleventyConfig) {
     excerpt_separator: '<!-- excerpt -->',
   });
 
+  eleventyConfig.setBrowserSyncConfig({
+      callbacks: {
+          ready: (_err, browserSync) => {
+              const content_404 = require('fs').readFileSync('_site/404.html');
+
+              browserSync.addMiddleware('*', (_req, res) => {
+                  // render the 404 content instead of redirecting
+                  res.write(content_404);
+                  res.end();
+              });
+          }
+      }
+  });
+
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/favicon*");
   eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
