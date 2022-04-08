@@ -21,7 +21,7 @@ wann sie wieder für Touristen öffnen oder der ein oder andere in den letzten W
 diverse Erfahrungen mit Anbietern gemacht hat.
 
 Bei mir persönlich sind zwei Reisen dem Corona-Virus zum Opfer gefallen, 
-ein Slowenien-Trip im März zu Beginn der Pandemie und [eine Bali-Reise]({% post_url 2020-05-31-bayern-statt-bali %}), 
+ein Slowenien-Trip im März zu Beginn der Pandemie und [eine Bali-Reise]({% post_url collections.posts, '2020-05-31-bayern-statt-bali' %}), 
 die für Mitte Juli angedacht war. Zudem hab ich im Freundes- und Bekanntenkreis einige deren Reisen 
 ebenfalls storniert worden sind oder die von sich aus storniert haben. Teilweise ist dabei alles glattgelaufen, 
 aber in manchen Situationen haben sich die Firmen echt nicht mit Ruhm bekleckert. 
@@ -30,10 +30,7 @@ Denn eins ist sicher: Ich will weiterhin reisen, neue Länder und Kulturen entde
 
 # Direkt bei der Fluggesellschaft buchen
 
-<figure>
-  <img src="/assets/2020-08-02-reisen-nach-covid/chuttersnap-41--YdnYxh0-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/41--YdnYxh0">Unsplash/chuttersnap</a></figcaption>
-</figure>
+{% cloudinary "/assets/2020-08-02-reisen-nach-covid/chuttersnap-41--YdnYxh0-unsplash.jpg", null, null, null, "Foto von <a href='https://unsplash.com/photos/41--YdnYxh0'>Unsplash/chuttersnap</a>" %}
 
 Zwar werde ich in Zukunft sicherlich auch weiterhin Portale wie [swoodoo](https://www.swoodoo.com/), 
 [kayak](https://www.kayak.de/) oder [skyscanner](https://www.skyscanner.de/) nutzen, um die Preise zu vergleichen, 
@@ -71,10 +68,7 @@ für insgesamt 3 Jahre, verwenden. Hätte ich direkt über die Airline gebucht, 
 
 # Versicherungen prüfen
 
-<figure>
-  <img src="/assets/2020-08-02-reisen-nach-covid/markus-frieauff-IJ0KiXl4uys-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/IJ0KiXl4uys">Unsplash/Markus Frieauff</a></figcaption>
-</figure>
+{% cloudinary "/assets/2020-08-02-reisen-nach-covid/markus-frieauff-IJ0KiXl4uys-unsplash.jpg", null, null, null, "Foto von <a href='https://unsplash.com/photos/IJ0KiXl4uys'>Unsplash/Markus Frieauff</a>" %}
 
 Ich habe bei all meinen Reisen nur einmal eine Rücktrittsversicherung abgeschlossen und das war so ziemlich am Anfang, 
 ansonsten war ich bisher der Meinung, dass sowieso nichts dazwischen kommt. Bisher hat das auch gut geklappt, 
@@ -90,10 +84,7 @@ von daher werd ich vor dem nächsten Trip ins Ausland auf jeden Fall auch mal me
 
 # Stornierungsbedingungen stärker beachten
 
-<figure>
-  <img src="/assets/2020-08-02-reisen-nach-covid/rio-lecatompessy-p77qNCTFEJQ-unsplash.jpg">
-  <figcaption>Foto von <a href="https://unsplash.com/photos/p77qNCTFEJQ">Unsplash/Rio Lecatompessy</a></figcaption>
-</figure>
+{% cloudinary "/assets/2020-08-02-reisen-nach-covid/rio-lecatompessy-p77qNCTFEJQ-unsplash.jpg", null, null, null, "Foto von <a href='https://unsplash.com/photos/p77qNCTFEJQ'>Unsplash/Rio Lecatompessy</a>" %}
 
 Wie die Reiserücktrittsversicherung waren mir bisher die Stornierungsbedingungen relativ egal, 
 im Normalfall hat es ausgereicht, dass es irgendwelche gab. Denn auch hier hat bisher alles gut funktioniert und 
