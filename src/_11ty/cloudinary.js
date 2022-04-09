@@ -1,11 +1,14 @@
-module.exports = (path, alt, sizes, className, caption) => {
+module.exports = (path, alt, sizes, className, caption, lazyLoading=true) => {
+
+ const lazyHtml = lazyLoading ? 'lazy' : 'eager';
  const isProd = process.env.NODE_ENV === 'production';
  if(!isProd){
      if(!path.startsWith('/')){
          path = '/'+path;
      }
-     const imgHtml = `<img loading="lazy" src="${path}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
-     if(caption !== undefined){
+
+     const imgHtml = `<img loading="${lazyHtml}" src="${path}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
+     if(caption){
        return `<figure>`+imgHtml+`<figcaption>`+caption+`</figcaption></figure>`;
      }else{
        return imgHtml;
@@ -19,8 +22,8 @@ module.exports = (path, alt, sizes, className, caption) => {
      return `${fetchBase}q_auto:eco,f_auto,w_${w}/${path} ${w}w`;
  }).join(', ');
 
- const imgHtml = `<img loading="lazy" src="${src}" srcset="${srcset}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
- if(caption !== undefined){
+ const imgHtml = `<img loading="${lazyHtml}" src="${src}" srcset="${srcset}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
+ if(caption){
   return `<figure>`+imgHtml+`<figcaption>`+caption+`</figcaption></figure>`;
   }else{
   return imgHtml;

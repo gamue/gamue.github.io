@@ -67,7 +67,6 @@ gallery:
     - image_path: assets/photography/0000_misc/2011-03_neuschwanstein.jpg
 ---
 {%- from "macros/gallery.njk" import imageGallery -%}
-{# TODO masonry #}
 {{ imageGallery(
     images=gallery,
     caption=null,
@@ -75,4 +74,4 @@ gallery:
     reverse=false,
     equal_height=false,
     double_padding=true,
-    masonry=false ) }}
+    masonry=true ) }}

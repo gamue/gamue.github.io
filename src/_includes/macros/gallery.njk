@@ -39,7 +39,7 @@
 {%- set file_path = '/' + img.image_path  -%}
 <a href="{{ file_path }}" class="flex-none {{ element_class }}" {% if img.caption %}title="{{img.caption}}"{% endif %}>
 {# TODO: thumbnail in cloudinary #}
-{% cloudinary file_path, "", "", "thumbnail" %}
+{% cloudinary file_path, null, null, "thumbnail", null, not masonry %}
 {% if img.caption %}
 <div class="caption absolute -bottom-1 bg-gradient-to-r from-gray-100 w-full p-3 -ml-3 sm:hidden">{{img.caption}}</div>
 {% endif %}
@@ -54,7 +54,7 @@
 <script>
 new SimpleLightbox({elements: '.{{galleryName}} a'});
 {%- if masonry -%}
-new Masonry( '.{{galleryName}}', { });
+window.addEventListener("load", () => { new Masonry( '.{{galleryName}}', { }); });
 {%- endif -%}
 </script>
 {% endmacro %}

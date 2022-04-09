@@ -39,7 +39,6 @@ gallery:
       caption: Svenja (@funkengeflunker)
 ---
 {%- from "macros/gallery.njk" import imageGallery -%}
-{# TODO masonry #}
 {{ imageGallery(
     images=gallery, 
     caption=null, 
@@ -47,7 +46,7 @@ gallery:
     reverse=false, 
     equal_height=false, 
     double_padding=true, 
-    masonry=false ) }}
+    masonry=true ) }}
 
 <div class="container prose prose-sm md:prose lg:prose-lg mt-8">
     <p>Auf dieser Seite sind nur einige meiner People-Bilder zu sehen. Mehr findest du auf meinem gesonderten <a href="{{site.accounts.instagram_people}}">Instagram-Account @gamue16</a>.</p>
