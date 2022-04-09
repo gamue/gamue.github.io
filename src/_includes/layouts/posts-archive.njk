@@ -1,0 +1,30 @@
+{% extends "./base.njk" %}
+{% block content %}
+
+{{ content | safe }}
+
+<section class="container text-gray-700 flex flex-col place-items-center pt-8">
+
+  <h1 class="w-full text-left text-3xl mb-4 px-4">{{ title }}</h1>
+
+{% if pagination.items.length %}
+{% for item in pagination.items %}
+  {{ item.data.title }}<br>
+{% endfor %}
+{% endif %}
+
+
+  {#% for post in paginator.posts %#}
+  {#% include post-summary-list-view.html %#}
+  {#% endfor %#}
+</section>
+
+{% include "partials/post-archive-paginator.njk" %}
+
+{% endblock %}
+
+
+
+
+
+

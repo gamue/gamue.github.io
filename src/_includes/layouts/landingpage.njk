@@ -12,7 +12,7 @@
   {%- set currentPostsHeadline = 'Aktuelle Artikel im Blog' -%}
   {%- set previewPosts = collections.posts -%}
   {%- set allPostsLabel = 'Alle Artikel' -%}
-  {%- set allPostsUrl = '/blog/' -%}
+  {%- set allPostsUrl -%}{% post_url collections.pages, 'archive-blog' %}{% endset %}
 {%- endif -%}
 
 <section class="container text-gray-700">

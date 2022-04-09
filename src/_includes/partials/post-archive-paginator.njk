@@ -1,0 +1,63 @@
+{%- set commonStyle = 'px-3 py-2 text-center font-semibold border border-gray-400' -%}
+
+{% if pagination.href.previous or pagination.href.next %}
+<nav class="container text-gray-700 my-12 text-sm md:text-base">
+  <ul class="flex justify-center">
+    {% if pagination.href.previous %}
+      <li><a href="{{ pagination.href.previous }}" class="{{commonStyle}} block rounded-l hover:bg-gray-500 hover:text-white">Vorherige</a></li>
+    {% else %}
+      <li class="{{commonStyle}} block rounded-l text-gray-400"><span aria-hidden="true">Vorherige</span></li>
+    {% endif %}
+
+    {% set currentPageNumber = pagination.pageNumber + 1 %}
+    {% set totalPageNumber = pagination.hrefs.length %}
+    {% set maxTrailSize = 5 %}
+    {% set showFirstLink = true %}
+    {% set showLastLink = true %}
+
+    {% set startTrailPage = currentPageNumber - (maxTrailSize / 2) %}
+    {% set endTrailPage = currentPageNumber + (maxTrailSize / 2) %}
+    {% if startTrailPage <= 1 %}
+      {% set showFirstLink = false %}
+      {% set startTrailPage = 1 %}
+      {% set endTrailPage = maxTrailSize %}
+    {% endif %}
+    {% if endTrailPage >= totalPageNumber %}
+      {% set showLastLink = false %}
+      {% set startTrailPage = totalPageNumber - maxTrailSize + 1 %}
+      {% set endTrailPage = totalPageNumber %}
+    {% endif %}
+
+    {% if totalPageNumber <= maxTrailSize %}
+      {% set showFirstLink = false %}
+      {% set showLastLink = false %}
+    {% endif %}
+
+    {% if showFirstLink %}
+        <li><a href="{{ pagination.href.first }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">1</a></li>
+        <li class="{{commonStyle}} hidden sm:block -ml-px text-gray-400">&hellip;</li>
+    {% endif %}
+
+    {% for pageEntry in pagination.pages %}
+      {% if loop.index >= startTrailPage and loop.index <= endTrailPage %}
+        {% if loop.index === currentPageNumber %}
+          <li class="{{commonStyle}} block -ml-px bg-gray-500 text-white">{{ loop.index }}</li>
+        {% else %}
+          <li><a href="{{ pagination.hrefs[ loop.index0 ] }}" title="Seite {{ loop.index }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">{{ loop.index }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if showLastLink %}
+      <li class="{{commonStyle}} hidden sm:block -ml-px text-gray-400">&hellip;</li>
+      <li><a href="{{ pagination.href.last }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">{{ totalPageNumber }}</a></li>
+    {% endif %}
+
+    {% if pagination.href.next %}
+      <li><a href="{{ pagination.href.next }}" class="{{commonStyle}} block -ml-px rounded-r hover:bg-gray-500 hover:text-white">Nächste</a></li>
+    {% else %}
+      <li class="{{commonStyle}} block -ml-px rounded-r text-gray-400"><span aria-hidden="true">Nächste</span></li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}
