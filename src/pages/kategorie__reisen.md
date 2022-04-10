@@ -20,7 +20,7 @@ preview:
     Dort findest du auch immer die zugehörigen Blogartikel, egal ob Reisebericht oder allgemeine Tipps zum Land.
     </p>
     <p>
-        <a href="{#% post_url collections.pages, 'countries' %#}" class="btn">Zu den Destinationen</a>
+        <a href="{% post_url collections.pages, 'countries' %}" class="btn">Zu den Destinationen</a>
     </p>
     <p class="mb-4 mt-12">
     Auf meinen Reisen durfte natürlich die Kameraausrüstung nicht fehlen und so gibt es von jedem Trip etliche Fotos, die du in den Reisegalerien betrachten kannst.
