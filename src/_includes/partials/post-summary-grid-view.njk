@@ -3,7 +3,7 @@
 <article class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-4">
     {%- if post.data.header.teaser -%}
     <div class="h-64 mb-2 overflow-hidden rounded-md cover-img">
-        <a href="{{ post.url | url }}" rel="permalink" title="{{title}}">
+        <a href="{{ post.url | url }}" rel="permalink" title="{{ post.data.title }}">
         {# thumbnail #}
         {% cloudinary post.data.header.teaser, "", "thumbnail" %}
         </a>

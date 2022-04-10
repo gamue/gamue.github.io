@@ -8,15 +8,10 @@
   <h1 class="w-full text-left text-3xl mb-4 px-4">{{ title }}</h1>
 
 {% if pagination.items.length %}
-{% for item in pagination.items %}
-  {{ item.data.title }}<br>
+{% for post in pagination.items %}
+  {% include "partials/post-summary-list-view.njk" %}
 {% endfor %}
 {% endif %}
-
-
-  {#% for post in paginator.posts %#}
-  {#% include post-summary-list-view.html %#}
-  {#% endfor %#}
 </section>
 
 {% include "partials/post-archive-paginator.njk" %}
