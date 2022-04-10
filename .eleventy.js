@@ -57,7 +57,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.cloudinaryCloudName = 'gamue';
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280];
   eleventyConfig.fallbackWidth = 800;
-  eleventyConfig.addShortcode('cloudinary', cloudinary);
+  eleventyConfig.addShortcode('cloudinary', cloudinary.printHtml);
+  eleventyConfig.addFilter("imageSrc", cloudinary.imageSrc);
 
   eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
   eleventyConfig.addFilter("dateFull", dateFilters.dateFull);

@@ -1,0 +1,8 @@
+{% macro teaserGallery(collection) %}
+{%- from "macros/teaser-gallery-item.njk" import teaserGalleryItem -%}
+<div class="flex flex-wrap justify-center">
+{%- for item in collection -%}
+{{ teaserGalleryItem(item.data.title, item.url, item.data.header.teaser) }}
+{%- endfor -%}
+</div>
+{% endmacro %}

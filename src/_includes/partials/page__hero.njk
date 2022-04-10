@@ -2,7 +2,7 @@
 {% if process.env.NODE_ENV === 'production' %}
   {% set overlay_img_path = 'https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/' + header.overlay_image %}
 {% else %}
-  {% set overlay_img_path = '/' + header.overlay_image %}
+  {% set overlay_img_path = header.overlay_image | imageSrc %}
 {% endif %}
 
 {% if header.overlay_filter %}
