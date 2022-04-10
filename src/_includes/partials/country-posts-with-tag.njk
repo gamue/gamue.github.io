@@ -1,0 +1,16 @@
+{%- if country_tag -%}
+{%- set postsWithTag = collections.posts | includes("data.tags", country_tag) -%}
+
+{%- if postsWithTag.length -%}
+<article class="py-8">
+    <h1 class="mb-2">Artikel über {{ country_tag }}</h1>
+    <article class="flex flex-wrap">
+    {% for post in postsWithTag %}
+        {% include "partials/post-summary-grid-view.njk" %}
+    {% endfor %}
+    </article>
+</article>
+{%- endif -%}
+{%- endif -%}
+
+

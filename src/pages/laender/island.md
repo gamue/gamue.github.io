@@ -31,7 +31,7 @@ map_id: 1l9GsFIl_4JCTuQ_WnELbovhZ7g7mg7zI
 country_tag: Island
 ---
 
-Zusammen mit zwei Freunden bin ich im Juni 2012 zu einer 19tägigen Campingtour in den Süden Islands aufgebrochen.
+Zusammen mit zwei Freunden bin ich im Juni 2012 zu einer 19-tägigen Campingtour in den Süden Islands aufgebrochen.
 Unser ursprünglicher Plan war es die Insel einmal zu umrunden, aber die Rechnung hatten wir ohne die Busgesellschaft gemacht und nicht an einen Mietwagen gedacht.
 
 Island gehört in jedem Fall zu den Reisen, an die ich mich gerne zurückerinnere und die dortige Natur ist einfach atemberaubend.
@@ -39,3 +39,4 @@ Auch wenn es sicherlich eines der Ziele ist, die häufig empfohlen werden, kann 
 dann aber mit Mietwagen^^
 
 [Zur Bildergalerie](/photography/island-2012/){: .btn}
+{# Link #}

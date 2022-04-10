@@ -20,7 +20,7 @@ tags:
   - Jökulsarlon
   - Reisebericht
 ---
-
+{%- from "macros/gallery.njk" import imageGallery -%}
 Am nächsten Morgen war ich wider Erwarten immer noch in Skaftafell 😉
 
 Bernd, Markus und ich hatten ja ganz zu Beginn den Plan die Insel einmal zu umrunden, 
@@ -53,4 +53,4 @@ Ein sehr lustiger Zeitgenosse, der in fast jeder Erklärung „very special“ o
 Nach einer knappen Stunde solcher Hinweise waren wir dann auch schon wieder auf dem Campingplatz in Skaftafell…
 schutzlos all den Mücken und den komischen Vogelgesängen ausgesetzt.
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

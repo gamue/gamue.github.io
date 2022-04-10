@@ -34,7 +34,6 @@ Folgende Optionen stehen im Frontmatter zur Verfügung:
 - `masonry`: `true` falls das Masonry-Skript in der Seite verfügbar sein soll.
 - `show_meta_data`: `true` falls Veröffentlichungsdatum und Lesezeit beim Artikel angezeigt werden soll.
 - `sitemap`: `false` falls die Seite oder der Artikel nicht in der Sitemap berücksichtigt werden soll.
-- `comments`: `true` falls auf der Seite die Kommentarfunktion angezeigt werden soll.
 
 ## Kategorien / Tags
 
