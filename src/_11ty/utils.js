@@ -42,5 +42,11 @@ const includes =  (arr, path, value) => {
   });
 };
 
+const sortByTitle = (collection) => {
+    collection.sort((a, b) =>
+     a.data.title > b.data.title ? 1 : -1
+    );
+    return collection;
+};
 
-module.exports = { addUniqueNumber, excerpt, head, includes };
+module.exports = { addUniqueNumber, excerpt, head, includes, sortByTitle };
