@@ -1,6 +1,6 @@
 {% macro teaserGalleryItem(title, permalink, image, layout) %}
 
-{%- set item_image = image | imageSrc -%}
+{%- set item_image = image | correctSrcPath -%}
 {% if item_image %}
     {%- set item_image = item_image | url -%}
     {%- if process.env.NODE_ENV === 'production' -%}

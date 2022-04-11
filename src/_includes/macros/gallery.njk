@@ -36,7 +36,7 @@
 
 <figure class="flex flex-wrap gallery {{galleryName}}">
 {% for img in gallery %}
-{%- set file_path = '/' + img.image_path  -%}
+{%- set file_path = img.image_path | correctSrcPath -%}
 <a href="{{ file_path }}" class="flex-none {{ element_class }}" {% if img.caption %}title="{{img.caption}}"{% endif %}>
 {# TODO: thumbnail in cloudinary #}
 {% cloudinary file_path, null, null, "thumbnail", null, not masonry %}

@@ -1,6 +1,7 @@
 const markdown = require('markdown-it');
 const markdownItRenderer = new markdown({ html: true });
 const lodash = require("lodash");
+const fs = require('fs');
 
 var counter = 0;
 const addUniqueNumber = (content) => {
@@ -49,4 +50,16 @@ const sortByTitle = (collection) => {
     return collection;
 };
 
-module.exports = { addUniqueNumber, excerpt, head, includes, sortByTitle };
+const getGalleryFromDir = (directory) => {
+    let filenames = fs.readdirSync('src/' + directory);
+
+    let imagesInDir = [];
+    filenames.forEach(filename => {
+        imagesInDir.push({
+            image_path: directory + '/' + filename,
+        });
+    });
+    return imagesInDir;
+};
+
+module.exports = { addUniqueNumber, excerpt, head, includes, sortByTitle, getGalleryFromDir };

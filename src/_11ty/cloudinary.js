@@ -3,7 +3,7 @@ const printHtml = (path, alt, sizes, className, caption, lazyLoading=true) => {
  const lazyHtml = lazyLoading ? 'lazy' : 'eager';
  const isProd = process.env.NODE_ENV === 'production';
  if(!isProd){
-     path = imageSrc(path);
+     path = correctSrcPath(path);
 
      const imgHtml = `<img loading="${lazyHtml}" src="${path}" class="${className ? className : ''}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
      if(caption){
@@ -28,11 +28,11 @@ const printHtml = (path, alt, sizes, className, caption, lazyLoading=true) => {
  }
 };
 
-const imageSrc = (path) => {
+const correctSrcPath = (path) => {
     if(!path.startsWith('/')){
          path = '/'+path;
      }
      return path;
 };
 
-module.exports = { printHtml, imageSrc };
+module.exports = { printHtml, correctSrcPath };

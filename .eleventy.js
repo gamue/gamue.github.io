@@ -58,7 +58,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280];
   eleventyConfig.fallbackWidth = 800;
   eleventyConfig.addShortcode('cloudinary', cloudinary.printHtml);
-  eleventyConfig.addFilter("imageSrc", cloudinary.imageSrc);
+  eleventyConfig.addFilter("correctSrcPath", cloudinary.correctSrcPath);
 
   eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
   eleventyConfig.addFilter("dateFull", dateFilters.dateFull);
@@ -69,6 +69,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("head", utils.head);
   eleventyConfig.addFilter("includes", utils.includes);
   eleventyConfig.addFilter("sortByTitle", utils.sortByTitle);
+  eleventyConfig.addFilter("getGalleryFromDir", utils.getGalleryFromDir);
 
   eleventyConfig.addShortcode("post_url", postUrls);
 
