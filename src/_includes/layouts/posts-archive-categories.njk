@@ -1,0 +1,17 @@
+{% extends "./base.njk" %}
+{% block content %}
+
+{{ content | safe }}
+
+<section class="container text-gray-700 flex flex-col place-items-center pt-8">
+
+  <h1 class="w-full text-left text-3xl mb-4 px-4">{{ title }}</h1>
+
+{% for post in category.items %}
+  {% include "partials/post-summary-list-view.njk" %}
+{% endfor %}
+</section>
+
+{% include "partials/post-archive-categories-paginator.njk" %}
+
+{% endblock %}

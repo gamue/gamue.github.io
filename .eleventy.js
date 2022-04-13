@@ -8,6 +8,7 @@ const cloudinary = require("./src/_11ty/cloudinary.js");
 const dateFilters = require("./src/_11ty/date_filters.js");
 const readTime = require("./src/_11ty/read_time.js");
 const utils = require("./src/_11ty/utils.js");
+const postArchives = require("./src/_11ty/post_archives.js");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -72,6 +73,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("getGalleryFromDir", utils.getGalleryFromDir);
 
   eleventyConfig.addShortcode("post_url", postUrls);
+
+  eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
 
   return {
     markdownTemplateEngine: "njk",
