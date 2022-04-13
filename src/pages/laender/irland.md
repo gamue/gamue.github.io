@@ -33,4 +33,4 @@ map_id: 1-gC4MwTGzumDA2P9jK_jIpBuZtpb7gsB
 Anfang 2009 führte mich meine erste Flugreise nach Irland. 
 Gemeinsam mit einem Freund ging es auf verschneiten Straßen quer über die (noch nicht wirklich grüne) Insel.
 
-[Zur Bildergalerie](/photography/irland-2009/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2009-02-irland' %}){: .btn}

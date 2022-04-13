@@ -37,4 +37,4 @@ Im Vordergrund standen jedoch Wandertouren und die grüne Natur.
 Zugegebener Weise war der Hochsommer, mit einer Rekordhitze, nicht die beste Wahl um Fernwanderungen mit vollem Gepäck zu machen,
 aber dann eben mehr Tagestouren und die Städte hatten auch einiges zu bieten.  
 
-[Zur Bildergalerie](/photography/schottland-2013/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2013-07-schottland' %}){: .btn}

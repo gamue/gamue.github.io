@@ -30,4 +30,4 @@ Im Oktober 2011 hat es mich auf eine 4-wöchige Tour durch Nord-Indien und Nepal
 Start des Trips war in Delhi. Nach Stationen in Agra, Orcha, Khajuraho und Varanasi ging es auf dem Landweg 
 zur nepalesischen Grenze in Sonauli.
 
-[Zur Bildergalerie](/photography/indien-2011/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2011-10-indien' %}){: .btn}

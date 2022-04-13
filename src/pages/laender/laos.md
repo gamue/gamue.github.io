@@ -21,8 +21,8 @@ itinerary:
 map_id: 1AqPFG_S4AwmpI7W3j48lXjnzp3AdKzMr
 ---
 
-Da ich im November 2014 im [Norden Thailands](/thailand/) unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. 
+Da ich im November 2014 im [Norden Thailands]({% post_url collections.laender, 'thailand' %}) unterwegs war, hab ich mich spontan zu einem Abstecher nach Laos entschieden und es nicht bereut. 
 Auch wenn ich nur einen kleinen Teil des Landes gesehen habe, war dieser sehr beeindruckend und hat genau dem entsprochen, was ich wollte. 
 Ich kann das Land in jedem Fall weiterempfehlen und würde in jedem Fall wieder hingehen.
 
-[Zur Bildergalerie](/photography/laos-2014/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2014-11-laos' %}){: .btn}

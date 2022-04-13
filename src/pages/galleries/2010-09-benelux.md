@@ -7,8 +7,7 @@ header:
     overlay_image: assets/photography/2010_09_belgien/dsc_3269.jpg
 ---
 {%- from "macros/gallery.njk" import imageGallery -%}
-# Luxemburg
-{: .pb-2}
+# Luxemburg{: .pb-2}
 
 {% set gallery = "/assets/photography/2010_09_luxemburg" | getGalleryFromDir %}
 {{ imageGallery(
@@ -17,8 +16,7 @@ header:
     layout = "quarter",
     equal_height = true) }}
 
-# Belgien
-{: .pt-8 .pb-2}
+# Belgien{: .pt-8 .pb-2}
 
 {% set gallery = "/assets/photography/2010_09_belgien" | getGalleryFromDir %}
 {{ imageGallery(
@@ -27,8 +25,7 @@ header:
     layout = "quarter",
     equal_height = true) }}
 
-# Niederlande
-{: .pt-8 .pb-2}
+# Niederlande{: .pt-8 .pb-2}
 
 {% set gallery = "/assets/photography/2010_09_niederlande" | getGalleryFromDir %}
 {{ imageGallery(
@@ -37,8 +34,7 @@ header:
     layout = "quarter",
     equal_height = true) }}
 
-# Deutschland
-{: .pt-8 .pb-2}
+# Deutschland{: .pt-8 .pb-2}
 
 {% set gallery = "/assets/photography/2010_09_deutschland" | getGalleryFromDir %}
 {{ imageGallery(

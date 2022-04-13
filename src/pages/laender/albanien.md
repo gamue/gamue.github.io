@@ -35,4 +35,4 @@ Zwar habe ich diese nicht selbst besucht, jedoch hat jeder den ich getroffen hab
 Das Land hat mir insgesamt sehr gefallen und die Leute waren enorm freundlich und hilfsbereit, 
 falls du noch nach einem relativ nahen Urlaubsziel suchst, ist eventuell Albanien genau das Richtige für dich.
 
-[Zur Bildergalerie]({#% link _pages/photography/2021-05-albanien.md %#}){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2021-05-albanien' %}){: .btn}

@@ -35,4 +35,4 @@ Nachdem ich die Indisch-Nepalesische Grenze auf dem Landweg überquert habe, gin
 Leider hatte ich für die mehrtägigen Trekkingtouren, die dort starten keine Zeit, konnte aber bei meinem nächsten Halt, im Chitwan Nationalpark, 
 die schöne Natur und das umfangreiche Tierreich genießen, bevor es zum Ausklang der Tour nach Kathmandu und für einen Abstecher nach Nagarkot ging.
 
-[Zur Bildergalerie](/photography/nepal-2011/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2011-10-nepal' %}){: .btn}

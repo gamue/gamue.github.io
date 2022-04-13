@@ -33,17 +33,16 @@ sodass wegen der Übersichtlichkeit nur einige der Highlights markiert sind.
 
 Da ich für die jeweiligen Kurztrips keine eigene Galerie angelegt habe, sind die Bilder von diesen in der allgemeinen Reisegalerie.  
 
-[Zur allgemeinen Reisegalerie](/photography/here-there-and-everywhere/){: .btn}
+[Zur allgemeinen Reisegalerie]({% post_url collections.galleries, '0001-00-around-the-world' %}){: .btn}
 
 Abgesehen davon, habe ich Norddeutschland als Abschluss des BeNeLux-Roadtrips 2010 besucht, 
 daher sind in der BeNeLux-Galerie auch ein paar Bilder aus Bremen und Hamburg.
 
-[Zur BeNeLux-Galerie](/photography/benelux-2010/){: .btn}
+[Zur BeNeLux-Galerie]({% post_url collections.galleries, '2010-09-benelux' %}){: .btn}
 
 Den ersten richtigen Deutschland-Urlaub gab es erst 2020 und der war auch nicht wirklich vorgesehen, 
 aber aufgrund der Corona-Pandemie, war eine Fernreise schlicht nicht möglich. 
 Am Ende war das aber überhaupt nicht schlimm, denn auch hier gibt es echt schöne Ecken und so ging es mit dem Mietwagen über Nürnberg 
 ins Berchtesgadener Land, Allgäu, an den Bodensee und ins Moseltal.
 
-[Zur Deutschland-Galerie](/photography/deutschland-2020/){: .btn}
-{# Links #}
+[Zur Deutschland-Galerie]({% post_url collections.galleries, '2020-07-deutschland' %}){: .btn}

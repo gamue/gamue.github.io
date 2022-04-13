@@ -32,4 +32,4 @@ Im Mai 2011 hat es mich zu einer Rucksacktour nach Marokko verschlagen, auf der 
 Auch haben mich die permanenten Bettel- und Verkaufsversuche schnell genervt, so das es alles in allem nicht das beste Erlebnis war. 
 Selbst, wenn die Natur und Bauwerke für einiges entschädigen.
 
-[Zur Bildergalerie](/photography/marokko-2011/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2011-05-marokko' %}){: .btn}

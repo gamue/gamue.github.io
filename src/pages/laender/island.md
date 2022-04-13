@@ -38,5 +38,4 @@ Island gehört in jedem Fall zu den Reisen, an die ich mich gerne zurückerinner
 Auch wenn es sicherlich eines der Ziele ist, die häufig empfohlen werden, kann ich mich nur anschließen und irgendwann setze ich meine Füße wieder auf diese Insel,
 dann aber mit Mietwagen^^
 
-[Zur Bildergalerie](/photography/island-2012/){: .btn}
-{# Link #}
+[Zur Bildergalerie]({% post_url collections.galleries, '2012-06-island' %}){: .btn}

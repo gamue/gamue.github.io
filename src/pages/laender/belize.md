@@ -33,5 +33,5 @@ Ein Vorteil von Belize ist, dass es das einzige Land in der Region ist, in dem E
 Das Land ist nicht sehr gross, sodass man es schnell durchqueren kann, zumindest wenn man in der Nähe der asphaltierten Hauptstraße bleibt und es bietet eine enorme Vielfalt. 
 Ich würde in jedem Fall wieder dort hinreisen.
 
-[Zur Bildergalerie](/photography/belize-2019/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2019-04-belize' %}){: .btn}
 

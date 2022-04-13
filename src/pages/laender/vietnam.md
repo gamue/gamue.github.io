@@ -51,3 +51,5 @@ ging es auch an Strände, in kleinere Orte und in die Natur.
 
 Sicherlich sind etliche Reiseziele, wie die Halong-Bucht, sehr touristisch und auch in den größeren Städten mangelt es an Menschenmassen nicht, 
 aber insgesamt konnte man sich gut erholen und hat meist ein ruhiges Fleckchen Erde für sich gefunden. 
+
+[Zur Bildergalerie]({% post_url collections.galleries, '2018-01-vietnam' %}){: .btn}

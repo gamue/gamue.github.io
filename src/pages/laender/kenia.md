@@ -41,4 +41,4 @@ Will jedoch auch erwähnen, dass Kenia kein wirkliches Budget-Reiseziel ist. Ger
 Insgesamt habe ich die Zeit in Kenia sehr genossen und konnte mir mit den Safaris einen Traum erfüllen. 
 Da es neben der Tierwelt auch wunderschöne Strände bietet, kann ich mir vorstellen, dass es für viele Urlauber ein tolles, wenn eben auch nicht günstiges, Reiseziel sein kann.
 
-[1]: {% post_url 2020-08-02-reisen-nach-covid %}
+[1]: {% post_url collections.posts, "2020-08-02-reisen-nach-covid" %}

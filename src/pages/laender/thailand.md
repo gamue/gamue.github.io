@@ -25,7 +25,7 @@ map_id: 10xozIy4YqTOuxhPhUq8ewILy6WnWr1vK
 ---
 
 Da sehr viele von Südostasien schwärmen, dachte ich mir Ende 2014, ich schau mir das mal selbst an und bin zum Einstieg nach Thailand geflogen.
-Saisonal bedingt war ich im Norden unterwegs und habe auch einen Abstecher nach [Laos](/laos/) unternommen. 
+Saisonal bedingt war ich im Norden unterwegs und habe auch einen Abstecher nach [Laos]({% post_url collections.laender, 'laos' %}) unternommen. 
 Die beiden Länder lassen sich super kombinieren und die Orte, die man sich gerne anschauen möchte, gehen eigentlich nicht aus ;)    
 
-[Zur Bildergalerie](/photography/thailand-2014/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2014-10-thailand' %}){: .btn}

@@ -33,7 +33,7 @@ map_id: 1gTrthySd7p8YgZFCoLWVuzr80VjZHbOR
 Mein erster Solo-Backpacking-Trip hat mich im September und Oktober 2009 nach Israel und dem Westjordanland geführt und mit dem Reisefieber infiziert.
 Im Vorfeld haben sich viele kritisch über die Sicherheit geäußert, aber aus meiner Sicht gab es dazu keinerlei Bedenken und ich empfinde Israel als sehr sicheres Land.
 
-[Zur Bildergalerie](/photography/israel-2009/){: .btn}
+[Zur Bildergalerie]({% post_url collections.galleries, '2009-09-israel' %}){: .btn}
 
 Etliche Jahre später hat es mich nochmal nach Israel verschlagen, 
-dieses Mal jedoch nur um kurz später [die Grenze nach Jordanien zu überqueren](/guenstig-nach-jordanien/).  
+dieses Mal jedoch nur um kurz später [die Grenze nach Jordanien zu überqueren]({% post_url collections.posts, '2019-11-29-billig-nach-jordanien' %}).  
