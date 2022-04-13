@@ -43,9 +43,9 @@ const includes =  (arr, path, value) => {
   });
 };
 
-const sortByTitle = (collection) => {
+const sortByFileSlug = (collection) => {
     collection.sort((a, b) =>
-     a.data.title > b.data.title ? 1 : -1
+     a.fileSlug > b.fileSlug ? 1 : -1
     );
     return collection;
 };
@@ -62,4 +62,4 @@ const getGalleryFromDir = (directory) => {
     return imagesInDir;
 };
 
-module.exports = { addUniqueNumber, excerpt, head, includes, sortByTitle, getGalleryFromDir };
+module.exports = { addUniqueNumber, excerpt, head, includes, sortByFileSlug, getGalleryFromDir };

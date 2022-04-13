@@ -8,5 +8,5 @@ header:
     teaser: assets/photography/2012_06_island/dsc_1072.jpg
 ---
 {%- from "macros/teaser-gallery.njk" import teaserGallery -%}
-{% set allCountries = collections.laender | sortByTitle %}
+{% set allCountries = collections.laender | sortByFileSlug %}
 {{ teaserGallery(allCountries) }}

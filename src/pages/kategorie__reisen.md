@@ -26,7 +26,7 @@ preview:
     Auf meinen Reisen durfte natürlich die Kameraausrüstung nicht fehlen und so gibt es von jedem Trip etliche Fotos, die du in den Reisegalerien betrachten kannst.
     </p>
     <p>
-        <a href="{#% post_url collections.pages, 'gallery' %#}" class="btn">Zu den Reisegalerien</a>
+        <a href="{% post_url collections.pages, 'galleries.md' %}" class="btn">Zu den Reisegalerien</a>
     </p>
   </div>
 </div>
