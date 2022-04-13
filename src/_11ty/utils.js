@@ -2,6 +2,7 @@ const markdown = require('markdown-it');
 const markdownItRenderer = new markdown({ html: true });
 const lodash = require("lodash");
 const fs = require('fs');
+const slugify = require("slugify");
 
 var counter = 0;
 const addUniqueNumber = (content) => {
@@ -62,4 +63,14 @@ const getGalleryFromDir = (directory) => {
     return imagesInDir;
 };
 
-module.exports = { addUniqueNumber, excerpt, head, includes, sortByFileSlug, getGalleryFromDir };
+const strToSlug = (str)  => {
+  const options = {
+    replacement: "-",
+    remove: /[&,+()$~%.'":*?<>{}]/g,
+    lower: true,
+  };
+
+  return slugify(str, options);
+}
+
+module.exports = { addUniqueNumber, excerpt, head, includes, sortByFileSlug, getGalleryFromDir, strToSlug };

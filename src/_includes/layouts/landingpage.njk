@@ -7,7 +7,8 @@
   {%- set currentPostsHeadline = 'Aktuelle ' + preview.category + '-Artikel im Blog' -%}
   {%- set previewPosts = collections.posts | includes("data.categories", preview.category) -%}
   {%- set allPostsLabel = 'Alle ' + preview.category + '-Artikel' -%}
-  {#%- set allPostsUrl = page.preview.category | slugify | prepend: 'category/' | append: '/' | relative_url -%#}
+  {%- set allPostsUrl = preview.category | strToSlug -%}
+  {%- set allPostsUrl = '/category/' + allPostsUrl -%}
 {%- else -%}
   {%- set currentPostsHeadline = 'Aktuelle Artikel im Blog' -%}
   {%- set previewPosts = collections.posts -%}
@@ -22,7 +23,6 @@
       {% include "partials/post-summary-grid-view.njk" %}
     {% endfor %}
   </div>
-  {# TODO button #}
   <div class="flex justify-center mt-8">
     <a href="{{allPostsUrl}}" class="btn">{{allPostsLabel}}</a>
   </div>

@@ -13,7 +13,7 @@
     <div class="flex flex-wrap my-1">
         {% for category in post.data.categories %}
         <div class="pr-4 font-semibold text-gray-500">
-            <a href="{#{ category | slugify | prepend: 'category/' | append: '/' | relative_url }#}" title="Kategorie {{category}}" class="hover:underline">{{ category }}</a>
+            <a href="/category/{{ category | strToSlug }}" title="Kategorie {{category}}" class="hover:underline">{{ category }}</a>
         </div>
         {% endfor %}
     </div>

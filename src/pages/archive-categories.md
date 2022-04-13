@@ -6,5 +6,5 @@ pagination:
   alias: category
 eleventyComputed:
   title: Artikel aus der Kategorie {{ category.title }}
-permalink: /category/{{ category.slug }}/
+permalink: "{{ category.slug }}/"
 ---

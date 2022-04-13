@@ -4,7 +4,7 @@
 <nav class="container text-gray-700 my-12 text-sm md:text-base">
   <ul class="flex justify-center">
     {% if category.pageSlugs.previous %}
-      <li><a href="/category/{{ category.pageSlugs.previous }}" class="{{commonStyle}} block rounded-l hover:bg-gray-500 hover:text-white">Vorherige</a></li>
+      <li><a href="{{ category.pageSlugs.previous }}" class="{{commonStyle}} block rounded-l hover:bg-gray-500 hover:text-white">Vorherige</a></li>
     {% else %}
       <li class="{{commonStyle}} block rounded-l text-gray-400"><span aria-hidden="true">Vorherige</span></li>
     {% endif %}
@@ -34,7 +34,7 @@
     {% endif %}
 
     {% if showFirstLink %}
-        <li><a href="/category/{{ category.pageSlugs.first }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">1</a></li>
+        <li><a href="{{ category.pageSlugs.first }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">1</a></li>
         <li class="{{commonStyle}} hidden sm:block -ml-px text-gray-400">&hellip;</li>
     {% endif %}
 
@@ -43,18 +43,18 @@
         {% if loop.index === currentPageNumber %}
           <li class="{{commonStyle}} block -ml-px bg-gray-500 text-white">{{ loop.index }}</li>
         {% else %}
-          <li><a href="/category/{{ category.pageSlugs.all[ loop.index0 ] }}" title="Seite {{ loop.index }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">{{ loop.index }}</a></li>
+          <li><a href="{{ category.pageSlugs.all[ loop.index0 ] }}" title="Seite {{ loop.index }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">{{ loop.index }}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}
 
     {% if showLastLink %}
       <li class="{{commonStyle}} hidden sm:block -ml-px text-gray-400">&hellip;</li>
-      <li><a href="/category/{{ category.pageSlugs.last }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">{{ totalPageNumber }}</a></li>
+      <li><a href="{{ category.pageSlugs.last }}" class="{{commonStyle}} hidden sm:block -ml-px hover:bg-gray-500 hover:text-white">{{ totalPageNumber }}</a></li>
     {% endif %}
 
     {% if category.pageSlugs.next %}
-      <li><a href="/category/{{ category.pageSlugs.next }}" class="{{commonStyle}} block -ml-px rounded-r hover:bg-gray-500 hover:text-white">Nächste</a></li>
+      <li><a href="{{ category.pageSlugs.next }}" class="{{commonStyle}} block -ml-px rounded-r hover:bg-gray-500 hover:text-white">Nächste</a></li>
     {% else %}
       <li class="{{commonStyle}} block -ml-px rounded-r text-gray-400"><span aria-hidden="true">Nächste</span></li>
     {% endif %}

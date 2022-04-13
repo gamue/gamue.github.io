@@ -71,6 +71,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("includes", utils.includes);
   eleventyConfig.addFilter("sortByFileSlug", utils.sortByFileSlug);
   eleventyConfig.addFilter("getGalleryFromDir", utils.getGalleryFromDir);
+  eleventyConfig.addFilter("strToSlug", utils.strToSlug);
 
   eleventyConfig.addShortcode("post_url", postUrls);
 
