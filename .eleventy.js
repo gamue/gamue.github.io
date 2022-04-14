@@ -76,6 +76,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode("post_url", postUrls);
 
   eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
+  eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
 
   return {
     markdownTemplateEngine: "njk",

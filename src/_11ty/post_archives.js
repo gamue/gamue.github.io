@@ -1,11 +1,11 @@
 const lodash = require("lodash");
 const utils = require("./utils.js");
 
+const itemsPerPage = 8;
 
 // create flattened paginated blogposts per categories collection
 // based on Zach Leatherman's solution - https://github.com/11ty/eleventy/issues/332
 const blogpostsByCategories = (collectionApi) => {
-  const itemsPerPage = 8;
   let blogpostsByCategories = [];
   let allBlogposts = collectionApi
     .getAllSorted()
@@ -16,29 +16,37 @@ const blogpostsByCategories = (collectionApi) => {
   blogpostsCategories.forEach((category) => {
     let postsInCategory = getAllPostsInCategory(allBlogposts, category);
     let chunkedPostsInCategory = lodash.chunk(postsInCategory, itemsPerPage);
+    let pagesSlugs = getPageSlugs("/category/", category, chunkedPostsInCategory);
 
-    let pagesSlugs = getPageSlugs(category, chunkedPostsInCategory);
-
-    // create array of objects
     chunkedPostsInCategory.forEach((posts, index) => {
-      blogpostsByCategories.push({
-        title: category,
-        slug: pagesSlugs[index],
-        pageNumber: index,
-        totalPages: pagesSlugs.length,
-        pageSlugs: {
-          all: pagesSlugs,
-          next: pagesSlugs[index + 1] || null,
-          previous: pagesSlugs[index - 1] || null,
-          first: pagesSlugs[0] || null,
-          last: pagesSlugs[pagesSlugs.length - 1] || null,
-        },
-        items: posts,
-      });
+      blogpostsByCategories.push(getReturnObject(category, pagesSlugs, index, posts));
     });
   });
 
   return blogpostsByCategories;
+};
+
+const blogpostsByTags = (collectionApi) => {
+  let blogpostsByTags = [];
+  let allBlogposts = collectionApi
+    .getAllSorted()
+    .reverse();
+
+  let blogpostsTags = getAllKeyValues(allBlogposts, "tags");
+  // remove pages & post collections as they are also listed as tags
+  blogpostsTags = lodash.difference(blogpostsTags, ["pages", "laender", "galleries", "posts"]);
+
+  blogpostsTags.forEach((tag) => {
+    let postsWithTag = collectionApi.getFilteredByTag(tag)
+    let chunkedPostsWithTag = lodash.chunk(postsWithTag, itemsPerPage);
+    let pagesSlugs = getPageSlugs("/tag/", tag, chunkedPostsWithTag);
+
+    chunkedPostsWithTag.forEach((posts, index) => {
+      blogpostsByTags.push(getReturnObject(tag, pagesSlugs, index, posts));
+    });
+  });
+
+  return blogpostsByTags;
 };
 
 
@@ -75,14 +83,31 @@ function getAllPostsInCategory(allBlogposts, category) {
   return postsInCategory;
 }
 
-function getPageSlugs(category, chunkedPostsInCategory) {
+function getPageSlugs(prefix, category, chunkedPostsInCategory) {
   let pagesSlugs = [];
   for (let i = 0; i < chunkedPostsInCategory.length; i++) {
     let categorySlug = utils.strToSlug(category);
-    let pageSlug = i > 0 ? `/category/${categorySlug}/${i + 1}` : `/category/${categorySlug}`;
+    let pageSlug = i > 0 ? `${prefix}${categorySlug}/${i + 1}` : `${prefix}${categorySlug}`;
     pagesSlugs.push(pageSlug);
   }
   return pagesSlugs;
 }
 
-module.exports = { blogpostsByCategories };
+function getReturnObject(title, pagesSlugs, index, posts) {
+    return {
+        title: title,
+        slug: pagesSlugs[index],
+        pageNumber: index,
+        totalPages: pagesSlugs.length,
+        pageSlugs: {
+          all: pagesSlugs,
+          next: pagesSlugs[index + 1] || null,
+          previous: pagesSlugs[index - 1] || null,
+          first: pagesSlugs[0] || null,
+          last: pagesSlugs[pagesSlugs.length - 1] || null,
+        },
+        items: posts,
+    }
+}
+
+module.exports = { blogpostsByCategories, blogpostsByTags };
