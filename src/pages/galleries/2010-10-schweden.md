@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
     overlay_image: assets/photography/2010_10_schweden/dsc_4871_hdr_0.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2010_10_schweden" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

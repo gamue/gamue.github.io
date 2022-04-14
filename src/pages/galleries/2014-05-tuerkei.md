@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2014_05_tuerkei/Tuerkei_411_tonemapped.jpg
     overlay_image: assets/photography/2014_05_tuerkei/Tuerkei_690.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2014_05_tuerkei" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

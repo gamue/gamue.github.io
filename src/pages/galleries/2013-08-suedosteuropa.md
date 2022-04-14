@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2013_08_rumaenien/Rumaenien_415_tonemapped.jpg
     overlay_image: assets/photography/2013_08_rumaenien/Rumaenien_415_tonemapped.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 # Oslo{: .pb-2}
 
 {% set gallery = "/assets/photography/2013_08_oslo" | getGalleryFromDir %}

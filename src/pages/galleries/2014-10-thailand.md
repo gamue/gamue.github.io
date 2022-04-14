@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2014_10_thailand/Thailand_0092.jpg
     overlay_image: assets/photography/2014_10_thailand/Thailand_0092.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2014_10_thailand" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

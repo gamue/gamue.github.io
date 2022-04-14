@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2010_09_niederlande/dsc_3870_hdr_0.jpg
     overlay_image: assets/photography/2010_09_belgien/dsc_3269.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 # Luxemburg{: .pb-2}
 
 {% set gallery = "/assets/photography/2010_09_luxemburg" | getGalleryFromDir %}

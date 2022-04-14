@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/0000_misc/2011-03_neuschwanstein.jpg
     overlay_image: assets/photography/0000_misc/2018-08_SaechsischeSchweiz_069.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/0000_misc" | getGalleryFromDir | reverse %}
 {{ imageGallery(
     images = gallery,

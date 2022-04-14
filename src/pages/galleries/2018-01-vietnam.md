@@ -8,7 +8,7 @@ header:
     overlay_image: assets/photography/2018_01_vietnam/Vietnam_1227.jpg
     overlay_filter: rgba(200, 200, 200, 0.6)
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2018_01_vietnam" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

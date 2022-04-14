@@ -7,7 +7,7 @@ header:
     overlay_image: assets/photography/2021_05_albanien/Albanien_129.jpg
     overlay_filter: rgba(200, 200, 200, 0.6)
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2021_05_albanien" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

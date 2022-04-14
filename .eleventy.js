@@ -78,6 +78,18 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
   eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
 
+  // Automatically import macros on every page
+  // (otherwise we need to manually include on each page that uses them)
+  // https://github.com/11ty/eleventy/issues/613#issuecomment-968189433
+  eleventyConfig.addCollection('everything', (collectionApi) => {
+    const macroImport = `{%- from "macros/gallery.njk" import imageGallery with context -%}`;
+    let collection = collectionApi.getFilteredByGlob('src/**/*.md');
+    collection.forEach((item) => {
+      item.template.frontMatter.content = `${macroImport}\n${item.template.frontMatter.content}`
+    })
+    return collection;
+  });
+
   return {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

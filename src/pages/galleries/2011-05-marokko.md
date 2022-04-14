@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2011_05_marokko/Marokko_389b.jpg
     overlay_image: assets/photography/2011_05_marokko/Marokko_097b.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2011_05_marokko" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

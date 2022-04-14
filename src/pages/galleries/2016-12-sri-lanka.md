@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
     overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2016_12_sri_lanka" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

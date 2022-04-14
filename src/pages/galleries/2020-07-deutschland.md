@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2020_07_deutschland/Deutschland_0535.jpg
     overlay_image: assets/photography/2020_07_deutschland/Deutschland_0697.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2020_07_deutschland" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

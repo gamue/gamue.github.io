@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2017_11_jordanien/Jordanien_404b.jpg
     overlay_image: assets/photography/2017_11_jordanien/Jordanien_307.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2017_11_jordanien" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,

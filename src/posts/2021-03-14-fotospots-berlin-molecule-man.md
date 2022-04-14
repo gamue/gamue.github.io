@@ -34,7 +34,7 @@ tags:
     - Berlin
     - Deutschland
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 Die letzten Wochen und Monate habe ich mich wieder intensiver mit der Fotografie beschäftigt, 
 unzählige Videos angeschaut und eine Vielzahl von Texte gelesen, sogar auch Bücher und ich lese sonst eigentlich nie Bücher ;)
 

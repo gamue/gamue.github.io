@@ -6,7 +6,7 @@ header:
     teaser: assets/photography/2018_06_georgien/Georgien_0648b.jpg
     overlay_image: assets/photography/2018_06_georgien/Georgien_0408.jpg
 ---
-{%- from "macros/gallery.njk" import imageGallery -%}
+
 {% set gallery = "/assets/photography/2018_06_georgien" | getGalleryFromDir %}
 {{ imageGallery(
     images = gallery,
