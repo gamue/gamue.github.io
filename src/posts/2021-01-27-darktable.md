@@ -30,7 +30,7 @@ Einer der ersten Schritte, der gemacht werden muss, ist Bilder in das Programm z
 Das ist übrigens in jedem aktuellen RAW-Konverter, der auf einer Datenbank basiert, 
 so und in diesem Schritt werden die Metadaten der Bilder eingelesen, sodass beispielsweise leicht darauf gefiltert werden kann.
 
-{% cloudinary /assets/2021-01-27-darktable/darktable_error.jpg alt="Eine Fehlermeldung beim Absturz von Darktable." %}
+{% cloudinary "/assets/2021-01-27-darktable/darktable_error.jpg", "Eine Fehlermeldung beim Absturz von Darktable." %}
 
 Der Import hat aus meiner Sicht schon ein paar Tücken, so ist mir das Programm dabei einmal abgestürzt und hat grundlos neue SideCar-Dateien erstellt. 
 Das hat zur Folge, dass ziemlich viel Datenmüll entsteht, denn neben den bereits existierenden RAW-Dateien (z.B. `bild01.nef`) und meinen bisherigen Sidecar-/xmp-Dateien (z.B. `bild01.xmp`), 
@@ -38,7 +38,7 @@ werden neue SideCar-Dateien mit dem Namen `bild01.nef.xmp` erstellt.
 Ich verstehe, dass der Dateiname eine eindeutige Zuordnung zur RAW-Datei bietet, aber das Programm könnte die bestehende Datei auch weiterverwenden oder im Nachgang aufräumen, 
 denn manuell will ich das bei zig tausend Dateien nicht machen.
 
-{% cloudinary /assets/2021-01-27-darktable/darktable_ranking.jpg alt="Die Bewertungen und Markierungen wurden übernommen." %}
+{% cloudinary "/assets/2021-01-27-darktable/darktable_ranking.jpg", "Die Bewertungen und Markierungen wurden übernommen." %}
 
 Meine bisherigen Farbmarkierungen und Bildbewertungen mit Sternen wurden problemlos übernommen. 
 Die Bearbeitungsinformationen jedoch leider nicht, aber das hatte ich mir schon gedacht, da es programmspezifische Daten aus meiner alten Anwendung sind. 
@@ -54,7 +54,7 @@ in denen ich mir das Programm genauer angeschaut habe, ist es mehrfach abgestür
 Das weckt natürlich kein großes Vertrauen in die Software, auch wenn die Entwickler schnell auf [meinen Fehlerbericht](https://github.com/darktable-org/darktable/issues/7627) reagiert 
 und innerhalb von einer Woche die Ursache behoben hatten.
 
-{% cloudinary /assets/2021-01-27-darktable/darktable_entwicklung.jpg alt="Der Entwicklungsmodus von Darktable" %}
+{% cloudinary "/assets/2021-01-27-darktable/darktable_entwicklung.jpg", "Der Entwicklungsmodus von Darktable" %}
 
 Im RAW-Entwicklungsmodus gibt es eine Vielzahl von Einstellungen und Optionen, die teilweise ungewöhnliche Bezeichnungen tragen, 
 sodass ich dort erst einmal erschlagen wurde. Damit hatte ich aber schon gerechnet, denn das ist einer der Kritikpunkte auf den ich bei meinen initialen Recherchen immer wieder gestoßen bin 

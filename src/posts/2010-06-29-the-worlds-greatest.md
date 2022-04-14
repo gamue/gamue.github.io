@@ -5,7 +5,7 @@ categories:
   - Allgemein
 ---
 Ein Satz, den ich in meinem Leben schon unzählige Male gehört habe ist „Warum isst du das nicht, ist das zu gesund?“. 
-Eine Frage bei der ich immer leichte Aggressionen bekomme.  
+Eine Frage bei der ich immer leichte Aggressionen bekomme.
 Es stört mich auch ein wenig, dass bei jedem Fest oder Ausflug besonders auf die Vegetarier oder Veganer Rücksicht genommen werden muss, 
 die Fleischesser werden immer vergessen. Oder hat schon mal jemand auf einer Anmeldung o.Ä. einen Ankreuzpunkt „Fleischesser“ gesehen? 
 Aber vielleicht geschieht dies auch ganz unterbewusst durch den Urinstinkt auf Schwächere im Rudel besonders achten zu wollen.  
@@ -13,7 +13,7 @@ Aber vielleicht geschieht dies auch ganz unterbewusst durch den Urinstinkt auf S
 Der ganze Pflanzen- und Biowahn hat schon obskure Formen angenommen und jeder, der sich dagegen wehren will, 
 bekommt durch „ist dir das zu gesund“ eingeredet, dass er auf der falschen Seite steht und es nur die eine wahre Ernährungsmöglichkeit gibt. 
 Ich frage mich immer wie Lebewesen die letzten paar Milliarden bzw. für die Kreationisten unter uns Tausend Jahre überleben konnten, 
-ohne täglich gestreichelte, von Beethovens Musik verwöhnte Pflanzenkost zu sich zu nehmen.  
+ohne täglich gestreichelte, von Beethovens Musik verwöhnte Pflanzenkost zu sich zu nehmen.
 Das Wissen, dass die Fleischesser immer schon die Stärkeren, Besseren und unangefochtenen Herrscher ihres 
 Lebensraumes waren lässt mich doch aufatmen und hoffen, dass der Biofanatismus ein jähes Ende nimmt.
 

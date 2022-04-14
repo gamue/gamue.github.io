@@ -83,13 +83,13 @@ Ansonsten stehen noch weitere Designänderungen an, bei der TailwindCSS-Migratio
 habe aber schon die ein oder andere Stelle im Auge, die ich noch etwas ändern möchte. 
 Aber wie gesagt, eigentlich wollte ich erst viele andere Dinge fertig machen, bevor ich mich an die ganzen Änderungen gesetzt habe :D
 
-[1]: {% post_url 2019-09-01-relaunch %}
+[1]: {% post_url collections.posts, "2019-09-01-relaunch" %}
 [2]: https://github.com/mmistakes/minimal-mistakes
 [3]: https://purgecss.com/
 [4]: https://github.com/sverrirs/jekyll-paginate-v2
 [5]: https://tailwindcss.com/
 [6]: https://github.com/kangabru/jekyll-tailwindcss-boilerplate
-[7]:https://jquery.com/
+[7]: https://jquery.com/
 [8]: https://dbrekalo.github.io/simpleLightbox/
 [9]: https://lunrjs.com/
 [10]: https://www.algolia.com/

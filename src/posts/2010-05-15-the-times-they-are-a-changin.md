@@ -5,14 +5,14 @@ categories:
   - Allgemein
 ---
 Die Zeit rast unaufhaltsam und um einen herum ändert sich alles. 
-Hätte mir jemand Anfang letzten Jahres gesagt, was alles passieren wird und wo ich jetzt stehe, hätte ich ihn wahrscheinlich als Spinner abgetan.  
+Hätte mir jemand Anfang letzten Jahres gesagt, was alles passieren wird und wo ich jetzt stehe, hätte ich ihn wahrscheinlich als Spinner abgetan.
 Vergleiche ich meine früheren Vorstellungen der Zukunft mit der Gegenwart, finde ich recht wenige Schnittmengen. 
 Ich denke mein früheres und mein jetziges Ich wären wohl keine besonders guten Freunde geworden 😉 
 Das macht schon etwas nachdenklich, es ist manchmal schon erstaunlich wie sich alles entwickelt.
 
 Die letzte größere Änderung ist, dass ich bei meinen Eltern ausgezogen bin. 
 Damit habe ich die Hoffnung einiger Leute zerstört, die auf eine „Schluss mit Hotel Mama“-Folge mit mir spekuliert haben, 
-aber ich hätte sowieso nicht in das Profil gepasst…hoffe ich zumindest…  
+aber ich hätte sowieso nicht in das Profil gepasst…hoffe ich zumindest…
 Jetzt wohn ich in einer schönen Wohnung im Südwesten Pforzheims zusammen mit zwei Freundinnen.
 
 Aber erst etwas zurück: Die Wohnungssuche war recht unproblematisch, wenn wir auch eine Menge komischer Wohnungen angeschaut haben. 

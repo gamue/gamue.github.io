@@ -94,4 +94,4 @@ immer in 5-Cent-Münzen bekommen&#8230;auch wenns mal 50Cent waren. Nach einer W
 Das ist gewichtsmäßig schon eine Erleichterung 🙂 Kurios ist das Strafgeld, wenn man in der Metro raucht: 30 Euro und, ja genau, 5 Cent. 
 Wer hat denn den Schwachsinn gemacht?
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

@@ -22,12 +22,12 @@ Innerhalb eines Blogeintrags werden die Bilder in verkleinerter Form dargestellt
 Das führt dazu, dass Bilder im Hochkant-Format deutlich größer angezeigt werden, als welche im Querformat. 
 Eigentlich nicht schlimm, aber das wirklich nervige daran ist, dass wenn ein Hochkant-Bild neben einem Querformat-Bild angezeigt wird, ein ziemlich größer Abstand zur nächsten Zeile entsteht.
 
-{% cloudinary /assets/2021-03-12-masonry-layout/galerie_whitespace.jpg alt="Bildergalerie mit zu viel Whitespace" caption="Bildergalerie in einem Blogbeitrag mit zu viel Whitespace" %}
+{% cloudinary "/assets/2021-03-12-masonry-layout/galerie_whitespace.jpg", "Bildergalerie mit zu viel Whitespace", null, null, "Bildergalerie in einem Blogbeitrag mit zu viel Whitespace" %}
 
 In den Reisegalerien werden die einzelnen Bilder in einer einheitlichen Querformat-Größe angezeigt, sodass dort, gerade bei Hochkant-Bildern, nur ein Ausschnitt sichtbar ist. 
 Der Vorteil davon ist, dass die Zeilen alle gleich hoch sind und man so schneller einen Überblick bekommt.
 
-{% cloudinary /assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg alt="Bildergalerie mit einheitlicher Bildgröße" caption="Bildergalerie mit einheitlicher Größe der Vorschaubilder." %}
+{% cloudinary "/assets/2021-03-12-masonry-layout/galerie_einheitsgroesse.jpg", "Bildergalerie mit einheitlicher Bildgröße", null, null, "Bildergalerie mit einheitlicher Größe der Vorschaubilder." %}
 
 In beiden Fällen kann, mit Klick auf das jeweilige Bild, eine Vollbild-Ansicht erreicht werden, wofür ich die Bibliothek [SimpleLightbox](https://github.com/dbrekalo/simpleLightbox) nutze. 
 Das find ich sehr angenehm und will ich auch so beibehalten.
@@ -41,7 +41,7 @@ lege ich für den Anwendungsfall wert darauf, dass das Seitenverhältnis der ein
 Viel leere Fläche, besonders sehr unregelmäßige, wirkt aber auch nicht schön und daher war mein Ziel das Layout im Masonry-Stil zu erstellen. 
 "Masonry" bedeutet Mauerwerk und die vermutlich bekannteste Seite, die das einsetzt, ist Pinterest, weswegen es auch häufiger als Pinterest-Stil bezeichnet wird.
 
-{% cloudinary /assets/2021-03-12-masonry-layout/masonry-layout.jpg alt="Masonry-Layout" %}
+{% cloudinary "/assets/2021-03-12-masonry-layout/masonry-layout.jpg", "Masonry-Layout" %}
 
 Bei der Darstellungsform werden die einzelnen Bilder, wie Steine in einem Gemäuer möglichst passend zusammengesetzt. 
 Hochkant-Bilder sind dadurch zwar immer noch deutlich größer als Bilder im Querformat, aber die Bildwirkung geht bei der Vorschau nicht verloren.
@@ -96,7 +96,7 @@ Die zugehörigen CSS-Definitionen für die Variante sehen dann wie folgt aus:
 
 Hier das Ergebnis davon:
 
-{% cloudinary /assets/2021-03-12-masonry-layout/masonry-columns.jpg alt="Masonry mit CSS-Columns" %}
+{% cloudinary "/assets/2021-03-12-masonry-layout/masonry-columns.jpg", "Masonry mit CSS-Columns" %}
 
 Sieht nach dem gewünschten Mauerwerk aus, oder?
 
@@ -139,14 +139,14 @@ Natürlich gibt es noch viele Optionen für die Bibliothek, aber mir reicht der 
 
 Hier noch ein Screenshot vom Ergebnis des Beispielcodes, mit der Reihenfolge schön von links nach rechts (bis das Auffüllen auf der Linken Seite am Ende):
 
-{% cloudinary /assets/2021-03-12-masonry-layout/masonry-script.jpg alt="Masonry mit der JS-Bibliothek" %}
+{% cloudinary "/assets/2021-03-12-masonry-layout/masonry-script.jpg", "Masonry mit der JS-Bibliothek" %}
 
 # Fazit
 Am Ende hat es mich weit mehr Zeit gekostet als gedacht und musste letztendlich doch eine JavaScript-Library einsetzen, was ich gerne vermieden hätte. 
 Aber wer weiß, eventuell kommt das ja demnächst in den CSS-Standard und dann ist es nur eine Frage der Zeit bis es die Browser implementiert und eine entsprechende Marktverbreitung haben, damit ich auf den nativen Weg umsteigen kann.
 
 Insgesamt macht die Lösung aber genau das, was ich wollte und bin daher zufrieden. 
-Du kannst das Ergebnis übrigens auf den [Portfolio-Seiten]({% link _pages/portfolio__landschaft.md %}) in Aktion betrachten ;)
+Du kannst das Ergebnis übrigens auf den [Portfolio-Seiten]({% post_url collections.pages, 'portfolio__landschaft' %}) in Aktion betrachten ;)
 
 Die Masonry-Bibliothek ist ziemlich einfach zu verwenden, aber ich finde sie mit knapp 24kb recht groß für meinen Anwendungsfall, 
 vermutlich würde auch eine simplere Lösung ausreichen, sodass ich eventuell nochmal nach einer kleineren Bibliothek Ausschau halten werden. 

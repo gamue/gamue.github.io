@@ -20,7 +20,7 @@ sodass ich eine Reise dorthin empfehlen kann und dir hiermit ein paar Tipps mitg
 
 # Anreise
 
-{% cloudinary /assets/photography/2021_05_albanien/Albanien_808.jpg alt="Flughafen Tirana" %}
+{% cloudinary "/assets/photography/2021_05_albanien/Albanien_808.jpg", "Flughafen Tirana" %}
 
 Der **Flughafen in Tirana** wird von etlichen deutschen Flughäfen (z.B. Frankfurt, Berlin, Hahn, Dortmund, München und Memmingen) mehrmals in der Woche direkt angeflogen und der Direktflug dauert in etwa 2 Stunden.
 
@@ -42,7 +42,7 @@ Albanien ist ein recht kleines Land und daher recht einfach zu bereisen.
 In jeder größeren Stadt gibt es einen **Busbahnhof, was auch das Haupttransportmittel** ist. 
 Bei Busfahrten sammelt jemand während oder nach der Fahrt das Geld ein, das gilt sowohl für Busse zwischen Städten als auch innerhalb einer Stadt.
 
-{% cloudinary /assets/photography/2021_05_albanien/Albanien_011.jpg alt="Busbahnhof in Tirana" caption="Busbahnhof in Tirana" %}
+{% cloudinary "/assets/photography/2021_05_albanien/Albanien_011.jpg", "Busbahnhof in Tirana", null, null, "Busbahnhof in Tirana" %}
 
 Gerade kurze Verbindungen, bis ca. 2 Stunden Dauer, sind sehr häufig. 
 Je länger die Reisedauer ist, desto seltener fahren die Busse, zudem gibt es spezielle Verbindungen, wie beispielsweise Shkoder zur Komani-See-Fähre, 
@@ -57,7 +57,7 @@ Sei dir aber bewusst, dass der Verkehr in Tirana keinen Spaß macht, da dort sch
 Je ländlicher es wird, desto schlechter werden zudem die Straßen und so häufiger stehen Tiere, wie Kühe oder Ziegen, neben oder gar auf der Fahrbahn. 
 Wenn dir das aber nichts ausmacht, sollte alles passen.
 
-{% cloudinary /assets/photography/2021_05_albanien/Albanien_479.jpg alt="Kühe auf der Straße" %}
+{% cloudinary "/assets/photography/2021_05_albanien/Albanien_479.jpg", "Kühe auf der Straße" %}
 
 Für die Navigation, gerade für Wanderungen in den Albanischen Alpen, hat sich [**Maps.me**][1] als verlässlicher als Google Maps** herausgestellt. 
 So habe ich eine Reisende getroffen, die meinte der schnellste Weg, der von Google Maps vorgeschlagen wurde, hat sie mit dem Auto über hölzerne Brücken und unbefestigte Straßen fahren lassen. 
@@ -87,7 +87,7 @@ Ansonsten bekommst du für 500-600 Lek aber sehr gutes, frisches Essen.
 Eine schnelle Variante sind Grillhäuser, die Zgara heißen, bei denen du dir deinen Teller selbst zusammenstellst (z.B. Pommes für 150 Lek, Hähnchenspieß für 150 Lek und gegrillte Sucuk für 150 Lek). 
 Das Bier ist dort sogar meist billiger als Cola ;)
 
-{% cloudinary /assets/2021-06-17-reisetipps-albanien/Albanien_778.jpg alt="Essen in einem Zgara" caption="Leckeres Essen in einem Zgara für ca. 550 Lek, Bier eingerechnet." %}
+{% cloudinary "/assets/2021-06-17-reisetipps-albanien/Albanien_778.jpg", "Essen in einem Zgara", null, null, "Leckeres Essen in einem Zgara für ca. 550 Lek, Bier eingerechnet." %}
 
 ## Aktivitäten
 Die meisten Eintrittspreise waren zwischen 300-800 Lek. Die 800 Lek (~6,50€) waren dabei die jeweils 15 minütige Hin- und Rückfahrt mit der Seilbahn zum Dajti Nationalpark. 
@@ -125,8 +125,6 @@ Lass mich wissen, wenn du noch weitere Tipps hast oder wie dir Albanien gefallen
 
 Ich könnte noch einiges zu meiner Reiseroute, die du [hier findest][3], schreiben und auch zu vielen Orten, die ich aus Zeitgründen nicht besucht habe, aber das vielleicht ein anderes Mal ;)
 
-
-
 [1]: https://maps.me/
 [2]: https://tiranafreetour.com/
-[3]: {% link _pages/countries/albanien.md %}
+[3]: {% post_url collections.laender, 'albanien' %}

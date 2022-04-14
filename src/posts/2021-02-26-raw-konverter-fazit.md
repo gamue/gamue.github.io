@@ -122,7 +122,7 @@ Zudem fehlt Affinity Photo, da ich das zwar als gutes Programm ansehe aber eben 
 
 Ebenfalls nehme ich bei dem Diagram an, dass du bei der gekauften Version für den Zeitraum bleibst und nicht kostenpflichtig aktualisierst, sobald eine neue Version davon erscheint.
 
-{% cloudinary /assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg alt="Kostenvergleich der RAW-Konverter im Test (Stand 20.Februar 2021)" %}
+{% cloudinary "/assets/2021-02-26-raw-konverter-fazit/kostenvergleich.jpg", "Kostenvergleich der RAW-Konverter im Test (Stand 20.Februar 2021)", null, null, "Kostenvergleich der RAW-Konverter im Test (Stand 20.Februar 2021)" %}
 
 Wie schon [im Artikel über CaptureOne][5] erwähnt, halte ich die Mietversion von CaptureOne Pro für Hobbyfotografen als zu teuer und auch die Miete von "CaptureOne for Sony" ist fragwürdig, 
 gerade wenn du es nicht jeden Monat verwendest, ist es schon eine relativ hohe Ausgabe.
@@ -168,9 +168,9 @@ Denn um die, durch die Corona-Pandemie angeschlagene Kreativszene zu unterstütz
 Ich hoffe, die Blogserie hat dir geholfen einen besseren Überblick über die vorgestellten RAW-Konverter zu bekommen. 
 Lass mich gerne in den Kommentaren wissen was dein Favorit unter den Programmen ist und was du daran so magst.
 
-[1]: {% post_url 2021-01-27-darktable %}
-[2]: {% post_url 2021-01-30-skylum-luminar %}
-[3]: {% post_url 2021-02-05-acdsee-photo-studio %}
-[4]: {% post_url 2021-02-07-adobe-lightroom %}
-[5]: {% post_url 2021-02-13-capture-one %}
-[6]: {% post_url 2021-02-18-serif-affinity-photo %}
+[1]: {% post_url collections.posts, "2021-01-27-darktable" %}
+[2]: {% post_url collections.posts, "2021-01-30-skylum-luminar" %}
+[3]: {% post_url collections.posts, "2021-02-05-acdsee-photo-studio" %}
+[4]: {% post_url collections.posts, "2021-02-07-adobe-lightroom" %}
+[5]: {% post_url collections.posts, "2021-02-13-capture-one" %}
+[6]: {% post_url collections.posts, "2021-02-18-serif-affinity-photo" %}

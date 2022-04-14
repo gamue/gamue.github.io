@@ -28,7 +28,7 @@ Beispielsweise eine neue Staffel einer guten Serie, ein neues Spiel oder andere 
 Auf den Bildern kann man sehen, dass wir nicht immer das beste Wetter hatten, aber wirklich schlecht war es ehrlich gesagt auch nicht 
 und ich finde, gerade bei den Wanderungen durch die Almbach- und Breitachklamm sind etliche Fotos entstanden, die mir sehr gefallen.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
 [Zur kompletten Bildergalerie][1]{: .btn}
 
@@ -38,5 +38,5 @@ Falls du mehr über die Stationen auf der Reise erfahren willst, schau dir am be
 Wenn nichts dazwischen kommt, findest du dort in den nächsten Tagen auch nochmal etwas mehr Infos zu jedem Stopp.
 
 
-[1]: {% link _pages/photography/2020-07-deutschland.md %}
-[2]: {% link _pages/countries/deutschland.md %}
+[1]: {% post_url collections.galleries, '2020-07-deutschland' %}
+[2]: {% post_url collections.laender, 'deutschland' %}

@@ -38,13 +38,13 @@ Bei JPEGs wären diese Bereiche dann entweder komplett Schwarz oder komplett Wei
 
 Um das besser erklären zu können, hier ein Beispielfoto:
 
-{% cloudinary /assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg alt="Unterbelichtetes Bild" %}
+{% cloudinary "/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_dunkel.jpg", "Unterbelichtetes Bild" %}
 
 Bei einem JPEG-Bild wären die schwarzen Bereiche einfach Schwarz, das Bild wäre somit ziemlich unbrauchbar, da auf ihm außer der Dunkelheit nicht viel anderes zu sehen ist. 
 
 Bei RAWs lässt sich im Nachhinein noch einiges an der Belichtung und Helligkeit drehen, sodass folgendes Bild dabei rauskommen könnte:
 
-{% cloudinary /assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg alt="Aufgehelltes Bild" %}
+{% cloudinary "/assets/2021-01-03-raw-oder-jpeg/Vietnam_0964_hell.jpg", "Aufgehelltes Bild" %}
 
 Ich denke hier kannst du gut sehen, dass Stellen, die davor Schwarz waren trotzdem noch Bildinformationen beinhalten und durch die Entwicklung des RAW-Bildes sichtbar gemacht werden können. 
 Natürlich geht das nur in einem gewissen Rahmen und nicht wie in mancher Fernsehsendung, aber die Möglichkeiten sind doch recht groß. 
@@ -59,13 +59,12 @@ Für gewöhnlich funktioniert das sehr gut, aber gerade bei Dämmerung, im Schne
 Hier siehst du ein Bild, das ich mit automatischem Weißabgleich aufgenommen habe und bei dem die Kamera ziemlich daneben lag. 
 Besonders der Weg und die Haut des Nashorns entsprechen nicht dem, wie es tatsächlich war.
 
-{% cloudinary /assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg alt="Bild mit automatischem Weißabgleich" %}
-
+{% cloudinary "/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_awb.jpg", "Bild mit automatischem Weißabgleich" %}
 
 In einem RAW-Entwicklungsprogramm lässt sich der Weißabgleich danach leicht anpassen, sodass die Farben dann wieder realitätsnäher sind. 
 Das Ganze kann anschließend beispielsweise wie in folgendem Bild aussehen, hier sind die Farben deutlich näher an der Wirklichkeit als im vorherigen Bild.
 
-{% cloudinary /assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg alt="Bild mit manuellem Weißabgleich" %}
+{% cloudinary "/assets/2021-01-03-raw-oder-jpeg/Nepal_0543_mwb.jpg", "Bild mit manuellem Weißabgleich" %}
 
 Willst du den Weißabgleich übrigens nahezu perfekt hinbekommen, solltest du den manuellen Weißabgleich in deiner Kamera einstellen und eine sogenannte Graukarte verwenden. 
 Durch den manuellen Weißabgleich haben alle Bilder der Serie die gleiche Farbstimmung, was bei der Bearbeitung hilft, und durch die Graukarte lässt sich die Farbtemperatur bestimmen. 

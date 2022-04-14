@@ -70,19 +70,19 @@ aber Hallo zieht das vielleicht in die Muskeln.
 
 Nach Speis und Trank wurde alles abgeräumt und aus dem Restaurant kurzer Hand eine Disko. 
 Etwas später bin ich dann irgendwie noch auf einer Wohnungseinweihungsfeier gelandet und dann ging’s auch mit dem Velo wieder zurück, 
-angetrunken war es noch schwieriger auf dem Ding zu bleiben xD  
+angetrunken war es noch schwieriger auf dem Ding zu bleiben xD
 Da Marten am nächsten Tag beschäftigt war, hab ich die Unterkunft in ein Studentenwohnhaus gewechselt. 
 Hier war ich bei Anna, einer im Ausland studierenden Deutschen untergebracht. Die Leute im Korridor waren echt cool, 
 dauernd ist irgendwer rumgewuselt und hat irgendwas gemacht, hätte man den ganzen Tag vom Sofa aus betrachten können. 
 Da jeder der vorbeikam zum gemeinsamen Käsekuchen backen eingeladen wurde, waren am Schluss 6-7 Leute in der Küche um Käsekuchen zu backen, 
-die dann alle enttäuscht waren, das dieser nicht gleich verzehrt wurde, sondern erst abkühlen musste.  
+die dann alle enttäuscht waren, das dieser nicht gleich verzehrt wurde, sondern erst abkühlen musste.
 Abends von einer Party zurück, hat das Treffen des „Roten Armee Männerchores“, einem Studentenverein, indem man russische Uniformen anzieht, 
 kommunistische Lieder singt und nebenher ne Menge Wodka trinkt, im Wohnzimmer auf uns gewartet…klasse Verein 🙂
 
 Die nächste Überraschung gab es als ich am darauf folgenden Tag von einem „Gegend-Erkundungs-Trip“ zurückkam: 
 der Korridor war gefüllt von lauter Asiaten, die „Chinese Dumplings“ für irgendein Schulfest machen wollten, angepeilt waren 500 Stück, 
 nach 3h waren gerade mal ~100 fertig….totales Chaos. Also erstmal etwas Ordnung reinbringen und die strategisch wichtigen 
-Stellen mit Leuten besetzten die die Aufgabe einfach ausführen. Ohne Chinesisch oder Japanisch Kenntnisse, gar nicht mal so leicht. 
+Stellen mit Leuten besetzten die die Aufgabe einfach ausführen. Ohne Chinesisch- oder Japanisch-Kenntnisse, gar nicht mal so leicht. 
 Das Ergebnis war aber effektiv, so dass die restlichen Teigtaschen in viel kürzerer Zeit fertig waren. 
 Danach hat sich die „Asian Invasion“ dann nach und nach aufgelöst, zum Dank wurde ich noch zu den „Feierlichkeiten“ zum 
 Taiwanesischen Nationalfeiertag eingeladen, die Ehre hab ich mir natürlich nicht nehmen lassen und weiter irgendwelches asiatisches Zeugs gegessen.
@@ -91,4 +91,4 @@ Da mein Flug wieder recht früh von Stavska abging, musste ich noch früher aufs
 Da natürlich kein Kiosk aufhatte um mir ein Ticket zu holen hab ich den Busfahrer bequatscht, wodurch ich dann einfach so mitfahren durfte…
 selbst Schuld, wenn die so eine Quatschregelung haben.
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

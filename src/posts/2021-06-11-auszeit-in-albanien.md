@@ -23,7 +23,7 @@ Ich weiß, dass das Reisen in Zeiten von Covid recht kontrovers ist und sich tei
 Da der Trip sehr kurzfristig war, konnte ich ohnehin nicht vielen davon erzählen, aber ich hatte auch das Gefühl, es nicht an die große Glocke hängen **zu dürfen**. 
 Am Ende muss zwar jeder für sich selbst entscheiden, ob er aktuell reisen möchte und kann, finde das jedoch eine bedenkliche Entwicklung.
 
-{% include gallery.html layout="half" caption="Flussdurchquerung in Island und Erkundung von Petra (Jordanien)" %}
+{{ imageGallery(gallery, "Flussdurchquerung in Island und Erkundung von Petra (Jordanien)", "half") }}
 
 Unterwegs zu sein hat mir in den letzten Jahren sehr viel gegeben: Das Gefühl von Freiheit und Frieden, das Erleben von unzähligen Abenteuern, 
 Wertschätzung gegenüber dem was ich habe oder das Kennenlernen von anderen Kulturen und fremden Menschen, die ich nun als Freunde bezeichne. 
@@ -40,7 +40,7 @@ Auch wenn ich insgesamt nur etwa eine Woche in Albanien war, hat mir die Zeit do
 Trotz das ich aktuell in der vielleicht schlechtesten körperlichen Form meines Lebens bin, habe ich einige Wanderungen in den Albanischen Alpen unternommen und etwa 140.000 Schritte zurückgelegt. 
 So viel wie in den letzten Monaten zusammengerechnet nicht ^^
 
-{% cloudinary /assets/photography/2021_05_albanien/Albanien_304.jpg alt="Albanische Alpen" caption="Ein kleiner Schnappschuss mit dem Smartphone als Vorschau" %}
+{% cloudinary "/assets/photography/2021_05_albanien/Albanien_304.jpg", "Albanische Alpen", null, null, "Ein kleiner Schnappschuss mit dem Smartphone als Vorschau" %}
 
 Falls dich meine Reiseroute interessiert, findest du diese zusammen mit kurzen Beschreibungen der einzelnen Stationen [auf der Länderseite][3]. 
 Die Bilder kommen in ein paar Wochen, abhängig davon wie schlecht das Wetter in der nächsten Zeit ist ;) 
@@ -50,5 +50,5 @@ Soweit das kleine Update von mir. Hoffe, dir geht es gut und wünsche weiterhin 
 
 
 [1]: {{site.accounts.instagram}}
-[2]: {% link _pages/photography/2013-08-suedosteuropa.md %}
-[3]: {% link _pages/countries/albanien.md %}
+[2]: {% post_url collections.galleries, '2013-08-suedosteuropa' %}
+[3]: {% post_url collections.laender, 'albanien' %}

@@ -49,7 +49,7 @@ Nach der Installation des Programmes musste ich einen Lizenzschlüssel eingeben,
 Jede Version hat dabei seinen eigenen Schlüssel, die installierten Daten bleiben jedoch die Gleichen. 
 Will ich beispielsweise "Capture One Express for Sony" und "Capture One Express for Fuji" parallel nutzen, muss ich nichts anderes installieren, aber immer wieder den hinterlegten Lizenzschlüssel ändern.
 
-{% cloudinary /assets/2021-02-13-capture-one/captureOne_import.jpg alt="Import von Capture One" %}
+{% cloudinary "/assets/2021-02-13-capture-one/captureOne_import.jpg", "Import von Capture One" %}
 
 Nach dem Import werden die Bilder in einer Filmrollen-Ansicht, sprich eine große Vorschau in der Mitte und alle anderen scrollbar unten. 
 Es lässt sich aber auch zu einer Kachelansicht wechseln, sodass niemand etwas vermissen dürfte. 
@@ -63,7 +63,7 @@ Ich müsste also herausbekommen, welche Werte Capture One (oder eines der andere
 Weil ich die "for Sony"-Version teste, haben die Bilder aus meiner Nikon-Kamera ein kleines Icon und alle Bearbeitungsmöglichkeiten sind ausgegraut. 
 Angezeigt werden sie aber problemlos, sodass ich sie tendenziell in der Bildverwaltungen haben könnte.
 
-{% cloudinary /assets/2021-02-13-capture-one/captureOne_katalog.jpg alt="Katalogansicht in Capture One" %}
+{% cloudinary "/assets/2021-02-13-capture-one/captureOne_katalog.jpg", "Katalogansicht in Capture One" %}
 
 Die Oberfläche lässt sich in der Express-Version zu einem gewissen Grad anpassen, beispielsweise ob die Entwicklungseinstellungen auf der rechten oder linken Seite sind. 
 Ich persönlich finde sie auf der rechten Bildschirmseite angenehmer, weswegen ich es entsprechend umgestellt habe. In der Pro-Variante lassen sich dann noch deutlich mehr Anpassungen an der Oberfläche vornehmen.
@@ -72,7 +72,7 @@ Ich persönlich finde sie auf der rechten Bildschirmseite angenehmer, weswegen i
 Die Anordnung der Bearbeitungsoptionen finde ich sinnvoll und denke, gerade die Wahl der kleinen Icons an den Reitern ist sehr passend. 
 Zumindest erschloss sich mir auf den ersten Blick wo ich etwas finden kann und daher ging die Entwicklung eines Bildes recht zügig.
 
-{% cloudinary /assets/2021-02-13-capture-one/captureOne_raw.jpg alt="RAW-Entwicklung in Capture One" %}
+{% cloudinary "/assets/2021-02-13-capture-one/captureOne_raw.jpg", "RAW-Entwicklung in Capture One" %}
 
 Über eine Tastenkombination, oder Betätigung eines Buttons, konnte ich mir jeweils die Auswirkungen der gerade vorgenommenen Änderungen oder einen Vorher-Nachher-Vergleich des gesamten Bildes anschauen.
 

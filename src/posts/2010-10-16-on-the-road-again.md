@@ -23,7 +23,7 @@ Hamburg, Stockholm, Göteborg, Örebro und Linköping.
 Das sind die Städte und Orte die ich in den letzten 5 Wochen besucht habe, ich war also mehr unterwegs als zu Hause, 
 dafür war ich aber dieses Jahr noch nicht ganz so oft weg 😉
 
-In der Zeit gab es viele Hochs, einige Tiefs, ich habe alte Freunde getroffen und neue kennen gelernt, 
+In der Zeit gab es viele Hochs, einige Tiefs, ich habe alte Freunde getroffen und neue kennengelernt, 
 viele Erfahrungen gesammelt und meine heimische To-Do-Liste mit ganz vielen Dingen angehäuft bzw. angestaut. 
 Aber alles der Reihe nach, apropos der Reihe nach auf meinem PC haben sich ungefähr 3500 Bilder angesammelt, 
 die ich erst noch durchschauen und eine kleine Auswahl nach und nach hochladen werde, damit es auch etwas zum Anschauen gibt, 
@@ -52,6 +52,6 @@ einige Grabmäler fotografiert, da man vor allem in frankophonen Ländern recht 
 Als der Wärter mich dann rausgeworfen hat, weil er abschließen wollte, bin ich noch auf dem Jahrmarkt nebenan gelandet…
 ich frag mich was komischer ist, das ich auf Friedhöfen fotografiere oder das direkt daneben ein riesiger Jahrmarkt ist xD
 
-Damit sind meine ersten beiden Reisen und ~1420km auch schon zusammengefasst, demnächst gibt es dazu auch [Bilder](/photography/) und die Geschichten der anderen Kilometer 😉
+Damit sind meine ersten beiden Reisen und ~1420km auch schon zusammengefasst, demnächst gibt es dazu auch [Bilder]({% post_url collections.galleries, '2010-09-benelux' %}) und die Geschichten der anderen Kilometer 😉
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

@@ -33,7 +33,7 @@ Diese Updates haben viele größere Neuerungen enthalten, für die manch ein and
 Ich gehe jedoch davon aus, dass das Update von 1.9 zu 2.0 kostenpflichtig sein wird, finde das im Angesicht des sehr langen Supportzeitraums aber sehr fair 
 und prinzipiell wird ja niemand gezwungen das neue Update zu kaufen, wenn er für sich beschließt, dass die verwendete Version ausreicht.
 
-Für meinen Test habe ich die 30tägige Testversion für Windows verwendet.
+Für meinen Test habe ich die 30-tägige Testversion für Windows verwendet.
 
 # Erster Eindruck
 Im Gegensatz zu den anderen Programmen im Test hat Affinity Photo keine Bildverwaltung, sodass du die Bilder entweder über den Dateiexplorer oder direkt aus der Anwendung heraus öffnen musst. 
@@ -53,7 +53,7 @@ Zusätzlich gibt es noch eine spezielle Ansicht, in der du einen Vorher-Nachher-
 Abgesehen davon muss ich jedoch sagen, dass mir die Einstellungsmöglichkeiten von Affinity Photo nicht ausreichen. 
 Die RAW-Entwicklung ist zwar möglich, jedoch vermisse ich zu viele Optionen, die ich in meinem bisherigen Arbeitsablauf sonst häufig verwende.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
 # Fazit
 In meinen Augen taugt Affinity Photo nur bedingt als RAW-Konverter, sodass ich es hierfür nicht empfehlen kann.

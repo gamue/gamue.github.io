@@ -30,7 +30,7 @@ Das Trikot gehörte aber wie es schien als Grundausstattung, denn bis auf einer 
 die Ausnahme hingegen ein Hamburg Trikot 😉  
 
 Ausgepowert ging es anschließend zum Dönerladen zum Abendessen, bei dem ich zum ersten Mal die Bezeichnung Rollo-Döner gehört hab&#8230;
-Die Nordlichter haben schon einen komischen Namen für Yufka.  
+Die Nordlichter haben schon einen komischen Namen für Yufka.
 Am nächsten Tag hab ich erst mal ne Weile meinen Schlüsselbund gesucht, bevor ich ihn dann in der Tasche gefunden habe, 
 typisch. Dann war aber der Weg zur Erkundung der Bremer Innenstadt frei. 
 Es war ganz schön schwer ein Foto der Stadtmusikanten zu schießen auf dem kein Tourist aus Fernost auftaucht, 
@@ -67,7 +67,7 @@ Am Morgen danach konnte ich mal etwas länger schlafen, hab mich dann aber gegen
 um wieder mal an einer NewEurope-Stadtführung teilzunehmen. Die Abendgestaltung sollte eigentlich ruhig werden, 
 aber Maria ist dann noch spontan zu einem Limp Bizkit Konzert gegangen und ich hab einen kleinen Nachttrip durch Hamburg unternommen. 
 Das eigentlich einzig nervige an Hamburg sind die aufdringlichen Frauen, die eine geschäftliche Beziehung eingehen wollen…
-Ich hab keine Ahnung wie oft ich „Hey Paparazzi, wie wärs?“ gehört hab…klasse Spruch…  
+Ich hab keine Ahnung wie oft ich „Hey Paparazzi, wie wärs?“ gehört hab…klasse Spruch…
 Da aus dem ruhigen Abend sowieso nichts geworden wäre, sind Maria und ich nach dem Limp Bizkit Konzert noch in einen Club/Bar gegangen. 
 Auf dem Weg und in der U-Bahn dahin, hat es nur so von komischen und betrunkenen Leuten gewimmelt. 
 Highlight waren vermutlich die 13-14jährigen Mädels die neben uns in der U-Bahn Dosen-Prosecco getrunken haben und von 
@@ -77,4 +77,4 @@ Gegen 6 Uhr ging es dann wieder Richtung Marias Wohnung. Gegen 8h hat Sie sich d
 weil Sie jemanden abholen musste..Immer dieses morgens aus Wohnungen schleichen 😛 Irgendwann als ich dann wieder fit war, 
 ging’s ab ins Auto und auf die letzten rund 660km des insgesamt ca. 2500km langen Roadtrips.
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

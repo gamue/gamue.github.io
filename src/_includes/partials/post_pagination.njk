@@ -8,7 +8,7 @@
   <div class="w-1/2 pr-2">
     <div class="text-xs md:text-sm">&laquo;&nbsp;vorheriger Artikel</div>
     <a href="{{ previousPost.url | url }}" title="{{ previousPost.data.title }}">
-      {{ previousPost.data.title }}
+      {{ previousPost.data.title | safe }}
     </a>
   </div>
   {% endif %}
@@ -17,7 +17,7 @@
   <div class="w-1/2 pl-2 text-right">
     <div class="text-xs md:text-sm">nächster Artikel&nbsp;&raquo;</div>
     <a href="{{ nextPost.url | url }}" title="{{ nextPost.data.title }}">
-      {{nextPost.data.title}}
+      {{nextPost.data.title | safe }}
     </a>
   </div>
   {% endif %}

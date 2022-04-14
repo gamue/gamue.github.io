@@ -37,4 +37,4 @@ Am nächsten Tag sind wir noch durch die herbstlichen Weinberge in der Nähe gef
 In Vevey (selbst für französische Maßstäbe ein komischer Name), hat irgendein Künstler gemeint, er muss eine 
 riesige Gabel in den Genfer See stecken…dass Ihn niemand davon abgehalten hat. Aber vielleicht hat’s ja eine größere Bedeutung 😉
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}

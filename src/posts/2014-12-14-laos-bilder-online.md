@@ -24,6 +24,6 @@ Die Thailand-Bilder kommen aber definitiv erst nächstes Jahr 😉
 Denke die Laos-Bilder vermitteln schon einen kleinen Eindruck was ich landschaftlich und auch sonst so, erlebt habe. 
 Die Reise war auf jeden Fall eines der Highlights für mich in 2014!
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Hier geht's zu den Laos-Bildern.](/photography/laos-2014/ "Laos 2014"){: .btn}
+[Hier geht's zu den Laos-Bildern.]({% post_url collections.galleries, '2014-11-laos' %}){: .btn}

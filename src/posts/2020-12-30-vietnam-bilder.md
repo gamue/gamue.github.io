@@ -43,7 +43,7 @@ Falls dich die Route und Stationen der Reise interessieren, findest du mehr Info
 
 Hier eine kleine Vorschau der Bilder:
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
 [Zur kompletten Bildergalerie][1]{: .btn}
 
@@ -51,11 +51,11 @@ Schau dir bei Gelegenheit auch gerne die anderen Reisebilder an, die ich dieses 
 Neben [Paris][2] und [Deutschland][3] aus diesem Jahr, sind das die Bilder aus [Japan][4] und [Jordanien 2017][5], [Georgien 2018][6] und [Belize 2019][7].
 
 
-[1]: {% link _pages/photography/2018-01-vietnam.md %}
-[2]: {% link _pages/photography/2019-12-paris.md %}
-[3]: {% link _pages/photography/2020-07-deutschland.md %}
-[4]: {% link _pages/photography/2017-04-japan.md %}
-[5]: {% link _pages/photography/2017-11-jordanien.md %}
-[6]: {% link _pages/photography/2018-06-georgien.md %}
-[7]: {% link _pages/photography/2019-04-belize.md %}
-[8]: {% link _pages/countries/vietnam.md %}
+[1]: {% post_url collections.galleries, '2018-01-vietnam' %}
+[2]: {% post_url collections.galleries, '2019-12-paris' %}
+[3]: {% post_url collections.galleries, '2020-07-deutschland' %}
+[4]: {% post_url collections.galleries, '2017-04-japan' %}
+[5]: {% post_url collections.galleries, '2017-11-jordanien' %}
+[6]: {% post_url collections.galleries, '2018-06-georgien' %}
+[7]: {% post_url collections.galleries, '2019-04-belize' %}
+[8]: {% post_url collections.laender, 'vietnam' %}

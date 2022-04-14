@@ -9,7 +9,7 @@
         {% endfor %}
     </div>
 
-    <h1 class="text-red-900 mb-2"><a href="{{ post.url | url }}" rel="permalink" title="{{ post.data.title }}">{{ post.data.title }}</a></h1>
+    <h1 class="text-red-900 mb-2"><a href="{{ post.url | url }}" rel="permalink" title="{{ post.data.title }}">{{ post.data.title | safe }}</a></h1>
 
     <div class="flex">
         {%- if post.data.header.teaser -%}

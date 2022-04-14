@@ -28,7 +28,6 @@ Erster Versuch und schon ein Volltreffer: ich in einem sehr coolen [Hostel](http
 Sehr gemütlich und eine coole Atmosphäre. Sogar ein alter VW-Bus als Übernachtungsmöglichkeit im Garten. 
 Das war definitiv eines der besten Hostels auf meinen bisherigen Reisen!
 
-  
 Nach einem langen Abend mit interessanten Gesprächen ging es morgens im Nieselregen durch die Stadt und mittags im 
 Sonnenschein am Strand und durch die Dünen spazieren. Ich hätte nie gedacht, dass es dort so aussieht und 
 eine solche Unmenge an Surfer rumplanscht, aber man lernt nie aus 😉  
@@ -61,4 +60,4 @@ Was aber nicht heißt, dass die Gestalten in den dunklen Gassen es nicht sehr of
 Amsterdam war auch meine letzte Station bevor es wieder über die deutsche Grenze in Richtung Bremen und direkt in 
 einen kleinen Stau ging…typisch deutsche Autobahnen.
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

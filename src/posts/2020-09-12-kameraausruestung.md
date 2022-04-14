@@ -25,7 +25,7 @@ Ich bin mittlerweile auf eine andere Kamera umgestiegen, eine Liste meiner aktue
 Die Nikon D7000 war aber eine tolle Kamera und hat mir treue Dienste geleistet.
 {: .notice--info}
 
-{% cloudinary /assets/2020-09-12-kameraausruestung/equip_dslr.jpg alt="DSLR Ausrüstung" %}
+{% cloudinary "/assets/2020-09-12-kameraausruestung/equip_dslr.jpg", "DSLR Ausrüstung" %}
 
 Nikon D7000
 : Die Spiegelreflex habe ich seit November 2011 und ist seitdem meine Hauptkamera. 
@@ -83,7 +83,7 @@ Manfrotto Befree Stativ
     und ist schlecht an meinem Tagesrucksack zu befestigen. Empfehlen würde ich es für Landschaftsaufnahmen aber trotzdem.
 
 ## Actioncam
-{% cloudinary /assets/2020-09-12-kameraausruestung/equip_actioncam.jpg alt="ActionCam Ausrüstung" %}
+{% cloudinary "/assets/2020-09-12-kameraausruestung/equip_actioncam.jpg", "ActionCam Ausrüstung" %}
 
 Yi 4k Action Cam
 : Nachdem ich eine Actioncam [in Laos versenkt habe][1] und mir bei der zweiten der Bildschirm fehlte, 
@@ -97,7 +97,7 @@ XCSOURCE Schwimmer/Auftriebshilfe
     Die paar Euro sind in jedem Fall gut angelegt.
 
 ## Drohne
-{% cloudinary /assets/2020-09-12-kameraausruestung/equip_drone.jpg alt="Drohne" %}
+{% cloudinary "/assets/2020-09-12-kameraausruestung/equip_drone.jpg", "Drohne" %}
 
 DJI Mavic Mini (Fly More Combo)
 : Ich hab zugegebenermaßen noch nicht sehr viel Flugzeit mit der Mini, 
@@ -111,5 +111,5 @@ Jedes Land hat hier andere Bestimmungen und Gesetze, an die man sich halten muss
 wenn das Gerät bei der Ein- oder Ausreise beschlagnahmt werden würde oder man eine Strafe bezahlen muss.
 {: .notice--warning}
 
-[1]: {% post_url 2015-01-02-nam-song-dilemma %}
-[2]: {% post_url 2021-04-09-kameraausruestung %}
+[1]: {% post_url collections.posts, "2015-01-02-nam-song-dilemma" %}
+[2]: {% post_url collections.posts, "2021-04-09-kameraausruestung" %}

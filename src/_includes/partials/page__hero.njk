@@ -15,7 +15,7 @@
   {% if overlay_img_path %}
     <div class="container text-white text-center text-shadow-lg text-sm lg:text-base">
       <h1 id="page-title" class="text-4xl lg:text-5xl font-bold mb-4">
-          {{ title }}
+          {{ title | safe }}
       </h1>
 
       {% if tagline %}

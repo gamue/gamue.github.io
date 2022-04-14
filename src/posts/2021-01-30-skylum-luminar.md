@@ -45,7 +45,7 @@ Luminar 4, aus 2019, kostet aktuell 67€ für ein Gerät bzw. 89€ wenn du es 
 Ende 2020 kam dann der Nachfolger Luminar AI heraus, der mit **79€ für ein Gerät bzw. 99€ für zwei Geräte** nur etwas teurer ist, 
 sodass ich nicht wirklich den Grund sehe, warum man sich jetzt noch Luminar 4 kaufen sollte.
 
-{% cloudinary /assets/2021-01-30-skylum-luminar/luminar_checkout.jpg alt="Bestellprozess mit Geschenk" %}
+{% cloudinary "/assets/2021-01-30-skylum-luminar/luminar_checkout.jpg", "Bestellprozess mit Geschenk" %}
 
 Solltest du mit dem Gedanken spielen, dir Luminar kaufen zu wollen, dann habe ich noch zwei Tipps für dich:
 
@@ -63,7 +63,7 @@ Die Installation war schnell und einfach, auch der Import meiner Testbilder ging
 Zugegebener Weise ist mein PC schon ein paar Jahre alt und verfügt daher "nur" über einen Intel i5-6500 Prozessor (4x 3.2GHz), 8 GB RAM und eine SSD-Festplatte, 
 aber dass ich bei Luminar 4 nach jedem Klick ein paar Sekunden warten muss, hätte ich nicht erwartet.
 
-{% cloudinary /assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg alt="Bildverwaltung in Luminar" %}
+{% cloudinary "/assets/2021-01-30-skylum-luminar/luminar_bibliothek.jpg", "Bildverwaltung in Luminar" %}
 
 Beim Import wurden weder meine bisherigen Farbmarkierungen, noch die Bildbewertungen übernommen, 
 bei einem Umstieg würde ich daher die ganze Organisation meiner Bilder verlieren, was ich sehr schlecht finde. 
@@ -84,7 +84,7 @@ In der *Bearbeiten*-Ansicht gibt es zwar die Filmrollen-Darstellung, jedoch nur 
 Eine Einstellung das anzupassen habe ich leider nicht gefunden. Wegen der hohen Wartezeit an meinem PC, wenn ich ein anderes Bild anklicke, 
 eignet sich Luminar 4 für mich aber sowieso nicht zur schnellen Sichtung von Bildern.
 
-{% cloudinary /assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg alt="Bearbeitungs-Ansicht in Luminar" %}
+{% cloudinary "/assets/2021-01-30-skylum-luminar/luminar_bearbeiten.jpg", "Bearbeitungs-Ansicht in Luminar" %}
 
 Was in der Ansicht gleich auffällt, ist die im unteren Bereich recht prominent positionierte Option vordefinierte Bild-Looks zu verwenden. 
 Einige der Vorschläge führen dabei zu "extremen" Bildänderungen, auch wenn sich der Effekt über einen Schieberegler anpassen lässt, 
@@ -98,7 +98,7 @@ Jede Option hat meistens einen oder mehrere Schieberegler, sodass die Bearbeitun
 Bei der Bedienung über die Tastatur hatte ich jedoch etliche Probleme, denn in anderen Programmen nutze ich oft die Pfeiltasten, um Werte feiner einzustellen, 
 bin dadurch jedoch zum nächsten Bild gekommen, was mich etlichen Sekunden gekostet hat, um wieder zum eigentlichen Bild zurückzukommen. Ich denke, das ist aber Gewöhnungssache.
 
-{% cloudinary /assets/2021-01-30-skylum-luminar/luminar_sky.jpg alt="Himmel ersetzen in Luminar" %}
+{% cloudinary "/assets/2021-01-30-skylum-luminar/luminar_sky.jpg", "Himmel ersetzen in Luminar" %}
 
 Abgesehen davon ging die Bearbeitung des RAW-Bildes angenehm zügig, musste mich jedoch etwas zurückhalten, 
 denn die Optionen haben mich schon dazu eingeladen das Bild stark zu ändern, was ich eigentlich nicht mache und mag. 
@@ -116,7 +116,7 @@ Dafür habe ich bisher eine alte Photoshop Version verwendet, was mit dem Nachte
 Luminar hat bereits Retusche-Möglichkeiten eingebaut, sodass (kleinere) Bildmanipulationen direkt im Programm durchgeführt werden können 
 und du so nicht auf weitere Software angewiesen bist. Im unteren Beispiel habe ich den Kran aus dem Foto entfernt, was prinzipiell gut funktioniert hat, aber schau einfach selbst, ob es dir auffallen würde ;)
 
-{% include gallery.html layout="half" caption="Bildmanipulation in Skylum Luminar" %}
+{{ imageGallery(gallery, "Bildmanipulation in Skylum Luminar", "half") }}
 
 Im Gegensatz zu anderen Programmen, wird die Bildmanipulation jedoch nicht beim Loslassen der Maus bzw. direkt nach dem Aufmalen des roten Auswahlbereiches durchgeführt, 
 sondern muss manuell über den Button "Radieren" angestoßen werden. Da am unteren Bildrand "Bild wird verarbeitet ..." angezeigt wurde, 
@@ -146,4 +146,4 @@ Solltest du selbst Erfahrungen mit Luminar haben, gerade was die längere Nutzun
 Ansonsten hoffe ich, dass ich dir einen guten Überblick über Luminar geben konnte.
 
 [1]: https://skylum.com/de/
-[2]: {% post_url 2021-01-15-raw-konverter-intro %}
+[2]: {% post_url collections.posts, "2021-01-15-raw-konverter-intro" %}

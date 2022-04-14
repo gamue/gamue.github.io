@@ -30,7 +30,7 @@ und somit sind die Fotos nun ebenfalls bei den Reisegalerien verfügbar **yeah**
 
 Hier eine kleine Vorschau der Bilder:
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
 [Zur kompletten Bildergalerie][1]{: .btn}
 
@@ -47,5 +47,5 @@ oder ungünstiger Wetterlage (z.B. Wanderung von Valbona nach Theth) ausgelassen
 
 Viel Spaß bei der Ansicht der Bilder und solltest du Fragen zum Albanien-Trip haben, lass es mich wissen :)
 
-[1]: {% link _pages/photography/2021-05-albanien.md %}
-[2]: {% link _pages/countries/albanien.md %}
+[1]: {% post_url collections.galleries, '2021-05-albanien' %}
+[2]: {% post_url collections.laender, 'albanien' %}
