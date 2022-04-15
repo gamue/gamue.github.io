@@ -1,4 +1,6 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+const markdownIt = require("markdown-it");
 const markdownItAttrs = require('markdown-it-attrs');
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItDeflist = require('markdown-it-deflist');
@@ -17,15 +19,14 @@ module.exports = function(eleventyConfig) {
       wrapper: '',
       ul: true
     });
+  eleventyConfig.addPlugin(pluginRss);
 
-  let markdownIt = require("markdown-it");
-
-  let options = {
+  let markdownOptions = {
     html: true,
     breaks: false,
     linkify: true
   };
-  let markdownLib = markdownIt(options)
+  let markdownLib = markdownIt(markdownOptions)
     .use(markdownItAttrs)
     .use(markdownItAnchor)
     .use(markdownItDeflist);
