@@ -38,8 +38,7 @@
 {% for img in gallery %}
 {%- set file_path = img.image_path | correctSrcPath -%}
 <a href="{{ file_path }}" class="flex-none {{ element_class }}" {% if img.caption %}title="{{img.caption}}"{% endif %}>
-{# TODO: thumbnail in cloudinary #}
-{% cloudinary file_path, null, null, "thumbnail", null, not masonry %}
+{% cloudinary file_path, null, null, "thumbnail", null, not masonry, true %}
 {% if img.caption %}
 <div class="caption absolute -bottom-1 bg-gradient-to-r from-gray-100 w-full p-3 -ml-3 sm:hidden">{{img.caption}}</div>
 {% endif %}

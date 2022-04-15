@@ -122,8 +122,7 @@ visitedCountries:
       link: /photography/zypern-2015/
 ---
 <p class="float-left mr-2">
-{# TODO auf thumbnail ändern #}
-{% cloudinary "/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg" %}
+{% cloudinary "/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg", "Unterwegs in Rumänien", "", "", null, true, true %}
 </p>
 
 Hi, ich bin Johannes. Weltenbummler, Hobbyfotograf und Technikfreak.

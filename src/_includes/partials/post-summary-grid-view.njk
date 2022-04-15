@@ -4,8 +4,7 @@
     {%- if post.data.header.teaser -%}
     <div class="h-64 mb-2 overflow-hidden rounded-md cover-img">
         <a href="{{ post.url | url }}" rel="permalink" title="{{ post.data.title }}">
-        {# thumbnail #}
-        {% cloudinary post.data.header.teaser, "", "thumbnail" %}
+        {% cloudinary post.data.header.teaser, "", "", "thumbnail", null, true, true %}
         </a>
     </div>
     {%- endif -%}
