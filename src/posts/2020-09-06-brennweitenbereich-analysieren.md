@@ -63,7 +63,7 @@ aus meiner Sicht sind deswegen die Daten von neueren Bildern aussagekräftiger.
 
 Das Tool liefert die Ergebnisse Semikolon-getrennt in einer CSV-Datei, was beispielsweise so aussieht:
 
-```
+```txt
 Focal length;Count;Camera
 18.0;1659;NIKON D80
 20.0;489;NIKON D80
@@ -80,7 +80,7 @@ Die, für mich, einfachste Art die Daten in Google Sheet zu importieren, ist den
 und in eine Spalte einzufügen. Danach dann die komplette Spalte markieren und die Option *Daten -> Text in Spalten aufteilen* wählen, 
 sodass die Werte für Brennweite, Anzahl und Kameraname jeweils ihre eigenen Spalte bekommen.
 
-{% cloudinary /assets/2020-09-06-brennweitenbereich-analysieren/splitData.jpg alt="Daten in Spalten auftrennen" %}
+{% cloudinary "/assets/2020-09-06-brennweitenbereich-analysieren/splitData.jpg", "Daten in Spalten auftrennen" %}
 
 Falls die Option, die Daten nach verwendeter Kamera getrennt auszugeben, gewählt wurde, 
 macht es aus meiner Sicht zudem noch Sinn eine Filteransicht für diese Spalte zu erstellen 
@@ -94,11 +94,11 @@ Dazu einfach die beiden Spalten mit Brennweite und Anzahl markieren und anschlie
 
 Folgende Diagramme sind das Ergebnis meiner Analysen von allen Reisen, sowie die vom Deutschland-Trip 2020 und der Belize-Reise 2019.
 
-{% cloudinary /assets/2020-09-06-brennweitenbereich-analysieren/chart-d7000.jpg alt="Diagramm aller Reisebilder mit der D7000" %}
+{% cloudinary "/assets/2020-09-06-brennweitenbereich-analysieren/chart-d7000.jpg", "Diagramm aller Reisebilder mit der D7000" %}
 
-{% cloudinary /assets/2020-09-06-brennweitenbereich-analysieren/chart-deutschland.jpg alt="Diagramm vom Deutschland-Trip" %}
+{% cloudinary "/assets/2020-09-06-brennweitenbereich-analysieren/chart-deutschland.jpg", "Diagramm vom Deutschland-Trip" %}
 
-{% cloudinary /assets/2020-09-06-brennweitenbereich-analysieren/chart-belize.jpg alt="Diagramm der Belize-Reise" %}
+{% cloudinary "/assets/2020-09-06-brennweitenbereich-analysieren/chart-belize.jpg", "Diagramm der Belize-Reise" %}
 
 ## Fazit
 
@@ -114,6 +114,5 @@ Für mich war die Analyse erhellend und hat mir bei der Suche nach den Brennweit
 Ich hoffe das trifft auch auf jeden zu, der die Schritte mit seinen Daten nachstellt. 
 
 
-
-[1]: {% post_url 2020-08-22-superzooms %}
+[1]: {% post_url collections.posts, "2020-08-22-superzooms" %}
 [2]: https://github.com/gamue/focal-length-analyzer

@@ -25,7 +25,7 @@ Und wer weiß, eventuell widme ich mich konkreten Geräten in einem weiteren Art
 
 # Begriffe und Kriterien bei Kameras
 
-{% cloudinary /assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg alt="Kamerasammlung" %}
+{% cloudinary "/assets/2020-08-09-kaufberatung-kamera-grundlagen/kameras.jpg", "Kamerasammlung" %}
 
 ## Action-, Kompakt-, Bridge-, Spiegelreflex oder spiegellose Systemkamera
 Der Kameramarkt ist riesig und die Preisspanne ebenso, du solltest dir daher überlegen welcher Kameratyp für dich in Frage kommt. 
@@ -121,14 +121,14 @@ manchmal sogar mehr als die Kamera.
 
 # Begriffe und Kriterien bei Objektiven
 
-{% cloudinary /assets/2020-08-09-kaufberatung-kamera-grundlagen/objektiv.jpg alt="Objektiv" %}
+{% cloudinary "/assets/2020-08-09-kaufberatung-kamera-grundlagen/objektiv.jpg", "Objektiv" %}
 
 ## Kameraanschluss
 Wie bei den Kameras erwähnt, hat jeder Kamerahersteller sein eigenes Ökosystem und daher musst du bei Objektiven darauf achten, 
 dass die Objektive auch zum Anschluss der Kamera (Mount) passen. Ein Systemwechsel von einem Hersteller zum anderen 
 oder auch ein Umstieg auf eine andere Kamera-Baureihe (zB DSLR zu DSLM) ist daher oft mit der Anschaffung von neuen Objektiven verknüpft und das geht echt ins Geld.
 
-Zwar gibt es für manche Objektiv/Kamera-Kombinationen Adapter, so dass Objektive an eine Kamera angeschlossen werden können, 
+Zwar gibt es für manche Objektiv/Kamera-Kombinationen Adapter, sodass Objektive an eine Kamera angeschlossen werden können, 
 die dafür eigentlich nicht gedacht war, aber das kommt meist mit Nachteilen, wie beispielsweise einem nicht mehr funktionierendem Autofokus 
 oder Einschränkungen bei der Bildgröße, daher. Falls du aber schon ein paar Objektive hast, ist der Adaptermarkt zumindest ein Blick wert.
 
@@ -156,7 +156,7 @@ Für einen anderen Anwendungsfall würde ich bestimmt eine andere Wahl treffen, 
 was du hauptsächlich fotografieren willst. Als Faustformel würde ich sagen, je höher der Bereich ist, den ein Zoom-Objektiv abdeckt, 
 desto mehr Kompromisse musst du bei Qualität, Größe oder Gewicht in Kauf nehmen. 
 
-Wirf zu dem Thema auch gerne einen Blick in [den Artikel über Superzoom-Objektive]({% post_url 2020-08-22-superzooms %}).
+Wirf zu dem Thema auch gerne einen Blick in [den Artikel über Superzoom-Objektive][1].
 
 ## Blende / Lichtstärke
 Die Blende wird bei Objektiven immer mit F angegeben und je kleiner die Zahl, desto größer lässt sich die Verschlussblende öffnen, 
@@ -204,3 +204,5 @@ das dann besser zu dir und deinen Anwendungsfällen passt und entsprechend mehr 
 An der Länge des Artikels siehst du schon, dass es prinzipiell viel zu beachten und es auch nicht die eine Lösung gibt, 
 die für jeden passend ist. Ich hoffe trotzdem dem ein oder anderen bei seiner Entscheidung weitergeholfen zu haben 
 und würde mich über Kommentare und Feedback freuen.
+
+[1]: {% post_url collections.posts, "2020-08-22-superzooms" %}

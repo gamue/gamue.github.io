@@ -32,7 +32,7 @@ Wenig überraschend nur das Einschlagtuch in der Größe M, was in etwa 37 x 37 
 Eine Seite ist aus weichem Fleece und die andere aus wasserabweisendem Nylongewebe. 
 Der Beschreibung nach, kann man es beidseitig verwenden, aber ich werde die Kamera immer in die Fleece-Seite wickeln.
 
-{% cloudinary /assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg alt="Lieferumfang" %}
+{% cloudinary "/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-plain.jpg", "Lieferumfang" %}
 
 In der Mitte ist eine Fläche von ca. 16 x 16 cm eingenäht, sodass man weiß, wo die Kamera am besten platziert werden soll. 
 Prinzipiell ziemlich nützlich, ich hätte mir nur mehr Sorgfalt bei den Maßen gewünscht, 
@@ -45,7 +45,7 @@ die auf dem Fleecestoff halten und das Tuch somit in eingewickeltem Zustand nich
 # Anwendung
 Kamera im mittleren Rechteck platzieren, anschließend die Seiten nacheinander zuklappen, wobei die ohne Klettverschluss zuletzt kommt, und fertig.
 
-{% cloudinary /assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg alt="Kamera einwickeln" %}
+{% cloudinary "/assets/2020-10-21-lens-aid-einschlagtuch/lens-aid-use.jpg", "Kamera einwickeln" %}
 
 Das "Päckchen" kann danach einfach im Rucksack oder einer anderen Tasche verstaut werden und bietet der Kamera und dem Objektiv Schutz.
 
@@ -56,4 +56,4 @@ Sicherlich ist der Schutz nicht so gut, wie in einem Inlay, leichte Stöße fede
 Aus meiner Sicht ist das Einschlagtuch eine gute Variante die Kamera zu transportieren, wenn man Platz sparen, 
 aber trotzdem etwas Sicherheit haben möchte. Ich kann es in jedem Fall weiterempfehlen.
 
-[1]: {% post_url 2020-10-03-sony-a6400 %}
+[1]: {% post_url collections.posts, "2020-10-03-sony-a6400" %}

@@ -55,17 +55,17 @@ Neben der Tasche selbst werden noch einige Trennelemente mitgeliefert,
 sodass der Innenraum entsprechend der Ausrüstung angepasst werden kann, das war es dann aber schon. 
 Mehr braucht es aber auch nicht, geht ja schließlich um die Tasche.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_10.jpg alt="Lieferumfang BYOB 10" caption="Lieferumfang BYOB 10" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_10.jpg", "Lieferumfang BYOB 10", null, null, "Lieferumfang BYOB 10" %}
 
 Der BYOB 10 kommt mit 2 großen, 3 kleinen Trennelementen und misst außen ca. 27 x 11 x 20 cm (Länge x Breite x Höhe). 
 Innen sind es ca. 25 x 10 x 19 cm und bietet somit reichlich Platz für Kamera und Objektive.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_9.jpg alt="Lieferumfang BYOB 9" caption="Lieferumfang BYOB 9" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_9.jpg", "Lieferumfang BYOB 9", null, null, "Lieferumfang BYOB 9" %}
 
 Beim BYOB 9 sind 2 große und 2 kleine Trennelemente dabei, wobei die kleinen hier nur auf einer Seite einen Klettstreifen haben und somit Klappen sind. 
 Bei den Außenmaßen kommt die Tasche auf etwa 23 x 10 x 17 cm (LxBxH). Innen sind es dann noch 22 x 9 x 15 cm.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg alt="Vergleich BYOB 9 und BYOB 10" caption="BYOB 9 (links) und BYOB 10 (rechts) im Größenvergleich" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_compare.jpg", "Vergleich BYOB 9 und BYOB 10", null, null, "BYOB 9 (links) und BYOB 10 (rechts) im Größenvergleich" %}
 
 Der Größenunterschied zwischen beiden empfinde ich als relativ deutlich. Abgesehen davon sind beide identisch. 
 Das Außengewebe ist ein wasserabweisendes Nylon und innen befindet sich weicher Kunstfaserstoff, 
@@ -78,14 +78,14 @@ Auf der Rückseite geht eine Tasche über die komplette Länge, in der entweder 
 In dem Fall wäre die Tasche dauerhaft offen, solltest du in kurzer Zeit mal öfter an den Inhalt müssen. 
 Zusätzlich befindet sich an beiden Seiten noch jeweils eine Mesh-Tasche für allerlei Kleinkram.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg alt="BYOB von vorne und hinten" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_sides.jpg", "BYOB von vorne und hinten" %}
 
 Auf der Innenseite des Deckels befindet sich eine Tasche mit Reißverschluss, in der etliche Kleinigkeiten verstaut werden können. 
 Gerade dünne Utensilien wie Mikrofasertücher, Speicherkarten oder Kabel lassen sich hier gut verstauen. 
 Bei dickeren oder harten Gegenständen sollte darauf geachtet werden, dass diese nicht den Schutz der Kamera gefährden. 
 Gerade wenn du, wie ich, das Display der Kamera nach oben hast, könnte es zu Kratzern oder Schlimmerem kommen.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_top.jpg alt="Deckelfach" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_top.jpg", "Deckelfach" %}
 
 Bei den Taschen geht es aber sicherlich primär um das Innenfach und wie viel Equipment dort untergebracht werden kann. 
 Das kommt natürlich stark auf die Ausrüstung an, Kameras und Objektive kommen ja schließlich in den unterschiedlichsten Größen.
@@ -101,13 +101,13 @@ In die BYOB 9 bekomme ich, mit meiner aktuellen Unterteilung, neben der Sony a64
 ein zusätzliches Objektiv (z.B. Sigma 30) und das nötige Zubehör wie Gegenlichtblende, Ladegerät und Ersatzakkus. 
 Das Ganze hat zudem noch Luft, sodass die ein oder andere Kleinigkeit sicherlich noch gut reinpassen würde.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg alt="BYOB 9 mit Inhalt" caption="Mein Inhalt des BYOB 9" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_9_content.jpg", "BYOB 9 mit Inhalt", null, null, "Mein Inhalt des BYOB 9" %}
 
 Der BYOB 10 Tascheneinsatz hat in meinen Tagesrucksack gepasst, als wäre er dafür gemacht gewesen. 
 Der BYOB 9 ist etwas kleiner, was mir dann aber natürlich mehr Platz für das restliche Reisegepäck lässt. 
 In den meisten Fällen bekomme ich die Tasche so verstaut, dass ich schnell darauf Zugriff habe und letztendlich kann ich damit jeden Rucksack als einen Kamerarucksack ausrüsten.
 
-{% cloudinary /assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg alt="BYOB 10 im Tagesrucksack" caption="Tenba BYOB 10 im Tagesrucksack" %}
+{% cloudinary "/assets/2020-11-22-tenba-tools-byob/tenba_bag.jpg", "BYOB 10 im Tagesrucksack", null, null, "Tenba BYOB 10 im Tagesrucksack" %}
 
 # Fazit
 
@@ -129,4 +129,4 @@ solltest du doch viel mehr oder eben nur die Kamera transportieren wollen.
 
 Ich hoffe, der Artikel war hilfreich und lass mich gerne wissen, wie du deine Ausrüstung transportierst.
 
-[1]: {% post_url 2020-10-03-sony-a6400 %}
+[1]: {% post_url collections.posts, "2020-10-03-sony-a6400" %}

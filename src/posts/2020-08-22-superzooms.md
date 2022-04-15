@@ -13,7 +13,7 @@ tags:
 
 Egal ob du dir das erste Objektiv anschaffst oder bereits einige besitzst, die richtige Wahl zu treffen ist nicht leicht 
 und zum Falschen zu greifen kann teures Lehrgeld sein, denn wirklich billig ist keine Linse. Wenn du wissen willst, 
-auf was du beim Objektivkauf grundsätzlich achten musst, lies dir am besten [meinen Artikel dazu]({% post_url 2020-08-09-kaufberatung-kamera-grundlagen %}) durch.
+auf was du beim Objektivkauf grundsätzlich achten musst, lies dir am besten [meinen Artikel dazu][1] durch.
 
 Ein sehr wichtiger Faktor bei einem Objektiv ist die Brennweite bzw. der Brennweitenbereich. 
 Meist ergibt sich der benötigte Bereich durch den gewünschten Anwendungsfall, 
@@ -23,10 +23,7 @@ kommst du bei deinen Recherchen vermutlich schnell auf sogenannte Superzoom-Obje
 Die sich dadurch auszeichnen, dass sie einen sehr großen Bereich, beispielsweise von 18mm bis 200mm oder sogar noch mehr, abdecken.
 
 Auf den Bildausschnitt wirkt sich das beispielsweise so aus:
-<figure>
-  <img src="/assets/2020-08-22-superzooms/brennweiten.jpg">
-</figure>
-
+{% cloudinary "/assets/2020-08-22-superzooms/brennweiten.jpg", "Brennweiten" %}
 
 Superzooms haben viele Vorteile: 
 - **Geringes Gewicht**, da du nur ein einziges Objektiv benötigst. Besonders auf Reisen ist das ein großer Vorteil, 
@@ -60,3 +57,5 @@ und gerade wenn du die Bilder nur in verkleinerter Form verwendest, sieht man di
 Sollte ich mich, bei meinen aktuellen Überlegungen rund um die Ausrüstung, für ein neues Kamerasystem entscheiden, 
 wodurch ich dann auch neue Objektive brauche, wird es jedoch kein Superzoom mehr werden. Und für den Fall, 
 dass ich mich gegen ein neues System entscheide, schau ich mich definitiv bei Objektiven mit kleinerem Zoombereich um.
+
+[1]: {% post_url collections.posts, "2020-08-09-kaufberatung-kamera-grundlagen" %}

@@ -40,7 +40,7 @@ zumindest nicht ohne weiteres Zubehör. Was mich aber nicht stört, da ich das n
 Ich habe den Clip und Platte als Bundle bestellt, jedoch beides als Einzelteile bekommen. 
 In den Packungen war Folgendes:
 
-{% cloudinary /assets/2020-10-27-peak-design-capture-v3/capture_content.jpg alt="Lieferumfang" %}
+{% cloudinary "/assets/2020-10-27-peak-design-capture-v3/capture_content.jpg", "Lieferumfang" %}
 
 **Peak Design Capture v3**
 
@@ -63,7 +63,7 @@ Die Platte wird, wie jede andere Schnellverschluss-Platte, mithilfe des Inbussch
 Die Schraube kann dabei auf der Platte etwas nach vorn oder hinten geschoben werden, 
 um beispielsweise ein klappbares Display nicht mit zu fixieren.
 
-{% cloudinary /assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg alt="Dual Plate an Kamera" %}
+{% cloudinary "/assets/2020-10-27-peak-design-capture-v3/capture_plate.jpg", "Dual Plate an Kamera" %}
 
 Am Clip sind standardmäßig zwei Schrauben, die mit der Hand geöffnet und geschlossen werden können. 
 Alternativ können diese gegen die mitgelieferten Inbusschrauben getauscht werden, sodass sich der Clip ohne Werkzeug nicht entfernen lässt. 
@@ -71,7 +71,7 @@ Wenn du ihn nur an einer Stelle nutzen willst, ergibt das beispielsweise als Die
 Zudem sind die Inbusschrauben etwas länger, sodass der Clip auch an dicker gepolsterten Schulterriemen passt. 
 Ich denke, ich werde mittelfristig die Inbusschrauben nutzen, für meine Tests aber erstmal die Handschrauben verwenden.
 
-{% cloudinary /assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg alt="Clip am Rucksack" %}
+{% cloudinary "/assets/2020-10-27-peak-design-capture-v3/capture_backpack.jpg", "Clip am Rucksack" %}
 
 Ich habe mich am Anfang schwergetan den Clip zu befestigen, da die Schultergurte meines Rucksacks ziemlich gut gepolstert sind 
 und die Handschrauben fast komplett herausgedreht werden mussten, damit ich den Clip einklemmen kann. 
@@ -84,7 +84,7 @@ sodass die Verschlussautomatik auch hier seinen Sinn hat. Der Verschluss lässt 
 der während der Kameraentnahme gedrückt gehalten werden muss, lösen. 
 In meinen Augen ist das sehr intuitiv und bekommt man mit etwas Übung sogar einhändig hin.
 
-{% cloudinary /assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg alt="Capture im Einsatz" %}
+{% cloudinary "/assets/2020-10-27-peak-design-capture-v3/capture_carry.jpg", "Capture im Einsatz" %}
 
 Der Metallknopf lässt sich außerdem drehen, wodurch der Verschluss verriegelt wird und der Knopf nicht mehr eingedrückt werden kann. 
 Das bietet nochmal mehr Schutz vor einem unbeabsichtigten Herausrutschen der Kamera bzw. Drücken des Knopfes.

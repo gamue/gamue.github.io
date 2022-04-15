@@ -37,7 +37,7 @@ Auch wenn wir "nur" mit ca. 50 Personen geplant hatten zu feiern, macht man sich
 am Termin festzuhalten und bangt bei jeder Sitzung des Bundestags oder Berliner Senats, bei der neue Restriktionen oder Lockerungen auf der Agenda stehen. 
 Am Ende ist alles gut gelaufen und ich hatte den schönsten Tag in meinem Leben.
 
-{% cloudinary /assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg alt="Hochzeitsbild" caption="Bild von Marc Leppin Hochzeitsfotografie" %}
+{% cloudinary "/assets/2021-01-01-jahresrueckblick-2020/200711_Evelyn_und_Johannes_413.jpg", "Hochzeitsbild", null, null, "Bild von Marc Leppin Hochzeitsfotografie" %}
 
 Zwar gab es einige Einschränkungen und Auflagen, die wir einhalten mussten, aber für uns waren alle tragbar und es hat sich trotzdem noch nach Hochzeit angefühlt. 
 Wir konnten im Standesamt unsere Familien bei uns haben und am nächsten Tag mit den meisten unserer Freunde feiern, 
@@ -50,7 +50,7 @@ Definitiv etwas anderes, aber sicherlich auch nicht schlecht, denn Deutschland h
 besonders das Berchtesgadener Land und Allgäu sind aus meiner Sicht immer eine Reise wert. 
 Aber auch entspannte Tage im Moseltal bei gutem Essen und Wein, kann man sich mal gönnen. 
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
 Die kompletten Bilder zur Reise findest du übrigens [hier][1].
 
@@ -63,7 +63,7 @@ ich komme aber deutlich besser damit zurecht, als ich bisher dachte. Zuerst hatt
 nachdem die Homeoffice-Dauer jedoch immer wieder verlängert worden ist, habe ich dann doch in einen ordentlichen Schreibtischstuhl 
 und bei der nächsten Verlängerung in einen höhenverstellbaren Schreibtisch investiert. Beides definitiv unter meinen besten Anschaffungen dieses Jahres :D
 
-{% cloudinary /assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg alt="Homeoffice" caption="Mein neuer Schreibtisch und Stuhl" %}
+{% cloudinary "/assets/2021-01-01-jahresrueckblick-2020/homeoffice.jpg", "Homeoffice", null, null, "Mein neuer Schreibtisch und Stuhl" %}
 
 Die ganzen Kontaktbeschränkungen, geschlossenen Läden und Verbote haben dazu geführt, dass 2020 auch sonst ein richtiges Stubenhocker-Jahr geworden ist. 
 Neben den stark gestiegenen Stunden, die ich mit dem Schauen von Serien oder Spielen von Konsolenspielen verbracht habe, konnte ich aber auch einige private Projekte vorantreiben.
@@ -77,7 +77,7 @@ Das war ein echtes Mammutprojekt, denn im Laufe der Jahre haben sich mehrere tau
 Jetzt, nachdem die Bilder der Trips nach [Paris, Belize, Japan, Jordanien, Georgien, Vietnam und durch Deutschland][2] online sind, bin ich echt froh, 
 es endlich geschafft zu haben und hab etliches über Bildbearbeitung gelernt bzw. mein Wissen aufgefrischt und Arbeitsschritte optimiert.
 
-{% include gallery.html layout="half" id="galleryReisen" %}
+{{ imageGallery(galleryReisen, null, "half") }}
 
 Dabei habe ich gemerkt, dass es mir mehr Spaß macht, mich mit aktuelleren Bildern zu beschäftigen, weil ich daraus am meisten für meine Fotografie lernen kann. 
 Beim Durchschauen der älteren Bilder sind mir teilweise technische oder künstlerische Probleme, wie stark überbelichtete Bereiche oder ungünstige Blendeneinstellungen aufgefallen. 
@@ -101,5 +101,5 @@ oder besser gesagt nur über Umwege, und ich mag keine umständlichen Arbeitsabl
 Ich drück uns in jedem Fall allen die Daumen, dass 2021 normaler, vorhersehbarer und planbarer wird. 
 Dass die stark gebeutelten Branchen sich erholen können und dass jeder das Jahr genießen kann.
 
-[1]: {% link _pages/photography/2020-07-deutschland.md %}
-[2]: {% link _pages/gallery.md %}
+[1]: {% post_url collections.galleries, "2020-07-deutschland" %}
+[2]: {% post_url collections.pages, "galleries.md" %}

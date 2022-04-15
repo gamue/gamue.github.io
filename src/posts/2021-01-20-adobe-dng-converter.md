@@ -46,11 +46,11 @@ Und genau hier kommt der [Adobe DNG-Konverter][1] ins Spiel. Denn selbst wenn ä
 
 Die Umwandlung von RAW in DNG ist sehr einfach, neben dem Eingangs- und Ausgangsverzeichnis musst du lediglich konfigurieren zu welcher Camera Raw bzw. Lightroom Version die Dateien kompatibel sein sollen und anschließend auf "Konvertieren" klicken.
 
-{% cloudinary /assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg alt="Adobe DNG Konverter" %}
+{% cloudinary "/assets/2021-01-20-adobe-dng-converter/adobe-dng-konverter.jpg", "Adobe DNG Konverter" %}
 
 Nachdem die Dateien umgewandelt worden sind, sollten sie nun problemlos von deinem älteren Programm erkannt werden. Hier ein Beispiel von meinen Bildern als RAW- und als DNG-Dateien.
 
-{% include gallery.html layout="half" caption="Links: RAW-Dateien werden vom Programm nicht erkannt. Rechts: Nach der Konvertierung zu DNG werden Bilder angezeigt" %}
+{{ imageGallery(gallery, "Links: RAW-Dateien werden vom Programm nicht erkannt. Rechts: Nach der Konvertierung zu DNG werden Bilder angezeigt", "half") }}
 
 # Fazit
 

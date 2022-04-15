@@ -19,7 +19,7 @@ Warum und wie ich das gemacht hab, will ich in diesem Artikel beschreiben.
 Bilder haben einen hohen Anteil der Datenmenge, die geladen werden müssen. Umso schneller diese also geladen werden, 
 umso schneller lädt auch die Seite. Ich denke, so weit ist es noch gut verständlich. 
 
-{% cloudinary /assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg alt="Datenmengen je Typ" %}
+{% cloudinary "/assets/2020-09-04-bildmanagement-mit-cloudinary/datenmengen.jpg", "Datenmengen je Typ" %}
 
 Ein weiterer Teil ist, dass Besucher einer Seite unterschiedliche Geräte nutzen, die wiederum unterschiedliche Bildschirmgrößen haben. 
 Insbesondere wenn manche einen Desktop-PC oder Laptop und andere ein Smartphone oder Tablet verwenden, gibt es hohe Unterschiede. 
@@ -66,7 +66,7 @@ So werden diese beispielsweise auch direkt in ein neues Bildformat konvertiert.
 Nachteil ist jedoch, dass ich mich dadurch abhängig von einem Dienst mache und es je nach Anbieter und Volumen mit Kosten verbunden ist.
 
 Für [Cloudinary][5], was ein solcher Dienst ist, habe ich ein [entsprechendes Jekyll-Plugin][6] gefunden und dort komme ich mit der kostenlosen Variante aus, 
-daher habe ich mich für diesen Dienst entschlossen. Prinzipiell würde aber auch jeder andere solcher Dienste funktionieren.
+daher habe ich mich für diesen Dienst entschlossen. Prinzipiell würde aber auch jeder andere, solcher Dienste funktionieren.
 
 # Homepage anpassen
 
@@ -101,7 +101,7 @@ Nach der Umstellung hatte ich die Seiten zuerst manuell besucht, damit Cloudinar
 
 Hier ein paar Ergebnisse davon:
 
-{% cloudinary /assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg alt="Messergebnisse von Pingdom" %}
+{% cloudinary "/assets/2020-09-04-bildmanagement-mit-cloudinary/pingdom.jpg", "Messergebnisse von Pingdom" %}
 
 Ich muss sagen, dass ich etwas enttäuscht gewesen bin, zwar werden die Bilder nun gefühlt etwas schneller geladen, 
 aber leider sieht man das nicht wirklich in den Messungen. Die Ladezeit der Startseite war davor 276ms - 645ms, 
@@ -117,9 +117,9 @@ oder auch nicht wirklich messbar war. Ich habe trotzdem beschlossen das Plugin e
 denn der positive Effekt auf die Performance-Bewertung und mein subjektives Gefühl sind ja immerhin etwas und es hat keine negativen Auswirkungen.
 
 
-[1]: {% post_url 2020-08-28-buildautomatisierung-mit-github-actions %}
-[2]: {% post_url 2019-09-08-prozessautomatisierung-mit-gulp %}
-[3]: {% post_url 2019-09-01-relaunch %}
+[1]: {% post_url collections.posts, "2020-08-28-buildautomatisierung-mit-github-actions" %}
+[2]: {% post_url collections.posts, "2019-09-08-prozessautomatisierung-mit-gulp" %}
+[3]: {% post_url collections.posts, "2019-09-01-relaunch" %}
 [4]: https://www.gatsbyjs.com/
 [5]: https://cloudinary.com/
 [6]: https://github.com/nhoizey/jekyll-cloudinary

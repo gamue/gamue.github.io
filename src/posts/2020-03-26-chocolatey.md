@@ -63,7 +63,7 @@ was ich als angenehmer empfinde, der Befehl lautet dann `choco install 7zip -y`.
 Alternativ kann man den Namen des Installationspakets auch über die Kommandozeile suchen, in dem man `choco search 7zip` eingibt. 
 Anschließend werden alle Paketnamen angezeigt, die dazu passen und aus denen man auswählen kann.
 
-{% include gallery.html id="chocoSearch" %}
+{{ imageGallery(chocoSearch, null, "full") }}
 
 ## Übersicht & Programme aktualisieren
 
@@ -76,16 +76,16 @@ und sein System so aktuell und auch sicherer hält.
 Da ich recht viele Programme installiert habe, wäre mir der manuelle Aufwand dafür zu hoch und 
 so kann ich ab und an `choco upgrade all -y` bzw. die Kurzform `cup all -y` ausführen und zusehen wie nach und nach jede Anwendung aktualisiert wird.
 
-{% include gallery.html id="chocoUpdate" %}
+{{ imageGallery(chocoUpdate, null, "full") }}
 
 ## Programm deinstallieren
 
-Falls man eine Anwendung wieder löschen möchte geht das, für unser Beispiel, über den Befehl `choco uninstall 7zip`, 
+Falls man eine Anwendung wieder löschen möchte, geht das, für unser Beispiel, über den Befehl `choco uninstall 7zip`, 
 wobei *7zip* für den entsprechenden Paketnamen steht, den man deinstallieren möchte. 
 
 ## Bonus: Mehrere Programme auf einmal installieren
 
-Manchmal kommt man in die Situation in der man viele Programme auf einmal installieren möchte, 
+Manchmal kommt man in die Situation, in der man viele Programme auf einmal installieren möchte, 
 beispielsweise wenn man einen neuen Computer aufsetzt. In dem Fall wäre es einige Fleißarbeit jedes Paket einzeln über 
 den `choco install`-Befehl zu installieren, glücklicherweise kann man bei dem Kommando auch mehrere Programme auf 
 einmal installieren indem man einfach mehrere Paketnamen aufzählt, zum Beispiel: `choco install 7zip irfanview vlc` um 

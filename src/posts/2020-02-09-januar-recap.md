@@ -24,12 +24,16 @@ wofür man aber erstmal eine flugverbotsfreie Zone in Berlin finden muss und das
 Macht jedenfalls Spaß und bin schon auf die ersten Ergebnisse gespannt.
 
 Auch wenn die Bilder der letzten Reisen noch etwas auf sich warten lassen, war ich nicht untätig und hab mich um die noch ausstehenden Länderseiten gekümmert. 
-Sobald die zugehörigen Fotos fertig sind, werden diese zwar noch aufgehübscht, aber die Informationen über die Reisen nach [Belize]({% link _pages/countries/belize.md %}), 
-[Georgien]({% link _pages/countries/georgien.md %}), [Japan]({% link _pages/countries/japan.md %}), 
-[Jordanien]({% link _pages/countries/jordanien.md %}) und [Vietnam]({% link _pages/countries/vietnam.md %}) sind schon vorhanden, 
-sodass man sich da gerne inspirieren lassen kann.
+Sobald die zugehörigen Fotos fertig sind, werden diese zwar noch aufgehübscht, aber die Informationen über die Reisen nach [Belize][1], 
+[Georgien][2], [Japan][3], [Jordanien][4] und [Vietnam][5] sind schon vorhanden, sodass man sich da gerne inspirieren lassen kann.
 
 Ansonsten ging es im Januar noch auf [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv?si=9G-ZupjGQbCoH5xRqNNiDg) Konzert, 
 die Ausstrahlung der Typen ist einfach grandios und es gab viel zu lachen. Man darf nur die Lieder nicht ganz so ernst nehmen :D
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
+
+[1]: {% post_url collections.laender, 'belize' %}
+[2]: {% post_url collections.laender, 'georgien' %}
+[3]: {% post_url collections.laender, 'japan' %}
+[4]: {% post_url collections.laender, 'jordanien' %}
+[5]: {% post_url collections.laender, 'vietnam' %}

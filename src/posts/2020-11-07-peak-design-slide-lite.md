@@ -33,7 +33,7 @@ Als Farbkombinationen gibt es jeweils schwarz oder grau, wobei ich mich für sch
 
 Folgendes befindet sich in der Packung:
 
-{% cloudinary /assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg alt="Lieferumfang" %}
+{% cloudinary "/assets/2020-11-07-peak-design-slide-lite/slide-lite-content.jpg", "Lieferumfang" %}
 
 - Peak Design Slide Lite Kameragurt
 - 4 Befestigungsanker
@@ -50,7 +50,7 @@ Die Breite des Gurtes beträgt 3,2 cm. Die Metallbügel sind in etwa 4,5 cm brei
 
 Das Nylongewebe erinnert an einen Autogurt und fühlt sich, aus meiner Sicht, weich und angenehm an, sodass längeres Tragen nicht stören sollte.
 
-{% cloudinary /assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg alt="Gurt in Nahaufnahme" %}
+{% cloudinary "/assets/2020-11-07-peak-design-slide-lite/slide-lite-detail.jpg", "Gurt in Nahaufnahme" %}
 
 Die Befestigungsanker sind prinzipiell kleine Plastikscheiben an einer Schlaufe, 
 wobei es sich dabei nicht um eine einfache Schnur handelt, sondern um eine spezielle Konstruktion, 
@@ -64,7 +64,7 @@ Zusätzlich besteht die Möglichkeit die mitgelieferte Metallplatte in dem ¼ Zo
 Falls du, wie ich, dort schon eine Schnellwechselplatte von Peak Design montiert hast, 
 also die Standard- oder Dual-Plate, geht das auch problemlos, da an deren Ecken Aussparungen sind, durch die die Anker gefädelt werden können.
 
-{% cloudinary /assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg alt="Anker an der Kamera" %}
+{% cloudinary "/assets/2020-11-07-peak-design-slide-lite/slide-lite-camera.jpg", "Anker an der Kamera" %}
 
 Nachdem du die Anker angebracht hast, müssen nur noch die beiden Enden des Gurts eingeclipst werden und schon ist er einsatzbereit. 
 Welche Befestigungspunkte du an der Kamera verwendest, ist dabei prinzipiell Geschmackssache. 
@@ -73,7 +73,7 @@ Für meine präferierte Trageposition, quer über den Körper, empfinde ich den 
 da die Kamera und das Objektiv so nah am Körper bleiben. 
 Meine Empfehlung dafür ist den Anker auf der "Nicht-Griff"-Seite zu nutzen und bei der Platte den Anker ebenfalls durch das Loch auf der Seite zu fädeln.
 
-{% cloudinary /assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg alt="Gurt eingeclipst" %}
+{% cloudinary "/assets/2020-11-07-peak-design-slide-lite/slide-lite-clipped.jpg", "Gurt eingeclipst" %}
 
 Über Ziehen an den Metallbügel lässt sich die Länge des Gurts anpassen, damit auch alles an seinem Platz sitzt. 
 Gerade wenn du den Gurt in verschiedenen Tragepositionen nutzen willst, ist das häufiger notwendig.
@@ -114,5 +114,5 @@ Gerade bei Videoaufnahmen kann das zu störenden Geräuschen führen, falls dies
 Alles in allem bekommt der Peak Design Slide Lite von mir einen Daumen hoch und ich kann insgesamt Kameragurte nur jedem Fotografen empfehlen!
 
 
-[1]: {% post_url 2020-10-27-peak-design-capture-v3 %}
-[2]: {% post_url 2020-10-21-lens-aid-einschlagtuch %}
+[1]: {% post_url collections.posts, "2020-10-27-peak-design-capture-v3" %}
+[2]: {% post_url collections.posts, "2020-10-21-lens-aid-einschlagtuch" %}

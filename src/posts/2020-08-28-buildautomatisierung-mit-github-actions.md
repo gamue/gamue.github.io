@@ -129,7 +129,7 @@ jobs:
 Falls ich nun Änderungen im `master`-Branch vornehme, kann ich im Actions-Tab der GitHub Oberfläche zusehen, 
 welcher Schritt gerade ausgeführt wird, weitere Informationen dazu bekommen und auch sehen, wann die Aktion abgeschlossen ist.
 
-{% cloudinary /assets/2020-08-28-buildautomatisierung-mit-github-actions/github-actions-tab.jpg alt="GitHub Actions Oberfläche" %}
+{% cloudinary "/assets/2020-08-28-buildautomatisierung-mit-github-actions/github-actions-tab.jpg", "GitHub Actions Oberfläche" %}
 
 ## Fazit
 Jetzt hab ich zugegebenermaßen keinen komplexen Ablauf definiert, 
@@ -139,7 +139,7 @@ aber gerade die Möglichkeit bestehende Aktionen vom [GitHub Marketplace][5] als
 gefällt mir sehr gut und denke, dass damit auch Anfänger schnell reinkommen und die gewünschten Ergebnisse erzielen können.
 
 [1]: https://github.com/features/actions
-[2]: {% post_url 2019-09-01-relaunch %}
+[2]: {% post_url collections.posts, "2019-09-01-relaunch" %}
 [3]: https://pages.github.com/versions/
 [4]: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 [5]: https://github.com/marketplace?type=actions

@@ -56,7 +56,7 @@ Also, auch wenn ich im nachfolgenden Teil, der Einfachheit wegen, nur "Lightroom
 Adobe Lightroom lässt sich [7 Tage kostenlos testen](https://www.adobe.com/de/products/photoshop-lightroom/free-trial-download.html), aber Achtung, denn wenn du nicht kündigst, landest du direkt im Abo! 
 Abgesehen davon gibt es bei der Installation nur zu beachten, ob du Lightroom oder Lightroom Classic installieren willst.
 
-{% cloudinary /assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg alt="Bildverwaltung in Lightroom" %}
+{% cloudinary "/assets/2021-02-07-adobe-lightroom/lightroom_katalog.jpg", "Bildverwaltung in Lightroom" %}
 
 Die Oberfläche von Lightroom ist für mich sehr vertraut, zum einen habe ich ja selbst jahrelang mit Adobe-Produkten gearbeitet 
 und zum anderen ist es jetzt der Dritte RAW-Konverter, den ich mir innerhalb von kurzer Zeit im Detail anschaue ;)
@@ -75,7 +75,7 @@ Die Bildverwaltung bzw. -übersicht lässt sich einfach anpassen und auch eine F
 Die Entwicklung eines RAW-Bildes ist sehr geradlinig. Wie Eingangs erwähnt gibt es eine Vielzahl von Vorlagen (Presets) für Lightroom, mit denen der Look des Bildes schnell angepasst werden kann. 
 Die Vorschau dazu wird recht flüssig angezeigt und so fand ich es ziemlich einfach zu wählen, ob denn eine solche Voreinstellung angewandt werden soll oder eben nicht.
 
-{% cloudinary /assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg alt="RAW-Entwicklung in Lightroom" %}
+{% cloudinary "/assets/2021-02-07-adobe-lightroom/lightroom_bearbeiten.jpg", "RAW-Entwicklung in Lightroom" %}
 
 Auf der rechten Seite befinden sich dann alle Entwicklungsoptionen, die mir auch schon aus Camera RAW und den anderen Programmen bekannt sind. 
 Natürlich gibt es bei der Bezeichnung und Funktionsweise immer einige Unterschiede, grundsätzlich habe ich mich aber schnell zurechtgefunden und fand alles einfach zu bedienen.
@@ -83,7 +83,7 @@ Natürlich gibt es bei der Bezeichnung und Funktionsweise immer einige Unterschi
 Das Ergebnis einer Bearbeitungs-Aktion wird schnell angezeigt, die einzelnen Blöcke lassen sich an- und ausschalten oder einzelne Schritte rückgängig machen. 
 Persönlich habe ich daher keine Funktion vermisst, jedoch musste mein Mauszeiger häufig zwischen den Einstellungen hin und her springen.
 
-{% cloudinary /assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg alt="Vorher-Nachher-Ansicht" %}
+{% cloudinary "/assets/2021-02-07-adobe-lightroom/lightroom_vergleich.jpg", "Vorher-Nachher-Ansicht" %}
 
 Was mir sehr gefällt, ist die Möglichkeit sich eine Vorher-Nachher-Ansicht anzeigen zu lassen, sodass das Ergebnis der RAW-Entwicklung deutlich sichtbar wird.
 
@@ -101,5 +101,5 @@ Natürlich mit der Ausnahme, das es beides nur im Abo gibt.
 Ein großes Plus ist für mich, dass die Bearbeitungsinformationen meiner bisherigen Bilder aus Adobe Bridge & Camera RAW übernommen werden können, 
 sodass ich diese problemlos in der Lightroom nochmal anpassen könnte, wenn ich mir diese nochmal vornehmen möchte.
 
-[1]: {% post_url 2021-01-15-raw-konverter-intro %}
+[1]: {% post_url collections.posts, "2021-01-15-raw-konverter-intro" %}
 [2]: https://www.adobe.com/de/products/photoshop-lightroom.html

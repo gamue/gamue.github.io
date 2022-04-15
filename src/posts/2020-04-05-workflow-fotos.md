@@ -28,7 +28,7 @@ Unabhängig davon, ob sie am Ende auf der Homepage oder bei Instagram landen,
 nur für mich selbst zur Erinnerung sind oder ich sie Freunden und Bekannten zeigen möchte.
 
 Nachfolgend will ich daher meinen Foto-Workflow erklären und zeigen wie ich Ordnung in die Sache bringe. 
-Wer mich kennt, weiß dass ich Ordnung liebe :P
+Wer mich kennt, weiß, dass ich Ordnung liebe :P
 
 tl;dr:
 1. Dateien einheitlich benennen
@@ -42,12 +42,12 @@ tl;dr:
 ## Ordner und Dateinamen
 
 Der erste Schritt besteht darin die Bilder und Videos von den Speicherkarten und Smartphones auf den Computer zu übertragen. 
-Der Ordner in dem Alles landet, trägt das Jahr, den Monat und eine Beschreibung im Namen, also beispielsweise “_2019-12 Paris_”.
+Der Ordner in dem alles landet, trägt das Jahr, den Monat und eine Beschreibung im Namen, also beispielsweise “_2019-12 Paris_”.
 
 Sollte Jahr und Monat nicht ausreichen, kommt noch der Anfangstag dazu. Das ist meist der Fall, 
 wenn ich mehrere Wochenendtrips in einem Monat unternommen habe oder auch wenn es sich um ein eintägiges Event bzw. einen Tagestrip handelt.
 
-```
+```txt
 ├── /2011-09-05 Köln
 ├── /2019-04 Belize
 ├── /2019-12 Paris
@@ -65,8 +65,8 @@ mit denen alle Bilder in Sekundenschnelle umbenannt sind.
 {: .notice--info}
 
 Aus dem Grund sortiere ich die Bilder zuerst nach Erstellungsdatum und benenne sie anschließend einheitlich (zB *Paris_001*, *Paris_002*, etc.), 
-so dass man für alle nachfolgenden Schritt eine halbwegs chronologische Reihenfolge hat. 
-“Halbwegs chronologisch” weil die Uhrzeit auf den unterschiedlichen Geräten meist nicht synchron ist 
+sodass man für alle nachfolgenden Schritt eine halbwegs chronologische Reihenfolge hat. 
+“Halbwegs chronologisch”, weil die Uhrzeit auf den unterschiedlichen Geräten meist nicht synchron ist 
 und es daher ab und an zu Überschneidungen kommt, dazu aber später mehr.
 
 Wenn es sich um sehr viele Bilder handelt, trenne ich die Dateien danach noch tageweise in Unterordner auf. 
@@ -89,7 +89,7 @@ Wenn man das Foto über Social Media teilen will, wird damit auch meist schon de
 
 Für diesen Vorgang nutze ich das Programm [Geosetter](http://geosetter.de/).
 
-{% include gallery.html id="geosetter" caption="In Geosetter sieht man leicht, wo das jeweilige Bild aufgenommen wurde." %}
+{{ imageGallery(geosetter, "In Geosetter sieht man leicht, wo das jeweilige Bild aufgenommen wurde.", "full") }}
 
 ## Bilder bewerten & markieren
 
@@ -100,15 +100,15 @@ Für die Bewertung gehe ich die Bilder meist mehrmals durch. Als erstes bekommen
 die ich beispielsweise für eine Diashow für Bekannte und Freunde nehmen würde, oder die mir anderweitig gefallen 
 und ich weiterbearbeiten möchte, mindestens einen Stern.<br>
 Ich könnte die Skala von 1-5 sicherlich besser nutzen oder definieren als ich es aktuell tue, 
-denn wirklich mehr als 3 Sterne vergebe ich im Normalfall nicht, was mir aber vollkommen ausreicht um die Unterschiede hervorzuheben.
+denn wirklich mehr als 3 Sterne vergebe ich im Normalfall nicht, was mir aber vollkommen ausreicht, um die Unterschiede hervorzuheben.
 
 In Durchgang zwei gehe ich dann nur noch die mit Sternen bewerteten Bilder durch und verpasse ihnen eine gelbe Farbmarkierung, 
 wenn ich diese bearbeiten oder auf die Homepage stellen möchte.
 
-{% include gallery.html layout="half" id="bildbetrachter" caption="So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild." %}
+{{ imageGallery(bildbetrachter, "So sieht die Übersicht in Adobe Bridge (links) und XnViewMP (rechts) aus. Bei XnViewMP sieht man die Bewertung links oben am jeweiligen Bild.", "half") }}
 
-Beide Schritte führe ich recht grob durch und nehme in die Auswahlen auch Bilder mit auf bei denen ich mir nicht sicher bin 
-oder die unterschiedliche Varianten eines Motivs sind. Meist ändere ich die Bewertung oder Markierung im Nachgang nicht noch einmal, 
+Beide Schritte führe ich recht grob durch und nehme in die Auswahlen auch Bilder mit auf, bei denen ich mir nicht sicher bin 
+oder die Variationen eines Motivs sind. Meist ändere ich die Bewertung oder Markierung im Nachgang nicht noch einmal, 
 aber es kommt schon vor, dass ich beim Betrachten der gefilterten Menge das ein oder andere Bild doch nicht mehr mag, 
 noch eine Farbmarkierung vergeben will oder sogar nochmal ein Bild komplett lösche.
 
@@ -171,7 +171,7 @@ denn da die Fotos für mich wichtige Dateien sind, lege ich regelmäßig Sicheru
 
 Dafür nutze ich [Microsoft SyncToy](https://www.microsoft.com/en-us/download/details.aspx?id=15155), da es kostenlos und sehr einfach zu bedienen ist.
 
-{% include gallery.html id="synctoy" caption="Ausgangs- und Zielordner für die Backups einstellen und auf Start klicken, mehr braucht SyncToy nicht." %}
+{{ imageGallery(synctoy, "Ausgangs- und Zielordner für die Backups einstellen und auf Start klicken, mehr braucht SyncToy nicht.", "full") }}
 
 Der Artikel ist jetzt doch länger geworden als gedacht, aber sind ja auch einige Schritte ;) 
 Lasst mich wissen, wenn etwas unklar ist, ihr Verbesserungstipps habt oder wie euer Workflow aussieht.

@@ -73,7 +73,7 @@ was die Mitglieder dort für ein Programm einsetzen.
 
 Insgesamt haben 166 Personen an der Umfrage teilgenommen und das Ergebnis sah folgendermaßen aus:
 
-{% cloudinary /assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg alt="Ergebnis Facebook-Umfrage" %}
+{% cloudinary "/assets/2021-01-15-raw-konverter-intro/umfrage-facebook.jpg", "Ergebnis Facebook-Umfrage" %}
 
 Zufälligerweise haben sich die Programme auf den ersten 5 Plätzen mit meiner eigenen Recherche überschnitten, sodass diese auf meiner Testliste gelandet sind. 
 Zusätzlich habe ich noch Darktable mit aufgenommen, da dies eine der wenigen kostenlosen Optionen ist.
@@ -89,14 +89,14 @@ Mehr zu den einzelnen Programmen und wofür ich mich dann letztendlich entschlos
 7. [Affinity Photo, Bildbearbeitungsprogramm mit RAW-Konverter][10]
 8. [Mein Fazit][11]
 
-[1]: {% post_url 2021-01-03-raw-oder-jpeg %}
-[2]: {% post_url 2020-10-03-sony-a6400 %}
-[3]: {% post_url 2020-04-05-workflow-fotos %}
-[4]: {% post_url 2021-01-20-adobe-dng-converter %}
-[5]: {% post_url 2021-01-27-darktable %}
-[6]: {% post_url 2021-01-30-skylum-luminar %}
-[7]: {% post_url 2021-02-05-acdsee-photo-studio %}
-[8]: {% post_url 2021-02-07-adobe-lightroom %}
-[9]: {% post_url 2021-02-13-capture-one %}
-[10]: {% post_url 2021-02-18-serif-affinity-photo %}
-[11]: {% post_url 2021-02-26-raw-konverter-fazit %}
+[1]: {% post_url collections.posts, "2021-01-03-raw-oder-jpeg" %}
+[2]: {% post_url collections.posts, "2020-10-03-sony-a6400" %}
+[3]: {% post_url collections.posts, "2020-04-05-workflow-fotos" %}
+[4]: {% post_url collections.posts, "2021-01-20-adobe-dng-converter" %}
+[5]: {% post_url collections.posts, "2021-01-27-darktable" %}
+[6]: {% post_url collections.posts, "2021-01-30-skylum-luminar" %}
+[7]: {% post_url collections.posts, "2021-02-05-acdsee-photo-studio" %}
+[8]: {% post_url collections.posts, "2021-02-07-adobe-lightroom" %}
+[9]: {% post_url collections.posts, "2021-02-13-capture-one" %}
+[10]: {% post_url collections.posts, "2021-02-18-serif-affinity-photo" %}
+[11]: {% post_url collections.posts, "2021-02-26-raw-konverter-fazit" %}

@@ -46,7 +46,7 @@ Die Kosten für das Abo belaufen sich auf **monatlich 9,90€ bzw. 97€ bei jä
 Nach der Installation von ACDSee Photo Studio Ultimate 2021 musste ich erst einmal ein Benutzerkonto erstellen und das Programm wollte die Standard-Bildbetrachtungssoftware werden, 
 was auch ein Hinweis darauf ist, dass es sich in erster Linie als Bildbetrachtungs- und Verwaltungssoftware versteht.
 
-{% cloudinary /assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg alt="Bildverwaltung in ACDSee" %}
+{% cloudinary "/assets/2021-02-05-acdsee-photo-studio/acdsee_bildverwaltung.jpg", "Bildverwaltung in ACDSee" %}
 
 Im Vergleich zu den anderen Programmen müssen beim ACDSee Photo Studio keine Bilder importiert werden, 
 sondern es funktioniert wie ein Dateiexplorer und du navigierst einfach durch die Verzeichnisse auf der Festplatte. 
@@ -57,7 +57,7 @@ Im Gegensatz zu den anderen Programmen wird die Bewertung über einen Zahlenwert
 
 Meine bisherigen Bearbeitungsinformationen aus Adobe Camera Raw wurden leider nicht übernommen, aber das ist bei den anderen Programmen ebenfalls so.
 
-{% cloudinary /assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg alt="Bildbetrachter in ACDSee" %}
+{% cloudinary "/assets/2021-02-05-acdsee-photo-studio/acdsee_bildbetrachter.jpg", "Bildbetrachter in ACDSee" %}
 
 Neben der Verwaltungsansicht gibt es noch einen Bildbetrachter, bei dem ein Bild deutlich größer angezeigt wird. 
 Leider gehen hier die Bewertungen und Farblabels unter, sodass ich es schwierig finde diese Ansicht für die initiale Sichtung der Bilder einer Fotosession zu nutzen.
@@ -67,7 +67,7 @@ Die Bearbeitungsansicht von ACDSee bietet viele Möglichkeiten und der RAW-Konve
 Die Optionen sind gut strukturiert und lassen sich einzeln aktivieren bzw. deaktivieren. 
 Auch lässt sich über einen blauen Punkt einfach sehen, in welcher Einstellung Änderungen vorgenommen worden sind.
 
-{% cloudinary /assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg alt="Bildverwaltung in ACDSee" caption="Bild mit angewandten Voreinstellungen, zugegeben etwas wild, aber auch nur ein Beispiel ;)" %}
+{% cloudinary "/assets/2021-02-05-acdsee-photo-studio/acdsee_preset.jpg", "Bildverwaltung in ACDSee", null, null, "Bild mit angewandten Voreinstellungen, zugegeben etwas wild, aber auch nur ein Beispiel ;)" %}
 
 Was mir nicht so gefallen hat, ist das es bei Voreinstellungen (Presets/Vorlagen) keine einfache Vorschau gibt, 
 sondern ich diese erst anwenden musste um zu sehen, was sie bewirken. Gerade wenn diese kryptische Namen wie "New York" haben, ist das ein Problem. 
@@ -82,7 +82,7 @@ Aber gut, jedes Programm ist anders und daran wird man sich schnell gewöhnen k�
 Negativ ist mir jedoch aufgefallen, dass ein falsches Objektivprofil für die Verzerrungskorrektur verwendet wurde, obwohl der richtige Objektivnamen in den EXIF-Daten vorhanden ist. 
 Auch musste mein Computer wieder sehr viel rechnen, sodass es zu einigen Wartezeiten kam, zwar nicht so extrem wie bei [Skylum Luminar][2], aber eben nicht optimal.
 
-{% cloudinary /assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg alt="RAW-Entwicklung mit ACDSee Photo Studio" %}
+{% cloudinary "/assets/2021-02-05-acdsee-photo-studio/acdsee_farbenrad.jpg", "RAW-Entwicklung mit ACDSee Photo Studio" %}
 
 Die Darstellung der Optionen hat für mich immer Sinn gemacht, besonders das Farbenrad um genauer zu wählen welcher Farbton verändert werden soll, fand ich gelungen. 
 Über die Verlaufsliste war es zudem sehr einfach zu einem früheren Bearbeitungsschritt zurückzuspringen oder einen Vorher-Nachher-Vergleich anzuschauen.
@@ -116,4 +116,4 @@ Die Bildverwaltung finde ich gelungen, aber das hatte ich auch erwartet, denn es
 Den Preis der Kaufversion finde ich in Ordnung, beim Abo würde ich mir wünschen, dass es auch eine Variante ohne die anderen Programme und den Cloud-Speicher gibt, die dann entsprechend günstiger wäre.
 
 [1]: https://www.acdsee.com/de/products/photo-studio-ultimate/
-[2]: {% post_url 2021-01-30-skylum-luminar %}
+[2]: {% post_url collections.posts, "2021-01-30-skylum-luminar" %}

@@ -33,7 +33,7 @@ Neben den grundsätzlichen Kriterien, auf die du beim Kamerakauf immer achten so
 # Die Optionen
 
 ## Sony a6100 und a6600
-{% cloudinary /assets/2020-10-03-sony-a6400/a6400_hero.jpg alt="Sony a6400" %}
+{% cloudinary "/assets/2020-10-03-sony-a6400/a6400_hero.jpg", "Sony a6400" %}
 
 Da ich ja schon gesagt habe, dass ich mich am Ende für die Sony a6400 entschieden habe, fang ich bei den offensichtlichsten Alternativen an: 
 Sony a6100 und Sony a6600, also die kleinere und größere APS-C-Variante. 
@@ -50,7 +50,7 @@ Macht mit einem Preis von ca. 1350 Euro aber auch einen großen Preissprung.
 Sicherlich ist ein eingebauter Bildstabilisator wünschenswert, da das aber besonders für Videos wichtig ist und man beim Fotografieren auf stabilisierte Objektive zurückgreifen kann, fand ich den Aufpreis für meine Anwendungszwecke nicht angemessen. Sollte ich feststellen, dass ich zukünftig mehr Videos mache, kann ich immernoch umsteigen oder versuchen, dass durch einen Gimbal auszugleichen.
 
 ## Sony A7ii, A7iii und A7c
-{% cloudinary /assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg alt="Sony A7ii" %}
+{% cloudinary "/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/leon-seibert-EOw_TbrWW_c-unsplash.jpg", "Sony A7ii" %}
 
 Neben der 6x00-Serie mit APS-C-Sensoren hat Sony eine Vollformat-Linie, die ich mir natürlich auch angeschaut habe und für mich sogar lange Zeit der Spitzenreiter war.
 
@@ -77,10 +77,10 @@ Zugegebener Weise war die A7c nicht Teil meiner Überlegungen, es gab jedoch vor
 Etwas neueres als die A7ii und günstigeres als die A7iii wäre für mich spannend gewesen, aber stattdessen kam dann die A7c. 
 Warum ich die Kamera mit in diese Liste aufgenommen habe, ist dass ich sagen wollte, dass du dir vor dem Kamerakauf die Gerüchteküche und kommenden Neuerscheinungen anschauen solltest. 
 Selbst wenn das Angekündigte dann nichts ist, hat es doch meistens Auswirkungen auf die Preise der etwas älteren Kameras, die dann beispielsweise in das Budget rutschen könnten. 
-Bei mir war das leider nicht der Fall. Die Ankündigung führte aber dazu, dass ich recht sicher wusste, dass demnächst nichts weiteres kommt, auf das es sich zu warten lohnt.
+Bei mir war das leider nicht der Fall. Die Ankündigung führte aber dazu, dass ich recht sicher wusste, dass demnächst nichts Weiteres kommt, auf das es sich zu warten lohnt.
 
 ## Fuji X-T3
-{% cloudinary /assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg alt="Fuji XT-3" %}
+{% cloudinary "/assets/2020-10-06-kameramarkt-spiegellose-systemkameras/portuguese-gravity-b8J3ert6B6s-unsplash.jpg", "Fuji XT-3" %}
 
 Fuji hat es in den letzten Jahren geschafft sehr gute Spiegellose Systemkameras zu bauen und gerade die X-T3 fand ich bei den Überlegungen sehr spannend. 
 Die technischen Werte ähneln sehr stark der Sony a6400 und auch preislich geben sich beide nicht viel. Mir hat jedoch die Haptik der Sony etwas mehr zugesagt. 
@@ -89,7 +89,7 @@ Zudem gibt es Objektive bisher ausschließlich von Fuji, sodass die Auswahl rech
 ## Nikon Z50, Z5 und Z6
 Da meine bisherigen Spiegelreflexkameras von Nikon waren, war ich sehr interessiert, was es von denen als Spiegellose Systemkameras gibt. 
 Mit einem Adapter wäre es sogar möglich meine bisherigen Objektive an der Nikon Z50, als eine APS-C Kamera, zu nutzen. 
-rinzipiell würde das auch an den Vollformatkameras Z5 und Z6 gehen, aber dann eben mit verkleinertem Bild. 
+Prinzipiell würde das auch an den Vollformatkameras Z5 und Z6 gehen, aber dann eben mit verkleinertem Bild. 
 Die Ergonomie der Kameras und das Menü kamen mir sehr vertraut vor, als ich die Kameras in den Händen hatte. Wäre sicherlich ein leichterer Umstieg gewesen ;)
 
 ### Nikon Z50
@@ -99,10 +99,10 @@ ansonsten sind sie technisch sehr ähnlich ausgestattet.
 
 Da die Z-Serie von Nikon recht neu ist, gibt es noch ziemlich wenig Objektive, was mich schon bei der Fuji XT-3 gestört hat, 
 aber bei Nikon ist die Situation aus meiner Sicht noch schlimmer. 
-Die Z50 ist aktuell die Einzige Spiegellose APS-C Kamera von Nikon und zur Zeit meiner Recherche gab es ganze 2 passende APS-C Objektive für Spiegellose Kameras von Nikon, 
+Die Z50 ist aktuell die einzige Spiegellose APS-C Kamera von Nikon und zur Zeit meiner Recherche gab es ganze 2 passende APS-C Objektive für Spiegellose Kameras von Nikon, 
 ein 16-50mm f/3,5-6,3 und ein 50-250mm f/4,5-6,3. Als Alternative bleiben da nur die größeren und teureren Vollformatobjektive oder eben einen Adapter zu verwenden. 
 Und eine der beiden Varianten müsste ich gehen, denn ein Objektiv mit der Blende von 6,3 bei 50mm ist aus meiner Sicht völlig unbrauchbar. 
-Was dann auch irgendwie den Sinn einer APS-C Kamera zunichte macht.
+Was dann auch irgendwie den Sinn einer APS-C Kamera zunichtemacht.
 
 ### Nikon Z6
 Bis vor kurzem, bevor die Z5 Ende August veröffentlicht wurde, war die Z6 die kleinere der Vollformatkameras. 
@@ -113,7 +113,7 @@ gehe ich davon aus, dass auch bald der ein oder andere Fremdhersteller Objektive
 
 ### Nikon Z5
 Mit der Z5 hat Nikon eine Einsteiger-Vollformatkamera herausgebracht, die sich nur in sehr wenigen Punkten von der Z6 unterscheidet und prinzipiell eine gute Wahl wäre, 
-aufgrund der Firmenpolitik für mich jedoch leider nicht in Frage kam. 
+aufgrund der Firmenpolitik für mich jedoch leider nicht infrage kam. 
 Auf dem deutschen Markt bekommt man diese nur zusammen mit einem 24-50mm f/4,0-6,3 Objektiv und die Lichtstärke passt für mich einfach nicht, 
 gäbe es ein anderes Kit-Objektiv wäre es vielleicht etwas für die engere Auswahl, aber so leider nicht. 
 Hinzu kommt, dass der preisliche Unterschied zur Z6 nicht groß ist und ich dann vermutlich eher zur größeren Variante greifen würde.
@@ -123,9 +123,9 @@ Auch wenn ich zu jeder Kamera nur ein paar Sätze geschrieben habe, ist der Arti
 Was aber auch zeigt, wie groß der Markt aktuell ist und welche Auswahl man hat. 
 Ich würde keine der genannten Kameras als schlecht bezeichnen und denke ich hätte vermutlich mit keiner davon einen Fehler gemacht. 
 Sie unterscheiden sich oft nur in Details, am Ökosystem und eben beim Preis. 
-Ich hoffe der Artikel war trotz der Länge informativ und hat meine Überlegungen zum aktuellen Kameramarkt etwas aufgezeigt. 
+Ich hoffe, der Artikel war trotz der Länge informativ und hat meine Überlegungen zum aktuellen Kameramarkt etwas aufgezeigt. 
 Wenn du vor einer ähnlichen Wahl stehst, lass mich gerne wissen wie du dich entschieden hast und warum. Gerne natürlich auch, wenn du anderer Meinung bist ;)
 
-[1]: {% post_url 2020-10-03-sony-a6400 %}
-[2]: {% post_url 2020-08-09-kaufberatung-kamera-grundlagen %}
-[3]: {% post_url 2020-09-06-brennweitenbereich-analysieren %}
+[1]: {% post_url collections.posts, "2020-10-03-sony-a6400" %}
+[2]: {% post_url collections.posts, "2020-08-09-kaufberatung-kamera-grundlagen" %}
+[3]: {% post_url collections.posts, "2020-09-06-brennweitenbereich-analysieren" %}
