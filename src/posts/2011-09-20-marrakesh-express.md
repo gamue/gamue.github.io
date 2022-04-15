@@ -32,20 +32,20 @@ denn entweder ist die Auskunft einfach falsch wie es sich nach einem „kleinen 
 oder sie wollen irgendetwas verkaufen. Daher such ich mir immer irgendein Hotel und frag dort nach dem Weg, kleiner Tipp: 
 Nobelhotels sind meistens auskunftsfreudiger, korrekter und freundlicher. 
 Eines haben aber sowohl Privatpersonen oder Hotelangestellte gemeinsam, die sagen immer, dass es viel zu weit ist und man ein Taxi nehmen soll, 
-auch wenn das Ziel nur knapp 1km entfernt ist. Anstatt ein Taxi zu nehmen lauf ich doch lieber und schau mir die Gegend etwas an, 
-oder fahr per Anhalter etwas rum. Da gerade ein Polizeiwagen an der Ampel stand hab ich den Polizist erst noch mal nach 
-dem Weg gefragt und anschließend ob er mich etwas mitnimmt, was er dann auch gemacht hat.
+auch wenn das Ziel nur knapp 1km entfernt ist. Anstatt ein Taxi zu nehmen, lauf ich doch lieber und schau mir die Gegend etwas an, 
+oder fahr per Anhalter etwas rum. Da gerade ein Polizeiwagen an der Ampel stand hab ich den Polizisten erst noch mal nach 
+dem Weg gefragt und anschließend, ob er mich etwas mitnimmt, was er dann auch gemacht hat.
 
 Bei meinem Gastgeber, Abdo, angekommen erstmal mein ganzes Zeugs abgeladen und mich von seinen Katzen beschnuppern lassen. 
 Süße, kleine, flauschige Dinger 😉 Abdo ist IT-Student in Marrakesch und arbeitet nebenher ein einigen Programmierprojekten, 
 die er mir stolz alle gezeigt hat. Ein paar Verbesserungsvorschlägen, Programmiertipps und Diskussionen später bin ich mit 
 ihm auf seinem Roller in die Stadt gefahren und dort hat er mich etwas rumgeführt, über den Gauklerplatz, Djemaa el Fna, 
-und durch die die Souqs. Als wir mitten in den Souqs waren, hat der Himmel seine Schleusen geöffnet und es gab einen halbstündigen Platzregen. 
+und durch die Souqs. Als wir mitten in den Souqs waren, hat der Himmel seine Schleusen geöffnet und es gab einen halbstündigen Platzregen. 
 War witzig mit anzuschauen wie alle Händler quer durcheinander rennen und versuchen ihre ausgehängten Waren ins Trockene zu bringen, 
 oder versuchen nicht nass zu werden. Durch den „Schauer“ ist zum einen die Temperatur stark gefallen, von den 42°C zuvor, auf kühle 25°C, 
-und zum anderen haben sich die Straßen geleert, so dass wir uns nicht mehr durchdrängeln mussten auf dem Rückweg.
+und zum anderen haben sich die Straßen geleert, sodass wir uns nicht mehr durchdrängeln mussten auf dem Rückweg.
 
-Auch außergewöhnlich war meine Schlafgelegenheit, das erste mal seit langem mal wieder eine richtige Matraze unter mir zu spüren&#8230;herrrlich, 
+Auch außergewöhnlich war meine Schlafgelegenheit, das erste Mal seit langem wieder eine richtige Matraze unter mir zu spüren&#8230;herrrlich, 
 da hat es sich schon mal etwas besser schlafen lassen. Und als Hintergrundkulisse das nächtliche Plätschern des Regens ^^
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

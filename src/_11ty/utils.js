@@ -73,4 +73,4 @@ const strToSlug = (str)  => {
   return slugify(str, options);
 }
 
-module.exports = { addUniqueNumber, excerpt, head, includes, sortByFileSlug, getGalleryFromDir, strToSlug };
+module.exports = { markdownify, addUniqueNumber, excerpt, head, includes, sortByFileSlug, getGalleryFromDir, strToSlug };

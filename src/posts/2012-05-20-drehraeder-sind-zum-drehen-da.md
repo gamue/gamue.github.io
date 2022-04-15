@@ -18,12 +18,12 @@ tags:
   - Reisebericht
 ---
 
-Normalerweise bin ich Schlaflosigkeit gewöhnt, daher freue ich mich immer wenn ich auf Reisen doch mal etwas schlafen kann. 
+Normalerweise bin ich Schlaflosigkeit gewöhnt, daher freue ich mich immer, wenn ich auf Reisen doch mal etwas schlafen kann. 
 Und wer hätte es geglaubt, die Pritsche im Übernachtzug war ziemlich wohltuend.
 
 Daher ging es ziemlich erholt im Anschluss an die Ankunft in Varanasi zusammen mit Tim und Wesley auf Unterkunftssuche. 
 Mit der Zeit wird man immun gegen den ganzen Lärm und das Geschreie und lacht die Taxifahrer aus, die einem zu einem Ort fahren wollen, 
-der laut Karte 500m entfernt ist. Muss wohl viele geben, die darauf reinfallen.
+der laut Karte 500m entfernt ist. Muss wohl viele geben, die darauf hereinfallen.
 
 Als wir uns dann von einem Rikschafahrer in die Stadt chauffieren und durch ein schier endloses Labyrinth aus 
 Häuserschluchten zum Hostel gefunden hatten, war wieder aller Trubel um uns vergessen. Es blieb nur die Frage offen, 
@@ -35,10 +35,10 @@ Im Bad hat die Spülung nicht funktioniert, nach kurzer Suche sind mir dann ein 
 also an denen solange rumspielen, bis es sich nach fließendem Wasser anhört. So ein Spülkasten braucht ja eine Weile bis er voll ist, 
 daher ging es in der Zwischenzeit zum Mittagessen auf dem Dachterassenrestaurant…Dachterassen scheinen irgendwie Standard zu sein ^^
 
-Nach dem Essen wollt ich eigentlich nur kurz meine Sachen aus meinem Zimmer holen und mit den Belgiern die Stadt erkunden. 
+Nach dem Essen wollet ich eigentlich nur kurz meine Sachen aus meinem Zimmer holen und mit den Belgiern die Stadt erkunden. 
 Kaum im Zimmer kam mir aber schon eine Wasserdampfwolke entgegen, hatte wohl seinen Grund warum das Wasser abgedreht war xD
 
 Immerhin war der Fußboden im Bad jetzt mal nass „raugeputzt“ und die hohe Luftfeuchtigkeit bot auch mal eine ganz 
 angenehme Abwechslung zur sonst stehenden Hitze.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}

@@ -20,22 +20,22 @@ tags:
   - Varanasi
   - Reisebericht
 ---
-Das Gasthaus in dem ich genächtigt habe, hat am Morgen und am Abend gratis Bootstouren auf dem Ganges angeboten. 
-Genau die Boottouren, die einem jeder für teuer Geld (~1-2€) andrehen will wenn man mal etwas am Ufer entlang lauft.
+Das Gasthaus, in dem ich genächtigt habe, hat am Morgen und am Abend gratis Bootstouren auf dem Ganges angeboten. 
+Genau die Boottouren, die einem jeder für teuer Geld (~1-2€) andrehen will, wenn man mal etwas am Ufer entlang lauft.
 
 Gestartet wurde gegen 5.00 Uhr bei den Leichenverbrennungsanlagen. Morgens sind nur zwei Feuerhaufen aktiv, 
-so dass dort mal Ausnahmsweise weniger los war. Sonst wird man dauernd zur Seite geschoben, 
+sodass dort mal Ausnahmsweise weniger los war. Sonst wird man dauernd zur Seite geschoben, 
 weil wieder mal eine Leiche durch die Straßen getragen wird. Oder man bekommt zum 1000mal gesagt das man keine Fotos machen darf, 
 aus religiösen Gründen und des Respekts wegen. Warum man aber für einen ziemlich hohen Obolus dennoch Bilder machen durfte, 
 war irgendwie ein Fehler in der Argumentation…Aber gut, Bilder von Leichenverbrennungen sind jetzt auch nicht so mein Geschmack, 
 daher war’s mir egal.
 
 Vom Boot aus, mit sicherem Abstand, konnte ich mir es dann aber nicht ganz verkneifen ein paar Bilder von den Anlagen als solches zu machen. 
-Wofür hat man denn ein Teleobjektiv 😉  
+Wofür hat man denn ein Teleobjektiv 😉
 Bemerkt hat mich niemand, sonst wären bestimmt die einen oder anderen Steine geflogen, hat man jedenfalls gesagt bekommen. 
 Etwas weiter den Fluss runter standen dann die ersten im Wasser und warteten auf den Sonnenaufgang um den neuen Tag Lob zu preisen. 
-Im Prinzip ja einiger maßen nachvollziehbar, aber warum baut man die Verbrennungsanlagen ganz oben am Fluss? 
-Irgendjemand hätte doch auf die Idee kommen können, dass wenn man Asche oder Leichen in den Fluss wirft die von der Strömung verteilt werden. 
+Im Prinzip ja einigermaßen nachvollziehbar, aber warum baut man die Verbrennungsanlagen ganz oben am Fluss? 
+Irgendjemand hätte doch auf die Idee kommen können, dass wenn man Asche oder Leichen in den Fluss wirft, die von der Strömung verteilt werden. 
 Und so sind eigentlich alle im Ganges von menschlichen Überresten umgeben. Schon in gewisser Weise eine kranke Vorstellung. 
 Noch kranker ist es mit anzuschauen, wie sich Hunde um angeschwemmte Leichenteile zanken.
 
@@ -57,4 +57,4 @@ Mag es durch den Neppertrieb oder Vergesslichkeit kommen, so wird nach einer Wei
 Mein Geldbeutel blieb aber verschlossen, was zu Unmut bei den Handmasseuren führte, aber lang konnten die sich nicht ärgern, 
 die nächsten Weißhäute waren ja schon in Sicht ^^
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}

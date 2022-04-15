@@ -23,13 +23,13 @@ als der Hotelier meinte, er könne mich ein Stück mit seinem kleinen Moped mitn
 Das ging auch eine Weile gut, bis der Motor komische Geräusche machte die Maschine liegen blieb. 
 Wenn es auch eine kurze Fahrt war, sie war ziemlich unruhig und aufregend. 
 Manch einer wäre vermutlich an einer Herzattacke gestorben…so langsam fang ich auch an zu glauben, 
-dass ich etwas Adrenalinsüchtig bin.  
+dass ich etwas adrenalinsüchtig bin.  
 
 Die Kilometer-Entfernungen zwischen meinen Reisestationen waren nie groß, 
 doch aufgrund der Straßenverhältnisse und Steckenführung hat man immer ziemlich lange gebraucht bis man angekommen ist. 
 Zudem waren die Sitze nie bequem, aber durch die Landschaften und Szenerien wurde man Gewisserweise entschädigt. 
 Ich saß einige Stunden im Bus als die Umgebung anstatt mit grünen Bergen durch braune, staubige Häuser geprägt wurde. 
-Endstation war der Kathmandu Touristenbuspark, von einem Buspark hatte das aber nichts sondern war vielmehr eine normale Straße.
+Endstation war der Kathmandu Touristenbuspark, von einem Buspark hatte das aber nichts, sondern war vielmehr eine normale Straße.
 
 In der nepalesischen Hauptstadt hatte ich mir mal wieder einen CouchSurfer zum Übernachten gesucht, 
 aber da ging fast alles schief, was schiefgehen konnte. Niemand am Treffpunkt, 
@@ -44,4 +44,4 @@ Aber irgendwann musst ich dann wieder nach Kathmandu zurück, schließlich ging 
 Den angebrochenen Tag in Nepals Hauptstadt musst ich aber mindestens noch vorüberbekommen und ich würde Unrecht tun, 
 wenn ich sage, dass es dort nichts zu besichtigen gibt.
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

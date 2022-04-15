@@ -50,7 +50,7 @@ Stiefel gelaufen, da half auch das hingetapte Taschentuch oder ein Pflaster nich
 Das war vielleicht eine Riesensauerei…aber auf so was kann man keine Rücksicht nehmen, man will ja weiter wilde Tiere sehen, 
 wirklich zeigen wollte sich aber keines so richtig. Hin und wieder haben wir frische Tigerspuren gesehen aber leider keine dazugehörige Katze und so mussten wir uns wohl mit den Affen, Rehen, Krokos und Vögel begnügen.
 
-Wir hatten gerade den Rückweg angegangen, da ergab sich noch mal eine kleine Hoffnung, 
+Wir hatten gerade den Rückweg angetreten, da ergab sich noch mal eine kleine Hoffnung, 
 im hohen Gras direkt vor uns hat es verdächtig geraschelt und im Anschluss war ein Brüllen, das mich an einen Braunbären erinnert hat, 
 zu hören. Die Guides hatten daraufhin ihre Stöcke fest in die Hand genommen, die Auflösung welches Tier es war blieb jedoch aus, 
 da das Gras zu hoch war und als wir an der vermeintlichen Stelle vorbeikamen war nichts zu sehen.
@@ -62,4 +62,4 @@ kommt, macht es natürlich am meisten Sinn, die Netze noch mehr zu belasten…
 Als hätte man es nicht ahnen können, fiel auch kurze Zeit später der Strom aus. Natürlich just in dem Moment als ich duschen wollte, 
 aber egal, dann eben mit Stirnlampe 😀
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

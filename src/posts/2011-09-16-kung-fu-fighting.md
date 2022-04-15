@@ -21,7 +21,7 @@ tags:
 ---
 Irgendwie hatte ich das Gefühl, das ich auf dem Trip einfach nicht schlafen sollte, 
 denn meine Schlafgelegenheit hat sich nach Gefängnispritsche angefühlt und war ziemlich unbequem. 
-Da ich also sowieso nicht pennen konnte und der Bus zu meiner nächsten Station früh morgens los ging hab ich mich 
+Da ich also sowieso nicht pennen konnte und der Bus zu meiner nächsten Station früh morgens losging hab ich mich 
 kurzer Hand entschlossen um 1.45h aufzubrechen und eine kleine Nachtwanderung zum 7km entfernten Busbahnhof zu machen. 
 Leider war es dermaßen dunkel, dass man kaum die Hand vor Augen gesehen hat. So bin ich dann eine ganze Weile orientierungslos herumgeirrt, 
 die Richtung hat in etwa stimmen müssen, aber war ja auch niemand da den ich hätte fragen können. 
@@ -33,7 +33,7 @@ mal die Karte und Telefonnummer gegeben haben. Nachdem ich gesagt hatte, dass ic
 Freunden daheim in Tschechien (wie gesagt ich habe viele Identitäten verwendet) von der Freundlichkeit erzähle haben 
 sie mich dann auch in Ruhe gelassen und sind weitergefahren.
 
-Eine etwa 8stündige Busfahrt durch Gebirge und Steinwüsten später kam ich dann auch am nächsten Ort auf meiner Liste an: Ouarzazate. 
+Eine etwa 8-stündige Busfahrt durch Gebirge und Steinwüsten später kam ich dann auch am nächsten Ort auf meiner Liste an: Ouarzazate. 
 Unter anderem Drehort von Gladiator.
 Dort hat mich Mustafa empfangen, ein Jugendlicher, der ehrenamtlich einige Kung-Fu Gruppen leitet um so einigen „Problemkindern“ zu helfen, 
 da er nach eigenen Angaben selbst einmal eines war. Bei seiner Familie war anscheinend gerade High-Life, 
@@ -66,4 +66,4 @@ die man ab und an im Fernsehen sieht. Hellblaue Farbe, stark heruntergekommen, s
 Da es mehrere Gruppen waren habe ich eine ganze Weile mit gemacht, aber als meine Fußsohlen blutig waren hab ich dann doch lieber ausgesetzt, 
 hatte ja noch genug Tage übrig, an denen ich die weiterquälen konnte =)
 
-{% include gallery.html layout="third" %}
+{{ imageGallery(gallery, null, "third") }}

@@ -29,7 +29,7 @@ Die Tiere haben gemütlich gegrast und waren wegen dem Fluss leider nicht so gan
  
 Miez-Miez-Lockrufe haben nicht so ganz gewirkt, aber in die Hände klatschen hat eines der Nashörner etwas neugierig gemacht 
 und dazu bewegt den Fluss zu überqueren. Deren Augen sind angeblich ziemlich bescheiden, 
-so dass man sich nur aus deren Sichtfeld bewegen muss, so dass sie von einem ablassen. 
+sodass man sich nur aus deren Sichtfeld bewegen muss, sodass sie von einem ablassen. 
 Klar haben die auch eine gute Nase, aber in Dorfnähe sollte das nicht so ins Gewicht fallen 😉  
 
 Nach einigem Hier-bin-ich, Jetzt-bin-ich-weg war das Nashorn ca. 5m von uns entfernt und sah irgendwie schlecht gelaunt aus. 
@@ -37,13 +37,13 @@ Kam sich womöglich etwas verarscht vor…hätte es halt mal besser Karotten geg
 
 So kurzsichtig die Tiere ja sein mögen, sie kommen mit ihrem Horn und der schweren Panzerung schon sehr massiv 
 und respekteinflößend daher. Wenn man dann einige Meter Auge in Auge von einem ausgewachsenem Exemplar steht, 
-es langsam auf einen zu zutraben anfängt und man keine Deckung in kurzer Distanz hat wird einem schon etwas bange 
+es langsam anfängt auf einen zu zutraben und man keine Deckung in naher Distanz hat, wird einem schon etwas bange 
 und man merkt wie sich das Adrenalin im Körper verbreitet.
 
-Scheinbar waren wir nicht die einzigen die die Nashörner gesehen hatten und nach einiger Zeit wimmelte es nur von 
+Scheinbar waren wir nicht die einzigen, die die Nashörner gesehen hatten und nach einiger Zeit wimmelte es nur von 
 anderen Touristen und Parkwächtern, wodurch das ganze etwas langweilig wurde, es war aber sowieso schon recht dunkel.
 
 Und so ging es nach einer Kulturshow im Dorf zurück ins Hotel zu einer wohltuenden Dusche, 
-so dass die Geckos an den Wänden und der Decke die letzten Tiere für den Tag waren.
+sodass die Geckos an den Wänden und der Decke die letzten Tiere für den Tag waren.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}

@@ -28,8 +28,8 @@ nach etwas rumfragen wurde mir gesagt dass man mit dem Bus ca. 1h und dem Taxi ~
 Nach einem kurzen Blick auf die Karte hab ich mich dann fürs Laufen entschieden und war in 30min da. 
 7-Meilenstiefel muss man eben haben 😉  
 
-Die Tempelanlage befindet sich natürlich hoch oben auf einem Berg, so dass man erst unzählige Stufen nehmen muss. 
-Oben angekommen wird man als Weißhaut erstmal raus gezogen und um Eintritt gebeten. 
+Die Tempelanlage befindet sich natürlich hoch oben auf einem Berg, sodass man erst unzählige Stufen nehmen muss. 
+Oben angekommen wird man als Weißhaut erstmal rausgezogen und um Eintritt gebeten. 
 Gar nicht mal so blöd, wer würde auch nach dem beschwerlichen Weg wieder umdrehen? 
 Aber die zwei Euro Eintritt waren die Anlage, mit all seiner sakralen Ausstrahlung, 
 und der großartigen Aussicht über das Kathmandu-Tal durchaus wert. Neben der Stupa, einigen Säulen, 
@@ -45,7 +45,7 @@ Was mir aber leichter gefallen ist als anfangs angenommen und wer mich kennt,
 weiß das meine Beziehung zu Grünzeug „etwas speziell“ ist 😛
 
 War ich noch der Überzeugung, dass in Swayambunath viele Tauben waren, 
-wurde ich schnell eines besseren belehrt als ich auf dem Durbar Square angekommen bin. 
+wurde ich schnell eines Besseren belehrt als ich auf dem Durbar Square angekommen bin. 
 Rings um ein paar Tempel konnte man den Boden vor lauter grauen Vögeln nicht mehr sehen. 
 Und die Leute haben immer weiter Futter hingeworfen -.-
 
@@ -64,7 +64,7 @@ Ein normaler Europäer würde beim Anschauen des Gefährts Zweifel an dessen Tü
 aber würde ich mich als normalen Europäer bezeichnen? Eher nicht, also rein in das Ding, was sich auch noch 10 Nepalesen dachten. 
 Aber es war ja alles aus dem Auto gebaut und damit bestimmt so vorgesehen xD
 
-Innerhalb der 15km langen Fahrt, hat der Fahrer zweimal angehalten und den Wagenheber bzw. den Radmutterschlüssel geholt 
+Innerhalb der 15km langen Fahrt, hat der Fahrer zweimal angehalten und den Wagenheber bzw. den Radmutterschlüssel geholt, 
 um irgendwas zu reparieren oder so. War jedenfalls ziemlich abenteuerlich, und bei weitem spannender als die Vishnu-Statue…
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}

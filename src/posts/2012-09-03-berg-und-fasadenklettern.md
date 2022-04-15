@@ -33,10 +33,10 @@ war entweder eine Bergwand in Nahaufnahme oder eine steile Klippe nach unten und
   
 Nachdem ich in Tansen mein Zeugs in einem Hotel abgestellt habe ging es hoch auf den Berg an dessen Hang die Stadt erbaut ist. 
 Einen wirklichen Plan wo ich genau hinlaufe hatte ich mal wieder nicht, aber das macht es ja genau interessant 😛 
-Nach einiger Zeit im Wald stand ich vor einer großen Hanuman-Statue. Wer kam auf die Idee die da hin zu stellen? In meinen Augen etwas sinnfrei, 
+Nach einiger Zeit im Wald stand ich vor einer großen Hanuman-Statue. Wer kam auf die Idee die da hinzustellen? In meinen Augen etwas sinnfrei, 
 außer man möchte die Bewohner ermuntern öfter mal im Wald umher zu irren.
 
-Wieder zurück in der Stadt, hieß es erstmal Essen fassen. Im Restaurant in dem ich gegessen habe hatte der Besitzer auch schnell seine Tochter geholt, 
+Wieder zurück in der Stadt, hieß es erstmal Essen fassen. Im Restaurant, in dem ich gegessen habe, hatte der Besitzer auch schnell seine Tochter geholt, 
 um als Übersetzer zu fungieren. Etwas nachgedacht ist mir aufgefallen, dass ich schon lange keine anderen Touristen gesehen habe.
 
 Die Nacht im Hotel war grausam, als ich zurückkam war jedes Zimmer mit Einheimischen, die anscheinend keinen Schlaf benötigen, belegt. 
@@ -49,7 +49,7 @@ hab früher bei den Bundesjugendspielen nicht umsonst immer Ehren- und Siegerurk
 Wenig später im Bus hab ich festgestellt, dass ich doch nicht der einzige Touri in Tansen bin, 
 neben mir waren da noch mindestens 3 andere: Suzi, Thomas und Abbey. 
 Suzi ist eine Amerikanerin, die eine Ein-Jahres-Weltreise machen wollte und gerade im 6. Jahr davon ist 😉 Thomas und Abbey kamen aus London und reisen 3 Monate durch Asien. 
-Anfangs dacht ich noch 4 Wochen sind schon eine lange Zeit, aber gegen die Reisezeiten von vielen die ich getroffen habe 
+Anfangs dachte ich noch 4 Wochen sind schon eine lange Zeit, aber gegen die Reisezeiten von vielen die ich getroffen habe, 
 ist es etwas lächerlich…Irgendwann bin ich bestimmt auch mal für länger weg.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}

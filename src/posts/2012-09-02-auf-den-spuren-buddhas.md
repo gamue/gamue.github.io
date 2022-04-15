@@ -25,12 +25,12 @@ Eigentlich wollte ich noch etwas Geld wechseln, aber wie schon bei der Zugticket
 alle auf einmal vom Erdboden verschluckt. Aber gut, ich hatte ja noch knapp 3 Euro, damit sollte man Essen, 
 trinken und die 3h Busfahrt vom Zielbahnhof an die Grenze schon bezahlen können ^^
 
-Florian ist an dem Tag ebenfalls mit einem Nachtzug gefahren, so dass wir uns die Rikscha zum Bahnhof teilen und 
+Florian ist an dem Tag ebenfalls mit einem Nachtzug gefahren, sodass wir uns die Rikscha zum Bahnhof teilen und 
 dort gemeinsam die Zeit totschlagen konnten. Am Bahnhof hieß es ein letztes Mal den Charme indischer Bahnhöfe genießen, 
 was man sich in etwas wie eine Mischung zwischen uraltem Dachboden und einer billigen Geisterbahn auf der Dorfkirmes vorstellen kann 😉
 
 Die Nacht im Zug war nicht so bequem wie die letzte Nachtfahrt, aber immer noch um Welten besser was mich danach erwarteten sollte: 
-3 Stunden eingepfercht in einen Bussitz, so dass ich meine Beine irgendwie verwinkeln musste damit halbwegs annehmbar war. 
+3 Stunden eingepfercht in einen Bussitz, sodass ich meine Beine irgendwie verwinkeln musste damit halbwegs annehmbar war. 
 Untermalt war der Trip von einem sehr, sehr schlechten und überaus kitschigen Kampffilm im „Bordprogramm“. 
 Die 3 Stunden haben sich wie eine Ewigkeit angefühlt aber irgendwann stand ich dann endlich kurz vor der nepalesischen Grenze. 
 Das Ausstempeln aus Indien und das nepalische Visa bekommen ging auch recht unproblematisch, ein paar Formulare ausfüllen, 
@@ -49,7 +49,7 @@ Weil die Dämmerung schon angefangen hatte, wir aber noch etwas von der Gegend s
 also Rucksack in mein Zimmer werfen und Dusche an. Doch der Duschkopf wollte kein Wasser geben, 
 und so blieb nichts anderes übrig als weiter in den dreckigen Klamotten und dem vielen Staub auf der Haut herumzulaufen 🙁
 
-Von der Kreuzung führt ein kleiner Weg in einen Park, in dem Ummengen von Buddhistischen Tempeln errichtet wurden. 
+Von der Kreuzung führt ein kleiner Weg in einen Park, in dem Unmengen von Buddhistischen Tempeln errichtet wurden. 
 Es machte den Anschein, jede Buddhistische Richtung hat sich hier einen Tempel hingestellt.
 
 Um möglichst viel in der noch verbleibenden Helligkeit sehen zu können, haben wir uns Fahrräder gemietet. 
@@ -58,12 +58,12 @@ hat er 100 Rupie für 3 Räder ohne zu zögern akzeptiert. Und so ging es dann a
 Pagoden und über die steinernen Feldwege. Neben der Weltfriedenspagode waren gerade einige Mönche in einem kleinen Tempel beim Meditieren, 
 deren Einladung mitzumachen wir natürlich nicht abweisen konnten 😉
 
-Als wir wieder aus dem Tempel kamen war die Dunkelheit vollständig über Lumbini hereingebrochen. 
+Als wir wieder aus dem Tempel kamen, war die Dunkelheit vollständig über Lumbini hereingebrochen. 
 Straßenbeleuchtung ist vermutlich ein Fremdwort in Nepal, und auch die Mieträder entsprechen nicht deutschen Sicherheitsvorschriften. 
-Zum Glück hatte ich aber meine Stirnlampe noch umgepackt, so dass mir diese bei der rasanten Fahrradfahrt zurück Licht spenden konnte.
+Zum Glück hatte ich aber meine Stirnlampe noch umgepackt, sodass mir diese bei der rasanten Fahrradfahrt zurück Licht spenden konnte.
 
-Wieder im Hotel gab’s eine gute Nachricht: die Dusche wurde repariert.
+Wieder im Hotel gab’s eine gute Nachricht: Die Dusche wurde repariert.
 
 Grandioser Tag!
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
