@@ -33,7 +33,6 @@ Folgende Optionen stehen im Frontmatter zur Verfügung:
 - `lightbox`: `true` falls das SimpleLightbox-Skript in der Seite verfügbar sein soll. Jedoch nicht notwendig, wenn `gallery` gesetzt ist.
 - `masonry`: `true` falls das Masonry-Skript in der Seite verfügbar sein soll.
 - `show_meta_data`: `true` falls Veröffentlichungsdatum und Lesezeit beim Artikel angezeigt werden soll.
-- `sitemap`: `false` falls die Seite oder der Artikel nicht in der Sitemap berücksichtigt werden soll.
 
 ## Kategorien / Tags
 

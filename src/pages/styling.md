@@ -19,7 +19,7 @@ gallery2:
     - image_path: assets/photography/2014_11_laos/Laos_589.jpg
 gallerySingle:
     - image_path: assets/photography/2017_04_japan/Japan_0022.jpg
-sitemap: false
+eleventyExcludeFromCollections: true
 published: false
 ---
 {%- from "macros/gallery.njk" import imageGallery -%}
