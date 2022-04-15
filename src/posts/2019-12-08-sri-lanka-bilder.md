@@ -19,15 +19,18 @@ tags:
 ---
 
 Fast auf den Tag genau vor 3 Jahren ging es nach Sri Lanka.
-Wurde also mal Zeit, sich um die Bilder zu kümmern, die nun in der [Galerie online sind]({% link _pages/photography/2016-12-sri-lanka.md %}).
+Wurde also mal Zeit, sich um die Bilder zu kümmern, die nun in der [Galerie online sind][1].
 Die zugehörige Länderseite folgt ebenfalls ~~bald, dafür fehlen noch ein paar Kleinigkeiten~~ ;)
 
-**EDIT:** Das mit der [Länderseite von Sri Lanka](/sri-lanka/) ging doch schneller als gedacht.
+**EDIT:** Das mit der [Länderseite von Sri Lanka][2] ging doch schneller als gedacht.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2016-12-sri-lanka.md %}){: .btn}
+[Zur kompletten Bildergalerie][1]{: .btn}
 
-Als nächstes stehen dann die Bilder aus Japan, Jordanien, Vietnam, Georgien und Belize an. 
+Als Nächstes stehen dann die Bilder aus Japan, Jordanien, Vietnam, Georgien und Belize an. 
 Vom Bilderumfang her werden das auch etwas größere Projekte, aber ich bin gerade in einem guten Flow. 
 Daumen drücken, dass ich bald mal wieder aktuell bin. Die nächsten Reisen kommen bestimmt ^^
+
+[1]: {% post_url collections.galleries, '2016-12-sri-lanka' %}
+[2]: {% post_url collections.laender, 'sri-lanka' %}

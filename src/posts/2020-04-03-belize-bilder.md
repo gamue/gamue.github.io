@@ -20,14 +20,16 @@ tags:
 
 Das Gute am Kontaktverbot ist, dass ich große Fortschritte bei den Reisebildern mache. 
 Zudem bummel ich gerade noch einige Resturlaubstage von letztem Jahr ab, was auch dazu beiträgt voran zukommen und 
-so sind nun auch die [Bilder von der Belize-Reise online]({% link _pages/photography/2019-04-belize.md %}). 
-Zusätzlich hab ich auf der [zugehörige Länderseite]({% link _pages/countries/belize.md %}) passende Bilder verteilt, 
-so dass die auch fertig ist.
+so sind nun auch die [Bilder von der Belize-Reise online][1]. 
+Zusätzlich hab ich auf der [zugehörigen Länderseite][2] passende Bilder verteilt, sodass die auch fertig ist.
 
 Belize kann ich als Reiseland in jedem Fall empfehlen, war ein sehr entspannter und schöner Trip mit viel Natur und netten Menschen.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2019-04-belize.md %}){: .btn}
+[Zur kompletten Bildergalerie][1]{: .btn}
 
 Dann fehlen jetzt nur noch die Bilder aus Vietnam, Japan und Georgien :)
+
+[1]: {% post_url collections.galleries, '2019-04-belize' %}
+[2]: {% post_url collections.laender, 'belize' %}

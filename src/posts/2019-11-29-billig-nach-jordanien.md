@@ -26,7 +26,7 @@ gerade beim Visum oder den Kosten sollte jeder nochmal selbst recherchieren.
 
 ## Über Eilat nach Aqaba
 
-{% cloudinary /assets/2019-11-29-billig-nach-jordanien/ovda_airport.jpg alt="Ovda Airport" %}
+{% cloudinary "/assets/2019-11-29-billig-nach-jordanien/ovda_airport.jpg", "Ovda Airport" %}
 
 Zum Zeitpunkt meiner Reise im November 2017 hat Ryanair die Strecke von Berlin nach Eilat-Ovda in den Flugplan aufgenommen 
 und weil Israel den Tourismus in der Gegend fördern wollte, waren die Tickets entsprechend subventioniert und dadurch ziemlich günstig ;)
@@ -57,12 +57,12 @@ denn auf dem Formular waren folgende Kriterien vorhanden:
 
 Warum man das nicht auf offiziellen Seiten findet, weiß ich bisher nicht.
 
-{% include gallery.html caption="Grenzübergang Wadi Araba (links) und Visadokument (rechts)" %}
+{{ imageGallery(gallery, "Grenzübergang Wadi Araba (links) und Visadokument (rechts)", "half") }}
 
 
 ## Alternativen über Aqaba & Amman
 Mittlerweile werden auch die Jordanischen Flughäfen Aqaba und Amman von Billigairlines angeflogen, 
-so dass man sich die israelische Ausreisegebühr sowie den Grenzübergang sparen kann, 
+sodass man sich die israelische Ausreisegebühr sowie den Grenzübergang sparen kann, 
 was es nochmal einfacher macht und dadurch dass man die strengen Befragungen in israelischen Flughäfen vermeidet, 
 spart man auch etliches an Zeit.
 
@@ -71,6 +71,6 @@ denn Aqaba ist immer noch dabei um Touristen zu kämpfen und so ist das Visum ko
 Macht man das Gleiche über Amman, so muss man hingegen die Gebühren zahlen. Und je nach Angebot ist das Visum teurer als die Flüge ;)
 
 ## Jordan Pass
-Für jeden, der nicht um das Visum herumkommt kommt oder viele Sehenswürdigkeiten besuchen möchte, 
+Für jeden, der nicht um das Visum herumkommt oder viele Sehenswürdigkeiten besuchen möchte, 
 dem sei an dieser Stelle auch der [Jordan Pass](https://jordanpass.jo/) ans Herz gelegt. Für 70-80 JOD (ca 90-100 EUR) ist 
 dort das Visum und der Eintritt zu vielen Attraktionen (Petra eingeschlossen) enthalten, sodass sich der Pass sehr schnell rechnet.

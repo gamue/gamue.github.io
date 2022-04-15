@@ -23,8 +23,10 @@ Wobei so einige Gründe und Gelegenheiten würden mir da schon noch einfallen :D
 Mal schauen wie lange ich für die Reisen der letzten 4 Jahre benötige, auch wenn es bestimmt eine Weile dauern wird, 
 ist es bestimmt schön sich an die verschiedenen Orte, Menschen und Momente zurückzuerinnern.
 
-Von daher verliere ich nicht viel Zeit und los geht es mit der Reise nach Kreta, deren Bilder ihr [hier]({% link _pages/photography/2016-05-kreta.md %}) findet.
+Von daher verliere ich nicht viel Zeit und losgeht es mit der Reise nach Kreta, deren Bilder ihr [hier][1] findet.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2016-05-kreta.md %}){: .btn}
+[Zur kompletten Bildergalerie][1]{: .btn}
+
+[1]: {% post_url collections.galleries, '2016-05-kreta' %}

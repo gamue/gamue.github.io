@@ -21,25 +21,25 @@ Ein Thema, dass es zu lösen gab, war das Erstellen von Thumbnails bzw. die Konv
 damit die einzelnen Seiten schneller laden.
 
 Eine Möglichkeit wäre es gewesen, die Bilder bei einem speziellen Provider wie z.B. [cloudinary](https://cloudinary.com/) hosten zu lassen, 
-so dass ich einfach Varianten in diversen Bildergrößen anfragen hätte können. 
+sodass ich einfach Varianten in diversen Bildergrößen anfragen hätte können. 
 Da ich die Seite oder Teile davon aber nicht bei zwei verschiedenen Diensten hochladen wollte, hab ich einen anderen Weg gesucht, 
 der komplett ohne einen weiteren Dienst auskommt und somit etwas einfacher ist. 
-Nach etwas Recherche bin ich auf [Gulp](https://gulpjs.com/) gestoßen, was an sich ganz spannend und nach dem richtigen Werkzeug aussah um wiederkehrende Prozesse zu automatisieren.
+Nach etwas Recherche bin ich auf [Gulp][1] gestoßen, was an sich ganz spannend und nach dem richtigen Werkzeug aussah, um wiederkehrende Prozesse zu automatisieren.
 Also hab ich mich darin etwas eingelesen, die nötigen Pakete auf meinem Rechner installiert und ziemlich schnell war auch die erste Variante meines Skripts fertig, aber fangen wir am Anfang an.
 
 # Ausgangslage
 Ich hab Versionen von meinen Bildern in größeren Auflösungen vorliegen, die dementsprechend auch relativ wie Speicherplatz benötigen und damit auf einer Galerie-Seite für das Web nicht geeignet sind.
 Daher sollen aus diesen Bildern kleinere Varianten zu Vorschauzwecken zu generiert werden. Weil das eine Aufgabe ist, 
-die jedesmal beim Hochladen von neuen Bilder anfällt, soll es entsprechend einfach und schnell gehen.
+die jedes Mal beim Hochladen von neuen Bilder anfällt, soll es entsprechend einfach und schnell gehen.
 
 # Umsetzung
 Der Aufbau eines Gulp-Skripts ist recht einfach: Zuerst wird definiert welche Dateien verarbeitet werden, dann die Logik was gemacht und am Ende wohin das Ergebnis ausgegeben werden soll.
-Zugegebener Weise war ich nicht der Erste, der Gulp für diesen Anwendungsfall benutzt, so dass sich im Netz etliche Seiten, 
+Zugegebener Weise war ich nicht der Erste, der Gulp für diesen Anwendungsfall benutzt, sodass sich im Netz etliche Seiten, 
 Skripte und Bibliotheken finden, die man sich anschauen und von denen man sich bedienen kann. 
-Die Kunst ist es aber zu wissen was man will und worin sich sein Anwendungsfall von dem Anwendungsfall unterscheidet, den man sich gerade anschaut. ;) 
+Die Kunst ist es aber zu wissen, was man will und worin sich sein Anwendungsfall von dem Anwendungsfall unterscheidet, den man sich gerade anschaut. ;) 
 
 Bei den Bildern sieht meine Dateistruktur aktuell in etwa so aus:
-```
+```txt
 ./assets/photography
 ├── /2009_02_irland
 ├── /2009_09_israel
@@ -48,7 +48,7 @@ Bei den Bildern sieht meine Dateistruktur aktuell in etwa so aus:
 
 Meine erste Überlegung war die Vorschaubilder (=Thumbnails) in einem Unterordner bei den großen Versionen abzulegen. 
 Das Ergebnis hätte in etwa folgend ausgesehen:
-```
+```txt
 ./assets/photography
 ├── /2009_02_irland
 │   └── /thumbnails
@@ -62,7 +62,7 @@ denn Gulp scheint mir dafür ausgelegt zu sein getrennte Eingangs- und Ausgangsv
 Und am Ende macht es für die Homepage und mich keinen Unterschied wo die Dateien liegen, Hauptsache sie folgen einer definierten Struktur.
 
 Die finale Struktur sieht wie folgt aus: 
-```
+```txt
 ./
 ├── /assets/photography
 │   └── /2009_02_irland
@@ -112,34 +112,36 @@ dann werden diese ignoriert. So werden nur die Dateien verarbeitet, die neu sind
 Dass war der Teil der am meisten Schwierigkeiten mit den vorherigen Ordnerstrukturen bereitet hat.
 4. In `imageResize` passiert die meiste Magie, den diese Zeile ist für die Erstellung der kleineren Bilder zuständig. 
 In meinem Fall hab ich mit `width` und `heigth` definiert, dass die längste Seite des Bilder 400 Pixel sein soll. 
-`upscale: false` verhindert dabei, dass kleinere Bilder vergrößert werden und `crop: false` besagt dass das Seitenverhältnis beibehalten werden soll.
+`upscale: false` verhindert dabei, dass kleinere Bilder vergrößert werden und `crop: false` besagt, dass das Seitenverhältnis beibehalten werden soll.
 Bei `crop: true` würde ich quadratische Vorschaubilder im Format 400x400 bekommen, die ein Ausschnitt des größeren Bildes sind, was ich aber jedoch nicht will.
-5. `imagemin` komprimiert die Bilder noch etwas, so dass die Dateigröße noch etwas kleiner wird. Natürlich ohne die Qualität des Bildes zu beinträchtigen.
-6. `gulp.dest` definiert das Ausgabeverzeichnis, wobei der bisherige Pfad eines Bildes erhalen bleibt, 
-so dass nicht alle Bilder direkt im `thumbnails`-Ordner sind, sondern ihre bisherige Ordnerstruktur beibehalten. 
+5. `imagemin` komprimiert die Bilder noch etwas, sodass die Dateigröße noch etwas kleiner wird. Natürlich ohne die Qualität des Bildes zu beeinträchtigen.
+6. `gulp.dest` definiert das Ausgabeverzeichnis, wobei der bisherige Pfad eines Bildes erhalten bleibt, 
+sodass nicht alle Bilder direkt im `thumbnails`-Ordner sind, sondern ihre bisherige Ordnerstruktur beibehalten. 
 
 Immer wenn ich jetzt neue Bilder einfüge oder bestehende ändere, führe ich einfach den Befehl `gulp` auf der Kommandozeile aus 
 und die neuen Vorschaubilder werden innerhalb von ein paar Sekunden erzeugt :)
 
 # Ergebnis
-Ich bin mit der Variante sehr zufrieden und es hat auch Spaß gemacht mit [Gulp](https://gulpjs.com/) zu experiementieren.
+Ich bin mit der Variante sehr zufrieden und es hat auch Spaß gemacht mit [Gulp][1] zu experimentieren.
 Das Skript ist recht simpel und die Laufzeit ist, mit ein paar Sekunden, relativ gering, besonders wenn es nur neue Bilder verarbeiten muss.
 
-Aber ich hatte das Ganze ja gemacht um die Ladezeit der Seite zu verkürzen und daher hier ein paar Daten, um das Ergebnis zu bewerten.
+Aber ich hatte das Ganze ja gemacht, um die Ladezeit der Seite zu verkürzen und daher hier ein paar Daten, um das Ergebnis zu bewerten.
 Für die Performance-Messungen habe ich [Pingdom](https://tools.pingdom.com/) mit dem Standort "Europe - Germany - Frankfurt" genutzt 
 und mehrere Versuche mit etwas Zeitabstand durchgeführt.
 
 - Die Ausgangsvarianten der Bilder sind ca 238 MB groß, die gleichen Bilder haben in der kleinen Variante 20.6 MB, 
-was schon eine betrachtliche Ersparnis ist.
+was schon eine beträchtliche Ersparnis ist.
 - Die **Startseite** ist von 2.3 MB auf 1.3 MB geschrumpft, wobei hier natürlich die wenigsten Bilder angezeigt werden. 
-Zusätzlich muss ich erwähnen, dass ca. die Hälfte der jetzige Datenmenge auf das Headerbild gehen, 
+Zusätzlich muss ich erwähnen, dass ca. die Hälfte, der jetzige Datenmenge auf das Headerbild gehen, 
 welches noch ausgewechselt werden wird. Die Ladezeiten reduzierten sich von ca. 700-800ms auf 200-250ms.
 - Die **Galerieübersicht**-Seite hatte vor der Umstellung 7 MB und benötigte zwischen 600ms und 2s zum Laden. 
 Danach war die Seite unter 1 MB groß und die gemessenen Ladezeiten waren im Bereich von 300-600ms.
-- Die **Zypern-Galerie** hat sich von 15.8 MB auf 2.1 MB verkleinert und die Ladezeiten sind von 400ms - 2.3s auf ca 500ms runtergegangen.
+- Die **Zypern-Galerie** hat sich von 15.8 MB auf 2.1 MB verkleinert und die Ladezeiten sind von 400ms - 2.3s auf ca 500ms heruntergegangen.
 - Die **Thailand-Galerie**, als bisher größte Seite, brachte es mit ihren Bildern auf 28.7 MB und Ladezeiten zwischen 500ms und 4s.
 Ich kenne noch Zeiten, da hätte man für das Übertragen solcher Datenmengen Stunden benötigt ;) 
 Durch die Änderung waren es dann nur noch 2.9 MB und zwischen 300ms und 1.3s
 
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
+
+[1]: https://gulpjs.com/

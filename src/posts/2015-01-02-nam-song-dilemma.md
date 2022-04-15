@@ -19,10 +19,10 @@ Vor allem mein knapp 4-wöchiger Asien-Trip wird mir noch lange positiv im Gedä
 Auch wenn ich dort einen herben Verlust zu beklagen hatte, denn meine Actioncam hat sich beim Tubing verabschiedet und 
 liegt nun am Grund des [Nam Song Flusses](http://en.wikipedia.org/wiki/Nam_Song_River) in Laos 🙁
 
-Die Kamera sollte auf dem Trip meine bisherige Zweit-Kamera ersetzen, da ich nicht immer die große Spiegelreflex mitschleppen will. 
+Die Kamera sollte auf dem Trip meine bisherige Zweit-Kamera ersetzen, da ich nicht immer die große Spiegelreflexkamera mitschleppen will. 
 Zudem eröffneten sich durch dessen Weitwinkelobjektiv andere Aufnahmemöglichkeiten. Aus den geschossenen Videos wollte ich 
 zudem mal versuchen etwas zusammen zuschnippeln, ist ja irgendwie im Trend^^, aber das wird nun nichts mehr… vielleicht nächstes Mal, 
-denn die Zeit in der ich die Kamera hatte war sie schon sehr praktisch und das Material was daraus entstanden war, 
+denn die Zeit, in der ich die Kamera hatte, war sie schon sehr praktisch und das Material, was daraus entstanden war, 
 sah schon ziemlich brauchbar aus. Eine Actioncam steht daher wieder auf der Anschaffungsliste, zufrieden war ich mit meiner jedenfalls 😉
 
 Der Verlust der Kamera, auch wenn diese nicht ganz billig war, ärgert mich aber nicht so sehr wie die ~10 GB Bild- und Filmmaterial, 

@@ -22,12 +22,15 @@ Neu online sind Bilder der Reisen nach Rom und Riga aus dem Jahr 2016 und dem Ku
 Ich nähere mich also zielstrebig dem aktuellen Datum, auch wenn die Reisen mit den meisten Bildern noch ausstehen ;) 
 
 In Riga und Finnland habe ich nicht so viele Bilder geschossen,
-so dass diese in der [allgemeinen Galerie](/photography/here-there-and-everywhere/) untergekommen sind.
+sodass diese in der [allgemeinen Galerie][1] untergekommen sind.
 
-[Zur allgemeinen Reise-Galerie]({% link _pages/photography/0001-00-around-the-world.md %}){: .btn} 
+[Zur allgemeinen Reise-Galerie][1]{: .btn} 
 
-Beim Rom-Trip hat die Kamera dann doch mehr geklickt und so gibt es hierfür eine [eigene Galerie](/photography/rom-2016/).
+Beim Rom-Trip hat die Kamera dann doch mehr geklickt und so gibt es hierfür eine [eigene Galerie][2].
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Zur kompletten Rom-Galerie]({% link _pages/photography/2016-09-rom.md %}){: .btn}
+[Zur kompletten Rom-Galerie][2]{: .btn}
+
+[1]: {% post_url collections.galleries, '0001-00-around-the-world' %}
+[2]: {% post_url collections.galleries, '2016-09-rom' %}

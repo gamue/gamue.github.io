@@ -15,11 +15,11 @@ Und dabei war ich dieses Jahr noch gar nicht wirklich auf Reisen, sondern bin &#
 Normalerweise ist ein Umzug an sich ja nicht extrem aufwändig, in meinem Fall waren auch all meine Möbel und Habseligkeiten 
 innerhalb von einem Vormittag in den neuen Räumen, weil es aber eine Eigentumswohnung ist, gab es dieses Mal noch deutlich mehr zu tun: 
 Sich mit dem Bauträger oder Handwerkern ärgern, auf Eigentümerversammlungen rumhängen und immer mal wieder Ausflüge in 
-Möbelhauser oder Baumärkte&#8230;also mehr so Sachen die nur begrenzt Spass machen. Neben der Arbeit und dem 
+Möbelhauser oder Baumärkte&#8230;also mehr so Sachen, die nur begrenzt Spass machen. Neben der Arbeit und dem 
 restlichen Privatleben kam ich dann einfach nicht dazu meine Erlebnisse niederzuschreiben :/
 
 Aber vielleicht schaff ich es demnächst mal wieder etwas mehr zu schreiben, die Wohnung ist nämlich recht fertig 
-eingerichtet und besitzt sogar eine Schlafcouch, sollte sich also mal einer meiner Freunde nach Berlin verirren wäre für ein Schlafplatz gesorgt 😉
+eingerichtet und besitzt sogar eine Schlafcouch, sollte sich also mal einer meiner Freunde nach Berlin verirren wäre für einen Schlafplatz gesorgt 😉
 
 Um aber wieder auf die Reisen zurückzukommen, wie gesagt, dieses Jahr hab ichs noch nicht wirklich oft in die Ferne geschafft, 
 was ich in den nächsten Monaten etwas aufholen sollte&#8230;so geht’s zum Beispiel morgen nach Zypern \*yeah\*

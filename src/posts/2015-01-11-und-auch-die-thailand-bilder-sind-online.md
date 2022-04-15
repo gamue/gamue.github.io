@@ -21,10 +21,13 @@ tags:
 Mit den Thailand-Bildern sind nun auch die letzten Fotos meines letztjährigen Asientrips online, 
 wurden doch ein paar mehr als anfangs gedacht, aber hoffe das stört niemanden 😀
 
-Auf der Tour hatte ich insgesamt knapp 2800 Bilder geschossen, wohlgemerkt ohne [die Verlorenen.](/nam-song-dilemma/ "Nam Song Dilemma") 
+Auf der Tour hatte ich insgesamt knapp 2800 Bilder geschossen, wohlgemerkt ohne [die Verlorenen.][1] 
 Das ein oder andere Bild würde sich also noch auf meiner Festplatte befinden, 
 aber glaub die jetzt ausgewählten spiegeln ganz gut die Orte wieder, an denen ich war.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Hier geht's zur kompletten Thailand-Galerie]({% link _pages/photography/2014-10-thailand.md %}){: .btn}
+[Hier geht's zur kompletten Thailand-Galerie][2]{: .btn}
+
+[1]: {% post_url collections.posts, '2015-01-02-nam-song-dilemma' %}
+[2]: {% post_url collections.galleries, '2014-10-thailand' %}

@@ -20,7 +20,7 @@ categories:
 Wie vermutlich jeder, hab ich im Mai die Daumen für weitere Corona-Lockerungen gedrückt und glücklicherweise wurden 
 auch etliche beschlossen, sodass wir wieder einen Schritt in Richtung Normalität gemacht haben. 
 Ich bin mir zwar nicht sicher, ob wir in absehbarer Zeit von Normalität reden können, 
-aber immerhin kann man sich nun mit einigen Leuten treffen und für unsere Hochzeitsfeier Mitte Juli sieht soweit auch alles gut aus. <br> 
+aber immerhin kann man sich nun mit einigen Leuten treffen und für unsere Hochzeitsfeier Mitte Juli sieht so weit auch alles gut aus. <br> 
 Dadurch, dass alle Läden geschlossen hatten, hab ich bisher zwar noch keinen Anzug, 
 aber denke, das sollte sich auch noch organisieren lassen^^
 
@@ -32,9 +32,9 @@ Es war zudem toll sich wieder an die Reise zurückzuerinnern und am liebsten wü
 Auch wenn es eher ein Städtetrip war, so hab ich sehr viele Bilder von Tieren machen können. 
 Gerade der Besuch bei den Schneeaffen war eines meiner Highlights, ebenso wie die frei laufenden Rehe in Nara.
 
-{% include gallery.html layout="half" %}
+{{ imageGallery(gallery, null, "half") }}
 
-[Zur kompletten Bildergalerie]({% link _pages/photography/2017-04-japan.md %}){: .btn}
+[Zur kompletten Bildergalerie][1]{: .btn}
 
 Wenn ihr mehr zu Japan wissen wollt und Prime Video habt, dann kann ich [James May: Unser Mann in Japan](https://www.amazon.de/gp/video/detail/B0856QKBYR/ref=atv_dp_share_cu_r) empfehlen. 
 Sehr unterhaltsam und gibt einen guten Einblick in das Land.
@@ -44,9 +44,9 @@ Sehr unterhaltsam und gibt einen guten Einblick in das Land.
 Ich kann es fast noch nicht glauben, aber jetzt habe ich nur noch die Bilder der Vietnam-Reise unverarbeitet auf der Festplatte 
 und danach bin ich tatsächlich up-to-date mit allen Bildern bevor es auf die nächste Tour geht.
 
-Eigentlich sollte es ja [Mitte Juli nach Bali gehen]({% link _posts/2020-05-31-bayern-statt-bali.md %}), aber den Trip haben wir aufgrund der weltweiten Situation storniert, 
+Eigentlich sollte es ja [Mitte Juli nach Bali gehen][2], aber den Trip haben wir aufgrund der weltweiten Situation storniert, 
 sind aber gerade dabei eine Alternative zu planen. Sehr wahrscheinlich eine Autotour innerhalb von Deutschland, 
-was heißt ich hab nahezu keine Begrenzung bei der Ausrüstung und könnte alles mitnehmen, mal schauen ob ich das mache :D
+was heißt, ich hab nahezu keine Begrenzung bei der Ausrüstung und könnte alles mitnehmen, mal schauen, ob ich das mache :D
 
 Ich freu mich aber jetzt erstmal mich den Vietnam-Bildern zu widmen und in den Erinnerungen zu schwelgen, 
 denn dort war es sehr schön. Neben den landschaftlichen Highlights, 
@@ -74,8 +74,10 @@ in nächster Zeit etwas an der Einrichtung zu ändern. Bestellung Nummer 1 war e
 nach der ersten Woche Nutzung frage ich mich, warum ich das nicht schon früher gemacht hab. 
 Mal schauen was als Nächstes dran ist ;)
 
-{% include gallery.html id="homeoffice" caption="Meine aktuelle Arbeitsecke inklusive neuem Stuhl" %}
+{{ imageGallery(homeoffice, "Meine aktuelle Arbeitsecke inklusive neuem Stuhl", "half") }}
 
-Da in der letzten Rundmail von meinem Arbeitsgeber der Homeoffice-Zeitraum auf mindestens 1. September verlängert worden ist, 
+Da in der letzten Rundmail von meinem Arbeitgeber der Homeoffice-Zeitraum auf mindestens 1. September verlängert worden ist, 
 wird sich das sicherlich lohnen, auch weil "mindestens" in dick geschrieben worden ist ...schauen wir mal wie lang es tatsächlich wird.
  
+[1]: {% post_url collections.galleries, '2017-04-japan' %}
+[2]: {% post_url collections.posts, '2020-05-31-bayern-statt-bali' %}
