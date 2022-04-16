@@ -11,6 +11,7 @@ const dateFilters = require("./src/_11ty/date_filters.js");
 const readTime = require("./src/_11ty/read_time.js");
 const utils = require("./src/_11ty/utils.js");
 const postArchives = require("./src/_11ty/post_archives.js");
+const minHtml = require("./src/_11ty/minhtml.js");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -75,6 +76,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
   eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
+
+  if(process.env.NODE_ENV === 'production'){
+    eleventyConfig.addTransform("htmlmin", minHtml);
+  }
 
   // Automatically import macros on every page
   // (otherwise we need to manually include on each page that uses them)
