@@ -1,5 +1,6 @@
 {
   "layout": "layouts/post.njk",
   "tags": "posts",
-  "show_meta_data": true
+  "show_meta_data": true,
+  "seoType": "article"
 }
