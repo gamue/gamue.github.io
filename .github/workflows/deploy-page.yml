@@ -1,35 +1,29 @@
-name: Build and deploy Jekyll to GitHub Pages
+name: Build and deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   github-pages:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.7
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
           node-version: '14'
-      - run: npm ci
-      - run: npm run css:rel
-      - name: Install dependencies & Build Site
-        uses: limjh16/jekyll-action-ts@v2
-        with:
-          enable_cache: true
+      - name: Install dependencies and build
+        run: |
+            npm ci
+            npm run build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.JEKYLL_PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
           publish_branch: 'gh-pages'
           user_name: 'github-actions[bot]'

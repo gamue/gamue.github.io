@@ -36,7 +36,7 @@ Folgende Optionen stehen im Frontmatter zur Verfügung:
 
 ## Kategorien / Tags
 
-Artikel können in Jekyll über Kategorien und Tags organisiert werden. 
+Artikel werden über Kategorien und Tags organisiert. 
 Da es dabei leider keine Hierarchieebenen dabei gibt, nutze ich als Definition Kategorien als Hauptebene und Tags als Unterkategorien.
 
 Die Seite ist aktuell so strukturiert:
@@ -58,5 +58,4 @@ Die Seite ist aktuell so strukturiert:
 ## Styling
 
 Um den Überblick über alle verwendeten Elemente und Styles zu behalten, 
-sind alle auf [einer Seite](http://localhost:8080/style/) vorhanden. Um diese sehen zu können, 
-muss Jekyll mit dem Parameter `--unpublished` lokal gestartet werden.
+sind alle auf [einer Seite](http://localhost:8080/style/) vorhanden.
