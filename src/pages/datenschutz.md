@@ -148,64 +148,7 @@ Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung de
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, 
 Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
 
-# 4. Analyse Tools und Werbung
-
-### Google Analytics
-Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. 
-Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics verwendet sogenannte "Cookies". 
-Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. 
-Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
-
-Die Speicherung von Google-Analytics-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. 
-Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren.
-
-#### IP-Anonymisierung
-Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. 
-Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. 
-Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. 
-Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, 
-um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. 
-Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
-
-#### Browser Plugin
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; 
-wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. 
-Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, 
-indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de).
-
-#### Widerspruch gegen Datenerfassung
-Sie können die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. 
-Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zukünftigen Besuchen dieser Website verhindert: [Google Analytics deaktivieren](javascript:gaOptout()).
-
-Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerklärung von Google: [https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=de).
-
-#### Auftragsdatenverarbeitung
-Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.
-
-#### Demografische Merkmale bei Google Analytics
-Diese Website nutzt die Funktion "demografische Merkmale" von Google Analytics. 
-Dadurch können Berichte erstellt werden, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. 
-Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. 
-Diese Daten können keiner bestimmten Person zugeordnet werden. 
-Sie können diese Funktion jederzeit über die Anzeigeneinstellungen in Ihrem Google-Konto deaktivieren oder die Erfassung Ihrer Daten durch Google Analytics wie im Punkt "Widerspruch gegen Datenerfassung" dargestellt generell untersagen.
-
-# 5. Plugins und Tools
-
-### Disqus-Kommentarfunktion
-Wir nutzen das DISQUS-Kommentarsystem, das von der Firma DISQUS Inc., 301 Howard St., Suite 300, San Francisco, CA 94105, USA, bereitgestellt wird.
-
-Die Datenschutzinformationen von DISQUS finden Sie unter [https://help.disqus.com/customer/portal/articles/466259-privacy-policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) und bei der Kommentarfunktion selbst. 
-DISQUS erlaubt die Anmeldung entweder über ein eigenes DISQUS-Nutzer-Konto oder über bestehende Nutzer-Konten bei Facebook, Twitter und Google Plus. 
-Sofern Sie sich mit Ihren Accounts der Social-Media-Angebote bei der DISQUS-Funktion auf unseren Webseiten anmelden, 
-werden auch diese Diensteanbieter Informationen zu Ihrer Nutzung der DISQUS-Funktionen erheben und verarbeiten. 
-Weitere Informationen hierzu finden Sie in den Datenschutzinformationen der jeweiligen Anbieter.
-
-Wir betten lediglich DISQUS mit seinen Funktionen in unsere Webseite ein, wobei wir auf die Kommentare der Nutzer Einfluss nehmen können. 
-Die Nutzer treten jedoch in eine unmittelbare Vertragsbeziehung mit DISQUS ein, 
-in deren Rahmen DISQUS die Kommentare der Nutzer verarbeitet und ein Ansprechpartner für eine etwaige Löschung der Daten der Nutzer ist. 
-Wir verweisen auf die Datenschutzerklärung von DISQUS und weisen die Nutzer ebenfalls darauf hin, dass sie davon ausgehen können, 
-dass DISQUS neben dem Kommentarinhalt auch deren IP-Adresse und den Zeitpunkt des Kommentars speichert. 
-Ebenfalls können Cookies auf den Rechnern der Nutzer gespeichert und zur Darstellung von Werbung genutzt werden.
+# 4. Plugins und Tools
 
 ### Google Maps
 Diese Seite nutzt den Kartendienst Google Maps. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
