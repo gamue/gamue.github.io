@@ -53,6 +53,7 @@ module.exports = function(eleventyConfig) {
       }
   });
 
+  eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/favicon*");
   eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
