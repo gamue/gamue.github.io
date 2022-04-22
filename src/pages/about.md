@@ -121,7 +121,7 @@ visitedCountries:
       code: CY
       link: /photography/zypern-2015/
 ---
-<p class="float-left mr-2">
+<p class="float-left mr-2 w-64">
 {% cloudinary "/assets/images/2013-08-17_Rumaenien_mit_Johannes_032.jpg", "Unterwegs in Rumänien", "", "", null, true, true %}
 </p>
 
