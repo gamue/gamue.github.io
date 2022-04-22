@@ -12,6 +12,7 @@ const readTime = require("./src/_11ty/read_time.js");
 const utils = require("./src/_11ty/utils.js");
 const postArchives = require("./src/_11ty/post_archives.js");
 const minHtml = require("./src/_11ty/minhtml.js");
+const environment = require("./src/_data/site.js").environment;
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -77,7 +78,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
   eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
 
-  if(process.env.NODE_ENV === 'production'){
+  if(environment === 'prod'){
     eleventyConfig.addTransform("htmlmin", minHtml);
   }
 

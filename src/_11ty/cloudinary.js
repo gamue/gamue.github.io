@@ -1,3 +1,4 @@
+const site = require("../_data/site.js");
 const srcsetWidthsDefault = [ 320, 640, 830, 1000];
 const fallbackWidthDefault = 800;
 const srcsetWidthsThumbnail = [ 100, 250, 400];
@@ -6,7 +7,7 @@ const fallbackWidthThumbnail = 300;
 const printHtml = (path, alt, sizes, className, caption, lazyLoading=true, thumbnail=false) => {
 
  const lazyHtml = lazyLoading ? 'lazy' : 'eager';
- const isProd = process.env.NODE_ENV === 'production';
+ const isProd = site.environment === 'prod';
  path = correctSrcPath(path);
 
  if(!isProd){
@@ -17,12 +18,12 @@ const printHtml = (path, alt, sizes, className, caption, lazyLoading=true, thumb
        return imgHtml;
      }
  }
-
+ path = site.url + path;
  const fetchBase = `https://res.cloudinary.com/gamue/image/fetch/`;
  const srcWidth = thumbnail ? fallbackWidthThumbnail : fallbackWidthDefault;
  const srcsetWidths = thumbnail ? srcsetWidthsThumbnail : srcsetWidthsDefault;
 
- const src = `${fetchBase}q_auto,f_auto,w_${srcWidth}/https://gamue.de${path}`;
+ const src = `${fetchBase}q_auto,f_auto,w_${srcWidth}/${path}`;
  const srcset = srcsetWidths.map(w => {
      return `${fetchBase}q_auto:eco,f_auto,w_${w}/${path} ${w}w`;
  }).join(', ');

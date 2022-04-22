@@ -11,5 +11,6 @@ module.exports = {
   accounts:{
     instagram: "https://www.instagram.com/johannes.ganzenmueller/",
     instagram_people: "https://www.instagram.com/gamue16/"
-  }
+  },
+  environment: process.env.ENV_PROFILE?.trim() || "dev"
 };

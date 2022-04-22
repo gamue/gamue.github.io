@@ -1,18 +1,14 @@
 {% macro teaserGalleryItem(title, permalink, image, layout) %}
 
 {%- set item_image = image | correctSrcPath -%}
-{% if item_image %}
-    {%- set item_image = item_image | url -%}
-    {%- if process.env.NODE_ENV === 'production' -%}
-        {%- set item_image = "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/" + item_image -%}
-    {%- endif -%}
+{%- if site.environment === 'prod' -%}
+    {%- set item_image = "https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_400/" + site.url + item_image -%}
 {%- endif -%}
 {%- if layout == 'half' -%}
     {%- set element_width = 'w-full sm:w-1/2' -%}
 {%- else -%}
     {%- set element_width = 'w-full sm:w-1/2 md:w-1/3' -%}
 {%- endif -%}
-
 <article class="p-3 relative {{element_width}}">
 <a href="{{permalink}}">
     <div class="absolute inset-0 text-center">

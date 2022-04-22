@@ -7,6 +7,6 @@ permalink: /laender/
 header:
     teaser: assets/photography/2012_06_island/dsc_1072.jpg
 ---
-{%- from "macros/teaser-gallery.njk" import teaserGallery -%}
+{%- from "macros/teaser-gallery.njk" import teaserGallery with context -%}
 {% set allCountries = collections.laender | sortByFileSlug %}
 {{ teaserGallery(allCountries) }}

@@ -6,7 +6,9 @@
   "scripts": {
     "tailwind:dev": "postcss src/styles/main.css -o _site/styles/main.css --watch",
     "tailwind:prod": "NODE_ENV=production postcss src/styles/main.css -o _site/styles/main.css",
-    "build": "NODE_ENV=production eleventy --pathprefix 'playground-eleventy' && npm run tailwind:prod",
+    "tailwind:prod-win": "set NODE_ENV=production& postcss src/styles/main.css -o _site/styles/main.css",
+    "build": "ENV_PROFILE=prod eleventy && npm run tailwind:prod",
+    "build:win": "set ENV_PROFILE=prod & eleventy & npm run tailwind:prod-win",
     "serve": "eleventy --serve",
     "start": "concurrently \"yarn run tailwind:dev\" \"yarn run serve\""
   },

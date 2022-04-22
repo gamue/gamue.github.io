@@ -1,8 +1,7 @@
 {%- from "macros/date-and-readtime.njk" import dateAndReadtime -%}
-{% if process.env.NODE_ENV === 'production' %}
-  {% set overlay_img_path = 'https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/' + header.overlay_image %}
-{% else %}
-  {% set overlay_img_path = header.overlay_image | correctSrcPath %}
+{% set overlay_img_path = header.overlay_image | correctSrcPath %}
+{% if site.environment === 'prod' %}
+  {% set overlay_img_path = 'https://res.cloudinary.com/gamue/image/fetch/c_limit,f_auto,q_auto,w_1000/'+ site.url + overlay_img_path %}
 {% endif %}
 
 {% if header.overlay_filter %}
