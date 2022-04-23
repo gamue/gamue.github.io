@@ -2,7 +2,6 @@
   "name": "gamue_de",
   "version": "2.0.0",
   "description": "private homepage powered by eleventy",
-  "main": "index.js",
   "scripts": {
     "tailwind:dev": "postcss src/styles/main.css -o _site/styles/main.css --watch",
     "tailwind:prod": "NODE_ENV=production postcss src/styles/main.css -o _site/styles/main.css",
@@ -14,9 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gamue/gamue.github.io.git"
+    "url": "https://github.com/gamue/gamue.github.io.git"
   },
   "author": "Johannes Ganzenmüller",
+  "homepage": "https://gamue.de",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
