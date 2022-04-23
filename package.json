@@ -24,6 +24,7 @@
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.4.4",
     "concurrently": "^7.0.0",
+    "cssnano": "^5.1.7",
     "eleventy-plugin-toc": "^1.1.5",
     "html-minifier": "^4.0.0",
     "lodash": "^4.17.21",
