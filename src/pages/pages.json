@@ -1,5 +1,5 @@
 {
-  "layout": "layouts/page.njk",
+  "layout": "page.njk",
   "full_width": false,
   "typography": true,
   "tags": "pages"

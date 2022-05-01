@@ -1,5 +1,5 @@
 ---
-layout: layouts/posts-archive-categories.njk
+layout: posts-archive-categories.njk
 pagination:
   data: collections.blogpostsByTags
   size: 1

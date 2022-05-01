@@ -1,4 +1,4 @@
 {
-  "layout": "layouts/country.njk",
+  "layout": "country.njk",
   "tags": "laender"
 }

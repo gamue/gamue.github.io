@@ -1,5 +1,5 @@
 ---
-layout: layouts/landingpage.njk
+layout: landingpage.njk
 title: Reisen
 description: Nach dem Ende meiner Ausbildung hat mich das Reisefieber gepackt und seitdem versuche ich mindestens einmal im Jahr an einen Ort zu reisen, an dem ich noch nicht war.
 permalink: /reisen/

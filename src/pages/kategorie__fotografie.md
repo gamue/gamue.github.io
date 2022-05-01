@@ -1,5 +1,5 @@
 ---
-layout: layouts/landingpage.njk
+layout: landingpage.njk
 title: Fotografie
 description: Fotografie ist meine Leidenschaft und besonders die Reise- und Landschaftsfotografie hat es mir angetan.
 permalink: /fotografie/
