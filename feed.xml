@@ -286,7 +286,7 @@ aber die letzten Handgriffe und eine finale Auswahl hat noch gefehlt.
 Dieses Wochenende habe ich mich aber dazu aufraffen können, mich um die letzten 10 % zu kümmern
 und somit sind die Fotos nun ebenfalls bei den Reisegalerien verfügbar &lt;strong&gt;yeah&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hier eine kleine Vorschau der Bilder:&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery124&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery125&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -307,7 +307,7 @@ und somit sind die Fotos nun ebenfalls bei den Reisegalerien verfügbar &lt;stro
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery124 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery125 a&#39;});&lt;/script&gt;
 &lt;p&gt;&lt;a href=&quot;https://gamue.de/photography/albanien-2021/&quot; :=&quot;&quot; class=&quot;btn&quot;&gt;Zur kompletten Bildergalerie&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In den letzten Artikel hatte ich schon erwähnt, dass ich Albanien als tolles Reiseland kennengelernt habe und jedem nur empfehlen kann,
 es zumindest in Überlegungen aufzunehmen.
@@ -427,7 +427,7 @@ denn Ende Mai habe ich es gewagt wieder in einen Flieger zu steigen und nach Alb
 &lt;p&gt;Ich weiß, dass das Reisen in Zeiten von Covid recht kontrovers ist und sich teilweise sogar Reisescham entwickelt hat.
 Da der Trip sehr kurzfristig war, konnte ich ohnehin nicht vielen davon erzählen, aber ich hatte auch das Gefühl, es nicht an die große Glocke hängen &lt;strong&gt;zu dürfen&lt;/strong&gt;.
 Am Ende muss zwar jeder für sich selbst entscheiden, ob er aktuell reisen möchte und kann, finde das jedoch eine bedenkliche Entwicklung.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery123&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery124&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/photography/2012_06_island/2012-06-21_island_291.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/photography/2012_06_island/2012-06-21_island_291.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/photography/2012_06_island/2012-06-21_island_291.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/photography/2012_06_island/2012-06-21_island_291.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/photography/2012_06_island/2012-06-21_island_291.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -437,7 +437,7 @@ Am Ende muss zwar jeder für sich selbst entscheiden, ob er aktuell reisen möch
 &lt;figcaption&gt;Flussdurchquerung in Island und Erkundung von Petra (Jordanien)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery123 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery124 a&#39;});&lt;/script&gt;
 &lt;p&gt;Unterwegs zu sein hat mir in den letzten Jahren sehr viel gegeben: Das Gefühl von Freiheit und Frieden, das Erleben von unzähligen Abenteuern,
 Wertschätzung gegenüber dem was ich habe oder das Kennenlernen von anderen Kulturen und fremden Menschen, die ich nun als Freunde bezeichne.
 Alles Dinge, die ich nicht missen und zukünftig auch weiterhin erleben möchte, denn ich glaube das alles trägt dazu bei, dass ich mich zu einem besseren Menschen entwickeln kann.&lt;/p&gt;
@@ -675,7 +675,7 @@ Ich freue mich jedenfalls immer über Begleitung und den Austausch.&lt;/p&gt;
 &lt;h2 id=&quot;sicht-vom-n%C3%B6rdlichen-spreeufer&quot; tabindex=&quot;-1&quot;&gt;Sicht vom nördlichen Spreeufer&lt;/h2&gt;
 &lt;p&gt;Am nördlichen Spreeufer hast du in etwa von der Fernsehwerft bis zur Elsenbrücke einen guten Blick auf das Kunstwerk.
 Wobei kurz vor der Elsenbrücke fleißig gebaut wird und so etliche Baustellen und Absperrungen den direkten Weg zur Brücke versperren.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery115&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery116&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00348.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -684,12 +684,12 @@ Wobei kurz vor der Elsenbrücke fleißig gebaut wird und so etliche Baustellen u
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery115 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery116 a&#39;});&lt;/script&gt;
 &lt;p&gt;Für die Bilder habe ich ein &lt;strong&gt;Weitwinkelobjektiv&lt;/strong&gt; verwendet und das ganze als Langzeitaufnahme erstellt, damit das Wasser und die Wolken weichgezeichnet werden.
 Bei den Bildern war es zwar kurz vor Sonnenuntergang, aber ich musste trotzdem noch einen ND64-Filter nutzen, um die Belichtungszeiten zu verlängern.&lt;/p&gt;
 &lt;h2 id=&quot;sicht-von-der-elsenbr%C3%BCcke&quot; tabindex=&quot;-1&quot;&gt;Sicht von der Elsenbrücke&lt;/h2&gt;
 &lt;p&gt;Die Ansicht von der Elsenbrücke ist vermutlich die bekannteste und neben dem Molecule Man kannst du noch die Oberbaumbrücke, den Fernsehturm, die Kuppel des Berliner Doms und eventuell sogar das Rote Rathaus auf das Bild bekommen.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery116&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery117&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00530.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -701,7 +701,7 @@ Bei den Bildern war es zwar kurz vor Sonnenuntergang, aber ich musste trotzdem n
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery116 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery117 a&#39;});&lt;/script&gt;
 &lt;p&gt;An dem Tag, an dem ich die Bilder aufgenommen habe, war die Spree zum erstem Mal seit etlichen Jahren von Eis bedeckt und an manche Stellen sogar zugefroren.
 Ansonsten fahren auf dieser Route viele Ausflugsschiffe und gerade Abends können diese, durch ihre bunte Beleuchtung, auch eine schöne Komponente eines Bildes darstellen.&lt;/p&gt;
 &lt;p&gt;Wegen der Distanz von Elsenbrücke zum Molecule Man und den anderen Sehenswürdigkeiten macht ein &lt;strong&gt;Objektiv im (oberen) Standard- oder Telebereich&lt;/strong&gt; am meisten Sinn,
@@ -711,42 +711,42 @@ Die Elsenbrücke wird zum Beispiel bis ca. 2028 umgebaut, sodass sich hier in de
 &lt;h2 id=&quot;sicht-vom-s%C3%BCdlichen-spreeufer&quot; tabindex=&quot;-1&quot;&gt;Sicht vom südlichen Spreeufer&lt;/h2&gt;
 &lt;p&gt;Am südlichen Ende der Elsenbrücke führt eine Treppe zu einem kleinen Pfad der am Spreeufer entlang führt.
 Wenn du diesem etwas folgst, kannst du durch den Molecule Man auf den Fernsehturm blicken, was ich ein schönes Motiv finde.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery117&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery118&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00150.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery117 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery118 a&#39;});&lt;/script&gt;
 &lt;p&gt;Etwas weiter auf dem Pfad, gibt es einen kleinen Ausleger, von dem aus auch gute Bilder gemacht werden können.
 Durch Bauarbeiten war dieser jedoch bei meinen Besuchen nicht erreichbar und so habe ich kein Foto von der Stelle aus machen können.
 In meinem Archiv habe ich aber glücklicherweise noch ein Bild gefunden, welches von dort aus aufgenommen worden ist.
 Da du auf dem Ausleger sehr nahe an der Statue bist, empfehle ich von dort aus auch ein &lt;strong&gt;Weitwinkelobjektiv&lt;/strong&gt;.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery118&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery119&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC_8163.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery118 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery119 a&#39;});&lt;/script&gt;
 &lt;p&gt;Nochmal einige Meter weiter auf dem Weg, beziehungsweise für mich durch die Baustellen komplett außenrum,
 kommst du zum Wrack eines Ausflugsdampfers und zum Gelände der Arena Berlin an der Ecke Eichenstraße und Fanny-Zobel-Straße.
 Von hier aus lassen sich Bilder in die andere Richtung, also mit der Elsenbrücke als Hintergrund, aufnehmen.
 Wie zuvor geschrieben, wird hier gerade einiges gebaut oder saniert, sodass es nicht die beste Aussicht ist, aber wollte es nicht unerwähnt lassen.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery119&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery120&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00167.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery119 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery120 a&#39;});&lt;/script&gt;
 &lt;h1 id=&quot;oberbaumbr%C3%BCcke&quot; tabindex=&quot;-1&quot;&gt;Oberbaumbrücke&lt;/h1&gt;
 &lt;p&gt;Vom Spreeufer an der Ecke Eichenstraße und Fanny-Zobel-Straße hast du auch die nächste Sehenswürdigkeit sehr gut im Blick: Die Oberbaumbrücke.&lt;/p&gt;
 &lt;p&gt;Für mich zählt sie zu den schönsten Brücken, die ich kenne und auch historisch hat sie einiges zu bieten, war sie beispielsweise ein früherer Grenzübergang zwischen der DDR und der Bundesrepublik.&lt;/p&gt;
 &lt;h2 id=&quot;sicht-vom-s%C3%BCdlichen-spreeufer-1&quot; tabindex=&quot;-1&quot;&gt;Sicht vom südlichen Spreeufer&lt;/h2&gt;
 &lt;p&gt;Zwischen den beiden Türmen der Oberbaumbrücke kannst du das Rote Rathaus sehen und auch der Fernsehturm ist prominent im Bild vorhanden.
 Ebenso wie etliche Baukräne, die seit Jahren zum Stadtbild Berlins gehören.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery120&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery121&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00157.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -755,7 +755,7 @@ Ebenso wie etliche Baukräne, die seit Jahren zum Stadtbild Berlins gehören.&lt
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery120 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery121 a&#39;});&lt;/script&gt;
 &lt;p&gt;Für diese Aufnahmen empfehle ich dir wieder ein &lt;strong&gt;Teleobjektiv&lt;/strong&gt; zu verwenden, um die Brücke groß im Bild zu haben und eine Kompression der Sehenswürdigkeiten zu erreichen.&lt;/p&gt;
 &lt;h2 id=&quot;sicht-vom-n%C3%B6rdlichen-spreeufer-1&quot; tabindex=&quot;-1&quot;&gt;Sicht vom nördlichen Spreeufer&lt;/h2&gt;
 &lt;p&gt;Von dort aus kannst du weiter Richtung Oberbaumbrücke gehen, auf dem Weg bieten sich einige weitere Fotomotive an.
@@ -764,7 +764,7 @@ Von all dem hat mir bei meinen Fototouren aber bisher kein Foto sehr gut gefalle
 Für Streetfotografie oder Portraits kann beides aber ziemlich interessant sein.&lt;/p&gt;
 &lt;p&gt;Wieder auf der Nordseite angekommen, gibt es zwischen der Brücke und dem Pirates Club, eine kleine Einbuchtung, von der du aus die Brücke gut im Blick hast und ich die folgenden Bilder aufgenommen habe.
 Hier bietet sich eine &lt;strong&gt;Weitwinkel- oder Standardbrennweite&lt;/strong&gt; an, um die Brücke komplett ins Bild zubekommen.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery121&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery122&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00355.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -773,19 +773,19 @@ Hier bietet sich eine &lt;strong&gt;Weitwinkel- oder Standardbrennweite&lt;/stro
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery121 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery122 a&#39;});&lt;/script&gt;
 &lt;p&gt;Dadurch, dass die Brücke von Autos befahren wird, lassen sich durch Langzeitbelichtungen entsprechende Lichtstreifen erzielen.
 Direkt an der Brücke befindet sich übrigens eine Ampel, sodass sich ziemlich gut berechnen lässt, wann sich die Autos in Bewegung setzen.&lt;/p&gt;
 &lt;p&gt;Auf der oberen Ebene der Brücke fährt im Normalfall die U-Bahn, wenn du das Foto also entsprechend planst, kannst du zusätzlich zu den Lichtern der Autos noch einen gelben Schweif der Bahn hinbekommen.
 Die Bahnstrecke ist jedoch bis April 2021 wegen Bauarbeiten gesperrt und erst danach wieder befahren, daher habe ich das leider nicht fotografieren können.&lt;/p&gt;
 &lt;p&gt;Ein paar Meter weiter, an den Ausflugsschiffen vorbei und dem Uferweg entlang bietet sich nochmal ein guter Blick auf die Brücke, für den wieder ein &lt;strong&gt;Teleobjektiv&lt;/strong&gt; hilfreich ist.&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery122&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery123&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg&quot; class=&quot;flex-none w-full p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/2021-03-14-fotospots-berlin-molecule-man/DSC00546.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery122 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery123 a&#39;});&lt;/script&gt;
 &lt;h1 id=&quot;weitere-fotospots-in-der-n%C3%A4he&quot; tabindex=&quot;-1&quot;&gt;Weitere Fotospots in der Nähe&lt;/h1&gt;
 &lt;p&gt;Neben Molecule Man und Oberbaumbrücke gibt es noch viele andere Fotomotive auf dem Weg, den du übrigens in einer Runde als ausgedehnten Spaziergang laufen kannst.&lt;/p&gt;
 &lt;p&gt;Ich wollte mich bei dem Artikel jedoch auf diese beiden Sehenswürdigkeiten konzentrieren und lasse die anderen Fotospots für zukünftige Blogartikel, sollte ich dort gute Fotos hinbekommen können.
