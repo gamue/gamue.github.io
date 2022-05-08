@@ -78,6 +78,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
   eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
+  eleventyConfig.addCollection("blogposts", postArchives.blogposts);
 
   if(environment === 'prod'){
     eleventyConfig.addTransform("htmlmin", minHtml);

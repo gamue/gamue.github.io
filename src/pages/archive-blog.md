@@ -1,10 +1,9 @@
 ---
-title: Alle Artikel
-layout: posts-archive.njk
-permalink: "blog/{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber +1 }}/{% endif %}index.html"
+layout: posts-archive-categories.njk
 pagination:
-  data: collections.posts
-  size: 8
-  alias: posts
-  reverse: true
+  data: collections.blogposts
+  size: 1
+  alias: category
+title: Alle Artikel
+permalink: "{{ category.slug }}"
 ---

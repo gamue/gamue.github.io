@@ -7,9 +7,7 @@ const itemsPerPage = 8;
 // based on Zach Leatherman's solution - https://github.com/11ty/eleventy/issues/332
 const blogpostsByCategories = (collectionApi) => {
   let blogpostsByCategories = [];
-  let allBlogposts = collectionApi
-    .getAllSorted()
-    .reverse();
+  let allBlogposts = collectionApi.getFilteredByGlob("src/posts/*.md").reverse();
 
   let blogpostsCategories = getAllKeyValues(allBlogposts, "categories");
 
@@ -28,9 +26,7 @@ const blogpostsByCategories = (collectionApi) => {
 
 const blogpostsByTags = (collectionApi) => {
   let blogpostsByTags = [];
-  let allBlogposts = collectionApi
-    .getAllSorted()
-    .reverse();
+  let allBlogposts = collectionApi.getFilteredByGlob("src/posts/*.md").reverse();
 
   let blogpostsTags = getAllKeyValues(allBlogposts, "tags");
   // remove pages & post collections as they are also listed as tags
@@ -49,7 +45,22 @@ const blogpostsByTags = (collectionApi) => {
   return blogpostsByTags;
 };
 
+const blogposts = (collectionApi) => {
+  let blogposts = [];
+  let allBlogposts = collectionApi.getFilteredByGlob("src/posts/*.md").reverse();
 
+  let chunkedPosts = lodash.chunk(allBlogposts, itemsPerPage);
+  let pagesSlugs = [];
+  for (let i = 0; i < chunkedPosts.length; i++) {
+    let pageSlug = i > 0 ? `/blog/page${i + 1}/` : `/blog/`;
+    pagesSlugs.push(pageSlug);
+  }
+  chunkedPosts.forEach((posts, index) => {
+    blogposts.push(getReturnObject(null, pagesSlugs, index, posts));
+  });
+
+  return blogposts;
+}
 
 function getAllKeyValues(collectionArray, key) {
   // get all values from collection
@@ -87,7 +98,7 @@ function getPageSlugs(prefix, category, chunkedPostsInCategory) {
   let pagesSlugs = [];
   for (let i = 0; i < chunkedPostsInCategory.length; i++) {
     let categorySlug = utils.strToSlug(category);
-    let pageSlug = i > 0 ? `${prefix}${categorySlug}/${i + 1}` : `${prefix}${categorySlug}`;
+    let pageSlug = i > 0 ? `${prefix}${categorySlug}/${i + 1}/` : `${prefix}${categorySlug}/`;
     pagesSlugs.push(pageSlug);
   }
   return pagesSlugs;
@@ -110,4 +121,4 @@ function getReturnObject(title, pagesSlugs, index, posts) {
     }
 }
 
-module.exports = { blogpostsByCategories, blogpostsByTags };
+module.exports = { blogpostsByCategories, blogpostsByTags, blogposts };
