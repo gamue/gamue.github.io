@@ -37,7 +37,7 @@ const blogpostsByTags = (collectionApi) => {
   blogpostsTags = lodash.difference(blogpostsTags, ["pages", "laender", "galleries", "posts"]);
 
   blogpostsTags.forEach((tag) => {
-    let postsWithTag = collectionApi.getFilteredByTag(tag)
+    let postsWithTag = collectionApi.getFilteredByTag(tag).reverse();
     let chunkedPostsWithTag = lodash.chunk(postsWithTag, itemsPerPage);
     let pagesSlugs = getPageSlugs("/tag/", tag, chunkedPostsWithTag);
 
