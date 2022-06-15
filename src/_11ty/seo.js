@@ -4,7 +4,7 @@ function toXmlDateString(date) {
 
 module.exports = {
   title: (data) => data.title || data.site.title,
-  description: (data) => data.description || data.site.description,
+  description: (data) => data.description || data.tagline || data.site.description,
   author: (data) => data.site.author.name,
   date: (data) => {
       if (data.seoType !== "article") {
