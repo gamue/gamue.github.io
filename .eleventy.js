@@ -64,6 +64,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
   eleventyConfig.addFilter("dateFull", dateFilters.dateFull);
+  eleventyConfig.addFilter("dateTimeFull", dateFilters.dateTimeFull);
   eleventyConfig.addFilter("readTime", readTime);
   eleventyConfig.addFilter("addUniqueNumber", utils.addUniqueNumber);
   eleventyConfig.addFilter("excerpt", utils.excerpt);
