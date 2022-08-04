@@ -23,7 +23,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
     "@tailwindcss/typography": "^0.5.4",
     "autoprefixer": "^10.4.8",
-    "concurrently": "^7.2.2",
+    "concurrently": "^7.3.0",
     "cssnano": "^5.1.12",
     "eleventy-plugin-toc": "^1.1.5",
     "html-minifier": "^4.0.0",
