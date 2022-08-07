@@ -203,6 +203,10 @@ module.exports = () => {
     "name": "Zypern",
     "code": "CY",
     "link": "/photography/zypern-2015/"
+    },
+    {
+    "name": "Kirgistan",
+    "code": "KG"
     }
     ];
 
