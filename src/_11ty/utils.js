@@ -6,12 +6,12 @@ const slugify = require("slugify");
 
 var counter = 0;
 const addUniqueNumber = (content) => {
-    counter = counter + 1;
-    return content + counter;
+  counter = counter + 1;
+  return content + counter;
 };
 
 const markdownify = (str) => {
-    return markdownItRenderer.renderInline(str);
+  return markdownItRenderer.renderInline(str);
 };
 
 const excerpt = (article) => {
@@ -24,17 +24,21 @@ const excerpt = (article) => {
 
   var content = article.templateContent.replace(/(<([^>]+)>)/gi, "");
   content = content.substr(0, content.lastIndexOf(" ", 350)) + "...";
-  return markdownify (content);
+  return markdownify(content);
 };
 
 const head = (array, n) => {
-    if(!Array.isArray(array) || array.length === 0) { return []; }
-    if( n < 0 ) { return array.slice(n); }
+  if (!Array.isArray(array) || array.length === 0) {
+    return [];
+  }
+  if (n < 0) {
+    return array.slice(n);
+  }
 
-    return array.slice(0, n);
+  return array.slice(0, n);
 };
 
-const includes =  (arr, path, value) => {
+const includes = (arr, path, value) => {
   value = lodash.deburr(value).toLowerCase();
   return arr.filter((item) => {
     let pathValue = lodash.get(item, path);
@@ -44,25 +48,23 @@ const includes =  (arr, path, value) => {
 };
 
 const sortByFileSlug = (collection) => {
-    collection.sort((a, b) =>
-     a.fileSlug > b.fileSlug ? 1 : -1
-    );
-    return collection;
+  collection.sort((a, b) => (a.fileSlug > b.fileSlug ? 1 : -1));
+  return collection;
 };
 
 const getGalleryFromDir = (directory) => {
-    let filenames = fs.readdirSync("src/" + directory);
+  let filenames = fs.readdirSync("src/" + directory);
 
-    let imagesInDir = [];
-    filenames.forEach(filename => {
-        imagesInDir.push({
-            image_path: directory + "/" + filename,
-        });
+  let imagesInDir = [];
+  filenames.forEach((filename) => {
+    imagesInDir.push({
+      image_path: directory + "/" + filename,
     });
-    return imagesInDir;
+  });
+  return imagesInDir;
 };
 
-const strToSlug = (str)  => {
+const strToSlug = (str) => {
   const options = {
     replacement: "-",
     remove: /[&,+()$~%.'":*?<>{}]/g,
@@ -70,6 +72,15 @@ const strToSlug = (str)  => {
   };
 
   return slugify(str, options);
-}
+};
 
-module.exports = { markdownify, addUniqueNumber, excerpt, head, includes, sortByFileSlug, getGalleryFromDir, strToSlug };
+module.exports = {
+  markdownify,
+  addUniqueNumber,
+  excerpt,
+  head,
+  includes,
+  sortByFileSlug,
+  getGalleryFromDir,
+  strToSlug,
+};

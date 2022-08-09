@@ -14,19 +14,19 @@ const postArchives = require("./src/_11ty/post_archives.js");
 const minHtml = require("./src/_11ty/minhtml.js");
 const environment = require("./src/_data/site.js").environment;
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginTOC, {
-      tags: ["h1", "h2", "h3"],
-      wrapper: "",
-      ul: true
-    });
+    tags: ["h1", "h2", "h3"],
+    wrapper: "",
+    ul: true,
+  });
   eleventyConfig.addPlugin(pluginRss);
 
   let markdownOptions = {
     html: true,
     breaks: false,
-    linkify: true
+    linkify: true,
   };
   let markdownLib = markdownIt(markdownOptions)
     .use(markdownItAttrs)
@@ -40,17 +40,17 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.setBrowserSyncConfig({
-      callbacks: {
-          ready: (_err, browserSync) => {
-              const content_404 = require("fs").readFileSync("_site/404.html");
+    callbacks: {
+      ready: (_err, browserSync) => {
+        const content_404 = require("fs").readFileSync("_site/404.html");
 
-              browserSync.addMiddleware("*", (_req, res) => {
-                  // render the 404 content instead of redirecting
-                  res.write(content_404);
-                  res.end();
-              });
-          }
-      }
+        browserSync.addMiddleware("*", (_req, res) => {
+          // render the 404 content instead of redirecting
+          res.write(content_404);
+          res.end();
+        });
+      },
+    },
   });
 
   eleventyConfig.addPassthroughCopy("CNAME");
@@ -77,11 +77,14 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addShortcode("post_url", postUrls);
 
-  eleventyConfig.addCollection("blogpostsByCategories", postArchives.blogpostsByCategories);
+  eleventyConfig.addCollection(
+    "blogpostsByCategories",
+    postArchives.blogpostsByCategories
+  );
   eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
   eleventyConfig.addCollection("blogposts", postArchives.blogposts);
 
-  if(environment === "prod"){
+  if (environment === "prod") {
     eleventyConfig.addTransform("htmlmin", minHtml);
   }
 
@@ -89,11 +92,12 @@ module.exports = function(eleventyConfig) {
   // (otherwise we need to manually include on each page that uses them)
   // https://github.com/11ty/eleventy/issues/613#issuecomment-968189433
   eleventyConfig.addCollection("everything", (collectionApi) => {
-    const macroImport = "{%- from \"macros/gallery.njk\" import imageGallery with context -%}";
+    const macroImport =
+      "{%- from 'macros/gallery.njk' import imageGallery with context -%}";
     let collection = collectionApi.getFilteredByGlob("src/**/*.md");
     collection.forEach((item) => {
-      item.template.frontMatter.content = `${macroImport}\n${item.template.frontMatter.content}`
-    })
+      item.template.frontMatter.content = `${macroImport}\n${item.template.frontMatter.content}`;
+    });
     return collection;
   });
 
@@ -104,7 +108,7 @@ module.exports = function(eleventyConfig) {
       input: "src",
       output: "_site",
       includes: "_includes",
-      layouts: "_includes/layouts"
+      layouts: "_includes/layouts",
     },
   };
 };
