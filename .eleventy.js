@@ -1,10 +1,10 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
-const markdownItAttrs = require('markdown-it-attrs');
-const markdownItAnchor = require('markdown-it-anchor');
-const markdownItDeflist = require('markdown-it-deflist');
-const pluginTOC = require('eleventy-plugin-toc');
+const markdownItAttrs = require("markdown-it-attrs");
+const markdownItAnchor = require("markdown-it-anchor");
+const markdownItDeflist = require("markdown-it-deflist");
+const pluginTOC = require("eleventy-plugin-toc");
 const postUrls = require("./src/_11ty/post_url.js");
 const cloudinary = require("./src/_11ty/cloudinary.js");
 const dateFilters = require("./src/_11ty/date_filters.js");
@@ -17,8 +17,8 @@ const environment = require("./src/_data/site.js").environment;
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginTOC, {
-      tags: ['h1', 'h2', 'h3'],
-      wrapper: '',
+      tags: ["h1", "h2", "h3"],
+      wrapper: "",
       ul: true
     });
   eleventyConfig.addPlugin(pluginRss);
@@ -36,15 +36,15 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
-    excerpt_separator: '<!-- excerpt -->',
+    excerpt_separator: "<!-- excerpt -->",
   });
 
   eleventyConfig.setBrowserSyncConfig({
       callbacks: {
           ready: (_err, browserSync) => {
-              const content_404 = require('fs').readFileSync('_site/404.html');
+              const content_404 = require("fs").readFileSync("_site/404.html");
 
-              browserSync.addMiddleware('*', (_req, res) => {
+              browserSync.addMiddleware("*", (_req, res) => {
                   // render the 404 content instead of redirecting
                   res.write(content_404);
                   res.end();
@@ -59,7 +59,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/apple-touch-icon.png");
   eleventyConfig.addPassthroughCopy("src/styles/simpleLightbox.min.css");
 
-  eleventyConfig.addShortcode('cloudinary', cloudinary.printHtml);
+  eleventyConfig.addShortcode("cloudinary", cloudinary.printHtml);
   eleventyConfig.addFilter("correctSrcPath", cloudinary.correctSrcPath);
 
   eleventyConfig.addFilter("dateToYear", dateFilters.dateYear);
@@ -81,16 +81,16 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("blogpostsByTags", postArchives.blogpostsByTags);
   eleventyConfig.addCollection("blogposts", postArchives.blogposts);
 
-  if(environment === 'prod'){
+  if(environment === "prod"){
     eleventyConfig.addTransform("htmlmin", minHtml);
   }
 
   // Automatically import macros on every page
   // (otherwise we need to manually include on each page that uses them)
   // https://github.com/11ty/eleventy/issues/613#issuecomment-968189433
-  eleventyConfig.addCollection('everything', (collectionApi) => {
-    const macroImport = `{%- from "macros/gallery.njk" import imageGallery with context -%}`;
-    let collection = collectionApi.getFilteredByGlob('src/**/*.md');
+  eleventyConfig.addCollection("everything", (collectionApi) => {
+    const macroImport = "{%- from \"macros/gallery.njk\" import imageGallery with context -%}";
+    let collection = collectionApi.getFilteredByGlob("src/**/*.md");
     collection.forEach((item) => {
       item.template.frontMatter.content = `${macroImport}\n${item.template.frontMatter.content}`
     })
@@ -101,8 +101,8 @@ module.exports = function(eleventyConfig) {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dir: {
-      input: 'src',
-      output: '_site',
+      input: "src",
+      output: "_site",
       includes: "_includes",
       layouts: "_includes/layouts"
     },

@@ -10,7 +10,7 @@
     "build:win": "set ENV_PROFILE=prod & eleventy & npm run tailwind:prod-win",
     "serve": "eleventy --serve",
     "start": "concurrently \"yarn run tailwind:dev\" \"yarn run serve\"",
-    "lint": "npx eslint src/**/*.js"
+    "lint": "npx eslint src/**/*.js *.js --no-ignore .eleventy.js"
   },
   "repository": {
     "type": "git",
