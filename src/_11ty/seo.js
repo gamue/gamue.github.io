@@ -23,8 +23,8 @@ module.exports = {
   image: (data) => {
       var image = data.header?.overlay_image || data.header?.teaser || data.site.og_image;
       if(image){
-        if(!image.startsWith('/')){
-          image = '/' + image;
+        if(!image.startsWith("/")){
+          image = "/" + image;
         }
         return data.site.url + image;
       }

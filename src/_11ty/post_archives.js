@@ -52,7 +52,7 @@ const blogposts = (collectionApi) => {
   let chunkedPosts = lodash.chunk(allBlogposts, itemsPerPage);
   let pagesSlugs = [];
   for (let i = 0; i < chunkedPosts.length; i++) {
-    let pageSlug = i > 0 ? `/blog/page${i + 1}/` : `/blog/`;
+    let pageSlug = i > 0 ? `/blog/page${i + 1}/` : "/blog/";
     pagesSlugs.push(pageSlug);
   }
   chunkedPosts.forEach((posts, index) => {

@@ -1,7 +1,7 @@
-const markdown = require('markdown-it');
+const markdown = require("markdown-it");
 const markdownItRenderer = new markdown({ html: true });
 const lodash = require("lodash");
-const fs = require('fs');
+const fs = require("fs");
 const slugify = require("slugify");
 
 var counter = 0;
@@ -15,7 +15,6 @@ const markdownify = (str) => {
 };
 
 const excerpt = (article) => {
-  const separator = '</p>';
   const excerpt = article.data?.page?.excerpt;
 
   // If it has an explicit excerpt (see setFrontMatterParsingOptions), use it.
@@ -52,12 +51,12 @@ const sortByFileSlug = (collection) => {
 };
 
 const getGalleryFromDir = (directory) => {
-    let filenames = fs.readdirSync('src/' + directory);
+    let filenames = fs.readdirSync("src/" + directory);
 
     let imagesInDir = [];
     filenames.forEach(filename => {
         imagesInDir.push({
-            image_path: directory + '/' + filename,
+            image_path: directory + "/" + filename,
         });
     });
     return imagesInDir;

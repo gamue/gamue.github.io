@@ -1,3 +1,4 @@
+/* global process */
 module.exports = {
   title: "gamue.de: Blog von Johannes Ganzenmüller",
   description: "Auf diesem Blog dreht sich alles rund um die Themen Reisen, Fotografie und Technik.",
