@@ -1,0 +1,7 @@
+_site
+
+*.html
+*.css
+*.min.js
+*.md
+*.njk

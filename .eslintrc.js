@@ -7,7 +7,10 @@ module.exports = {
     "parserOptions": {
         "ecmaVersion": "latest"
     },
-    "extends": "eslint:recommended",
+    "extends": [
+        "eslint:recommended",
+        "prettier"
+    ],
     "rules": {
         "curly": ['error', 'all'],
         "quotes": ["error", "double"],
