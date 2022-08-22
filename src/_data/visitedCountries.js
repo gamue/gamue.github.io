@@ -63,7 +63,7 @@ module.exports = () => {
     },
     {
       name: "Irland",
-      code: "IR",
+      code: "IE",
       link: "/irland/",
     },
     {
