@@ -207,6 +207,7 @@ module.exports = () => {
     {
       name: "Kirgistan",
       code: "KG",
+      link: "/kirgistan/",
     },
   ];
 
