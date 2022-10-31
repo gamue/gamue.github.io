@@ -212,6 +212,7 @@ module.exports = () => {
     {
       name: "Oman",
       code: "OM",
+      link: "/oman/",
     },
   ];
 
