@@ -3,8 +3,8 @@ title: Reiseupdates 2022
 description: Ein Lebenszeichen von mir und Informationen zu meinen Reisen in 2022.
 permalink: /reiseupdates-2022/
 header:
-    teaser: assets/countries/oman.jpg
-    overlay_image: assets/countries/oman.jpg
+    teaser: assets/photography/2022_10_oman/Oman_0843.jpg
+    overlay_image: assets/photography/2022_10_oman/Oman_0676.jpg
 categories:
   - Reisen
 tags:
@@ -31,5 +31,11 @@ wodurch die Sichtung und Bearbeitung der Reisebilder häufig den Kürzeren gezog
 Ich habe mir aber vorgenommen, dort vorerst weniger zu machen, damit ich bei den Urlaubsbildern vorankomme. 
 Schließlich will ich ein paar davon auch an meine Wand hängen.
 
+**Update**
+
+Mittlerweile ist die Bildergalerie der Oman-Reise online, [die du hier findest][3].
+
+
 [1]: {% post_url collections.laender, 'oman' %}
 [2]: {% post_url collections.laender, 'kirgistan' %}
+[3]: {% post_url collections.galleries, '2022-10-oman' %}

@@ -3,24 +3,26 @@ title: Oman
 description: Oman ist ein noch eher unbekanntes Land auf der Arabischen Halbinsel, jedoch aber landschaftlich sehr interessant uns sehenswert. Meine Reiseroute und Hinweise zu diesem spannenden Land findest du hier.
 permalink: /oman/
 header:
-    teaser: assets/countries/oman.jpg
-    overlay_image: assets/countries/oman.jpg
+    teaser: assets/photography/2022_10_oman/Oman_0681.jpg
+    overlay_image: assets/photography/2022_10_oman/Oman_0162.jpg
 itinerary:
     - name: Muscat
+      image: assets/photography/2022_10_oman/Oman_1092.jpg
       description: Die Hauptstadt Omans war Start- und Endpunkt der Reise. Neben der Großen Sultan-Qaboos-Moschee hat mir besonders das abendliche Treiben beim Qurum Strand gefallen. Die Stadt erstreckt sich über eine beachtliche Länge, sodass du bei der Wahl der Unterkunft überlegen solltest, was am geeignetsten für dich ist. Muscat bietet sich zudem als Ausgangspunkt vieler Tagestouren an.
     - name: Jebel Shams
+      image: assets/photography/2022_10_oman/Oman_0190.jpg
       description: Die Region rund um den höchsten Berg des Landes beeindruckt mit imposanten Aussichten und tiefen Schluchten, die über Wanderwege erkundet werden können. In die Gegend führt lediglich eine Offroadstraße, die ich nicht häufiger als nötig fahren würde und auf dem Berg gibt es kaum andere Sehenswürdigkeiten, sodass ein Tag bzw. zwei Nächte vollkommen ausreichen.
     - name: Nizwa
+      image: assets/photography/2022_10_oman/Oman_0446.jpg
       description: Die ehemalige Hauptstadt im Inneren des Landes bietet eine ideale Ausgangslage für diverse Tagestouren. Natürlich bietet sie aber auch selbst etliche Sehenswürdigkeiten, wie eine Festung, den Souq und jeden Freitag einen Viehmarkt zu dem das ganze Umland zusammenkommt, um vor allem Ziegen zu handeln.
     - name: Sharqiya Sands
+      image: assets/photography/2022_10_oman/Oman_0895.jpg
       description: Die Wüstenregion, die zuvor Wahiba Sands hieß, beherbergt etliche Camps, die neben Übernachtungen auch unterschiedliche Aktivitäten rund um Sand oder Kamele anbieten. Da ich das meiste davon schon mindestens einmal gemacht habe, habe ich hier lediglich die Ruhe und Natur genossen. Der Aufenthalt dort war aber definitiv ein Highlight der Reise.
     - name: Tiwi
+      image: assets/photography/2022_10_oman/Oman_0956.jpg
       description: Der Küstenort liegt unmittelbar zwischen Wadi al-Shab und Wadi Tiwi. Wadi al-Shab ist einer der beliebtesten Wadis im Oman und definitiv ein Besuch wert. Nach einer kurzen Wanderung gelangst du zu einigen natürlichen Becken mit smaragdgrünem Wasser, an deren Ende sich eine Höhle inklusive Wasserfall befindet.
 map_id: 1O53VHLD-_XBx63bAMVuWfoIKr-pOMK0
 ---
-
-Diese Seite befindet sich noch im Aufbau und werde ich mit Bildern von der Reise ergänzen, sobald ich diese fertig habe.
-{: .notice--warning}
 
 Im Oktober 2022 ging es für mich in den Oman, noch einmal Sonne tanken bevor die Kälte in Berlin Einzug hält 
 und [das Restguthaben meines Fluggutscheins][1] verbrauchen.
@@ -40,6 +42,11 @@ Solltest du keine größeren Gebirgstouren oder Fahrten durch die Wüste planen,
 Auf einigen Straßen ist jedoch ein Allrad-Fahrzeug vorgeschrieben, mach dich daher vor der Reise schlau, was am besten zu deiner Route passt.
 
 Mein Fazit zur Oman-Reise fällt sehr positiv aus und ich kann das Land daher nur jedem ans Herz legen, der die arabische Kultur mag und landschaftlich interessiert ist. 
-Wie unterschiedlich das Land ist, kannst du auf meinen Bildern sehen, sobald ich diese online habe bzw. bei meinen Instagram-Highlights.
+Wie unterschiedlich das Land ist, kannst du auf meinen Bildern sehen bzw. bei meinen [Instagram-Highlights][2].
+
+[Zur Bildergalerie][3]{: .btn}
+
 
 [1]: {% post_url collections.posts, "2020-08-02-reisen-nach-covid" %}
+[2]: {{site.accounts.instagram}}
+[3]: {% post_url collections.galleries, '2022-10-oman' %}
