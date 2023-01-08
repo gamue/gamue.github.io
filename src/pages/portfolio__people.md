@@ -3,40 +3,35 @@ title: Peoplefotografie
 description: Ein Auszug aus meinen Fotos rund um die Peoplefotografie.
 permalink: /portfolio-people/
 header:
-    teaser: assets/photography/people/DSC_3113a.jpg
+    teaser: assets/photography/people/20221019_Marlene_077.jpg
 full_width: true
 typography: false
 masonry: true
 gallery:
-    - image_path: assets/photography/people/DSC_3113a.jpg
+    - image_path: assets/photography/people/20220415_Lisa_136.jpg
+      caption: Lisa (@lisa.hates.you)
     - image_path: assets/photography/people/20210424_Suzie_020.jpg
       caption: Suzie (@suziefleur)
-    - image_path: assets/photography/people/20210821_Anastasiya_118.jpg
-      caption: Anastasiya (@kopfkino.az)
-    - image_path: assets/photography/people/20210729_Anita_354.jpg
+    - image_path: assets/photography/people/20210729_Anita_310.jpg
       caption: Anita (@kozlowska.anita)
     - image_path: assets/photography/people/20210306_Valentin_140b.jpg
       caption: Valentin (@valentinduceac)
-    - image_path: assets/photography/people/20210429_JayJay_224.jpg
-      caption: JayJay (@pinkloveliness)
-    - image_path: assets/photography/people/20210411_Marcel_512.jpg
-      caption: Marcel (@thor_odinson_47)
-    - image_path: assets/photography/people/20210424_Suzie_146.jpg
-      caption: Suzie (@suziefleur)
+    - image_path: assets/photography/people/20220430_Kristin_010.jpg
+      caption: Kristin (@tini_0112)
+    - image_path: assets/photography/people/20220306_Yee_090_insta.jpg
+      caption: Yee (@yeeeeehimw)
     - image_path: assets/photography/people/20210729_Anita_432.jpg
       caption: Anita (@kozlowska.anita)
-    - image_path: assets/photography/people/20210411_Marcel_360.jpg
-      caption: Marcel (@thor_odinson_47)
-    - image_path: assets/photography/people/20210515_Lydia_170.jpg
-      caption: Lydia (@fischi_onstage)
     - image_path: assets/photography/people/20210821_Anastasiya_255.jpg
       caption: Anastasiya (@kopfkino.az)
-    - image_path: assets/photography/people/20210729_Anita_310.jpg
-      caption: Anita (@kozlowska.anita)
     - image_path: assets/photography/people/20210501_Daniel_303.jpg
-      caption: Daniel (@danielhauser_)
-    - image_path: assets/photography/people/20210718_Svenja_150.jpg
-      caption: Svenja (@funkengeflunker)
+      caption: Daniel (@danielhauser_official)
+    - image_path: assets/photography/people/20210429_JayJay_224.jpg
+      caption: JayJay (@pinkloveliness)
+    - image_path: assets/photography/people/20220711_Katia_411.jpg
+      caption: Katja (@katiadorothee)
+    - image_path: assets/photography/people/20221019_Marlene_077.jpg
+      caption: Marlene (@marlene.rec)
 ---
 {%- from "macros/gallery.njk" import imageGallery -%}
 {{ imageGallery(

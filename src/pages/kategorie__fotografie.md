@@ -28,7 +28,7 @@ preview:
 {% set url_landschaft %}{% post_url collections.pages, 'portfolio__landschaft' %}{% endset %}
 {{ teaserGalleryItem('Reise- und Landschaftsbilder', url_landschaft, '/assets/photography/2020_07_deutschland/Deutschland_0535.jpg', 'half') }}
 {% set url_people %}{% post_url collections.pages, 'portfolio__people' %}{% endset %}
-{{ teaserGalleryItem('People', url_people, '/assets/photography/people/20210515_Lydia_170.jpg', 'half') }}
+{{ teaserGalleryItem('People', url_people, '/assets/photography/people/20210424_Suzie_020.jpg', 'half') }}
 </div>
 
 <h2 class="mb-6 mt-12">Du hast Lust mit mir zu fotografieren?</h2>
