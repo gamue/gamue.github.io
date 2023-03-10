@@ -1,5 +1,6 @@
 {% macro visitedCountriesMap(visitedCountries) %}
 <script src="https://www.amcharts.com/lib/4/core.js"></script>
+<script src="https://www.amcharts.com/lib/4/geodata/lang/DE.js"></script>
 <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
 
@@ -8,6 +9,7 @@
 <script>
     var chart = am4core.create("chartdiv", am4maps.MapChart);
 
+    chart.geodataNames = am4geodata_lang_DE;
     chart.geodata = am4geodata_worldLow;
     chart.zoomControl = new am4maps.ZoomControl();
     chart.projection = new am4maps.projections.Miller();
