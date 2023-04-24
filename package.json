@@ -29,7 +29,7 @@
     "concurrently": "^8.0.1",
     "cssnano": "^6.0.0",
     "eleventy-plugin-toc": "^1.1.5",
-    "eslint": "^8.38.0",
+    "eslint": "^8.39.0",
     "eslint-config-prettier": "^8.8.0",
     "html-minifier": "^4.0.0",
     "lodash": "^4.17.21",
