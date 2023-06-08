@@ -3,29 +3,35 @@ title: Kirgistan
 description: Zentralasien ist vergleichsweise keine typische Urlaubsregion, weswegen ich im Vorfeld spärlich Informationen gefunden habe. Um das zu ändern, findest du meine Kirgistan-Route und Hinweise dazu hier.
 permalink: /kirgistan/
 header:
-    teaser: assets/countries/kirgistan.jpg
+    teaser: assets/photography/2022_07_kirgistan/Kirgistan_0535.jpg
+    overlay_image: assets/photography/2022_07_kirgistan/Kirgistan_0495.jpg
 itinerary:
     - name: Bischkek
+      image: assets/photography/2022_07_kirgistan/Kirgistan_0116.jpg
       description: In Kirgistans Hauptstadt gibt es etliche Plätze, Statuen und Parks zu bestaunen, aber auch ein Besuch auf dem Osh-Bazaar darf nicht fehlen. Bischkek gehört temperaturmäßig zu den heißesten Städten im Land, wer jedoch etwas Abkühlung sucht, findet einige Berge in der Nähe.
     - name: Bosteri
+      image: assets/photography/2022_07_kirgistan/Kirgistan_0383.jpg
       description: Die Gegend rund um Cholpon-Ata, am Nordufer des Issyk-Kul-Sees, ist auf Massentourismus ausgelegt. Hier reihen sich größere Hotels aneinander und am Strand wimmelt es von Verkaufsständen und Fahrgeschäften, Bananenboot inklusive.
     - name: Karakol
+      image: assets/photography/2022_07_kirgistan/Kirgistan_0786.jpg
       description: Im Osten von Issyk-Kul gelegen und die viertgrößte Stadt des Landes der ideale Zwischenstopp rund um den See. Zudem bietet Karakol eine gute Ausgangsbasis für Wander- und Abenteuertouren in nahe gelegene Gebiete wie Altyn Arashan, Yeti Ögüz oder dem Ala-Kul-See.
     - name: Bokonbayevo
+      image: assets/photography/2022_07_kirgistan/Kirgistan_1069.jpg
       description: Als größte Stadt am Südufer des Issyk-Kul bietet die Gegend um Bokonbayevo die meisten Übernachtungsmöglichkeiten, inklusive vieler Yurt-Camps, um den Reisetag rund um den See mit Sehenswürdigkeiten anstatt einer langen Autofahrt zu füllen.
     - name: Naryn
+      image: assets/photography/2022_07_kirgistan/Kirgistan_1167.jpg
       description: Als Hauptstadt der Region eignet sich Naryn als Stopp zwischen Issyk-Kul und Tash-Rabat oder Songköl. In der Stadt oder Umgebung selbst gibt es ein paar Sehenswürdigkeiten, wie einen kleinen Nationalpark in denen man einige Zeit verbringen kann.
     - name: Tasch Rabat
+      image: assets/photography/2022_07_kirgistan/Kirgistan_1278.jpg
       description: Hauptattraktion ist eine alte Karawanserei die zu Zeiten der Seidenstraße als Zwischenstopp genutzt wurde. Neben ein paar Wanderungen oder Pferdetouren gibt es wenig zu sehen, sodass es auch heutzutage noch eine Station für 1-2 Nächte ist.
     - name: Songköl
+      image: assets/photography/2022_07_kirgistan/Kirgistan_1442.jpg
       description: Kirgistans größter Bergsee ist nur in den Sommermonaten erreichbar und bietet eine schier endlose Steppe gefüllt mit Pferden, Kühen und Schafen. Rings um den See stehen etliche Yurt-Camps in denen übernachtet werden kann.
     - name: Susamyr
+      image: assets/photography/2022_07_kirgistan/Kirgistan_1517.jpg
       description: Wie bei anderen Städten oder Dörfern auf der Reise ist das besondere an Susamyr die Lage und wir haben dort nur gestoppt um die lange Fahrt von Songköl zurück nach Bischkek zu unterbrechen, wirklich etwas zu sehen gibt es dort nicht ;)
 map_id: 1z-YhuamuwlykS_5OGIzqq9LFYJEo47M
 ---
-
-Diese Seite befindet sich noch im Aufbau und werde ich mit Bildern von der Reise ergänzen, sobald ich diese fertig habe.
-{: .notice--warning}
 
 Zentralasien ist nicht die typische Urlaubsregion und daher habe ich im Vorfeld der Reise etliche Fragen dazu bekommen, wo Kirgistan überhaupt liegt. 
 “Zwischen Kasachstan, Usbekistan, Tadschikistan und China” hat es oft auch nur bedingt besser gemacht.
@@ -50,3 +56,5 @@ endlose Steppen, saftige Wiesen inmitten von rotem Sandstein oder auch blaue Geb
 
 Die Kommunikation war mit Englisch einige Male zwar etwas schwierig, hat im Großen und Ganzen aber gut funktioniert. 
 Kirgisisch- oder Russisch-Kenntnisse sind in jedem Fall von Vorteil, auch weil es in vielen Restaurants nur Karten in diesen Sprachen gibt.
+
+[Zur Bildergalerie]({% post_url collections.galleries, '2022-07-kirgistan' %}){: .btn}
