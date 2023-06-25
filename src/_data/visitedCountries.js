@@ -29,8 +29,9 @@ module.exports = () => {
       link: "/deutschland/",
     },
     {
-      name: "England",
+      name: "Großbritannien",
       code: "GB",
+      link: "/schottland/",
     },
     {
       name: "Finnland",
@@ -149,10 +150,6 @@ module.exports = () => {
       link: "/rumaenien/",
     },
     {
-      name: "Schottland",
-      link: "/schottland/",
-    },
-    {
       name: "Schweden",
       code: "SE",
       link: "/photography/schweden-2010/",
@@ -187,6 +184,7 @@ module.exports = () => {
     },
     {
       name: "Vatikan",
+      code: "VA",
       link: "/photography/rom-2016/",
     },
     {
@@ -217,6 +215,10 @@ module.exports = () => {
     {
       name: "Ungarn",
       code: "HU",
+    },
+    {
+      name: "Slowenien",
+      code: "SI",
     },
   ];
 
