@@ -219,6 +219,7 @@ module.exports = () => {
     {
       name: "Slowenien",
       code: "SI",
+      link: "/slowenien/",
     },
   ];
 
