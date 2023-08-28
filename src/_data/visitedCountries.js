@@ -221,6 +221,10 @@ module.exports = () => {
       code: "SI",
       link: "/slowenien/",
     },
+    {
+      name: "Kroatien",
+      code: "HR",
+    },
   ];
 
   countries.sort((a, b) => a.name.localeCompare(b.name));
