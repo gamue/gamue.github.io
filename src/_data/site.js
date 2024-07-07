@@ -1,4 +1,3 @@
-/* global process */
 module.exports = {
   title: "gamue.de: Blog von Johannes Ganzenmüller",
   description:
