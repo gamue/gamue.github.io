@@ -1,8 +1,8 @@
-import js from "@eslint/js";
-import globals from "globals";
-import stylisticJs from "@stylistic/eslint-plugin-js";
+const js = require("@eslint/js");
+const globals = require("globals");
+const stylisticJs = require("@stylistic/eslint-plugin-js");
 
-export default [
+module.exports = [
   {
     files: ["**/*.js"],
     ignores: ["**/*.min.js"],
