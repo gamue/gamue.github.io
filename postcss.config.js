@@ -1,4 +1,3 @@
-/* global process */
 module.exports = {
   plugins: {
     "postcss-import": {},
