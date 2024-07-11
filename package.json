@@ -2,7 +2,7 @@
   "name": "gamue_de",
   "version": "2.0.0",
   "description": "private homepage powered by eleventy",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "tailwind:dev": "postcss src/styles/main.css -o _site/styles/main.css --watch",
     "tailwind:prod": "NODE_ENV=production postcss src/styles/main.css -o _site/styles/main.css",
