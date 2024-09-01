@@ -29,7 +29,7 @@
     "@tailwindcss/typography": "^0.5.15",
     "autoprefixer": "^10.4.19",
     "concurrently": "^8.2.2",
-    "cssnano": "^7.0.4",
+    "cssnano": "^7.0.5",
     "eleventy-plugin-toc": "^1.1.5",
     "eslint": "^9.8.0",
     "html-minifier": "^4.0.0",
