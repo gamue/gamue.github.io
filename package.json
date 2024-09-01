@@ -34,7 +34,7 @@
     "eslint": "^9.8.0",
     "html-minifier": "^4.0.0",
     "lodash": "^4.17.21",
-    "markdown-it-anchor": "^9.0.1",
+    "markdown-it-anchor": "^9.1.0",
     "markdown-it-attrs": "^4.1.6",
     "markdown-it-deflist": "^3.0.0",
     "postcss": "^8.4.40",
