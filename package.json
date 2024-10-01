@@ -28,7 +28,7 @@
     "@stylistic/eslint-plugin-js": "^2.8.0",
     "@tailwindcss/typography": "^0.5.15",
     "autoprefixer": "^10.4.20",
-    "concurrently": "^8.2.2",
+    "concurrently": "^9.0.1",
     "cssnano": "^7.0.6",
     "eleventy-plugin-toc": "^1.1.5",
     "eslint": "^9.9.1",
