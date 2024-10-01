@@ -353,7 +353,7 @@ So hatte ich beispielsweise das Glück alle Big-Five (Elefant, Nashorn, Büffel,
 Weit vorne ist in jedem Fall das Streicheln eines Geparden im &amp;quot;Mount Kenya Wildlife Conservancy&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Abgesehen von der reichen Tierwelt bietet Kenia auch endlose, weiße Strände, die ich mir vor meinem Heimflug natürlich auch angeschaut habe.&lt;/p&gt;
 &lt;p&gt;Hier eine Auswahl der Bilder:&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery122&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery123&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/photography/2021_11_kenia/Kenia_0235.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/photography/2021_11_kenia/Kenia_0235.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/photography/2021_11_kenia/Kenia_0235.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/photography/2021_11_kenia/Kenia_0235.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/photography/2021_11_kenia/Kenia_0235.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -374,7 +374,7 @@ Weit vorne ist in jedem Fall das Streicheln eines Geparden im &amp;quot;Mount Ke
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery122 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery123 a&#39;});&lt;/script&gt;
 &lt;p&gt;&lt;a href=&quot;https://gamue.de/photography/kenia-2021/&quot; :=&quot;&quot; class=&quot;btn&quot;&gt;Zur kompletten Bildergalerie&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wie auch für andere Reisen, habe ich für &lt;a href=&quot;https://gamue.de/kenia/&quot;&gt;Kenia eine Länderseite&lt;/a&gt; erstellt, auf der du mehr zu meiner Reiseroute und den Informationen Stationen findest.&lt;/p&gt;
 </content>
@@ -934,7 +934,7 @@ aber die letzten Handgriffe und eine finale Auswahl hat noch gefehlt.
 Dieses Wochenende habe ich mich aber dazu aufraffen können, mich um die letzten 10 % zu kümmern
 und somit sind die Fotos nun ebenfalls bei den Reisegalerien verfügbar &lt;strong&gt;yeah&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hier eine kleine Vorschau der Bilder:&lt;/p&gt;
-&lt;figure class=&quot;flex flex-wrap gallery gallery123&quot;&gt;
+&lt;figure class=&quot;flex flex-wrap gallery gallery122&quot;&gt;
 &lt;a href=&quot;https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg&quot; class=&quot;flex-none w-full sm:w-1/2 p-1.5&quot;&gt;
 &lt;img loading=&quot;lazy&quot; src=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto,f_auto,w_300/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg&quot; srcset=&quot;https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_100/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg 100w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_250/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg 250w, https://res.cloudinary.com/gamue/image/fetch/q_auto:eco,f_auto,w_400/https://gamue.de/assets/photography/2021_05_albanien/Albanien_144.jpg 400w&quot; class=&quot;thumbnail&quot; sizes=&quot;100vw&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
@@ -955,7 +955,7 @@ und somit sind die Fotos nun ebenfalls bei den Reisegalerien verfügbar &lt;stro
 &lt;/a&gt;
 &lt;/figure&gt;
 &lt;script&gt;
-new SimpleLightbox({elements: &#39;.gallery123 a&#39;});&lt;/script&gt;
+new SimpleLightbox({elements: &#39;.gallery122 a&#39;});&lt;/script&gt;
 &lt;p&gt;&lt;a href=&quot;https://gamue.de/photography/albanien-2021/&quot; :=&quot;&quot; class=&quot;btn&quot;&gt;Zur kompletten Bildergalerie&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In den letzten Artikel hatte ich schon erwähnt, dass ich Albanien als tolles Reiseland kennengelernt habe und jedem nur empfehlen kann,
 es zumindest in Überlegungen aufzunehmen.
