@@ -1,6 +1,6 @@
 module.exports = (content) => {
   const words_per_minute = 200;
-  const words = content.trim().split(/\s+/).length;
+  const words = content?.trim().split(/\s+/).length;
   const minutes = Math.ceil(words / words_per_minute);
 
   if (words < words_per_minute) {

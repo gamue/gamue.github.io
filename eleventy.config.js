@@ -88,17 +88,11 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addTransform("htmlmin", minHtml);
   }
 
-  // Automatically import macros on every page
-  // (otherwise we need to manually include on each page that uses them)
-  // https://github.com/11ty/eleventy/issues/613#issuecomment-968189433
-  eleventyConfig.addCollection("everything", (collectionApi) => {
-    const macroImport =
-      "{%- from 'macros/gallery.njk' import imageGallery with context -%}";
-    let collection = collectionApi.getFilteredByGlob("src/**/*.md");
-    collection.forEach((item) => {
-      item.template.frontMatter.content = `${macroImport}\n${item.template.frontMatter.content}`;
-    });
-    return collection;
+  eleventyConfig.addPreprocessor("macro-inject", ".md", (data, content) => {
+    return (
+      "{%- from 'macros/gallery.njk' import imageGallery with context -%}\n" +
+      content
+    );
   });
 
   return {
