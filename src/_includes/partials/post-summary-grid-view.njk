@@ -21,7 +21,7 @@
 
     <div>
         <div>
-            {% if post.data.show_meta_data %}<div class="text-gray-500 text-xs md:text-sm mb-2 flex flex-col">{{ dateAndReadtime(post.date, post.data.content) }}</div>{% endif %}
+            {% if post.data.show_meta_data %}<div class="text-gray-500 text-xs md:text-sm mb-2 flex flex-col">{{ dateAndReadtime(post.date, post.content) }}</div>{% endif %}
             <p class="hidden md:block">{{ post | excerpt | safe }}</p>
         </div>
     </div>
