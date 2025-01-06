@@ -58,7 +58,7 @@ const printHtml = (
 };
 
 const correctSrcPath = (path) => {
-  if (!path.startsWith("/")) {
+  if (!path?.startsWith("/")) {
     path = "/" + path;
   }
   return path;

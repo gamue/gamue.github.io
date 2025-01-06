@@ -228,6 +228,7 @@ module.exports = () => {
     {
       name: "Kolumbien",
       code: "CO",
+      link: "/kolumbien/",
     },
     {
       name: "Litauen",
@@ -236,6 +237,7 @@ module.exports = () => {
     {
       name: "Portugal",
       code: "PT",
+      link: "/portugal/",
     },
   ];
 
