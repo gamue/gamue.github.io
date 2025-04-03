@@ -239,6 +239,10 @@ module.exports = () => {
       code: "PT",
       link: "/portugal/",
     },
+    {
+      name: "Mexiko",
+      code: "MX",
+    },
   ];
 
   countries.sort((a, b) => a.name.localeCompare(b.name));
