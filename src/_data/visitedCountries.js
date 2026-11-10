@@ -247,6 +247,10 @@ module.exports = () => {
       name: "Bulgarien",
       code: "BG",
     },
+    {
+      name: "China",
+      code: "CN",
+    },
   ];
 
   countries.sort((a, b) => a.name.localeCompare(b.name));
