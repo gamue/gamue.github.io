@@ -55,6 +55,10 @@ npm run prettier:fix
 
 Formatting covers JavaScript, JSON, YAML, Markdown, HTML, and project CSS. Generated output, vendored libraries, and Nunjucks templates are excluded. Nunjucks formatting requires a compatible formatter before it can be enabled.
 
+## Deployment
+
+The `Build and Deploy` workflow checks and builds the site for pull requests and pushes to `main`. Pushes to `main` and manual runs on `main` upload `_site/` as a Pages artifact and deploy it directly with `actions/deploy-pages`. The deployment action waits up to 15 minutes.
+
 ## Dependency overrides
 
 Typography 0.5.20 pins `postcss-selector-parser` to the vulnerable version 6.0.10. A typography-scoped npm override uses the patched 6.1.6 release. Remove the override when upgrading to a typography release that includes a patched parser. See [GHSA-rj75-hqrm-r3gf](https://github.com/advisories/GHSA-rj75-hqrm-r3gf).
