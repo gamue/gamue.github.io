@@ -2,8 +2,8 @@
 title: "Sri Lanka Bilder online"
 permalink: /sri-lanka-bilder-online/
 header:
-    teaser: assets/photography/2016_12_sri_lanka/SriLanka_0498.jpg
-    overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
+  teaser: assets/photography/2016_12_sri_lanka/SriLanka_0498.jpg
+  overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 gallery:
   - image_path: assets/photography/2016_12_sri_lanka/SriLanka_0047b.jpg
   - image_path: assets/photography/2016_12_sri_lanka/SriLanka_0071.jpg
@@ -28,8 +28,8 @@ Die zugehörige Länderseite folgt ebenfalls ~~bald, dafür fehlen noch ein paar
 
 [Zur kompletten Bildergalerie][1]{: .btn}
 
-Als Nächstes stehen dann die Bilder aus Japan, Jordanien, Vietnam, Georgien und Belize an. 
-Vom Bilderumfang her werden das auch etwas größere Projekte, aber ich bin gerade in einem guten Flow. 
+Als Nächstes stehen dann die Bilder aus Japan, Jordanien, Vietnam, Georgien und Belize an.
+Vom Bilderumfang her werden das auch etwas größere Projekte, aber ich bin gerade in einem guten Flow.
 Daumen drücken, dass ich bald mal wieder aktuell bin. Die nächsten Reisen kommen bestimmt ^^
 
 [1]: {% post_url collections.galleries, '2016-12-sri-lanka' %}
