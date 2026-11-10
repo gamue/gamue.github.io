@@ -1,13 +1,11 @@
-const htmlmin = require("html-minifier");
-
-module.exports = (content, outputPath) => {
+module.exports = async (content, outputPath) => {
   if (outputPath && outputPath.endsWith(".html")) {
-    let minified = htmlmin.minify(content, {
+    const { minify } = await import("html-minifier");
+    return minify(content, {
       useShortDoctype: true,
       removeComments: true,
       collapseWhitespace: true,
     });
-    return minified;
   }
   return content;
 };

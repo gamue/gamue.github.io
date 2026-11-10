@@ -10,7 +10,7 @@ Source code of my [private homepage](https://gamue.de).
 
 ## Local development
 
-Use the Node.js version in `.nvmrc` (Node.js 22). With [nvm](https://github.com/nvm-sh/nvm) installed:
+Use the Node.js version in `.nvmrc` (Node.js 22, at least 22.13 for HTML minification). With [nvm](https://github.com/nvm-sh/nvm) installed:
 
 ```sh
 nvm use
@@ -39,6 +39,12 @@ Run the same lint and formatting checks as CI:
 ```sh
 npm run lint
 npm run prettier
+```
+
+Run the HTML minification regression tests:
+
+```sh
+npm test
 ```
 
 After editing source files, apply formatting and check the result:
