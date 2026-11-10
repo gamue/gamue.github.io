@@ -10,7 +10,7 @@ Source code of my [private homepage](https://gamue.de).
 
 ## Local development
 
-Use the Node.js version in `.nvmrc` (Node.js 22, at least 22.13 for HTML minification). With [nvm](https://github.com/nvm-sh/nvm) installed:
+Use the Node.js 24 release line selected in `.nvmrc`. The project requires Node.js 24 or newer. With [nvm](https://github.com/nvm-sh/nvm) installed:
 
 ```sh
 nvm use
