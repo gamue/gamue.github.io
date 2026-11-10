@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-22.04
 
     steps:
@@ -56,7 +56,7 @@ jobs:
 
   deploy:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
-    needs: build
+    needs: build-and-deploy
     runs-on: ubuntu-22.04
     timeout-minutes: 20
     permissions:
