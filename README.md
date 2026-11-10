@@ -8,7 +8,49 @@ Source code of my [private homepage](https://gamue.de).
 - Using [SimpleLightbox](https://github.com/dbrekalo/simpleLightbox) for gallery overlays
 - Using [Masonry Library](https://masonry.desandro.com/) for (optional) gallery styling
 
+## Local development
+
+Use the Node.js version in `.nvmrc` (Node.js 22). With [nvm](https://github.com/nvm-sh/nvm) installed:
+
+```sh
+nvm use
+npm ci
+npm start
+```
+
+If that Node.js version is not installed yet, run `nvm install` first. Alternatively, install the version from `.nvmrc` with your preferred Node.js manager.
+
+Open <http://localhost:8080>. `npm start` runs Eleventy and the Tailwind CSS watcher together; stop both with Ctrl+C. Source files are in `src/`, and generated files are written to `_site/`.
+
+Tailwind scans the HTML generated in `_site/` for utility classes. Eleventy must generate those pages before Tailwind can include their classes.
+
+## Build and checks
+
+Create the production site in `_site/`:
+
+```sh
+npm run build
+```
+
+On Windows Command Prompt, use `npm run build:win`.
+
+Run the same lint and formatting checks as CI:
+
+```sh
+npm run lint
+npm run prettier
+```
+
+After editing source files, apply formatting and check the result:
+
+```sh
+npm run prettier:fix
+```
+
+Formatting covers JavaScript, JSON, YAML, Markdown, HTML, and project CSS. Generated output, vendored libraries, and Nunjucks templates are excluded. Nunjucks formatting requires a compatible formatter before it can be enabled.
+
 ## Frontmatter Optionen
+
 Folgende Optionen stehen im Frontmatter zur Verfügung:
 
 - `description`: SEO Beschreibung des Artikels
@@ -36,7 +78,7 @@ Folgende Optionen stehen im Frontmatter zur Verfügung:
 
 ## Kategorien / Tags
 
-Artikel werden über Kategorien und Tags organisiert. 
+Artikel werden über Kategorien und Tags organisiert.
 Da es dabei leider keine Hierarchieebenen dabei gibt, nutze ich als Definition Kategorien als Hauptebene und Tags als Unterkategorien.
 
 Die Seite ist aktuell so strukturiert:
@@ -57,5 +99,5 @@ Die Seite ist aktuell so strukturiert:
 
 ## Styling
 
-Um den Überblick über alle verwendeten Elemente und Styles zu behalten, 
+Um den Überblick über alle verwendeten Elemente und Styles zu behalten,
 sind alle auf [einer Seite](http://localhost:8080/style/) vorhanden.

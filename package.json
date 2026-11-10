@@ -10,7 +10,7 @@
     "build": "ENV_PROFILE=prod eleventy && npm run tailwind:prod",
     "build:win": "set ENV_PROFILE=prod & eleventy & npm run tailwind:prod-win",
     "serve": "eleventy --serve",
-    "start": "concurrently \"yarn run tailwind:dev\" \"yarn run serve\"",
+    "start": "concurrently \"npm run tailwind:dev\" \"npm run serve\"",
     "lint": "npx eslint",
     "prettier": "npx prettier --check .",
     "prettier:fix": "npm run prettier -- --write"

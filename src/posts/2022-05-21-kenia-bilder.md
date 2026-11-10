@@ -3,9 +3,9 @@ title: Kenia Bilder online
 description: Die Bilder der Kenia-Reise haben mal wieder länger braucht als gedacht, aber nun sind sie online.
 permalink: /reisegalerie-kenia-online/
 header:
-    teaser: assets/photography/2021_11_kenia/Kenia_0867.jpg
-    overlay_image: assets/photography/2021_11_kenia/Kenia_0496.jpg
-    overlay_filter: rgba(200, 200, 200, 0.6)
+  teaser: assets/photography/2021_11_kenia/Kenia_0867.jpg
+  overlay_image: assets/photography/2021_11_kenia/Kenia_0496.jpg
+  overlay_filter: rgba(200, 200, 200, 0.6)
 gallery:
   - image_path: /assets/photography/2021_11_kenia/Kenia_0235.jpg
   - image_path: /assets/photography/2021_11_kenia/Kenia_0209.jpg
@@ -24,7 +24,7 @@ Ich habe mal wieder etwas länger gebraucht um meine Reisefotos durchzuschauen, 
 Mit ca. 6 Monaten Verspätung haben es nun auch die Bilder vom Kenia-Trip auf die Homepage geschafft :D
 
 Insgesamt war ich knapp 3 Wochen in Kenia unterwegs und habe dort einige Safari-Touren unternommen.
-Meist ging es mit einem Jeep durch Nationalparks, in dem es nur so vor Tieren wimmelte. 
+Meist ging es mit einem Jeep durch Nationalparks, in dem es nur so vor Tieren wimmelte.
 So hatte ich beispielsweise das Glück alle Big-Five (Elefant, Nashorn, Büffel, Löwe und Leopard) von Nahem erleben zu dürfen.
 
 Gerade was die Tiersichtungen anging, folgte ein Highlight dem Anderen und ich kann nicht sagen, was mich am meisten fasziniert hat.

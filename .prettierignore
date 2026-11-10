@@ -1,8 +1,8 @@
-_site
+_site/
 
-*.html
-*.css
-*.min.js
-*.md
+# Vendored libraries
+src/assets/js/*.min.js
+src/styles/simpleLightbox.min.css
+
+# Nunjucks requires a compatible formatter.
 *.njk
-**/*.jpg

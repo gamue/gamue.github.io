@@ -4,11 +4,13 @@ title: Fotografie
 description: Fotografie ist meine Leidenschaft und besonders die Reise- und Landschaftsfotografie hat es mir angetan.
 permalink: /fotografie/
 header:
-    overlay_image: assets/2021-01-15-raw-konverter-intro/markus-spiske-nfwBWcaFAYg-unsplash.jpg
+  overlay_image: assets/2021-01-15-raw-konverter-intro/markus-spiske-nfwBWcaFAYg-unsplash.jpg
 preview:
-    category: 'Fotografie'
+  category: "Fotografie"
 ---
+
 {%- from "macros/teaser-gallery-item.njk" import teaserGalleryItem with context-%}
+
 <div class="p-4 bg-gray-100 text-gray-700">
   <div class="container p-4 my-4 text-base sm:text-lg md:text-xl">
     <p class="mb-4">

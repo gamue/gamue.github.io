@@ -4,9 +4,9 @@ title: Reisen
 description: Nach dem Ende meiner Ausbildung hat mich das Reisefieber gepackt und seitdem versuche ich mindestens einmal im Jahr an einen Ort zu reisen, an dem ich noch nicht war.
 permalink: /reisen/
 header:
-    overlay_image: assets/photography/2019_04_belize/Belize_0317.jpg
+  overlay_image: assets/photography/2019_04_belize/Belize_0317.jpg
 preview:
-    category: 'Reisen'
+  category: "Reisen"
 ---
 
 <div class="p-4 bg-gray-100 text-gray-700">

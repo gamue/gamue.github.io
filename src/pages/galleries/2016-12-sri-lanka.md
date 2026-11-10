@@ -3,8 +3,8 @@ title: Sri Lanka 2016
 tagline: In der Vorweihnachtszeit 2016 sind wir vor der heimischen Kälte nach Sri Lanka geflohen.
 permalink: /photography/sri-lanka-2016/
 header:
-    teaser: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
-    overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
+  teaser: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
+  overlay_image: assets/photography/2016_12_sri_lanka/SriLanka_0255.jpg
 ---
 
 {% set gallery = "/assets/photography/2016_12_sri_lanka" | getGalleryFromDir %}
