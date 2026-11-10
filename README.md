@@ -55,6 +55,10 @@ npm run prettier:fix
 
 Formatting covers JavaScript, JSON, YAML, Markdown, HTML, and project CSS. Generated output, vendored libraries, and Nunjucks templates are excluded. Nunjucks formatting requires a compatible formatter before it can be enabled.
 
+## Dependency overrides
+
+Typography 0.5.20 pins `postcss-selector-parser` to the vulnerable version 6.0.10. A typography-scoped npm override uses the patched 6.1.6 release. Remove the override when upgrading to a typography release that includes a patched parser. See [GHSA-rj75-hqrm-r3gf](https://github.com/advisories/GHSA-rj75-hqrm-r3gf).
+
 ## Frontmatter Optionen
 
 Folgende Optionen stehen im Frontmatter zur Verfügung:
