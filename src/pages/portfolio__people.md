@@ -46,7 +46,4 @@ gallery:
 
 <div class="container prose prose-sm md:prose lg:prose-lg mt-8">
     <p>Auf dieser Seite sind nur einige meiner People-Bilder zu sehen. Mehr findest du auf meinem gesonderten <a href="{{site.accounts.instagram_people}}">Instagram-Account @gamue16</a>.</p>
-    <h2>Lust auf ein TfP-Shooting?</h2>
-    <p>Solltest du Interesse an einem <a href="{% post_url collections.pages, 'tfp-shooting' %}">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!</p>
-    <p><a href="{% post_url collections.pages, 'tfp-shooting' %}">Mehr Details findest du hier.</a></p>
 </div>

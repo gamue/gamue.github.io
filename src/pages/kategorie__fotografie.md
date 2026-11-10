@@ -33,15 +33,5 @@ preview:
 {{ teaserGalleryItem('People', url_people, '/assets/photography/people/20210424_Suzie_020.jpg', 'half') }}
 </div>
 
-<h2 class="mb-6 mt-12">Du hast Lust mit mir zu fotografieren?</h2>
-<p class="mb-4">
-    Aktuell beschäftige ich mich viel mit der Fotografie von Menschen und möchte meine Erfahrungen in diesem Bereich weiter ausbauen.
-    Solltest du daher Interesse an einem <a href="{% post_url collections.pages, 'tfp-shooting' %}" class="text-red-900">TfP-Shooting</a> im Umkreis von Berlin haben, würde ich mich über eine Nachricht von dir sehr freuen!
-    <a href="{% post_url collections.pages, 'tfp-shooting' %}" class="text-red-900">Mehr Details dazu findest du hier.</a>
-</p>
-<p>
-    Ich bin jedoch auch dafür zu haben, bei einem Fotowalk die Berliner Bezirke abzulichten und freue mich immer über den Austausch mit Gleichgesinnten.
-    Schreib mich einfach an und wir sehen weiter ;)
-</p>
   </div>
 </div>
