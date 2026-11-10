@@ -95,3 +95,11 @@
     @apply block transition delay-500;
   }
 }
+
+@layer utilities {
+  .text-shadow-lg {
+    text-shadow:
+      3px 3px 6px rgb(0 0 0 / 26%),
+      0 0 5px rgb(15 3 86 / 22%);
+  }
+}
