@@ -57,7 +57,7 @@ Formatting covers JavaScript, JSON, YAML, Markdown, HTML, and project CSS. Gener
 
 ## Deployment
 
-The `Build and Deploy` workflow checks and builds the site for pull requests and pushes to `main`. Pushes to `main` and manual runs on `main` upload `_site/` as a Pages artifact and deploy it directly with `actions/deploy-pages`. The deployment action waits up to 15 minutes.
+The `Build and Deploy` workflow checks and builds the site for pull requests and pushes to `main`. Pushes to `main` and manual runs on `main` upload `_site/` as a Pages artifact and deploy it directly with `actions/deploy-pages`. The deployment action waits up to 10 minutes, its maximum supported timeout.
 
 ## Dependency overrides
 
