@@ -1,18 +1,18 @@
-const js = require("@eslint/js");
-const globals = require("globals");
-const stylisticJs = require("@stylistic/eslint-plugin-js");
+import js from "@eslint/js";
+import globals from "globals";
+import stylistic from "@stylistic/eslint-plugin";
 
-module.exports = [
+export default [
   {
-    files: ["**/*.js"],
+    files: ["**/*.js", "**/*.mjs"],
     ignores: ["**/*.min.js"],
     plugins: {
-      "@stylistic/js": stylisticJs,
+      "@stylistic": stylistic,
     },
     rules: {
       ...js.configs.recommended.rules,
       curly: ["error", "all"],
-      "@stylistic/js/quotes": ["error", "double"],
+      "@stylistic/quotes": ["error", "double"],
     },
   },
   {
